@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/JAM//EN
+X-WR-CALNAME:🇯🇲 Jamaica | Paris 2024
+NAME:🇯🇲 Jamaica | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083600Z-judo-MEN-60-KG-ELIMINATION-ROUND-OF-32-YEM-JAM
+DTSTAMP:20240727T083600Z
+DTSTART:20240727T083600Z
+DTEND:20240727T084200Z
+DESCRIPTION:Judo - Men -60 kg Elimination Round of 32
+SUMMARY:🥋 Hesham MAKABR 🇾🇪 - 🇯🇲 Ashley McKENZIE
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T092400Z-judo-MEN-60-KG-ELIMINATION-ROUND-OF-16-TUR-JAM
+DTSTAMP:20240727T092400Z
+DTSTART:20240727T092400Z
+DTEND:20240727T093000Z
+DESCRIPTION:Judo - Men -60 kg Elimination Round of 16
+SUMMARY:🥋 Salih YILDIZ 🇹🇷 - 🇯🇲 Ashley McKENZIE
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-diving-MENS-3M-SPRINGBOARD-PRELIMINARY
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T100900Z
+DESCRIPTION:Diving - Men's 3m Springboard Preliminary\n🇺🇸 Andrew
+  CAPOBIANCO\n🇺🇸 Carson TYLER\n🇨🇴 Daniel RESTREPO GARCIA\n🇩🇴 Frandiel
+  GOMEZ\n🇮🇹 Giovanni TOCCI\n🇫🇷 Gwendal BISCH\n🇬🇧 Jack LAUGHER\n🇮🇪
+  Jake PASSMORE\n🇩🇴 Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules
+  BOUYER\n🇲🇽 Kevin Alexander MUNOZ HEREDIA\n🇦🇺 Kurtis MATHEWS\n🇩🇪
+  Lars RUDIGER\n🇮🇹 Lorenzo MARSAGLIA\n🇨🇴 Luis Felipe URIBE
+  BERMUDEZ\n🇪🇬 Mohamed FAROUK\n🇩🇪 Moritz WESEMANN\n🇲🇽 Osmar OLVERA
+  IBARRA\n🇯🇵 SAKAI Sho\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO Haram\n🇨🇳 XIE
+  Siyi\n🇰🇷 YI Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
+SUMMARY:🏊 Men's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

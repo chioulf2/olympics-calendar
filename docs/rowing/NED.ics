@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/NED//EN
+X-WR-CALNAME:🇳🇱 Netherlands Rowing | Paris 2024
+NAME:🇳🇱 Netherlands Rowing | Paris 2024
+BEGIN:VEVENT
+UID:20240730T085000Z-rowing-WOMENS-DOUBLE-SCULLS-SEMIFINAL-AB-1
+DTSTAMP:20240730T085000Z
+DTSTART:20240730T085000Z
+DTEND:20240730T085700Z
+DESCRIPTION:Rowing - Women's Double Sculls Semifinal A/B 1\n🇨🇿 CZE\n🇫🇷
+  FRA\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇱 NED\n🇳🇿 NZL
+SUMMARY:🚣 Women's Double Sculls Semifinal A/B 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091000Z-rowing-MENS-DOUBLE-SCULLS-SEMIFINAL-AB-1
+DTSTAMP:20240730T091000Z
+DTSTART:20240730T091000Z
+DTEND:20240730T091700Z
+DESCRIPTION:Rowing - Men's Double Sculls Semifinal A/B 1\n🇨🇳 CHN\n🇭🇷
+  CRO\n🇳🇱 NED\n🇷🇴 ROU\n🇷🇸 SRB\n🇪🇸 ESP
+SUMMARY:🚣 Men's Double Sculls Semifinal A/B 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T085400Z-rowing-WOMENS-PAIR-SEMIFINAL-AB-1
+DTSTAMP:20240731T085400Z
+DTSTART:20240731T085400Z
+DTEND:20240731T090100Z
+DESCRIPTION:Rowing - Women's Pair Semifinal A/B 1\n🇨🇿 CZE\n🇩🇰 DEN\n🇬🇧
+  GBR\n🇬🇷 GRE\n🇳🇱 NED\n🇷🇴 ROU
+SUMMARY:🚣 Women's Pair Semifinal A/B 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+END:VCALENDAR

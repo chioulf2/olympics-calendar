@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ANG//EN
+X-WR-CALNAME:🇦🇴 Angola Rowing | Paris 2024
+NAME:🇦🇴 Angola Rowing | Paris 2024
+BEGIN:VEVENT
+UID:20240729T073000Z-rowing-MENS-SINGLE-SCULLS-SEMIFINAL-EF-1
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T073700Z
+DESCRIPTION:Rowing - Men's Single Sculls Semifinal E/F 1\n🇦🇴 Andre
+  MATIAS\n🇮🇩 MEMO\n🇹🇳 Mohamed TAIEB\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Men's Single Sculls Semifinal E/F 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-rowing-MENS-SINGLE-SCULLS-FINAL-F
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T073700Z
+DESCRIPTION:Rowing - Men's Single Sculls Final F\n🇸🇩 Abdalla AHMED\n🇦🇴
+  Andre MATIAS\n🇱🇾 Mohamed BUKRAH
+SUMMARY:🚣 Men's Single Sculls Final F
+LOCATION:Nautical St - Flat water
+END:VEVENT
+END:VCALENDAR

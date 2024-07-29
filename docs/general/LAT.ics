@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/LAT//EN
+X-WR-CALNAME:🇱🇻 Latvia | Paris 2024
+NAME:🇱🇻 Latvia | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083000Z-shooting-10M-AIR-PISTOL-MENS-QUALIFICATION
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T094500Z
+DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
+  CHEEMA\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳
+  Davaakhuu ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️
+  Edilio Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
+  FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
+  KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
+  Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
+  ESERCITATO\n🇱🇾 Mohammed BIN DALLAH\n🇰🇿 Nikita CHIRYUKIN\n🇮🇹 Paolo
+  MONNA\n🇺🇦 Pavlo KOROSTYLOV\n🇦🇼 Philip ELHAGE\n🇧🇷 Philipe
+  CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
+  BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
+  Yusuf DIKEC\n🇨🇳 ZHANG Bowen
+SUMMARY:🔫 10m Air Pistol Men's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T103000Z-shooting-10M-AIR-PISTOL-WOMENS-QUALIFICATION
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T114500Z
+DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
+  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea
+  PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta
+  KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana
+  DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲
+  Elmira KARAPETYAN\n🇪🇬 Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿
+  Irina YUNUSMETOVA\n🇨🇳 JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM
+  Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala
+  TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina
+  PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬
+  Nour Abbas MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa
+  CHARNI\n🇮🇳 Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda
+  TARHAN\n🇹🇷 Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn
+  PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong
+  TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 10m Air Pistol Women's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-LAT-COL
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T130000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Jelena OSTAPENKO 🇱🇻 - 🇨🇴 Camila OSORIO
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T071500Z-shooting-10M-AIR-PISTOL-MIXED-TEAM-QUALIFICATION
+DTSTAMP:20240729T071500Z
+DTSTART:20240729T071500Z
+DTEND:20240729T074500Z
+DESCRIPTION:Shooting - 10m Air Pistol Mixed Team Qualification\n🇧🇬
+  BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷 FRA\n🇩🇪 Germany 1\n🇩🇪 Germany
+  2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿 KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻
+  LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷 Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
+SUMMARY:🔫 10m Air Pistol Mixed Team Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY
+DTSTAMP:20240729T121000Z
+DTSTART:20240729T121000Z
+DTEND:20240729T134000Z
+DESCRIPTION:Cycling Mountain Bike - Men's Cross-country\n🇲🇽 Adair Zabdiel
+  GUTIERREZ PRIETO\n🇿🇦 Alan HATHERLY\n🇳🇦 Alex MILLER\n🇬🇧 Charlie
+  ALDRIDGE\n🇺🇸 Christopher BLEVINS\n🇪🇸 David VALERO SERRANO\n🇨🇴 Diego
+  Alfonso ARIAS CUERVO\n🇷🇴 Ede-Karoly MOLNAR\n🇨🇦 Gunnar HOLMGREN\n🇧🇪
+  Jens SCHUERMANS\n🇪🇸 Jofre CULLELL ESTAPE\n🇫🇮 Joni SAVASTE\n🇫🇷
+  Jordan SARROU\n🇩🇪 Julian SCHELB\n🇳🇴 Knut ROEHME\n🇵🇱 Krzysztof
+  LUKASIK\n🇮🇹 Luca BRAIDOT\n🇩🇪 Luca SCHWARZBAUER\n🇨🇳 MI
+  Jiujiang\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻 Martins BLUMS\n🇨🇭 Mathias
+  FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇭 Nino SCHURTER\n🇺🇦 Oleksandr
+  HUDYMA\n🇨🇿 Ondrej CINK\n🇧🇪 Pierre de FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮
+  Romano PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰 Simon ANDREASSEN\n🇮🇹 Simone
+  AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer ZALTSMAN\n🇧🇷 Ulan BASTOS
+  GALINSKI\n🇫🇷 Victor KORETZKY
+SUMMARY:🚴 Men's Cross-country
+LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T150000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-D-LAT-S
+DTSTAMP:20240729T150000Z
+DTSTART:20240729T150000Z
+DTEND:20240729T155000Z
+DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool D
+SUMMARY:🏐 TINA/ANASTASIJA 🇱🇻 - 🇨🇭 ESMEE/ZOE
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T131145Z-cycling-bmx-freestyle-MENS-PARK-QUALIFICATION
+DTSTAMP:20240730T131145Z
+DTSTART:20240730T131145Z
+DTEND:20240730T142845Z
+DESCRIPTION:Cycling BMX Freestyle - Men's Park Qualification\n🇫🇷 Anthony
+  JEANJEAN\n🇱🇻 Ernests ZEBOLDS\n🇧🇷 Gustavo BATISTA de OLIVEIRA\n🇨🇦
+  Jeffrey WHALEY\n🇦🇷 Jose TORRES GIL\n🇺🇸 Justin DOWELL\n🇬🇧 Kieran
+  Darren David REILLY\n🇦🇺 Logan MARTIN\n🇺🇸 Marcus CHRISTOPHER\n🇭🇷
+  Marin RANTES\n🇯🇵 NAKAMURA Rimu\n🇿🇦 Vincent LEYGONIE
+SUMMARY:🚴 Men's Park Qualification
+LOCATION:La Concorde 2
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T163500Z-3x3-basketball-MENS-POOL-ROUND-LAT-LTU
+DTSTAMP:20240730T163500Z
+DTSTART:20240730T163500Z
+DTEND:20240730T170000Z
+DESCRIPTION:3x3 Basketball - Men's Pool Round
+SUMMARY:🏀 LAT 🇱🇻 - 🇱🇹 LTU
+LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T100000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-D-LAT-P
+DTSTAMP:20240731T100000Z
+DTSTART:20240731T100000Z
+DTEND:20240731T105000Z
+DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool D
+SUMMARY:🏐 TINA/ANASTASIJA 🇱🇻 - 🇵🇾 POLETTI/MICHELLE
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T163500Z-3x3-basketball-MENS-POOL-ROUND-LAT-NED
+DTSTAMP:20240731T163500Z
+DTSTART:20240731T163500Z
+DTEND:20240731T170000Z
+DESCRIPTION:3x3 Basketball - Men's Pool Round
+SUMMARY:🏀 LAT 🇱🇻 - 🇳🇱 NED
+LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T083500Z-3x3-basketball-MENS-POOL-ROUND-CHN-LAT
+DTSTAMP:20240801T083500Z
+DTSTART:20240801T083500Z
+DTEND:20240801T090000Z
+DESCRIPTION:3x3 Basketball - Men's Pool Round
+SUMMARY:🏀 CHN 🇨🇳 - 🇱🇻 LAT
+LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T210500Z-3x3-basketball-MENS-POOL-ROUND-USA-LAT
+DTSTAMP:20240801T210500Z
+DTSTART:20240801T210500Z
+DTEND:20240801T213000Z
+DESCRIPTION:3x3 Basketball - Men's Pool Round
+SUMMARY:🏀 USA 🇺🇸 - 🇱🇻 LAT
+LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T070000Z-shooting-25M-PISTOL-WOMENS-QUALIFICATION-PRECISION
+DTSTAMP:20240802T070000Z
+DTSTART:20240802T070000Z
+DTEND:20240802T093000Z
+DESCRIPTION:Shooting - 25m Pistol Women's Qualification Precision\n🇺🇸 Ada
+  Claudia KORKHIN\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨
+  Andrea PEREZ PENA\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷
+  Camille JEDRZEJEWSKI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪 Doreen
+  VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh
+  ROSTAMIYAN\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸
+  Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG
+  Xiaoya\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷
+  Mathilde LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦
+  Olena KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
+  Simal YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia
+  Chen\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika
+  MAJOR\n🇹🇼 WU Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO
+  Nan
+SUMMARY:🔫 25m Pistol Women's Qualification Precision
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T120500Z-3x3-basketball-MENS-POOL-ROUND-FRA-LAT
+DTSTAMP:20240802T120500Z
+DTSTART:20240802T120500Z
+DTEND:20240802T123000Z
+DESCRIPTION:3x3 Basketball - Men's Pool Round
+SUMMARY:🏀 FRA 🇫🇷 - 🇱🇻 LAT
+LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T170500Z-3x3-basketball-MENS-POOL-ROUND-LAT-SRB
+DTSTAMP:20240802T170500Z
+DTSTART:20240802T170500Z
+DTEND:20240802T173000Z
+DESCRIPTION:3x3 Basketball - Men's Pool Round
+SUMMARY:🏀 LAT 🇱🇻 - 🇷🇸 SRB
+LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T150000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-D-CAN-L
+DTSTAMP:20240803T150000Z
+DTSTART:20240803T150000Z
+DTEND:20240803T155000Z
+DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool D
+SUMMARY:🏐 MELISSA/BRANDIE 🇨🇦 - 🇱🇻 TINA/ANASTASIJA
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T160000Z-3x3-basketball-MENS-POOL-ROUND-POL-LAT
+DTSTAMP:20240804T160000Z
+DTSTART:20240804T160000Z
+DTEND:20240804T162500Z
+DESCRIPTION:3x3 Basketball - Men's Pool Round
+SUMMARY:🏀 POL 🇵🇱 - 🇱🇻 LAT
+LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-diving-WOMENS-10M-PLATFORM-PRELIMINARY
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101300Z
+DESCRIPTION:Diving - Women's 10m Platform Preliminary\n🇯🇵 ARAI
+  Matsuri\n🇲🇽 Alejandra OROZCO LOZA\n🇪🇸 Ana CARVAJAL\n🇬🇧 Andrea
+  SPENDOLINI SIRIEIX\n🇨🇺 Anisley GARCIA NAVARRO\n🇨🇳 CHEN Yuxi\n🇨🇦
+  Caeli McKAY\n🇩🇪 Christina WASSEN\n🇮🇪 Ciara McGING\n🇺🇸 Daryn
+  WRIGHT\n🇺🇸 Delaney SCHNELL\n🇱🇻 Dzeja Delanija PATRIKA\n🇦🇺 Ellie
+  COLE\n🇳🇱 Else PRAASTERINK\n🇲🇽 Gabriela AGUNDEZ GARCIA\n🇧🇷 Ingrid
+  OLIVEIRA\n🇰🇵 KIM Mi Rae\n🇰🇷 KIM Nahyun\n🇨🇦 Kate MILLER\n🇬🇧 Lois
+  TOULSON\n🇮🇹 Maia BIGINELLI\n🇪🇬 Malak TAWFIK\n🇵🇷 Maycey Adrianne
+  VIETA\n🇦🇺 Melissa WU\n🇩🇪 Pauline Alexandra PFEIF\n🇨🇳 QUAN
+  Hongchan\n🇮🇹 Sarah JODOIN di MARIA\n🇺🇦 Sofiia LYSKUN\n🇩🇴 Victoria
+  GARZA
+SUMMARY:🏊 Women's 10m Platform Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

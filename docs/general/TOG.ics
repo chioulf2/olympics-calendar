@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/TOG//EN
+X-WR-CALNAME:🇹🇬 Togo | Paris 2024
+NAME:🇹🇬 Togo | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T075400Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-EF-1
+DTSTAMP:20240729T075400Z
+DTSTART:20240729T075400Z
+DTEND:20240729T080100Z
+DESCRIPTION:Rowing - Women's Single Sculls Semifinal E/F 1\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇰🇼 Soaad ALFAQAAN\n🇨🇺 Yariulvis COBAS
+  GARCIA
+SUMMARY:🚣 Women's Single Sculls Semifinal E/F 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T060000Z-triathlon-MENS-INDIVIDUAL
+DTSTAMP:20240730T060000Z
+DTSTART:20240730T060000Z
+DTEND:20240730T080000Z
+DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
+  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
+  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
+  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
+  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
+  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
+  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
+  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
+  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
+  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
+  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
+  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
+  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
+  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
+  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
+  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
+  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
+  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
+  Bergsvik THORN
+SUMMARY:🏊 Men's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T074200Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-F-TOG-MAR
+DTSTAMP:20240802T074200Z
+DTSTART:20240802T074200Z
+DTEND:20240802T074900Z
+DESCRIPTION:Rowing - Women's Single Sculls Final F
+SUMMARY:🚣 Akoko KOMLANVI 🇹🇬 - 🇲🇦 Majdouline EL ALLAOUI
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

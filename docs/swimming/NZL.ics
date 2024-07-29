@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/NZL//EN
+X-WR-CALNAME:🇳🇿 New Zealand Swimming | Paris 2024
+NAME:🇳🇿 New Zealand Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240727T185200Z-swimming-WOMENS-400M-FREESTYLE-FINAL
+DTSTAMP:20240727T185200Z
+DTSTART:20240727T185200Z
+DTEND:20240727T190200Z
+DESCRIPTION:Swimming - Women's 400m Freestyle Final\n🇦🇺 Ariarne
+  TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇩🇪 Isabel GOSE\n🇦🇺 Jamie
+  PERKINS\n🇺🇸 Katie LEDECKY\n🇧🇷 Maria Fernanda COSTA\n🇺🇸 Paige
+  MADDEN\n🇨🇦 Summer McINTOSH
+SUMMARY:🏊 Women's 400m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T183000Z-swimming-MENS-400M-INDIVIDUAL-MEDLEY-FINAL
+DTSTAMP:20240728T183000Z
+DTSTART:20240728T183000Z
+DTEND:20240728T184000Z
+DESCRIPTION:Swimming - Men's 400m Individual Medley Final\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇩🇪 Cedric BUESSING\n🇫🇷 Leon
+  MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇯🇵 MATSUSHITA Tomoyuki\n🇬🇧 Max
+  LITCHFIELD\n🇯🇵 SETO Daiya
+SUMMARY:🏊 Men's 400m Individual Medley Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T194100Z-swimming-WOMENS-200M-FREESTYLE-FINAL
+DTSTAMP:20240729T194100Z
+DTSTART:20240729T194100Z
+DTEND:20240729T194800Z
+DESCRIPTION:Swimming - Women's 200m Freestyle Final\n🇦🇺 Ariarne
+  TITMUS\n🇨🇿 Barbora SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇳🇿 Erika
+  FAIRWEATHER\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇨🇦 Mary-Sophie
+  HARVEY\n🇦🇺 Mollie O'CALLAGHAN\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 Women's 200m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

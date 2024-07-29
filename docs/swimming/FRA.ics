@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/FRA//EN
+X-WR-CALNAME:🇫🇷 France Swimming | Paris 2024
+NAME:🇫🇷 France Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240727T193400Z-swimming-WOMENS-4-X-100M-FREESTYLE-RELAY-FINAL
+DTSTAMP:20240727T193400Z
+DTSTART:20240727T193400Z
+DTEND:20240727T194400Z
+DESCRIPTION:Swimming - Women's 4 x 100m Freestyle Relay Final\n🇦🇺
+  AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 4 x 100m Freestyle Relay Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T183000Z-swimming-MENS-400M-INDIVIDUAL-MEDLEY-FINAL
+DTSTAMP:20240728T183000Z
+DTSTART:20240728T183000Z
+DTEND:20240728T184000Z
+DESCRIPTION:Swimming - Men's 400m Individual Medley Final\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇩🇪 Cedric BUESSING\n🇫🇷 Leon
+  MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇯🇵 MATSUSHITA Tomoyuki\n🇬🇧 Max
+  LITCHFIELD\n🇯🇵 SETO Daiya
+SUMMARY:🏊 Men's 400m Individual Medley Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T191900Z-swimming-MENS-100M-BACKSTROKE-FINAL
+DTSTAMP:20240729T191900Z
+DTSTART:20240729T191900Z
+DTEND:20240729T192500Z
+DESCRIPTION:Swimming - Men's 100m Backstroke Final\n🇬🇷 Apostolos
+  CHRISTOU\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
+  COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
+  NDOYE-BROUARD
+SUMMARY:🏊 Men's 100m Backstroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,403 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/MAR//EN
+X-WR-CALNAME:🇲🇦 Morocco | Paris 2024
+NAME:🇲🇦 Morocco | Paris 2024
+BEGIN:VEVENT
+UID:20240724T130000Z-football-MENS-GROUP-B-ARG-MAR
+DTSTAMP:20240724T130000Z
+DTSTART:20240724T130000Z
+DTEND:20240724T144500Z
+DESCRIPTION:Football - Men's Group B
+SUMMARY:⚽ ARG 🇦🇷 - 🇲🇦 MAR
+LOCATION:Geoffroy-Guichard Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T073000Z-equestrian-EVENTING-INDIVIDUAL-DRESSAGE
+DTSTAMP:20240727T073000Z
+DTSTART:20240727T073000Z
+DTEND:20240727T163000Z
+DESCRIPTION:Equestrian - Eventing Individual Dressage\n🇿🇦 Alexander
+  PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
+  MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
+  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
+  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇮🇹 Emiliano PORTALE\n🇪🇸 Esteban
+  BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
+  ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald
+  AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica
+  PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia KRAJEWSKI\n🇯🇵 KITAJIMA
+  Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl
+  SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura
+  COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata KORYCKA\n🇵🇹 Manuel
+  GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody JOHNER\n🇩🇪 Michael
+  JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA JR\n🇨🇿 Miroslav
+  TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas WETTSTEIN\n🇲🇦 Noor
+  SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T. FLARUP\n🇳🇱 Raf
+  KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin
+  GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧 Rosalind CANTER\n🇨🇳 SUN
+  Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de JONG\n🇮🇪 Sarah
+  ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane LANDOIS\n🇮🇪
+  Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine
+  MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 Eventing Individual Dressage
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T155700Z
+DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
+  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
+  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Individual Time Trial
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T150000Z-football-MENS-GROUP-B-UKR-MAR
+DTSTAMP:20240727T150000Z
+DTSTART:20240727T150000Z
+DTEND:20240727T164500Z
+DESCRIPTION:Football - Men's Group B
+SUMMARY:⚽ UKR 🇺🇦 - 🇲🇦 MAR
+LOCATION:Geoffroy-Guichard Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T170000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-D-BRA-MAR
+DTSTAMP:20240727T170000Z
+DTSTART:20240727T170000Z
+DTEND:20240727T175000Z
+DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool D
+SUMMARY:🏐 GEORGE/ANDRE 🇧🇷 - 🇲🇦 ABICHA/ELGRAOUI
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T192400Z-surfing-MENS-ROUND-1-HEAT-5
+DTSTAMP:20240727T192400Z
+DTSTART:20240727T192400Z
+DTEND:20240727T195400Z
+DESCRIPTION:Surfing - Men's Round 1 - Heat 5\n🇳🇿 Billy STAIRMAND\n🇧🇷
+  Joao CHIANCA\n🇲🇦 Ramzi BOUKHIAM
+SUMMARY:🏄 Men's Round 1 - Heat 5
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073000Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-64-MAR-POL
+DTSTAMP:20240728T073000Z
+DTSTART:20240728T073000Z
+DTEND:20240728T080000Z
+DESCRIPTION:Fencing - Women's Foil Individual Table of 64
+SUMMARY:🤺 Youssra ZAKARANI 🇲🇦 - 🇵🇱 Martyna JELINSKA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T081800Z-judo-WOMEN-52-KG-ELIMINATION-ROUND-OF-32-MAR-CYP
+DTSTAMP:20240728T081800Z
+DTSTART:20240728T081800Z
+DTEND:20240728T082400Z
+DESCRIPTION:Judo - Women -52 kg Elimination Round of 32
+SUMMARY:🥋 Soumiya IRAOUI 🇲🇦 - 🇨🇾 Sofia ASVESTA
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T082400Z-judo-MEN-66-KG-ELIMINATION-ROUND-OF-32-ISR-MAR
+DTSTAMP:20240728T082400Z
+DTSTART:20240728T082400Z
+DTEND:20240728T083000Z
+DESCRIPTION:Judo - Men -66 kg Elimination Round of 32
+SUMMARY:🥋 Baruch SHMAILOV 🇮🇱 - 🇲🇦 Abderrahmane BOUSHITA
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T083000Z-equestrian-EVENTING-INDIVIDUAL-CROSS-COUNTRY
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T133000Z
+DESCRIPTION:Equestrian - Eventing Individual Cross Country\n🇿🇦 Alexander
+  PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
+  MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
+  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
+  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹
+  Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni
+  UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱
+  Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
+  KRAJEWSKI\n🇯🇵 KITAJIMA Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
+  DONCKERS\n🇨🇦 Karl SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE -
+  MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
+  KORYCKA\n🇵🇹 Manuel GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody
+  JOHNER\n🇩🇪 Michael JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA
+  JR\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas
+  WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T.
+  FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf KOOREMANS\n🇧🇷 Rafael MAMPRIN
+  LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧
+  Rosalind CANTER\n🇨🇳 SUN Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de
+  JONG\n🇮🇪 Sarah ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷
+  Stephane LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim
+  PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 Eventing Individual Cross Country
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T105000Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32-MAR-KAZ
+DTSTAMP:20240728T105000Z
+DTSTART:20240728T105000Z
+DTEND:20240728T111500Z
+DESCRIPTION:Fencing - Men's Épée Individual Table of 32
+SUMMARY:🤺 Houssam ELKORD 🇲🇦 - 🇰🇿 Ruslan KURBANOV
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T192000Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-32-MAR-PHI
+DTSTAMP:20240728T192000Z
+DTSTART:20240728T192000Z
+DTEND:20240728T193100Z
+DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 32
+SUMMARY:🥊 Yasmine MOUTTAKI 🇲🇦 - 🇵🇭 Aira VILLEGAS
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T002200Z-surfing-MENS-ROUND-2-HEAT-5-MAR-ESA
+DTSTAMP:20240729T002200Z
+DTSTART:20240729T002200Z
+DTEND:20240729T005200Z
+DESCRIPTION:Surfing - Men's Round 2 - Heat 5
+SUMMARY:🏄 Ramzi BOUKHIAM 🇲🇦 - 🇸🇻 Bryan PEREZ
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T073000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T120000Z
+DESCRIPTION:Shooting - Trap Men's Qualification - Day 1\n🇪🇸 Alberto
+  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
+  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
+  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
+  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
+  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
+  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
+  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
+  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
+  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
+  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
+SUMMARY:🔫 Trap Men's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T080600Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-EF-2
+DTSTAMP:20240729T080600Z
+DTSTART:20240729T080600Z
+DTEND:20240729T081300Z
+DESCRIPTION:Rowing - Women's Single Sculls Semifinal E/F 2\n🇳🇮 Evidelia
+  GONZALEZ JARQUIN\n🇺🇬 Kathleen NOBLE\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿
+  Nihed BENCHADLI
+SUMMARY:🚣 Women's Single Sculls Semifinal E/F 2
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-QUALIFIER
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T114000Z
+DESCRIPTION:Equestrian - Eventing Individual Jumping Qualifier\n🇿🇦
+  Alexander PETERNELL\n🇮🇪 Aoife CLARK\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs
+  KAIZINGER\n🇺🇸 Boyd MARTIN\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph
+  WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
+  HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix
+  VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN
+  Alex\n🇦🇹 Harald AMBROS\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica
+  PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent
+  LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl SLEZAK\n🇧🇪 Lara de LIEDEKERKE
+  - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
+  KORYCKA\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody JOHNER\n🇩🇪 Michael
+  JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas
+  TOUZAINT\n🇪🇨 Nicolas WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA
+  Yoshiaki\n🇩🇰 Peter T. FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf
+  KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin
+  GODEL\n🇬🇧 Rosalind CANTER\n🇧🇷 Ruy FONSECA\n🇳🇱 Sanne de JONG\n🇦🇺
+  Shane ROSE\n🇦🇺 Shenae LOWINGS\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane
+  LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TANAKA Toshiyuki\n🇯🇵 TOMOTO
+  Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera
+  MANNINEN\n🇵🇱 Wiktoria KNAP
+SUMMARY:🏇 Eventing Individual Jumping Qualifier
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T200000Z-surfing-MENS-ROUND-3-HEAT-6-BRA-MAR
+DTSTAMP:20240729T200000Z
+DTSTART:20240729T200000Z
+DTEND:20240729T203000Z
+DESCRIPTION:Surfing - Men's Round 3 - Heat 6
+SUMMARY:🏄 Joao CHIANCA 🇧🇷 - 🇲🇦 Ramzi BOUKHIAM
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T060000Z-triathlon-MENS-INDIVIDUAL
+DTSTAMP:20240730T060000Z
+DTSTART:20240730T060000Z
+DTEND:20240730T080000Z
+DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
+  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
+  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
+  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
+  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
+  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
+  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
+  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
+  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
+  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
+  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
+  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
+  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
+  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
+  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
+  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
+  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
+  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
+  Bergsvik THORN
+SUMMARY:🏊 Men's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091800Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-KOR-MAR
+DTSTAMP:20240730T091800Z
+DTSTART:20240730T091800Z
+DTEND:20240730T092400Z
+DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
+SUMMARY:🥋 LEE Joonhwan 🇰🇷 - 🇲🇦 Achraf MOUTII
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T105200Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-16-MAR-THA
+DTSTAMP:20240730T105200Z
+DTSTART:20240730T105200Z
+DTEND:20240730T110300Z
+DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 16
+SUMMARY:🥊 Widad BERTAL 🇲🇦 - 🇹🇭 Jutamas JITPONG
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T130000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-D-USA-MAR
+DTSTAMP:20240730T130000Z
+DTSTART:20240730T130000Z
+DTEND:20240730T135000Z
+DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool D
+SUMMARY:🏐 PARTAIN/BENESH 🇺🇸 - 🇲🇦 ABICHA/ELGRAOUI
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T140000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240730T140000Z
+DTSTART:20240730T140000Z
+DTEND:20240730T150000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 1st Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T150000Z-football-MENS-GROUP-B-MAR-IRQ
+DTSTAMP:20240730T150000Z
+DTSTART:20240730T150000Z
+DTEND:20240730T170000Z
+DESCRIPTION:Football - Men's Group B
+SUMMARY:⚽ MAR 🇲🇦 - 🇮🇶 IRQ
+LOCATION:Nice Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T161000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240730T161000Z
+DTSTART:20240730T161000Z
+DTEND:20240730T171000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 2nd Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 2nd Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T105200Z-boxing-WOMENS-75KG-PRELIMINARIES-ROUND-OF-16-GBR-MAR
+DTSTAMP:20240731T105200Z
+DTSTART:20240731T105200Z
+DTEND:20240731T110300Z
+DESCRIPTION:Boxing - Women's 75kg - Preliminaries - Round of 16
+SUMMARY:🥊 Chantelle Jordan REID 🇬🇧 - 🇲🇦 Khadija MARDI
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T100000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-D-CUB-MAR
+DTSTAMP:20240801T100000Z
+DTSTART:20240801T100000Z
+DTEND:20240801T105000Z
+DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool D
+SUMMARY:🏐 DIAZ/ALAYO 🇨🇺 - 🇲🇦 ABICHA/ELGRAOUI
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T074200Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-F-TOG-MAR
+DTSTAMP:20240802T074200Z
+DTSTART:20240802T074200Z
+DTEND:20240802T074900Z
+DESCRIPTION:Rowing - Women's Single Sculls Final F
+SUMMARY:🚣 Akoko KOMLANVI 🇹🇬 - 🇲🇦 Majdouline EL ALLAOUI
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T133000Z-canoe-slalom-MENS-KAYAK-CROSS-TIME-TRIAL
+DTSTAMP:20240802T133000Z
+DTSTART:20240802T133000Z
+DTEND:20240802T142700Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Time Trial\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Cross Time Trial
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

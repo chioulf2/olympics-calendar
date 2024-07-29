@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/POR//EN
+X-WR-CALNAME:🇵🇹 Portugal | Paris 2024
+NAME:🇵🇹 Portugal | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T073000Z-equestrian-EVENTING-INDIVIDUAL-DRESSAGE
+DTSTAMP:20240727T073000Z
+DTSTART:20240727T073000Z
+DTEND:20240727T163000Z
+DESCRIPTION:Equestrian - Eventing Individual Dressage\n🇿🇦 Alexander
+  PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
+  MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
+  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
+  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇮🇹 Emiliano PORTALE\n🇪🇸 Esteban
+  BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
+  ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald
+  AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica
+  PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia KRAJEWSKI\n🇯🇵 KITAJIMA
+  Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl
+  SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura
+  COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata KORYCKA\n🇵🇹 Manuel
+  GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody JOHNER\n🇩🇪 Michael
+  JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA JR\n🇨🇿 Miroslav
+  TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas WETTSTEIN\n🇲🇦 Noor
+  SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T. FLARUP\n🇳🇱 Raf
+  KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin
+  GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧 Rosalind CANTER\n🇨🇳 SUN
+  Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de JONG\n🇮🇪 Sarah
+  ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane LANDOIS\n🇮🇪
+  Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine
+  MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 Eventing Individual Dressage
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T085400Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-POR-GER
+DTSTAMP:20240727T085400Z
+DTSTART:20240727T085400Z
+DTEND:20240727T090000Z
+DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+SUMMARY:🥋 Catarina COSTA 🇵🇹 - 🇩🇪 Katharina MENZ
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-16-POR-PAR
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T100600Z
+DESCRIPTION:Judo - Women -48 kg Elimination Round of 16
+SUMMARY:🥋 Catarina COSTA 🇵🇹 - 🇵🇾 Gabriela NARVAEZ
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T155700Z
+DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
+  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
+  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Individual Time Trial
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T193000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-POR-LUX
+DTSTAMP:20240727T193000Z
+DTSTART:20240727T193000Z
+DTEND:20240727T201500Z
+DESCRIPTION:Table Tennis - Women's Singles Round of 64
+SUMMARY:🏓 Jieni SHAO 🇵🇹 - 🇱🇺 Sarah de NUTTE
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T214800Z-surfing-WOMENS-ROUND-1-HEAT-1
+DTSTAMP:20240727T214800Z
+DTSTART:20240727T214800Z
+DTEND:20240727T221800Z
+DESCRIPTION:Surfing - Women's Round 1 - Heat 1\n🇺🇸 Caroline MARKS\n🇿🇦
+  Sarah BAUM\n🇵🇹 Yolanda HOPKINS
+SUMMARY:🏄 Women's Round 1 - Heat 1
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T020000Z-surfing-WOMENS-ROUND-1-HEAT-8
+DTSTAMP:20240728T020000Z
+DTSTART:20240728T020000Z
+DTEND:20240728T023000Z
+DESCRIPTION:Surfing - Women's Round 1 - Heat 8\n🇺🇸 Carissa MOORE\n🇯🇵
+  MATSUDA Shino\n🇵🇹 Teresa BONVALOT
+SUMMARY:🏄 Women's Round 1 - Heat 8
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T083000Z-equestrian-EVENTING-INDIVIDUAL-CROSS-COUNTRY
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T133000Z
+DESCRIPTION:Equestrian - Eventing Individual Cross Country\n🇿🇦 Alexander
+  PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
+  MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
+  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
+  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹
+  Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni
+  UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱
+  Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
+  KRAJEWSKI\n🇯🇵 KITAJIMA Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
+  DONCKERS\n🇨🇦 Karl SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE -
+  MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
+  KORYCKA\n🇵🇹 Manuel GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody
+  JOHNER\n🇩🇪 Michael JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA
+  JR\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas
+  WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T.
+  FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf KOOREMANS\n🇧🇷 Rafael MAMPRIN
+  LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧
+  Rosalind CANTER\n🇨🇳 SUN Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de
+  JONG\n🇮🇪 Sarah ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷
+  Stephane LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim
+  PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 Eventing Individual Cross Country
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-GRE-POR
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T190000Z
+DESCRIPTION:Tennis - Men's Doubles First Round
+SUMMARY:🎾 TSITSIPAS/TSITSIPAS 🇬🇷 - 🇵🇹 BORGES/CABRAL
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-ARG-POR
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T143000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Mariano NAVONE 🇦🇷 - 🇵🇹 Nuno BORGES
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-POR-GER
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T130000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Francisco CABRAL 🇵🇹 - 🇩🇪 Jan-Lennard STRUFF
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T101500Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-KOR-POR
+DTSTAMP:20240728T101500Z
+DTSTART:20240728T101500Z
+DTEND:20240728T110000Z
+DESCRIPTION:Table Tennis - Women's Singles Round of 64
+SUMMARY:🏓 JEON Jihee 🇰🇷 - 🇵🇹 Fu YU
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T121000Z-cycling-mountain-bike-WOMENS-CROSS-COUNTRY
+DTSTAMP:20240728T121000Z
+DTSTART:20240728T121000Z
+DTEND:20240728T134000Z
+DESCRIPTION:Cycling Mountain Bike - Women's Cross-country\n🇨🇿 Adela
+  HOLUBOVA\n🇨🇭 Alessandra KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie
+  HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹
+  Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽
+  Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley
+  BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla
+  MWAMIKAZI\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura
+  STIGGER\n🇫🇷 Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona
+  MITTERWALLNER\n🇩🇪 Nina BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND
+  PREVOT\n🇳🇱 Puck PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel
+  QUEIROS\n🇦🇺 Rebecca HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia
+  BLUNK\n🇨🇭 Sina FREI\n🇩🇰 Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳
+  WU Zhifan\n🇺🇦 Yana BELOMOINA
+SUMMARY:🚴 Women's Cross-country
+LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T181200Z-surfing-WOMENS-ROUND-2-HEAT-3-JPN-POR
+DTSTAMP:20240728T181200Z
+DTSTART:20240728T181200Z
+DTEND:20240728T184200Z
+DESCRIPTION:Surfing - Women's Round 2 - Heat 3
+SUMMARY:🏄 MATSUDA Shino 🇯🇵 - 🇵🇹 Teresa BONVALOT
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T200000Z-surfing-WOMENS-ROUND-2-HEAT-6-POR-NZL
+DTSTAMP:20240728T200000Z
+DTSTART:20240728T200000Z
+DTEND:20240728T203000Z
+DESCRIPTION:Surfing - Women's Round 2 - Heat 6
+SUMMARY:🏄 Yolanda HOPKINS 🇵🇹 - 🇳🇿 Saffi VETTE
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T200000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-POR-GER
+DTSTAMP:20240728T200000Z
+DTSTART:20240728T200000Z
+DTEND:20240728T210000Z
+DESCRIPTION:Table Tennis - Men's Singles Round of 64
+SUMMARY:🏓 Tiago APOLONIA 🇵🇹 - 🇩🇪 Dang QIU
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-skateboarding-MENS-STREET-PRELIMS
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T135000Z
+DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
+  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
+  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
+  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
+  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
+  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
+  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
+  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
+SUMMARY:🛹 Men's Street Prelims
+LOCATION:La Concorde 3
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T110000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-DEN-POR
+DTSTAMP:20240729T110000Z
+DTSTART:20240729T110000Z
+DTEND:20240729T120000Z
+DESCRIPTION:Table Tennis - Men's Singles Round of 64
+SUMMARY:🏓 Anders LIND 🇩🇰 - 🇵🇹 Marcos FREITAS
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T200000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-32-POR-AUT
+DTSTAMP:20240729T200000Z
+DTSTART:20240729T200000Z
+DTEND:20240729T210000Z
+DESCRIPTION:Table Tennis - Women's Singles Round of 32
+SUMMARY:🏓 Jieni SHAO 🇵🇹 - 🇦🇹 Sofia POLCANOVA
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T020000Z-surfing-WOMENS-ROUND-3-HEAT-8-CRC-POR
+DTSTAMP:20240730T020000Z
+DTSTART:20240730T020000Z
+DTEND:20240730T023000Z
+DESCRIPTION:Surfing - Women's Round 3 - Heat 8
+SUMMARY:🏄 Brisa HENNESSY 🇨🇷 - 🇵🇹 Yolanda HOPKINS
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T060000Z-triathlon-MENS-INDIVIDUAL
+DTSTAMP:20240730T060000Z
+DTSTART:20240730T060000Z
+DTEND:20240730T080000Z
+DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
+  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
+  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
+  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
+  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
+  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
+  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
+  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
+  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
+  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
+  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
+  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
+  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
+  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
+  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
+  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
+  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
+  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
+  Bergsvik THORN
+SUMMARY:🏊 Men's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-shooting-TRAP-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T120000Z
+DESCRIPTION:Shooting - Trap Women's Qualification - Day 1\n🇬🇹 Adriana
+  RUANO OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷
+  Carole CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹
+  Jessica ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo
+  Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬
+  Maggy ASHMAWY\n🇪🇸 Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de
+  BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora
+  ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳
+  Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann
+  Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU
+  Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK STEFECEKOVA
+SUMMARY:🔫 Trap Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T080000Z-judo-WOMEN-63-KG-ELIMINATION-ROUND-OF-32-POR-KOR
+DTSTAMP:20240730T080000Z
+DTSTART:20240730T080000Z
+DTEND:20240730T080600Z
+DESCRIPTION:Judo - Women -63 kg Elimination Round of 32
+SUMMARY:🥋 Barbara TIMO 🇵🇹 - 🇰🇷 KIM Jisu
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T084200Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-CAN-POR
+DTSTAMP:20240730T084200Z
+DTSTART:20240730T084200Z
+DTEND:20240730T084800Z
+DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
+SUMMARY:🥋 Francois GAUTHIER DRAPEAU 🇨🇦 - 🇵🇹 Joao FERNANDO
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T080000Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-32-ITA-POR
+DTSTAMP:20240731T080000Z
+DTSTART:20240731T080000Z
+DTEND:20240731T080600Z
+DESCRIPTION:Judo - Women -70 kg Elimination Round of 32
+SUMMARY:🥋 Kim POLLING 🇮🇹 - 🇵🇹 Tais PINA
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T081200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-KEN-POR
+DTSTAMP:20240801T081200Z
+DTSTART:20240801T081200Z
+DTEND:20240801T081800Z
+DESCRIPTION:Judo - Women -78 kg Elimination Round of 32
+SUMMARY:🥋 Zeddy CHEROTICH 🇰🇪 - 🇵🇹 Patricia SAMPAIO
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T092400Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-16
+DTSTAMP:20240801T092400Z
+DTSTART:20240801T092400Z
+DTEND:20240801T093000Z
+DESCRIPTION:Judo - Men -100 kg Elimination Round of 16\n🇵🇹 Jorge FONSECA
+SUMMARY:🥋 Men -100 kg Elimination Round of 16
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T080600Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-POR-TUN
+DTSTAMP:20240802T080600Z
+DTSTART:20240802T080600Z
+DTEND:20240802T081200Z
+DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
+SUMMARY:🥋 Rochele NUNES 🇵🇹 - 🇹🇳 Sarra MZOUGUI
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T130000Z-table-tennis-MENS-TEAM-ROUND-OF-16-POR-BRA
+DTSTAMP:20240805T130000Z
+DTSTART:20240805T130000Z
+DTEND:20240805T160000Z
+DESCRIPTION:Table Tennis - Men's Team Round of 16
+SUMMARY:🏓 POR 🇵🇹 - 🇧🇷 BRA
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/CHI//EN
+X-WR-CALNAME:🇨🇱 Chile | Paris 2024
+NAME:🇨🇱 Chile | Paris 2024
+BEGIN:VEVENT
+UID:20240725T121500Z-archery-MENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T121500Z
+DTSTART:20240725T121500Z
+DTEND:20240725T151500Z
+DESCRIPTION:Archery - Men's Individual Ranking Round\n🇹🇷 Abdullah
+  YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹 Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿
+  Alexandr YEREMENKO\n🇺🇿 Amirkhon SADIKOV\n🇨🇱 Andres GALLARDO
+  FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮 Antti TEKONIEMI\n🇮🇩 Arif
+  PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim TUMER\n🇺🇸 Brady
+  ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos ROJAS\n🇬🇧 Conor
+  HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi ZHANGBYRBAY\n🇮🇳 Dhiraj
+  BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA Takaharu\n🇮🇹 Federico
+  MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩
+  Israel MADAYE\n🇫🇷 Jean-Charles VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO
+  Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷 KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI
+  Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹 Lam DORJI\n🇧🇷 Marcus
+  D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽 Matias GRANDE\n🇮🇹 Mauro
+  NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵
+  NAKANISHI Junya\n🇻🇮 Nicholas D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold
+  BAATARKHUYAG\n🇪🇸 Pablo ACHA GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit
+  KLEIN\n🇮🇳 Pravin Ramesh JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵
+  SAITO Fumiya\n🇨🇴 Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI
+  Yu-Hsuan\n🇹🇼 TANG Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas
+  CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳 WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof
+  TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 Men's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083000Z-shooting-10M-AIR-PISTOL-MENS-QUALIFICATION
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T094500Z
+DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
+  CHEEMA\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳
+  Davaakhuu ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️
+  Edilio Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
+  FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
+  KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
+  Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
+  ESERCITATO\n🇱🇾 Mohammed BIN DALLAH\n🇰🇿 Nikita CHIRYUKIN\n🇮🇹 Paolo
+  MONNA\n🇺🇦 Pavlo KOROSTYLOV\n🇦🇼 Philip ELHAGE\n🇧🇷 Philipe
+  CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
+  BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
+  Yusuf DIKEC\n🇨🇳 ZHANG Bowen
+SUMMARY:🔫 10m Air Pistol Men's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T092400Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-ESP-CHI
+DTSTAMP:20240727T092400Z
+DTSTART:20240727T092400Z
+DTEND:20240727T093000Z
+DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+SUMMARY:🥋 Laura MARTINEZ ABELENDA 🇪🇸 - 🇨🇱 Mary Dee VARGAS LEY
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T134500Z-table-tennis-WOMENS-SINGLES-PRELIMINARY-ROUND-CHI-LBN
+DTSTAMP:20240727T134500Z
+DTSTART:20240727T134500Z
+DTEND:20240727T143000Z
+DESCRIPTION:Table Tennis - Women's Singles Preliminary Round
+SUMMARY:🏓 Zhiying ZENG 🇨🇱 - 🇱🇧 Mariana SAHAKIAN
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T193000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-KAZ-CHI
+DTSTAMP:20240727T193000Z
+DTSTART:20240727T193000Z
+DTEND:20240727T201500Z
+DESCRIPTION:Table Tennis - Men's Singles Round of 64
+SUMMARY:🏓 Kirill GERASSIMENKO 🇰🇿 - 🇨🇱 Nicolas BURGOS
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T095500Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-32-CAN-CHI
+DTSTAMP:20240728T095500Z
+DTSTART:20240728T095500Z
+DTEND:20240728T102500Z
+DESCRIPTION:Fencing - Women's Foil Individual Table of 32
+SUMMARY:🤺 Jessica Zi Jia GUO 🇨🇦 - 🇨🇱 Arantza INOSTROZA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T143000Z
+DESCRIPTION:Tennis - Men's Singles First Round\n🇨🇱 Alejandro TABILO
+SUMMARY:🎾 Men's Singles First Round
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-ARG-CHI
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T160000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Francisco CERUNDOLO 🇦🇷 - 🇨🇱 Marcelo Tomas BARRIOS VERA
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-AUS-CHI
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T173000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Alexei POPYRIN 🇦🇺 - 🇨🇱 Nicolas JARRY
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T180000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-CHI-CAN
+DTSTAMP:20240728T180000Z
+DTSTART:20240728T180000Z
+DTEND:20240728T190000Z
+DESCRIPTION:Table Tennis - Women's Singles Round of 64
+SUMMARY:🏓 Paulina VEGA 🇨🇱 - 🇨🇦 Mo ZHANG
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T190000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-B-NOR-CHI
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T195000Z
+DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool B
+SUMMARY:🏐 MOL/SORUM 🇳🇴 - 🇨🇱 M.GRIMALT/E.GRIMALT
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-ITA-CHI
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T160000Z
+DESCRIPTION:Tennis - Men's Doubles First Round
+SUMMARY:🎾 DARDERI/MUSETTI 🇮🇹 - 🇨🇱 JARRY/TABILO
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY
+DTSTAMP:20240729T121000Z
+DTSTART:20240729T121000Z
+DTEND:20240729T134000Z
+DESCRIPTION:Cycling Mountain Bike - Men's Cross-country\n🇲🇽 Adair Zabdiel
+  GUTIERREZ PRIETO\n🇿🇦 Alan HATHERLY\n🇳🇦 Alex MILLER\n🇬🇧 Charlie
+  ALDRIDGE\n🇺🇸 Christopher BLEVINS\n🇪🇸 David VALERO SERRANO\n🇨🇴 Diego
+  Alfonso ARIAS CUERVO\n🇷🇴 Ede-Karoly MOLNAR\n🇨🇦 Gunnar HOLMGREN\n🇧🇪
+  Jens SCHUERMANS\n🇪🇸 Jofre CULLELL ESTAPE\n🇫🇮 Joni SAVASTE\n🇫🇷
+  Jordan SARROU\n🇩🇪 Julian SCHELB\n🇳🇴 Knut ROEHME\n🇵🇱 Krzysztof
+  LUKASIK\n🇮🇹 Luca BRAIDOT\n🇩🇪 Luca SCHWARZBAUER\n🇨🇳 MI
+  Jiujiang\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻 Martins BLUMS\n🇨🇭 Mathias
+  FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇭 Nino SCHURTER\n🇺🇦 Oleksandr
+  HUDYMA\n🇨🇿 Ondrej CINK\n🇧🇪 Pierre de FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮
+  Romano PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰 Simon ANDREASSEN\n🇮🇹 Simone
+  AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer ZALTSMAN\n🇧🇷 Ulan BASTOS
+  GALINSKI\n🇫🇷 Victor KORETZKY
+SUMMARY:🚴 Men's Cross-country
+LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T060000Z-triathlon-MENS-INDIVIDUAL
+DTSTAMP:20240730T060000Z
+DTSTART:20240730T060000Z
+DTEND:20240730T080000Z
+DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
+  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
+  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
+  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
+  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
+  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
+  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
+  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
+  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
+  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
+  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
+  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
+  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
+  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
+  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
+  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
+  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
+  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
+  Bergsvik THORN
+SUMMARY:🏊 Men's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T112500Z-cycling-bmx-freestyle-WOMENS-PARK-QUALIFICATION
+DTSTAMP:20240730T112500Z
+DTSTART:20240730T112500Z
+DTEND:20240730T124200Z
+DESCRIPTION:Cycling BMX Freestyle - Women's Park Qualification\n🇬🇧
+  Charlotte Elizabeth WORTHINGTON\n🇨🇳 DENG Yawen\n🇺🇸 Hannah
+  ROBERTS\n🇨🇿 Iveta MICULYCOVA\n🇩🇪 Kim Lea MUELLER\n🇫🇷 Laury
+  PEREZ\n🇨🇱 Macarena PEREZ GRASSET\n🇦🇺 Natalya DIEHM\n🇨🇭 Nikita
+  DUCARROZ\n🇺🇸 Perris BENEGAS\n🇨🇴 Queen Saray VILLEGAS SERNA\n🇨🇳 SUN
+  Jiaqi
+SUMMARY:🚴 Women's Park Qualification
+LOCATION:La Concorde 2
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T155800Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-CHI-TUR
+DTSTAMP:20240730T155800Z
+DTSTART:20240730T155800Z
+DTEND:20240730T161100Z
+DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+SUMMARY:🏹 Andres GALLARDO FERRADA 🇨🇱 - 🇹🇷 Mete GAZOZ
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090400Z-rowing-WOMENS-PAIR-SEMIFINAL-AB-2
+DTSTAMP:20240731T090400Z
+DTSTART:20240731T090400Z
+DTEND:20240731T091100Z
+DESCRIPTION:Rowing - Women's Pair Semifinal A/B 2\n🇦🇺 AUS\n🇨🇱 CHI\n🇮🇪
+  IRL\n🇱🇹 LTU\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🚣 Women's Pair Semifinal A/B 2
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T140000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-B-NED-CHI
+DTSTAMP:20240731T140000Z
+DTSTART:20240731T140000Z
+DTEND:20240731T145000Z
+DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool B
+SUMMARY:🏐 VAN DE VELDE/IMMERS 🇳🇱 - 🇨🇱 M.GRIMALT/E.GRIMALT
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T080000Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-POL-CHI
+DTSTAMP:20240801T080000Z
+DTSTART:20240801T080000Z
+DTEND:20240801T080600Z
+DESCRIPTION:Judo - Men -100 kg Elimination Round of 32
+SUMMARY:🥋 Piotr KUCZERA 🇵🇱 - 🇨🇱 Thomas BRICENO
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T080000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-B-ITA-CHI
+DTSTAMP:20240802T080000Z
+DTSTART:20240802T080000Z
+DTEND:20240802T085000Z
+DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool B
+SUMMARY:🏐 RANGHIERI/CARAMBULA 🇮🇹 - 🇨🇱 M.GRIMALT/E.GRIMALT
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/COL//EN
+X-WR-CALNAME:🇨🇴 Colombia | Paris 2024
+NAME:🇨🇴 Colombia | Paris 2024
+BEGIN:VEVENT
+UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T073000Z
+DTSTART:20240725T073000Z
+DTEND:20240725T103000Z
+DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
+  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
+  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
+  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
+  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
+  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
+  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
+  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
+  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
+  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
+  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
+  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
+  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
+  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
+  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
+  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
+  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
+  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
+  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
+  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
+  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
+  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 Women's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T121500Z-archery-MENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T121500Z
+DTSTART:20240725T121500Z
+DTEND:20240725T151500Z
+DESCRIPTION:Archery - Men's Individual Ranking Round\n🇹🇷 Abdullah
+  YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹 Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿
+  Alexandr YEREMENKO\n🇺🇿 Amirkhon SADIKOV\n🇨🇱 Andres GALLARDO
+  FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮 Antti TEKONIEMI\n🇮🇩 Arif
+  PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim TUMER\n🇺🇸 Brady
+  ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos ROJAS\n🇬🇧 Conor
+  HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi ZHANGBYRBAY\n🇮🇳 Dhiraj
+  BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA Takaharu\n🇮🇹 Federico
+  MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩
+  Israel MADAYE\n🇫🇷 Jean-Charles VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO
+  Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷 KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI
+  Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹 Lam DORJI\n🇧🇷 Marcus
+  D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽 Matias GRANDE\n🇮🇹 Mauro
+  NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵
+  NAKANISHI Junya\n🇻🇮 Nicholas D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold
+  BAATARKHUYAG\n🇪🇸 Pablo ACHA GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit
+  KLEIN\n🇮🇳 Pravin Ramesh JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵
+  SAITO Fumiya\n🇨🇴 Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI
+  Yu-Hsuan\n🇹🇼 TANG Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas
+  CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳 WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof
+  TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 Men's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T190000Z-football-WOMENS-GROUP-A-FRA-COL
+DTSTAMP:20240725T190000Z
+DTSTART:20240725T190000Z
+DTEND:20240725T204500Z
+DESCRIPTION:Football - Women's Group A
+SUMMARY:⚽ FRA 🇫🇷 - 🇨🇴 COL
+LOCATION:Lyon Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T091200Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-TPE-COL
+DTSTAMP:20240727T091200Z
+DTSTART:20240727T091200Z
+DTEND:20240727T091800Z
+DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+SUMMARY:🥋 LIN Chen-Hao 🇹🇼 - 🇨🇴 Erika LASSO
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-LAT-COL
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T130000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Jelena OSTAPENKO 🇱🇻 - 🇨🇴 Camila OSORIO
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T103600Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-32-MGL-COL
+DTSTAMP:20240728T103600Z
+DTSTART:20240728T103600Z
+DTEND:20240728T104700Z
+DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 32
+SUMMARY:🥊 Yesugen OYUNTSETSEG 🇲🇳 - 🇨🇴 Ingrit Lorena VALENCIA VICTORIA
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T105000Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32-COL-EGY
+DTSTAMP:20240728T105000Z
+DTSTART:20240728T105000Z
+DTEND:20240728T111500Z
+DESCRIPTION:Fencing - Men's Épée Individual Table of 32
+SUMMARY:🤺 John Edison RODRIGUEZ 🇨🇴 - 🇪🇬 Mohamed ELSAYED
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T150000Z-football-WOMENS-GROUP-A-NZL-COL
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T164500Z
+DESCRIPTION:Football - Women's Group A
+SUMMARY:⚽ NZL 🇳🇿 - 🇨🇴 COL
+LOCATION:Lyon Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T083900Z-archery-MENS-TEAM-18-ELIMINATION-ROUND-COL-TUR
+DTSTAMP:20240729T083900Z
+DTSTART:20240729T083900Z
+DTEND:20240729T090200Z
+DESCRIPTION:Archery - Men's Team 1/8 Elimination Round
+SUMMARY:🏹 COL 🇨🇴 - 🇹🇷 TUR
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-skateboarding-MENS-STREET-PRELIMS
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T135000Z
+DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
+  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
+  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
+  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
+  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
+  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
+  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
+  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
+SUMMARY:🛹 Men's Street Prelims
+LOCATION:La Concorde 3
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-tennis-WOMENS-SINGLES-SECOND-ROUND-COL-UKR
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T130000Z
+DESCRIPTION:Tennis - Women's Singles Second Round
+SUMMARY:🎾 Camila OSORIO 🇨🇴 - 🇺🇦 Dayana YASTREMSKA
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY
+DTSTAMP:20240729T121000Z
+DTSTART:20240729T121000Z
+DTEND:20240729T134000Z
+DESCRIPTION:Cycling Mountain Bike - Men's Cross-country\n🇲🇽 Adair Zabdiel
+  GUTIERREZ PRIETO\n🇿🇦 Alan HATHERLY\n🇳🇦 Alex MILLER\n🇬🇧 Charlie
+  ALDRIDGE\n🇺🇸 Christopher BLEVINS\n🇪🇸 David VALERO SERRANO\n🇨🇴 Diego
+  Alfonso ARIAS CUERVO\n🇷🇴 Ede-Karoly MOLNAR\n🇨🇦 Gunnar HOLMGREN\n🇧🇪
+  Jens SCHUERMANS\n🇪🇸 Jofre CULLELL ESTAPE\n🇫🇮 Joni SAVASTE\n🇫🇷
+  Jordan SARROU\n🇩🇪 Julian SCHELB\n🇳🇴 Knut ROEHME\n🇵🇱 Krzysztof
+  LUKASIK\n🇮🇹 Luca BRAIDOT\n🇩🇪 Luca SCHWARZBAUER\n🇨🇳 MI
+  Jiujiang\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻 Martins BLUMS\n🇨🇭 Mathias
+  FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇭 Nino SCHURTER\n🇺🇦 Oleksandr
+  HUDYMA\n🇨🇿 Ondrej CINK\n🇧🇪 Pierre de FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮
+  Romano PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰 Simon ANDREASSEN\n🇮🇹 Simone
+  AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer ZALTSMAN\n🇧🇷 Ulan BASTOS
+  GALINSKI\n🇫🇷 Victor KORETZKY
+SUMMARY:🚴 Men's Cross-country
+LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T180000Z-boxing-WOMENS-60KG-PRELIMINARIES-ROUND-OF-16-KOS-COL
+DTSTAMP:20240729T180000Z
+DTSTART:20240729T180000Z
+DTEND:20240729T181100Z
+DESCRIPTION:Boxing - Women's 60kg - Preliminaries - Round of 16
+SUMMARY:🥊 Donjeta SADIKU 🇽🇰 - 🇨🇴 Angie Paola VALDES PANA
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T100000Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-FRA-COL
+DTSTAMP:20240730T100000Z
+DTSTART:20240730T100000Z
+DTEND:20240730T101300Z
+DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+SUMMARY:🏹 Thomas CHIRAULT 🇫🇷 - 🇨🇴 Andres HERNANDEZ VERA
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T112500Z-cycling-bmx-freestyle-WOMENS-PARK-QUALIFICATION
+DTSTAMP:20240730T112500Z
+DTSTART:20240730T112500Z
+DTEND:20240730T124200Z
+DESCRIPTION:Cycling BMX Freestyle - Women's Park Qualification\n🇬🇧
+  Charlotte Elizabeth WORTHINGTON\n🇨🇳 DENG Yawen\n🇺🇸 Hannah
+  ROBERTS\n🇨🇿 Iveta MICULYCOVA\n🇩🇪 Kim Lea MUELLER\n🇫🇷 Laury
+  PEREZ\n🇨🇱 Macarena PEREZ GRASSET\n🇦🇺 Natalya DIEHM\n🇨🇭 Nikita
+  DUCARROZ\n🇺🇸 Perris BENEGAS\n🇨🇴 Queen Saray VILLEGAS SERNA\n🇨🇳 SUN
+  Jiaqi
+SUMMARY:🚴 Women's Park Qualification
+LOCATION:La Concorde 2
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T195200Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-16-IND-COL
+DTSTAMP:20240730T195200Z
+DTSTART:20240730T195200Z
+DTEND:20240730T200300Z
+DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 16
+SUMMARY:🥊 PREETI 🇮🇳 - 🇨🇴 Yeni Marcela ARIAS CASTANEDA
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T181600Z-boxing-MENS-57KG-PRELIMINARIES-ROUND-OF-16-JPN-COL
+DTSTAMP:20240731T181600Z
+DTSTART:20240731T181600Z
+DTEND:20240731T182700Z
+DESCRIPTION:Boxing - Men's 57kg - Preliminaries - Round of 16
+SUMMARY:🥊 HARADA Shudai 🇯🇵 - 🇨🇴 Yilmar Leandro GONZALEZ LANDAZURY
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T190000Z-football-WOMENS-GROUP-A-COL-CAN
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T210000Z
+DESCRIPTION:Football - Women's Group A
+SUMMARY:⚽ COL 🇨🇴 - 🇨🇦 CAN
+LOCATION:Nice Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T074300Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-COL-KAZ
+DTSTAMP:20240801T074300Z
+DTSTART:20240801T074300Z
+DTEND:20240801T075600Z
+DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+SUMMARY:🏹 Jorge ENRIQUEZ 🇨🇴 - 🇰🇿 Dauletkeldi ZHANGBYRBAY
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T093200Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-16-AUS-COL
+DTSTAMP:20240801T093200Z
+DTSTART:20240801T093200Z
+DTEND:20240801T094300Z
+DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 16
+SUMMARY:🥊 Monique SURACI 🇦🇺 - 🇨🇴 Ingrit Lorena VALENCIA VICTORIA
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T103200Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-TPE-CO
+DTSTAMP:20240801T103200Z
+DTSTART:20240801T103200Z
+DTEND:20240801T104500Z
+DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+SUMMARY:🏹 LEI Chien-Ying 🇹🇼 - 🇨🇴 Ana RENDON MARTINEZ
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T144800Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-COL-LUX
+DTSTAMP:20240801T144800Z
+DTSTART:20240801T144800Z
+DTEND:20240801T150100Z
+DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+SUMMARY:🏹 Santiago ARCILA 🇨🇴 - 🇱🇺 Pit KLEIN
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094300Z-archery-MIXED-TEAM-18-ELIMINATION-ROUND-COL-GER
+DTSTAMP:20240802T094300Z
+DTSTART:20240802T094300Z
+DTEND:20240802T100200Z
+DESCRIPTION:Archery - Mixed Team 1/8 Elimination Round
+SUMMARY:🏹 COL 🇨🇴 - 🇩🇪 GER
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T181600Z-boxing-WOMENS-57KG-PRELIMINARIES-ROUND-OF-16
+DTSTAMP:20240802T181600Z
+DTSTART:20240802T181600Z
+DTEND:20240802T182700Z
+DESCRIPTION:Boxing - Women's 57kg - Preliminaries - Round of 16\n🇨🇴
+  Valeria ARBOLEDA MENDOZA
+SUMMARY:🥊 Women's 57kg - Preliminaries - Round of 16
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-diving-MENS-3M-SPRINGBOARD-PRELIMINARY
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T100900Z
+DESCRIPTION:Diving - Men's 3m Springboard Preliminary\n🇺🇸 Andrew
+  CAPOBIANCO\n🇺🇸 Carson TYLER\n🇨🇴 Daniel RESTREPO GARCIA\n🇩🇴 Frandiel
+  GOMEZ\n🇮🇹 Giovanni TOCCI\n🇫🇷 Gwendal BISCH\n🇬🇧 Jack LAUGHER\n🇮🇪
+  Jake PASSMORE\n🇩🇴 Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules
+  BOUYER\n🇲🇽 Kevin Alexander MUNOZ HEREDIA\n🇦🇺 Kurtis MATHEWS\n🇩🇪
+  Lars RUDIGER\n🇮🇹 Lorenzo MARSAGLIA\n🇨🇴 Luis Felipe URIBE
+  BERMUDEZ\n🇪🇬 Mohamed FAROUK\n🇩🇪 Moritz WESEMANN\n🇲🇽 Osmar OLVERA
+  IBARRA\n🇯🇵 SAKAI Sho\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO Haram\n🇨🇳 XIE
+  Siyi\n🇰🇷 YI Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
+SUMMARY:🏊 Men's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080000Z-diving-MENS-10M-PLATFORM-PRELIMINARY
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T103900Z
+DESCRIPTION:Diving - Men's 10m Platform Preliminary\n🇨🇴 Alejandro
+  SOLARTE\n🇮🇹 Andreas Sargent LARSEN\n🇦🇹 Anton KNOLL\n🇲🇾 Bertrand
+  Rhodict ANAK LISES\n🇺🇸 Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇺🇸 Carson
+  TYLER\n🇦🇺 Cassiel ROUSSEAU\n🇰🇵 IM Yong Myong\n🇺🇿 Igor MYALIN\n🇦🇺
+  Jaxon BOWSHIRE\n🇰🇷 KIM Yeongtaek\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle
+  KOTHARI\n🇺🇦 Mark HRYTSENKO\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah
+  WILLIAMS\n🇪🇬 Ramez SOBHY\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo
+  GIOVANNINI\n🇵🇱 Robert LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN
+  Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 Men's 10m Platform Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

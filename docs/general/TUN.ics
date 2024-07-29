@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/TUN//EN
+X-WR-CALNAME:🇹🇳 Tunisia | Paris 2024
+NAME:🇹🇳 Tunisia | Paris 2024
+BEGIN:VEVENT
+UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T073000Z
+DTSTART:20240725T073000Z
+DTEND:20240725T103000Z
+DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
+  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
+  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
+  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
+  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
+  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
+  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
+  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
+  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
+  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
+  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
+  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
+  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
+  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
+  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
+  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
+  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
+  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
+  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
+  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
+  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
+  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 Women's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083600Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-VIE-TUN
+DTSTAMP:20240727T083600Z
+DTSTART:20240727T083600Z
+DTEND:20240727T084200Z
+DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+SUMMARY:🥋 Thi Tinh HOANG 🇻🇳 - 🇹🇳 Oumaima BEDIOUI
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T094800Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-16-FRA-TUN
+DTSTAMP:20240727T094800Z
+DTSTART:20240727T094800Z
+DTEND:20240727T095400Z
+DESCRIPTION:Judo - Women -48 kg Elimination Round of 16
+SUMMARY:🥋 Shirine BOUKLI 🇫🇷 - 🇹🇳 Oumaima BEDIOUI
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T103000Z-shooting-10M-AIR-PISTOL-WOMENS-QUALIFICATION
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T114500Z
+DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
+  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea
+  PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta
+  KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana
+  DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲
+  Elmira KARAPETYAN\n🇪🇬 Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿
+  Irina YUNUSMETOVA\n🇨🇳 JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM
+  Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala
+  TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina
+  PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬
+  Nour Abbas MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa
+  CHARNI\n🇮🇳 Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda
+  TARHAN\n🇹🇷 Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn
+  PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong
+  TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 10m Air Pistol Women's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T112000Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-32-KOR-TUN
+DTSTAMP:20240727T112000Z
+DTSTART:20240727T112000Z
+DTEND:20240727T114500Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 32
+SUMMARY:🤺 GU Bongil 🇰🇷 - 🇹🇳 Fares FERJANI
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T130000Z-canoe-slalom-MENS-CANOE-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240727T130000Z
+DTSTART:20240727T130000Z
+DTEND:20240727T135200Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Heats 1st Run\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇸🇮 Benjamin
+  SAVSEK\n🇺🇸 Casey EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA
+  Takuya\n🇳🇱 Joris OTTEN\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej
+  BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇧🇷
+  Pedro GONCALVES\n🇮🇹 Raffaello IVALDI\n🇹🇳 Salim JEMAI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T132500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-16-HUN-TUN
+DTSTAMP:20240727T132500Z
+DTSTART:20240727T132500Z
+DTEND:20240727T135000Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 16
+SUMMARY:🤺 Csanad GEMESI 🇭🇺 - 🇹🇳 Fares FERJANI
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T141500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-8-TUN-CHN
+DTSTAMP:20240727T141500Z
+DTSTART:20240727T141500Z
+DTEND:20240727T144000Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 8
+SUMMARY:🤺 Fares FERJANI 🇹🇳 - 🇨🇳 SHEN Chenpeng
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T151000Z-canoe-slalom-MENS-CANOE-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240727T151000Z
+DTSTART:20240727T151000Z
+DTEND:20240727T160200Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Heats 2nd Run\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇸🇮 Benjamin
+  SAVSEK\n🇺🇸 Casey EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA
+  Takuya\n🇳🇱 Joris OTTEN\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej
+  BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇧🇷
+  Pedro GONCALVES\n🇮🇹 Raffaello IVALDI\n🇹🇳 Salim JEMAI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Heats 2nd Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T175000Z-fencing-MENS-SABRE-INDIVIDUAL-SEMIFINAL-1-TUN-EGY
+DTSTAMP:20240727T175000Z
+DTSTART:20240727T175000Z
+DTEND:20240727T181500Z
+DESCRIPTION:Fencing - Men's Sabre Individual Semifinal 1
+SUMMARY:🤺 Fares FERJANI 🇹🇳 - 🇪🇬 Ziad ELSISSY
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T195500Z-fencing-MENS-SABRE-INDIVIDUAL-GOLD-MEDAL-BOUT-KOR-TUN
+DTSTAMP:20240727T195500Z
+DTSTART:20240727T195500Z
+DTEND:20240727T202000Z
+DESCRIPTION:Fencing - Men's Sabre Individual Gold Medal Bout
+SUMMARY:🤺 OH Sanguk 🇰🇷 - 🇹🇳 Fares FERJANI
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-TUN-GBR
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T130000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Moez ECHARGUI 🇹🇳 - 🇬🇧 Daniel EVANS
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T070000Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-64-ALG-TUN
+DTSTAMP:20240729T070000Z
+DTSTART:20240729T070000Z
+DTEND:20240729T072500Z
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 64
+SUMMARY:🤺 Zohra Nora KEHLI 🇩🇿 - 🇹🇳 Yasmine DAGHFOUS
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T073000Z-rowing-MENS-SINGLE-SCULLS-SEMIFINAL-EF-1
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T073700Z
+DESCRIPTION:Rowing - Men's Single Sculls Semifinal E/F 1\n🇦🇴 Andre
+  MATIAS\n🇮🇩 MEMO\n🇹🇳 Mohamed TAIEB\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Men's Single Sculls Semifinal E/F 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T082500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32-FRA-TUN
+DTSTAMP:20240729T082500Z
+DTSTART:20240729T082500Z
+DTEND:20240729T085000Z
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32
+SUMMARY:🤺 Sara BALZER 🇫🇷 - 🇹🇳 Yasmine DAGHFOUS
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T140000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240730T140000Z
+DTSTART:20240730T140000Z
+DTEND:20240730T150000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 1st Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T161000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240730T161000Z
+DTSTART:20240730T161000Z
+DTEND:20240730T171000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 2nd Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 2nd Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T172900Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-CHN-TU
+DTSTAMP:20240730T172900Z
+DTSTART:20240730T172900Z
+DTEND:20240730T174200Z
+DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+SUMMARY:🏹 YANG Xiaolei 🇨🇳 - 🇹🇳 Rihab ELWALID
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T075400Z-rowing-MENS-SINGLE-SCULLS-FINAL-E
+DTSTAMP:20240802T075400Z
+DTSTART:20240802T075400Z
+DTEND:20240802T080100Z
+DESCRIPTION:Rowing - Men's Single Sculls Final E\n🇧🇲 Dara ALIZADEH\n🇮🇩
+  MEMO\n🇹🇳 Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇿🇼 Stephen
+  COX\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Men's Single Sculls Final E
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T080600Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-POR-TUN
+DTSTAMP:20240802T080600Z
+DTSTART:20240802T080600Z
+DTEND:20240802T081200Z
+DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
+SUMMARY:🥋 Rochele NUNES 🇵🇹 - 🇹🇳 Sarra MZOUGUI
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T133000Z-canoe-slalom-MENS-KAYAK-CROSS-TIME-TRIAL
+DTSTAMP:20240802T133000Z
+DTSTART:20240802T133000Z
+DTEND:20240802T142700Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Time Trial\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Cross Time Trial
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T140200Z-boxing-WOMENS-57KG-PRELIMINARIES-ROUND-OF-16
+DTSTAMP:20240802T140200Z
+DTSTART:20240802T140200Z
+DTEND:20240802T141300Z
+DESCRIPTION:Boxing - Women's 57kg - Preliminaries - Round of 16\n🇹🇳
+  Khouloud HLIMI
+SUMMARY:🥊 Women's 57kg - Preliminaries - Round of 16
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

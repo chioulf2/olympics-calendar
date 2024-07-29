@@ -1,0 +1,605 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/RSA//EN
+X-WR-CALNAME:🇿🇦 South Africa | Paris 2024
+NAME:🇿🇦 South Africa | Paris 2024
+BEGIN:VEVENT
+UID:20240724T153000Z-rugby-sevens-MENS-POOL-A-IRL-RSA
+DTSTAMP:20240724T153000Z
+DTSTART:20240724T153000Z
+DTEND:20240724T154600Z
+DESCRIPTION:Rugby Sevens - Men's Pool A
+SUMMARY:🏉 IRL 🇮🇪 - 🇿🇦 RSA
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240724T193000Z-rugby-sevens-MENS-POOL-A-NZL-RSA
+DTSTAMP:20240724T193000Z
+DTSTART:20240724T193000Z
+DTEND:20240724T194600Z
+DESCRIPTION:Rugby Sevens - Men's Pool A
+SUMMARY:🏉 NZL 🇳🇿 - 🇿🇦 RSA
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T121500Z-archery-MENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T121500Z
+DTSTART:20240725T121500Z
+DTEND:20240725T151500Z
+DESCRIPTION:Archery - Men's Individual Ranking Round\n🇹🇷 Abdullah
+  YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹 Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿
+  Alexandr YEREMENKO\n🇺🇿 Amirkhon SADIKOV\n🇨🇱 Andres GALLARDO
+  FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮 Antti TEKONIEMI\n🇮🇩 Arif
+  PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim TUMER\n🇺🇸 Brady
+  ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos ROJAS\n🇬🇧 Conor
+  HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi ZHANGBYRBAY\n🇮🇳 Dhiraj
+  BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA Takaharu\n🇮🇹 Federico
+  MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩
+  Israel MADAYE\n🇫🇷 Jean-Charles VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO
+  Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷 KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI
+  Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹 Lam DORJI\n🇧🇷 Marcus
+  D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽 Matias GRANDE\n🇮🇹 Mauro
+  NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵
+  NAKANISHI Junya\n🇻🇮 Nicholas D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold
+  BAATARKHUYAG\n🇪🇸 Pablo ACHA GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit
+  KLEIN\n🇮🇳 Pravin Ramesh JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵
+  SAITO Fumiya\n🇨🇴 Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI
+  Yu-Hsuan\n🇹🇼 TANG Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas
+  CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳 WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof
+  TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 Men's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T140000Z-rugby-sevens-MENS-POOL-A-RSA-JPN
+DTSTAMP:20240725T140000Z
+DTSTART:20240725T140000Z
+DTEND:20240725T141600Z
+DESCRIPTION:Rugby Sevens - Men's Pool A
+SUMMARY:🏉 RSA 🇿🇦 - 🇯🇵 JPN
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T190000Z-rugby-sevens-MENS-QUARTER-FINAL-NZL-RSA
+DTSTAMP:20240725T190000Z
+DTSTART:20240725T190000Z
+DTEND:20240725T191600Z
+DESCRIPTION:Rugby Sevens - Men's Quarter-final
+SUMMARY:🏉 NZL 🇳🇿 - 🇿🇦 RSA
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T073000Z-equestrian-EVENTING-INDIVIDUAL-DRESSAGE
+DTSTAMP:20240727T073000Z
+DTSTART:20240727T073000Z
+DTEND:20240727T163000Z
+DESCRIPTION:Equestrian - Eventing Individual Dressage\n🇿🇦 Alexander
+  PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
+  MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
+  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
+  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇮🇹 Emiliano PORTALE\n🇪🇸 Esteban
+  BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
+  ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald
+  AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica
+  PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia KRAJEWSKI\n🇯🇵 KITAJIMA
+  Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl
+  SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura
+  COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata KORYCKA\n🇵🇹 Manuel
+  GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody JOHNER\n🇩🇪 Michael
+  JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA JR\n🇨🇿 Miroslav
+  TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas WETTSTEIN\n🇲🇦 Noor
+  SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T. FLARUP\n🇳🇱 Raf
+  KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin
+  GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧 Rosalind CANTER\n🇨🇳 SUN
+  Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de JONG\n🇮🇪 Sarah
+  ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane LANDOIS\n🇮🇪
+  Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine
+  MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 Eventing Individual Dressage
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T082400Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-GUA-RSA
+DTSTAMP:20240727T082400Z
+DTSTART:20240727T082400Z
+DTEND:20240727T083000Z
+DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+SUMMARY:🥋 Jacqueline SOLIS 🇬🇹 - 🇿🇦 Geronay WHITEBOOI
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T094200Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-16-JPN-RSA
+DTSTAMP:20240727T094200Z
+DTSTART:20240727T094200Z
+DTEND:20240727T094800Z
+DESCRIPTION:Judo - Women -48 kg Elimination Round of 16
+SUMMARY:🥋 TSUNODA Natsumi 🇯🇵 - 🇿🇦 Geronay WHITEBOOI
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T104500Z-hockey-MENS-POOL-A-NED-RSA
+DTSTAMP:20240727T104500Z
+DTSTART:20240727T104500Z
+DTEND:20240727T121500Z
+DESCRIPTION:Hockey - Men's Pool A
+SUMMARY:🏑 NED 🇳🇱 - 🇿🇦 RSA
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T125000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-H-KOR-
+DTSTAMP:20240727T125000Z
+DTSTART:20240727T125000Z
+DTEND:20240727T133000Z
+DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group H
+SUMMARY:🏸 KIM Ga Eun 🇰🇷 - 🇿🇦 Johanita SCHOLTZ
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T133000Z-rugby-sevens-MENS-SEMI-FINAL-RSA-FRA
+DTSTAMP:20240727T133000Z
+DTSTART:20240727T133000Z
+DTEND:20240727T134600Z
+DESCRIPTION:Rugby Sevens - Men's Semi-final
+SUMMARY:🏉 RSA 🇿🇦 - 🇫🇷 FRA
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T170000Z-rugby-sevens-MENS-BRONZE-MEDAL-MATCH-RSA-AUS
+DTSTAMP:20240727T170000Z
+DTSTART:20240727T170000Z
+DTEND:20240727T171600Z
+DESCRIPTION:Rugby Sevens - Men's Bronze Medal Match
+SUMMARY:🏉 RSA 🇿🇦 - 🇦🇺 AUS
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T170000Z-surfing-MENS-ROUND-1-HEAT-1
+DTSTAMP:20240727T170000Z
+DTSTART:20240727T170000Z
+DTEND:20240727T173000Z
+DESCRIPTION:Surfing - Men's Round 1 - Heat 1\n🇦🇺 Ethan EWING\n🇿🇦 Jordy
+  SMITH\n🇩🇪 Tim ELTER
+SUMMARY:🏄 Men's Round 1 - Heat 1
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T173600Z-surfing-MENS-ROUND-1-HEAT-2
+DTSTAMP:20240727T173600Z
+DTSTART:20240727T173600Z
+DTEND:20240727T180600Z
+DESCRIPTION:Surfing - Men's Round 1 - Heat 2\n🇦🇺 Jack ROBINSON\n🇫🇷 Joan
+  DURU\n🇿🇦 Matthew McGILLIVRAY
+SUMMARY:🏄 Men's Round 1 - Heat 2
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T214800Z-surfing-WOMENS-ROUND-1-HEAT-1
+DTSTAMP:20240727T214800Z
+DTSTART:20240727T214800Z
+DTEND:20240727T221800Z
+DESCRIPTION:Surfing - Women's Round 1 - Heat 1\n🇺🇸 Caroline MARKS\n🇿🇦
+  Sarah BAUM\n🇵🇹 Yolanda HOPKINS
+SUMMARY:🏄 Women's Round 1 - Heat 1
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T080000Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-64-KAZ-RSA
+DTSTAMP:20240728T080000Z
+DTSTART:20240728T080000Z
+DTEND:20240728T082500Z
+DESCRIPTION:Fencing - Men's Épée Individual Table of 64
+SUMMARY:🤺 Vadim SHARLAIMOV 🇰🇿 - 🇿🇦 Harry SANER
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T083000Z-equestrian-EVENTING-INDIVIDUAL-CROSS-COUNTRY
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T133000Z
+DESCRIPTION:Equestrian - Eventing Individual Cross Country\n🇿🇦 Alexander
+  PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
+  MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
+  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
+  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹
+  Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni
+  UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱
+  Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
+  KRAJEWSKI\n🇯🇵 KITAJIMA Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
+  DONCKERS\n🇨🇦 Karl SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE -
+  MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
+  KORYCKA\n🇵🇹 Manuel GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody
+  JOHNER\n🇩🇪 Michael JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA
+  JR\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas
+  WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T.
+  FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf KOOREMANS\n🇧🇷 Rafael MAMPRIN
+  LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧
+  Rosalind CANTER\n🇨🇳 SUN Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de
+  JONG\n🇮🇪 Sarah ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷
+  Stephane LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim
+  PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 Eventing Individual Cross Country
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-skateboarding-WOMENS-STREET-PRELIMS
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T135000Z
+DESCRIPTION:Skateboarding - Women's Street Prelims\n🇯🇵 AKAMA Liz\n🇿🇦
+  Boipelo AWUAH\n🇨🇳 CUI Chenxi\n🇦🇺 Chloe COVELL\n🇪🇸 Daniela
+  TEROL\n🇧🇷 Gabi MAZETTO\n🇦🇺 Haylie POWELL\n🇳🇱 Keet
+  OLDENBEUVING\n🇦🇺 Liv LOVELACE\n🇫🇷 Lucie SCHOONHEERE\n🇺🇸 Mariah
+  DURAN\n🇯🇵 NAKAYAMA Funa\n🇪🇸 Natalia MUNOZ\n🇺🇸 Paige HEYN\n🇧🇷
+  Pamela ROSA\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa LEAL\n🇳🇱 Roos ZWETSLOOT\n🇹🇭
+  Vareeraya SUKASEM\n🇯🇵 YOSHIZAWA Coco\n🇨🇳 ZENG Wenhui\n🇨🇳 ZHU
+  Yuanling
+SUMMARY:🛹 Women's Street Prelims
+LOCATION:La Concorde 3
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T104500Z-hockey-WOMENS-POOL-B-AUS-RSA
+DTSTAMP:20240728T104500Z
+DTSTART:20240728T104500Z
+DTEND:20240728T121500Z
+DESCRIPTION:Hockey - Women's Pool B
+SUMMARY:🏑 AUS 🇦🇺 - 🇿🇦 RSA
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T121000Z-cycling-mountain-bike-WOMENS-CROSS-COUNTRY
+DTSTAMP:20240728T121000Z
+DTSTART:20240728T121000Z
+DTEND:20240728T134000Z
+DESCRIPTION:Cycling Mountain Bike - Women's Cross-country\n🇨🇿 Adela
+  HOLUBOVA\n🇨🇭 Alessandra KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie
+  HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹
+  Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽
+  Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley
+  BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla
+  MWAMIKAZI\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura
+  STIGGER\n🇫🇷 Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona
+  MITTERWALLNER\n🇩🇪 Nina BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND
+  PREVOT\n🇳🇱 Puck PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel
+  QUEIROS\n🇦🇺 Rebecca HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia
+  BLUNK\n🇨🇭 Sina FREI\n🇩🇰 Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳
+  WU Zhifan\n🇺🇦 Yana BELOMOINA
+SUMMARY:🚴 Women's Cross-country
+LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T140000Z-rugby-sevens-WOMENS-POOL-B-AUS-RSA
+DTSTAMP:20240728T140000Z
+DTSTART:20240728T140000Z
+DTEND:20240728T141600Z
+DESCRIPTION:Rugby Sevens - Women's Pool B
+SUMMARY:🏉 AUS 🇦🇺 - 🇿🇦 RSA
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T170000Z-rugby-sevens-WOMENS-POOL-B-IRL-RSA
+DTSTAMP:20240728T170000Z
+DTSTART:20240728T170000Z
+DTEND:20240728T171600Z
+DESCRIPTION:Rugby Sevens - Women's Pool B
+SUMMARY:🏉 IRL 🇮🇪 - 🇿🇦 RSA
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T173600Z-surfing-WOMENS-ROUND-2-HEAT-2-RSA-GER
+DTSTAMP:20240728T173600Z
+DTSTART:20240728T173600Z
+DTEND:20240728T180600Z
+DESCRIPTION:Surfing - Women's Round 2 - Heat 2
+SUMMARY:🏄 Sarah BAUM 🇿🇦 - 🇩🇪 Camilla KEMP
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T181500Z-hockey-MENS-POOL-A-RSA-GBR
+DTSTAMP:20240728T181500Z
+DTSTART:20240728T181500Z
+DTEND:20240728T194500Z
+DESCRIPTION:Hockey - Men's Pool A
+SUMMARY:🏑 RSA 🇿🇦 - 🇬🇧 GBR
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T231000Z-surfing-MENS-ROUND-2-HEAT-3-RSA-INA
+DTSTAMP:20240728T231000Z
+DTSTART:20240728T231000Z
+DTEND:20240728T234000Z
+DESCRIPTION:Surfing - Men's Round 2 - Heat 3
+SUMMARY:🏄 Jordy SMITH 🇿🇦 - 🇮🇩 Rio WAIDA
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T234600Z-surfing-MENS-ROUND-2-HEAT-4-FRA-RSA
+DTSTAMP:20240728T234600Z
+DTSTART:20240728T234600Z
+DTEND:20240729T001600Z
+DESCRIPTION:Surfing - Men's Round 2 - Heat 4
+SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇿🇦 Matthew McGILLIVRAY
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-QUALIFIER
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T114000Z
+DESCRIPTION:Equestrian - Eventing Individual Jumping Qualifier\n🇿🇦
+  Alexander PETERNELL\n🇮🇪 Aoife CLARK\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs
+  KAIZINGER\n🇺🇸 Boyd MARTIN\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph
+  WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
+  HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix
+  VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN
+  Alex\n🇦🇹 Harald AMBROS\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica
+  PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent
+  LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl SLEZAK\n🇧🇪 Lara de LIEDEKERKE
+  - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
+  KORYCKA\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody JOHNER\n🇩🇪 Michael
+  JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas
+  TOUZAINT\n🇪🇨 Nicolas WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA
+  Yoshiaki\n🇩🇰 Peter T. FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf
+  KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin
+  GODEL\n🇬🇧 Rosalind CANTER\n🇧🇷 Ruy FONSECA\n🇳🇱 Sanne de JONG\n🇦🇺
+  Shane ROSE\n🇦🇺 Shenae LOWINGS\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane
+  LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TANAKA Toshiyuki\n🇯🇵 TOMOTO
+  Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera
+  MANNINEN\n🇵🇱 Wiktoria KNAP
+SUMMARY:🏇 Eventing Individual Jumping Qualifier
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-skateboarding-MENS-STREET-PRELIMS
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T135000Z
+DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
+  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
+  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
+  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
+  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
+  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
+  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
+  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
+SUMMARY:🛹 Men's Street Prelims
+LOCATION:La Concorde 3
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-H-MAS-
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T124000Z
+DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group H
+SUMMARY:🏸 Jin Wei GOH 🇲🇾 - 🇿🇦 Johanita SCHOLTZ
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120000Z-rugby-sevens-WOMENS-POOL-B-GBR-RSA
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T121600Z
+DESCRIPTION:Rugby Sevens - Women's Pool B
+SUMMARY:🏉 GBR 🇬🇧 - 🇿🇦 RSA
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY
+DTSTAMP:20240729T121000Z
+DTSTART:20240729T121000Z
+DTEND:20240729T134000Z
+DESCRIPTION:Cycling Mountain Bike - Men's Cross-country\n🇲🇽 Adair Zabdiel
+  GUTIERREZ PRIETO\n🇿🇦 Alan HATHERLY\n🇳🇦 Alex MILLER\n🇬🇧 Charlie
+  ALDRIDGE\n🇺🇸 Christopher BLEVINS\n🇪🇸 David VALERO SERRANO\n🇨🇴 Diego
+  Alfonso ARIAS CUERVO\n🇷🇴 Ede-Karoly MOLNAR\n🇨🇦 Gunnar HOLMGREN\n🇧🇪
+  Jens SCHUERMANS\n🇪🇸 Jofre CULLELL ESTAPE\n🇫🇮 Joni SAVASTE\n🇫🇷
+  Jordan SARROU\n🇩🇪 Julian SCHELB\n🇳🇴 Knut ROEHME\n🇵🇱 Krzysztof
+  LUKASIK\n🇮🇹 Luca BRAIDOT\n🇩🇪 Luca SCHWARZBAUER\n🇨🇳 MI
+  Jiujiang\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻 Martins BLUMS\n🇨🇭 Mathias
+  FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇭 Nino SCHURTER\n🇺🇦 Oleksandr
+  HUDYMA\n🇨🇿 Ondrej CINK\n🇧🇪 Pierre de FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮
+  Romano PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰 Simon ANDREASSEN\n🇮🇹 Simone
+  AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer ZALTSMAN\n🇧🇷 Ulan BASTOS
+  GALINSKI\n🇫🇷 Victor KORETZKY
+SUMMARY:🚴 Men's Cross-country
+LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T153000Z-hockey-WOMENS-POOL-B-RSA-ARG
+DTSTAMP:20240729T153000Z
+DTSTART:20240729T153000Z
+DTEND:20240729T170000Z
+DESCRIPTION:Hockey - Women's Pool B
+SUMMARY:🏑 RSA 🇿🇦 - 🇦🇷 ARG
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T170000Z-surfing-MENS-ROUND-3-HEAT-1-PER-RSA
+DTSTAMP:20240729T170000Z
+DTSTART:20240729T170000Z
+DTEND:20240729T173000Z
+DESCRIPTION:Surfing - Men's Round 3 - Heat 1
+SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇿🇦 Jordy SMITH
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T191900Z-swimming-MENS-100M-BACKSTROKE-FINAL
+DTSTAMP:20240729T191900Z
+DTSTART:20240729T191900Z
+DTEND:20240729T192500Z
+DESCRIPTION:Swimming - Men's 100m Backstroke Final\n🇬🇷 Apostolos
+  CHRISTOU\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
+  COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
+  NDOYE-BROUARD
+SUMMARY:🏊 Men's 100m Backstroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T192500Z-swimming-WOMENS-100M-BREASTSTROKE-FINAL
+DTSTAMP:20240729T192500Z
+DTSTART:20240729T192500Z
+DTEND:20240729T193100Z
+DESCRIPTION:Swimming - Women's 100m Breaststroke Final\n🇬🇧 Angharad
+  EVANS\n🇮🇹 Benedetta PILATO\n🇪🇪 Eneli JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪
+  Mona Mc SHARRY\n🇨🇳 TANG Qianting\n🇿🇦 Tatjana SMITH
+SUMMARY:🏊 Women's 100m Breaststroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T233600Z-surfing-WOMENS-ROUND-3-HEAT-4-USA-RSA
+DTSTAMP:20240729T233600Z
+DTSTART:20240729T233600Z
+DTEND:20240730T000600Z
+DESCRIPTION:Surfing - Women's Round 3 - Heat 4
+SUMMARY:🏄 Carissa MOORE 🇺🇸 - 🇿🇦 Sarah BAUM
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T060000Z-triathlon-MENS-INDIVIDUAL
+DTSTAMP:20240730T060000Z
+DTSTART:20240730T060000Z
+DTEND:20240730T080000Z
+DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
+  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
+  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
+  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
+  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
+  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
+  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
+  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
+  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
+  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
+  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
+  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
+  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
+  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
+  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
+  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
+  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
+  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
+  Bergsvik THORN
+SUMMARY:🏊 Men's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T083000Z-hockey-MENS-POOL-A-RSA-GER
+DTSTAMP:20240730T083000Z
+DTSTART:20240730T083000Z
+DTEND:20240730T100000Z
+DESCRIPTION:Hockey - Men's Pool A
+SUMMARY:🏑 RSA 🇿🇦 - 🇩🇪 GER
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T131145Z-cycling-bmx-freestyle-MENS-PARK-QUALIFICATION
+DTSTAMP:20240730T131145Z
+DTSTART:20240730T131145Z
+DTEND:20240730T142845Z
+DESCRIPTION:Cycling BMX Freestyle - Men's Park Qualification\n🇫🇷 Anthony
+  JEANJEAN\n🇱🇻 Ernests ZEBOLDS\n🇧🇷 Gustavo BATISTA de OLIVEIRA\n🇨🇦
+  Jeffrey WHALEY\n🇦🇷 Jose TORRES GIL\n🇺🇸 Justin DOWELL\n🇬🇧 Kieran
+  Darren David REILLY\n🇦🇺 Logan MARTIN\n🇺🇸 Marcus CHRISTOPHER\n🇭🇷
+  Marin RANTES\n🇯🇵 NAKAMURA Rimu\n🇿🇦 Vincent LEYGONIE
+SUMMARY:🚴 Men's Park Qualification
+LOCATION:La Concorde 2
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T083000Z-hockey-WOMENS-POOL-B-RSA-GBR
+DTSTAMP:20240731T083000Z
+DTSTART:20240731T083000Z
+DTEND:20240731T100000Z
+DESCRIPTION:Hockey - Women's Pool B
+SUMMARY:🏑 RSA 🇿🇦 - 🇬🇧 GBR
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T083400Z-rowing-MENS-PAIR-SEMIFINAL-AB-1
+DTSTAMP:20240731T083400Z
+DTSTART:20240731T083400Z
+DTEND:20240731T084100Z
+DESCRIPTION:Rowing - Men's Pair Semifinal A/B 1\n🇭🇷 CRO\n🇱🇹 LTU\n🇿🇦
+  RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇸 USA
+SUMMARY:🚣 Men's Pair Semifinal A/B 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T171600Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-RSA-KOR
+DTSTAMP:20240731T171600Z
+DTSTART:20240731T171600Z
+DTEND:20240731T172900Z
+DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+SUMMARY:🏹 Wian ROUX 🇿🇦 - 🇰🇷 KIM Je Deok
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T174500Z-hockey-MENS-POOL-A-ESP-RSA
+DTSTAMP:20240731T174500Z
+DTSTART:20240731T174500Z
+DTEND:20240731T191500Z
+DESCRIPTION:Hockey - Men's Pool A
+SUMMARY:🏑 ESP 🇪🇸 - 🇿🇦 RSA
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T153000Z-hockey-WOMENS-POOL-B-ESP-RSA
+DTSTAMP:20240801T153000Z
+DTSTART:20240801T153000Z
+DTEND:20240801T170000Z
+DESCRIPTION:Hockey - Women's Pool B
+SUMMARY:🏑 ESP 🇪🇸 - 🇿🇦 RSA
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T174500Z-hockey-MENS-POOL-A-FRA-RSA
+DTSTAMP:20240802T174500Z
+DTSTART:20240802T174500Z
+DTEND:20240802T191500Z
+DESCRIPTION:Hockey - Men's Pool A
+SUMMARY:🏑 FRA 🇫🇷 - 🇿🇦 RSA
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T111500Z-hockey-WOMENS-POOL-B-USA-RSA
+DTSTAMP:20240803T111500Z
+DTSTART:20240803T111500Z
+DTEND:20240803T124500Z
+DESCRIPTION:Hockey - Women's Pool B
+SUMMARY:🏑 USA 🇺🇸 - 🇿🇦 RSA
+LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T130000Z-diving-WOMENS-3M-SPRINGBOARD-PRELIMINARY
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T145700Z
+DESCRIPTION:Diving - Women's 3m Springboard Preliminary\n🇲🇽 Alejandra
+  ESTUDILLO TORRES\n🇺🇸 Alison GIBSON\n🇦🇺 Alysha KOLOI\n🇨🇺 Anisley
+  GARCIA NAVARRO\n🇲🇽 Aranza VAZQUEZ MONTANO\n🇨🇳 CHANG Yani\n🇨🇳 CHEN
+  Yiwen\n🇮🇹 Chiara PELLACANI\n🇯🇵 ENOMOTO Haruka\n🇮🇹 Elena
+  BERTOCCHI\n🇸🇪 Emilia NILSSON GARIP\n🇬🇧 Grace REID\n🇳🇴 Helle
+  TUXEN\n🇩🇪 Jette MULLER\n🇿🇦 Julia VINCENT\n🇰🇷 KIM Suji\n🇳🇿 Lizzie
+  ROUSSEL\n🇯🇵 MIKAMI Sayaka\n🇦🇺 Maddison KEENEY\n🇪🇬 Maha AMER\n🇨🇦
+  Margo ERLAM\n🇲🇾 Nur Dhabitah SABRI\n🇨🇺 Prisis RUIZ\n🇺🇸 Sarah
+  BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇺🇦 Viktoriya
+  KESAR\n🇬🇧 Yasmin HARPER
+SUMMARY:🏊 Women's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

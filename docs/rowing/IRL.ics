@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/IRL//EN
+X-WR-CALNAME:🇮🇪 Ireland Rowing | Paris 2024
+NAME:🇮🇪 Ireland Rowing | Paris 2024
+BEGIN:VEVENT
+UID:20240730T085000Z-rowing-WOMENS-DOUBLE-SCULLS-SEMIFINAL-AB-1
+DTSTAMP:20240730T085000Z
+DTSTART:20240730T085000Z
+DTEND:20240730T085700Z
+DESCRIPTION:Rowing - Women's Double Sculls Semifinal A/B 1\n🇨🇿 CZE\n🇫🇷
+  FRA\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇱 NED\n🇳🇿 NZL
+SUMMARY:🚣 Women's Double Sculls Semifinal A/B 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T092000Z-rowing-MENS-DOUBLE-SCULLS-SEMIFINAL-AB-2
+DTSTAMP:20240730T092000Z
+DTSTART:20240730T092000Z
+DTEND:20240730T092700Z
+DESCRIPTION:Rowing - Men's Double Sculls Semifinal A/B 2\n🇫🇷 FRA\n🇩🇪
+  GER\n🇮🇪 IRL\n🇳🇿 NZL\n🇳🇴 NOR\n🇺🇸 USA
+SUMMARY:🚣 Men's Double Sculls Semifinal A/B 2
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T084400Z-rowing-MENS-PAIR-SEMIFINAL-AB-2
+DTSTAMP:20240731T084400Z
+DTSTART:20240731T084400Z
+DTEND:20240731T085100Z
+DESCRIPTION:Rowing - Men's Pair Semifinal A/B 2\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪
+  IRL\n🇮🇹 ITA\n🇳🇿 NZL\n🇷🇴 ROU
+SUMMARY:🚣 Men's Pair Semifinal A/B 2
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090400Z-rowing-WOMENS-PAIR-SEMIFINAL-AB-2
+DTSTAMP:20240731T090400Z
+DTSTART:20240731T090400Z
+DTEND:20240731T091100Z
+DESCRIPTION:Rowing - Women's Pair Semifinal A/B 2\n🇦🇺 AUS\n🇨🇱 CHI\n🇮🇪
+  IRL\n🇱🇹 LTU\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🚣 Women's Pair Semifinal A/B 2
+LOCATION:Nautical St - Flat water
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//medals/JPN//EN
+X-WR-CALNAME:🇯🇵 Japan 🏅 | Paris 2024
+NAME:🇯🇵 Japan 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T150000Z-judo-WOMEN-48-KG-FINAL-JPN-MGL
+DTSTAMP:20240727T150000Z
+DTSTART:20240727T150000Z
+DTEND:20240727T150600Z
+DESCRIPTION:Judo - Women -48 kg Final
+SUMMARY:🥋 TSUNODA Natsumi 🇯🇵 - 🇲🇳 Baasankhuu BAVUUDORJ
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T150600Z-judo-MEN-60-KG-CONTEST-FOR-BRONZE-MEDAL-A-JPN-TUR
+DTSTAMP:20240727T150600Z
+DTSTART:20240727T150600Z
+DTEND:20240727T151200Z
+DESCRIPTION:Judo - Men -60 kg Contest for Bronze Medal A
+SUMMARY:🥋 NAGAYAMA Ryuju 🇯🇵 - 🇹🇷 Salih YILDIZ
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T121000Z-cycling-mountain-bike-WOMENS-CROSS-COUNTRY
+DTSTAMP:20240728T121000Z
+DTSTART:20240728T121000Z
+DTEND:20240728T134000Z
+DESCRIPTION:Cycling Mountain Bike - Women's Cross-country\n🇨🇿 Adela
+  HOLUBOVA\n🇨🇭 Alessandra KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie
+  HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹
+  Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽
+  Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley
+  BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla
+  MWAMIKAZI\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura
+  STIGGER\n🇫🇷 Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona
+  MITTERWALLNER\n🇩🇪 Nina BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND
+  PREVOT\n🇳🇱 Puck PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel
+  QUEIROS\n🇦🇺 Rebecca HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia
+  BLUNK\n🇨🇭 Sina FREI\n🇩🇰 Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳
+  WU Zhifan\n🇺🇦 Yana BELOMOINA
+SUMMARY:🚴 Women's Cross-country
+LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T150000Z-judo-MEN-66-KG-FINAL-JPN-BRA
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T150600Z
+DESCRIPTION:Judo - Men -66 kg Final
+SUMMARY:🥋 ABE Hifumi 🇯🇵 - 🇧🇷 Willian LIMA
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T150000Z-skateboarding-WOMENS-STREET-FINAL
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T163000Z
+DESCRIPTION:Skateboarding - Women's Street Final\n🇯🇵 AKAMA Liz\n🇨🇳 CUI
+  Chenxi\n🇦🇺 Chloe COVELL\n🇯🇵 NAKAYAMA Funa\n🇺🇸 Paige HEYN\n🇺🇸 Poe
+  PINSON\n🇧🇷 Rayssa LEAL\n🇯🇵 YOSHIZAWA Coco
+SUMMARY:🛹 Women's Street Final
+LOCATION:La Concorde 3
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T183000Z-swimming-MENS-400M-INDIVIDUAL-MEDLEY-FINAL
+DTSTAMP:20240728T183000Z
+DTSTART:20240728T183000Z
+DTEND:20240728T184000Z
+DESCRIPTION:Swimming - Men's 400m Individual Medley Final\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇩🇪 Cedric BUESSING\n🇫🇷 Leon
+  MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇯🇵 MATSUSHITA Tomoyuki\n🇬🇧 Max
+  LITCHFIELD\n🇯🇵 SETO Daiya
+SUMMARY:🏊 Men's 400m Individual Medley Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T184000Z-swimming-WOMENS-100M-BUTTERFLY-FINAL
+DTSTAMP:20240728T184000Z
+DTSTART:20240728T184000Z
+DTEND:20240728T184600Z
+DESCRIPTION:Swimming - Women's 100m Butterfly Final\n🇩🇪 Angelina
+  KOEHLER\n🇦🇺 Emma McKEON\n🇺🇸 Gretchen WALSH\n🇯🇵 HIRAI Mizuki\n🇸🇪
+  Louise HANSSON\n🇨🇦 Margaret MAC NEIL\n🇺🇸 Torri HUSKE\n🇨🇳 ZHANG
+  Yufei
+SUMMARY:🏊 Women's 100m Butterfly Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T201500Z-fencing-MENS-PE-INDIVIDUAL-GOLD-MEDAL-BOUT-FRA-JPN
+DTSTAMP:20240728T201500Z
+DTSTART:20240728T201500Z
+DTEND:20240728T204000Z
+DESCRIPTION:Fencing - Men's Épée Individual Gold Medal Bout
+SUMMARY:🤺 Yannick BOREL 🇫🇷 - 🇯🇵 KANO Koki
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-equestrian-EVENTING-TEAM-JUMPING-FINAL
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T114000Z
+DESCRIPTION:Equestrian - Eventing Team Jumping Final\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇸🇪 SWE\n🇨🇭 SUI\n🇺🇸 USA
+SUMMARY:🏇 Eventing Team Jumping Final
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T153000Z-artistic-gymnastics-MENS-TEAM-FINAL
+DTSTAMP:20240729T153000Z
+DTSTART:20240729T153000Z
+DTEND:20240729T180000Z
+DESCRIPTION:Artistic Gymnastics - Men's Team Final\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🤸 Men's Team Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T184000Z-swimming-MENS-200M-FREESTYLE-FINAL
+DTSTAMP:20240729T184000Z
+DTSTART:20240729T184000Z
+DTEND:20240729T184700Z
+DESCRIPTION:Swimming - Men's 200m Freestyle Final\n🇱🇹 Danas RAPSYS\n🇷🇴
+  David POPOVICI\n🇬🇧 Duncan SCOTT\n🇩🇪 Lukas MAERTENS\n🇺🇸 Luke
+  HOBSON\n🇯🇵 MATSUMOTO Katsuhiro\n🇬🇧 Matthew RICHARDS\n🇦🇺 Maximillian
+  GIULIANI
+SUMMARY:🏊 Men's 200m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T060000Z-triathlon-MENS-INDIVIDUAL
+DTSTAMP:20240730T060000Z
+DTSTART:20240730T060000Z
+DTEND:20240730T080000Z
+DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
+  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
+  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
+  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
+  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
+  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
+  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
+  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
+  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
+  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
+  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
+  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
+  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
+  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
+  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
+  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
+  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
+  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
+  Bergsvik THORN
+SUMMARY:🏊 Men's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+END:VCALENDAR

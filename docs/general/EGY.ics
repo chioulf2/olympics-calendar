@@ -1,0 +1,921 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/EGY//EN
+X-WR-CALNAME:🇪🇬 Egypt | Paris 2024
+NAME:🇪🇬 Egypt | Paris 2024
+BEGIN:VEVENT
+UID:20240724T150000Z-football-MENS-GROUP-C-EGY-DOM
+DTSTAMP:20240724T150000Z
+DTSTART:20240724T150000Z
+DTEND:20240724T164500Z
+DESCRIPTION:Football - Men's Group C
+SUMMARY:⚽ EGY 🇪🇬 - 🇩🇴 DOM
+LOCATION:La Beaujoire Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T073000Z
+DTSTART:20240725T073000Z
+DTEND:20240725T103000Z
+DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
+  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
+  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
+  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
+  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
+  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
+  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
+  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
+  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
+  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
+  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
+  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
+  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
+  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
+  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
+  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
+  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
+  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
+  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
+  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
+  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
+  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 Women's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T121500Z-archery-MENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T121500Z
+DTSTART:20240725T121500Z
+DTEND:20240725T151500Z
+DESCRIPTION:Archery - Men's Individual Ranking Round\n🇹🇷 Abdullah
+  YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹 Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿
+  Alexandr YEREMENKO\n🇺🇿 Amirkhon SADIKOV\n🇨🇱 Andres GALLARDO
+  FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮 Antti TEKONIEMI\n🇮🇩 Arif
+  PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim TUMER\n🇺🇸 Brady
+  ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos ROJAS\n🇬🇧 Conor
+  HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi ZHANGBYRBAY\n🇮🇳 Dhiraj
+  BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA Takaharu\n🇮🇹 Federico
+  MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩
+  Israel MADAYE\n🇫🇷 Jean-Charles VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO
+  Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷 KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI
+  Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹 Lam DORJI\n🇧🇷 Marcus
+  D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽 Matias GRANDE\n🇮🇹 Mauro
+  NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵
+  NAKANISHI Junya\n🇻🇮 Nicholas D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold
+  BAATARKHUYAG\n🇪🇸 Pablo ACHA GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit
+  KLEIN\n🇮🇳 Pravin Ramesh JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵
+  SAITO Fumiya\n🇨🇴 Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI
+  Yu-Hsuan\n🇹🇼 TANG Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas
+  CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳 WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof
+  TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 Men's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-shooting-10M-AIR-RIFLE-MIXED-TEAM-QUALIFICATION
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T073000Z
+DESCRIPTION:Shooting - 10m Air Rifle Mixed Team Qualification\n🇦🇷
+  ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳 China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt
+  1\n🇫🇷 France 1\n🇫🇷 France 2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India
+  1\n🇮🇳 India 2\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan
+  2\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴
+  Norway 2\n🇵🇱 Poland 1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United
+  States 2
+SUMMARY:🔫 10m Air Rifle Mixed Team Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T080000Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-64-EGY-EGY
+DTSTAMP:20240727T080000Z
+DTSTART:20240727T080000Z
+DTEND:20240727T082500Z
+DESCRIPTION:Fencing - Women's Épée Individual Table of 64
+SUMMARY:🤺 Nardin EHAB 🇪🇬 - 🇪🇬 Shirwit GABER
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T080000Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-64-EGY-SEN
+DTSTAMP:20240727T080000Z
+DTSTART:20240727T080000Z
+DTEND:20240727T082500Z
+DESCRIPTION:Fencing - Women's Épée Individual Table of 64
+SUMMARY:🤺 Aya HUSSEIN 🇪🇬 - 🇸🇳 Ndeye Bineta DIONGUE
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T084200Z-judo-MEN-60-KG-ELIMINATION-ROUND-OF-32-EGY-MGL
+DTSTAMP:20240727T084200Z
+DTSTART:20240727T084200Z
+DTEND:20240727T084800Z
+DESCRIPTION:Judo - Men -60 kg Elimination Round of 32
+SUMMARY:🥋 Youssry SAMY 🇪🇬 - 🇲🇳 Ariunbold ENKHTAIVAN
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T085000Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-32-HKG-EGY
+DTSTAMP:20240727T085000Z
+DTSTART:20240727T085000Z
+DTEND:20240727T091500Z
+DESCRIPTION:Fencing - Women's Épée Individual Table of 32
+SUMMARY:🤺 KONG Man Wai Vivian 🇭🇰 - 🇪🇬 Aya HUSSEIN
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T090000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-HUN-EGY
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T103000Z
+DESCRIPTION:Handball - Men's Preliminary Round Group B
+SUMMARY:🤾 HUN 🇭🇺 - 🇪🇬 EGY
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100500Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-32-FRA-EGY
+DTSTAMP:20240727T100500Z
+DTSTART:20240727T100500Z
+DTEND:20240727T103000Z
+DESCRIPTION:Fencing - Women's Épée Individual Table of 32
+SUMMARY:🤺 Marie-Florence CANDASSAMY 🇫🇷 - 🇪🇬 Nardin EHAB
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T103000Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-32-ARG-EGY
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T105500Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 32
+SUMMARY:🤺 Pascual Maria di TELLA 🇦🇷 - 🇪🇬 Ziad ELSISSY
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T103000Z-shooting-10M-AIR-PISTOL-WOMENS-QUALIFICATION
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T114500Z
+DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
+  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea
+  PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta
+  KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana
+  DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲
+  Elmira KARAPETYAN\n🇪🇬 Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿
+  Irina YUNUSMETOVA\n🇨🇳 JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM
+  Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala
+  TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina
+  PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬
+  Nour Abbas MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa
+  CHARNI\n🇮🇳 Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda
+  TARHAN\n🇹🇷 Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn
+  PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong
+  TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 10m Air Pistol Women's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T112000Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-32-EGY-EGY
+DTSTAMP:20240727T112000Z
+DTSTART:20240727T112000Z
+DTEND:20240727T114500Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 32
+SUMMARY:🤺 Mohamed AMER 🇪🇬 - 🇪🇬 Adham MOATAZ
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T130000Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-16-USA-EGY
+DTSTAMP:20240727T130000Z
+DTSTART:20240727T130000Z
+DTEND:20240727T132500Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 16
+SUMMARY:🤺 Mitchell SARON 🇺🇸 - 🇪🇬 Ziad ELSISSY
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T132500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-16-GEO-EGY
+DTSTAMP:20240727T132500Z
+DTSTART:20240727T132500Z
+DTEND:20240727T135000Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 16
+SUMMARY:🤺 Sandro BAZADZE 🇬🇪 - 🇪🇬 Mohamed AMER
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T140200Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-32-UZB-EGY
+DTSTAMP:20240727T140200Z
+DTSTART:20240727T140200Z
+DTEND:20240727T141300Z
+DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 32
+SUMMARY:🥊 Nigina UKTAMOVA 🇺🇿 - 🇪🇬 Yomna AYYAD
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T141500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-8-GER-EGY
+DTSTAMP:20240727T141500Z
+DTSTART:20240727T141500Z
+DTEND:20240727T144000Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 8
+SUMMARY:🤺 Matyas SZABO 🇩🇪 - 🇪🇬 Ziad ELSISSY
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T141500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-8-ITA-EGY
+DTSTAMP:20240727T141500Z
+DTSTART:20240727T141500Z
+DTEND:20240727T144000Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 8
+SUMMARY:🤺 Luigi SAMELE 🇮🇹 - 🇪🇬 Mohamed AMER
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143000Z-table-tennis-MIXED-DOUBLES-ROUND-OF-16-CHN-EGY
+DTSTAMP:20240727T143000Z
+DTSTART:20240727T143000Z
+DTEND:20240727T151500Z
+DESCRIPTION:Table Tennis - Mixed Doubles Round of 16
+SUMMARY:🏓 WANG/SUN 🇨🇳 - 🇪🇬 ASSAR/MESHREF
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T150000Z-football-MENS-GROUP-C-UZB-EGY
+DTSTAMP:20240727T150000Z
+DTSTART:20240727T150000Z
+DTEND:20240727T164500Z
+DESCRIPTION:Football - Men's Group C
+SUMMARY:⚽ UZB 🇺🇿 - 🇪🇬 EGY
+LOCATION:La Beaujoire Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T150000Z-volleyball-MENS-PRELIMINARY-ROUND-POOL-B-POL-EGY
+DTSTAMP:20240727T150000Z
+DTSTART:20240727T150000Z
+DTEND:20240727T171500Z
+DESCRIPTION:Volleyball - Men's Preliminary Round - Pool B
+SUMMARY:🏐 POL 🇵🇱 - 🇪🇬 EGY
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T175000Z-fencing-MENS-SABRE-INDIVIDUAL-SEMIFINAL-1-TUN-EGY
+DTSTAMP:20240727T175000Z
+DTSTART:20240727T175000Z
+DTEND:20240727T181500Z
+DESCRIPTION:Fencing - Men's Sabre Individual Semifinal 1
+SUMMARY:🤺 Fares FERJANI 🇹🇳 - 🇪🇬 Ziad ELSISSY
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T184500Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-NED-EGY
+DTSTAMP:20240727T184500Z
+DTSTART:20240727T184500Z
+DTEND:20240727T193000Z
+DESCRIPTION:Table Tennis - Women's Singles Round of 64
+SUMMARY:🏓 Britt EERLAND 🇳🇱 - 🇪🇬 Hana GODA
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T190500Z-fencing-MENS-SABRE-INDIVIDUAL-BRONZE-MEDAL-BOUT-ITA-EG
+DTSTAMP:20240727T190500Z
+DTSTART:20240727T190500Z
+DTEND:20240727T193000Z
+DESCRIPTION:Fencing - Men's Sabre Individual Bronze Medal Bout
+SUMMARY:🤺 Luigi SAMELE 🇮🇹 - 🇪🇬 Ziad ELSISSY
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T071500Z-shooting-10M-AIR-RIFLE-WOMENS-QUALIFICATION
+DTSTAMP:20240728T071500Z
+DTSTART:20240728T071500Z
+DTEND:20240728T083000Z
+DESCRIPTION:Shooting - 10m Air Rifle Women's Qualification\n🇰🇿 Alexandra
+  Le\n🇲🇰 Anastasija MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna
+  JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹
+  Barbara GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷
+  Fatemeh AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽
+  Goretti Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿
+  Houda CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷
+  KEUM Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️
+  Luna SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮
+  Mariel Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA
+  Misaki\n🇦🇹 Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne
+  MULLER\n🇮🇳 Ramita RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng
+  IBSEN\n🇺🇸 Sagen MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL
+  AMIRANI\n🇩🇰 Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita
+  NEPAL\n🇳🇴 Synnoeve BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika
+  BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
+SUMMARY:🔫 10m Air Rifle Women's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T080000Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-64-CZE-EGY
+DTSTAMP:20240728T080000Z
+DTSTART:20240728T080000Z
+DTEND:20240728T082500Z
+DESCRIPTION:Fencing - Men's Épée Individual Table of 64
+SUMMARY:🤺 Jakub JURKA 🇨🇿 - 🇪🇬 Mahmoud MOHSEN
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T080000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-EGY-MAD
+DTSTAMP:20240728T080000Z
+DTSTART:20240728T080000Z
+DTEND:20240728T084500Z
+DESCRIPTION:Table Tennis - Men's Singles Round of 64
+SUMMARY:🏓 Omar ASSAR 🇪🇬 - 🇲🇬 Fabio RAKOTOARIMANANA
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T091500Z-shooting-10M-AIR-RIFLE-MENS-QUALIFICATION
+DTSTAMP:20240728T091500Z
+DTSTART:20240728T091500Z
+DTEND:20240728T103000Z
+DESCRIPTION:Shooting - 10m Air Rifle Men's Qualification\n🇫🇮 Aleksi
+  LEPPA\n🇦🇹 Alexander SCHMIRL\n🇮🇳 Arjun BABUTA\n🇲🇳 Bayaraa
+  NYANTAI\n🇰🇷 CHOE Daehan\n🇲🇽 Carlos QUEZADA MARQUEZ\n🇦🇺 Dane
+  SAMPSON\n🇮🇹 Danilo Dennis SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo
+  BONAZZI\n🇲🇽 Edson Ismael RAMIREZ RAMOS\n🇮🇩 Fathur GUSTAFIAN\n🇨🇿
+  Frantisek SMETANA\n🇪🇬 Ibrahim Ahmad Mohammad KORAYIEM\n🇰🇿 Islam
+  SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺 Istvan PENI\n🇺🇸 Ivan ROE\n🇦🇺
+  Jack ROSSITER\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇩🇿 Koceila
+  ADOUL\n🇰🇿 Konstantin MALINOVSKIY\n🇷🇸 Lazar KOVACEVIC\n🇫🇷 Lucas
+  Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇦🇷 Marcelo Julian
+  GUTIERREZ\n🇸🇪 Marcus MADSEN\n🇦🇹 Martin STREMPFL\n🇩🇪 Maximilian
+  ULBRICH\n🇧🇩 Md Robiul Islam ROBIUL\n🇬🇧 Michael BARGERON\n🇭🇷 Miran
+  MARICIC\n🇪🇬 Mohamed HAMDY ABDELKADER\n🇯🇵 OKADA Naoya\n🇳🇴 Ole Martin
+  HALVORSEN\n🇰🇷 PARK Hajun\n🇸🇰 Patrik JANY\n🇭🇷 Petar GORSA\n🇫🇷
+  Romain AUFRERE\n🇺🇸 Rylan William KISSELL\n🇨🇳 SHENG Lihao\n🇮🇳
+  Sandeep SINGH\n🇮🇱 Sergey RICHTER\n🇺🇦 Serhiy KULISH\n🇵🇱 Tomasz
+  BARTNIK\n🇨🇦 Tye IKEDA\n🇸🇪 Victor LINDGREN\n🇭🇺 Zalan PEKLER
+SUMMARY:🔫 10m Air Rifle Men's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T092500Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-32-EGY-CHN
+DTSTAMP:20240728T092500Z
+DTSTART:20240728T092500Z
+DTEND:20240728T095500Z
+DESCRIPTION:Fencing - Women's Foil Individual Table of 32
+SUMMARY:🤺 Yara ELSHARKAWY 🇪🇬 - 🇨🇳 HUANG Qianqian
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T095500Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-32-EGY-GER
+DTSTAMP:20240728T095500Z
+DTSTART:20240728T095500Z
+DTEND:20240728T102500Z
+DESCRIPTION:Fencing - Women's Foil Individual Table of 32
+SUMMARY:🤺 Malak HAMZA 🇪🇬 - 🇩🇪 Anne SAUER
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T095500Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-32-EGY-ITA
+DTSTAMP:20240728T095500Z
+DTSTART:20240728T095500Z
+DTEND:20240728T102500Z
+DESCRIPTION:Fencing - Women's Foil Individual Table of 32
+SUMMARY:🤺 Sara AMR HOSSNY 🇪🇬 - 🇮🇹 Martina FAVARETTO
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-EGY-DEN
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T173000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Mayar SHERIF 🇪🇬 - 🇩🇰 Caroline WOZNIACKI
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T101500Z-table-tennis-MENS-SINGLES-ROUND-OF-64-EGY-POL
+DTSTAMP:20240728T101500Z
+DTSTART:20240728T101500Z
+DTEND:20240728T110000Z
+DESCRIPTION:Table Tennis - Men's Singles Round of 64
+SUMMARY:🏓 Mohamed EL-BEIALI 🇪🇬 - 🇵🇱 Milosz REDZIMSKI
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T105000Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32-COL-EGY
+DTSTAMP:20240728T105000Z
+DTSTART:20240728T105000Z
+DTEND:20240728T111500Z
+DESCRIPTION:Fencing - Men's Épée Individual Table of 32
+SUMMARY:🤺 John Edison RODRIGUEZ 🇨🇴 - 🇪🇬 Mohamed ELSAYED
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T105000Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32-JPN-EGY
+DTSTAMP:20240728T105000Z
+DTSTART:20240728T105000Z
+DTEND:20240728T111500Z
+DESCRIPTION:Fencing - Men's Épée Individual Table of 32
+SUMMARY:🤺 MINOBE Kazuyasu 🇯🇵 - 🇪🇬 Mohamed YASSEEN
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T130500Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-16-EGY-ITA
+DTSTAMP:20240728T130500Z
+DTSTART:20240728T130500Z
+DTEND:20240728T133000Z
+DESCRIPTION:Fencing - Men's Épée Individual Table of 16
+SUMMARY:🤺 Mohamed ELSAYED 🇪🇬 - 🇮🇹 Andrea SANTARELLI
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T140000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-A-BRA-E
+DTSTAMP:20240728T140000Z
+DTSTART:20240728T140000Z
+DTEND:20240728T145000Z
+DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool A
+SUMMARY:🏐 ANA PATRICIA/DUDA 🇧🇷 - 🇪🇬 MARWA/D. ELGHOBASHY
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T142500Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-8-BEL-EGY
+DTSTAMP:20240728T142500Z
+DTSTART:20240728T142500Z
+DTEND:20240728T145000Z
+DESCRIPTION:Fencing - Men's Épée Individual Table of 8
+SUMMARY:🤺 Neisser LOYOLA 🇧🇪 - 🇪🇬 Mohamed ELSAYED
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T182500Z-fencing-MENS-PE-INDIVIDUAL-SEMIFINAL-2-EGY-FRA
+DTSTAMP:20240728T182500Z
+DTSTART:20240728T182500Z
+DTEND:20240728T185000Z
+DESCRIPTION:Fencing - Men's Épée Individual Semifinal 2
+SUMMARY:🤺 Mohamed ELSAYED 🇪🇬 - 🇫🇷 Yannick BOREL
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T192000Z-fencing-MENS-PE-INDIVIDUAL-BRONZE-MEDAL-BOUT-EGY-HUN
+DTSTAMP:20240728T192000Z
+DTSTART:20240728T192000Z
+DTEND:20240728T194500Z
+DESCRIPTION:Fencing - Men's Épée Individual Bronze Medal Bout
+SUMMARY:🤺 Mohamed ELSAYED 🇪🇬 - 🇭🇺 Tibor ANDRASFI
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T200000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-EGY-ESP
+DTSTAMP:20240728T200000Z
+DTSTART:20240728T200000Z
+DTEND:20240728T210000Z
+DESCRIPTION:Table Tennis - Women's Singles Round of 64
+SUMMARY:🏓 Dina MESHREF 🇪🇬 - 🇪🇸 Maria XIAO
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T082500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32-EGY-USA
+DTSTAMP:20240729T082500Z
+DTSTART:20240729T082500Z
+DTEND:20240729T085000Z
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32
+SUMMARY:🤺 Nada HAFEZ 🇪🇬 - 🇺🇸 Elizabeth TARTAKOVSKY
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32-EGY-POL
+DTSTAMP:20240729T100500Z
+DTSTART:20240729T100500Z
+DTEND:20240729T103500Z
+DESCRIPTION:Fencing - Men's Foil Individual Table of 32
+SUMMARY:🤺 Mohamed HAMZA 🇪🇬 - 🇵🇱 Jan JURKIEWICZ
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T110500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32-EGY-JPN
+DTSTAMP:20240729T110500Z
+DTSTART:20240729T110500Z
+DTEND:20240729T113500Z
+DESCRIPTION:Fencing - Men's Foil Individual Table of 32
+SUMMARY:🤺 Alaaeldin ABOUELKASSEM 🇪🇬 - 🇯🇵 IIMURA Kazuki
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T110500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32-HUN-EGY
+DTSTAMP:20240729T110500Z
+DTSTART:20240729T110500Z
+DTEND:20240729T113500Z
+DESCRIPTION:Fencing - Men's Foil Individual Table of 32
+SUMMARY:🤺 Daniel DOSA 🇭🇺 - 🇪🇬 Abdelrahman Hussein TOLBA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-EGY-DEN
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T133000Z
+DESCRIPTION:Handball - Men's Preliminary Round Group B
+SUMMARY:🤾 EGY 🇪🇬 - 🇩🇰 DEN
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-16-KOR-EGY
+DTSTAMP:20240729T120500Z
+DTSTART:20240729T120500Z
+DTEND:20240729T123000Z
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 16
+SUMMARY:🤺 JEON Hayoung 🇰🇷 - 🇪🇬 Nada HAFEZ
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T190000Z-table-tennis-MENS-SINGLES-ROUND-OF-32-EGY-ECU
+DTSTAMP:20240729T190000Z
+DTSTART:20240729T190000Z
+DTEND:20240729T200000Z
+DESCRIPTION:Table Tennis - Men's Singles Round of 32
+SUMMARY:🏓 Omar ASSAR 🇪🇬 - 🇪🇨 Alberto MINO
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-shooting-TRAP-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T120000Z
+DESCRIPTION:Shooting - Trap Women's Qualification - Day 1\n🇬🇹 Adriana
+  RUANO OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷
+  Carole CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹
+  Jessica ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo
+  Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬
+  Maggy ASHMAWY\n🇪🇸 Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de
+  BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora
+  ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳
+  Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann
+  Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU
+  Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK STEFECEKOVA
+SUMMARY:🔫 Trap Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-volleyball-MENS-PRELIMINARY-ROUND-POOL-B-ITA-EGY
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T091500Z
+DESCRIPTION:Volleyball - Men's Preliminary Round - Pool B
+SUMMARY:🏐 ITA 🇮🇹 - 🇪🇬 EGY
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T080000Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-64-FRA-EGY
+DTSTAMP:20240730T080000Z
+DTSTART:20240730T080000Z
+DTEND:20240730T080600Z
+DESCRIPTION:Judo - Men -81 kg Elimination Round of 64
+SUMMARY:🥋 Alpha Oumar DJALO 🇫🇷 - 🇪🇬 Abdelrahman ABDELGHANY
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-A-ITA-E
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T095000Z
+DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool A
+SUMMARY:🏐 GOTTARDI/MENEGATTI 🇮🇹 - 🇪🇬 MARWA/D. ELGHOBASHY
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T113000Z-fencing-WOMENS-PE-TEAM-TABLE-OF-8-ITA-EGY
+DTSTAMP:20240730T113000Z
+DTSTART:20240730T113000Z
+DTEND:20240730T122000Z
+DESCRIPTION:Fencing - Women's Épée Team Table of 8
+SUMMARY:🤺 ITA 🇮🇹 - 🇪🇬 EGY
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T130000Z-football-MENS-GROUP-C-ESP-EGY
+DTSTAMP:20240730T130000Z
+DTSTART:20240730T130000Z
+DTEND:20240730T150000Z
+DESCRIPTION:Football - Men's Group C
+SUMMARY:⚽ ESP 🇪🇸 - 🇪🇬 EGY
+LOCATION:Bordeaux Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T143400Z-boxing-MENS-80KG-PRELIMINARIES-ROUND-OF-16-AZE-EGY
+DTSTAMP:20240730T143400Z
+DTSTART:20240730T143400Z
+DTEND:20240730T144500Z
+DESCRIPTION:Boxing - Men's 80kg - Preliminaries - Round of 16
+SUMMARY:🥊 Murad ALLAHVERDIYEV 🇦🇿 - 🇪🇬 Abdelrahman ABDELGAWWAD
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-shooting-50M-RIFLE-3-POSITIONS-MENS-QUALIFICATION
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T083000Z
+DESCRIPTION:Shooting - 50m Rifle 3 Positions Men's Qualification\n🇮🇳
+  Aishwary Pratap Singh TOMAR\n🇫🇮 Aleksi LEPPA\n🇦🇹 Alexander
+  SCHMIRL\n🇦🇹 Andreas THUM\n🇲🇳 Bayaraa NYANTAI\n🇲🇽 Carlos QUEZADA
+  MARQUEZ\n🇨🇭 Christoph DUERR\n🇦🇺 Dane SAMPSON\n🇮🇹 Danilo Dennis
+  SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo BONAZZI\n🇮🇩 Fathur
+  GUSTAFIAN\n🇪🇬 Ibrahim Ahmad Mohammad KORAYIEM\n🇰🇿 Islam
+  SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺 Istvan PENI\n🇺🇸 Ivan ROE\n🇦🇺
+  Jack ROSSITER\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇰🇿
+  Konstantin MALINOVSKIY\n🇨🇳 LIU Yukun\n🇷🇸 Lazar KOVACEVIC\n🇫🇷 Lucas
+  Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇸🇪 Marcus MADSEN\n🇩🇪
+  Maximilian ULBRICH\n🇬🇧 Michael BARGERON\n🇭🇷 Miran MARICIC\n🇯🇵 OKADA
+  Naoya\n🇳🇴 Ole Martin HALVORSEN\n🇰🇷 PARK Hajun\n🇸🇰 Patrik JANY\n🇭🇷
+  Petar GORSA\n🇨🇿 Petr NYMBURSKY\n🇫🇷 Romain AUFRERE\n🇺🇸 Rylan William
+  KISSELL\n🇺🇦 Serhiy KULISH\n🇮🇳 Swapnil KUSALE\n🇹🇭 Thongphaphum
+  VONGSUKDEE\n🇵🇱 Tomasz BARTNIK\n🇨🇦 Tye IKEDA\n🇸🇪 Victor
+  LINDGREN\n🇭🇺 Zalan PEKLER
+SUMMARY:🔫 50m Rifle 3 Positions Men's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T113000Z-fencing-MENS-SABRE-TEAM-TABLE-OF-8-FRA-EGY
+DTSTAMP:20240731T113000Z
+DTSTART:20240731T113000Z
+DTEND:20240731T122000Z
+DESCRIPTION:Fencing - Men's Sabre Team Table of 8
+SUMMARY:🤺 FRA 🇫🇷 - 🇪🇬 EGY
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T131500Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-EGY-KO
+DTSTAMP:20240731T131500Z
+DTSTART:20240731T131500Z
+DTEND:20240731T132800Z
+DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+SUMMARY:🏹 Jana ALI 🇪🇬 - 🇰🇷 NAM Suhyeon
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T141800Z-boxing-MENS-71KG-PRELIMINARIES-ROUND-OF-16-EGY-UZB
+DTSTAMP:20240731T141800Z
+DTSTART:20240731T141800Z
+DTEND:20240731T142900Z
+DESCRIPTION:Boxing - Men's 71kg - Preliminaries - Round of 16
+SUMMARY:🥊 Omar ELAWADY 🇪🇬 - 🇺🇿 Asadkhuja MUYDINKHUJAEV
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T170000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-FRA-EGY
+DTSTAMP:20240731T170000Z
+DTSTART:20240731T170000Z
+DTEND:20240731T183000Z
+DESCRIPTION:Handball - Men's Preliminary Round Group B
+SUMMARY:🤾 FRA 🇫🇷 - 🇪🇬 EGY
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T090000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-A-ESP-E
+DTSTAMP:20240801T090000Z
+DTSTART:20240801T090000Z
+DTEND:20240801T095000Z
+DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool A
+SUMMARY:🏐 LILIANA/PAULA 🇪🇸 - 🇪🇬 MARWA/D. ELGHOBASHY
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T095000Z-fencing-WOMENS-FOIL-TEAM-TABLE-OF-8-EGY-ITA
+DTSTAMP:20240801T095000Z
+DTSTART:20240801T095000Z
+DTEND:20240801T110000Z
+DESCRIPTION:Fencing - Women's Foil Team Table of 8
+SUMMARY:🤺 EGY 🇪🇬 - 🇮🇹 ITA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T100600Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-GER-EGY
+DTSTAMP:20240801T100600Z
+DTSTART:20240801T100600Z
+DTEND:20240801T101900Z
+DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+SUMMARY:🏹 Florian UNRUH 🇩🇪 - 🇪🇬 Youssof TOLBA
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T070000Z-shooting-25M-PISTOL-WOMENS-QUALIFICATION-PRECISION
+DTSTAMP:20240802T070000Z
+DTSTART:20240802T070000Z
+DTEND:20240802T093000Z
+DESCRIPTION:Shooting - 25m Pistol Women's Qualification Precision\n🇺🇸 Ada
+  Claudia KORKHIN\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨
+  Andrea PEREZ PENA\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷
+  Camille JEDRZEJEWSKI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪 Doreen
+  VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh
+  ROSTAMIYAN\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸
+  Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG
+  Xiaoya\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷
+  Mathilde LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦
+  Olena KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
+  Simal YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia
+  Chen\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika
+  MAJOR\n🇹🇼 WU Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO
+  Nan
+SUMMARY:🔫 25m Pistol Women's Qualification Precision
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-1
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T120000Z
+DESCRIPTION:Shooting - Skeet Men's Qualification - Day 1\n🇮🇳 Anant Jeet
+  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
+  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
+  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
+  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
+  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
+  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
+  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
+  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
+  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T110000Z-volleyball-MENS-PRELIMINARY-ROUND-POOL-B-BRA-EGY
+DTSTAMP:20240802T110000Z
+DTSTART:20240802T110000Z
+DTEND:20240802T131500Z
+DESCRIPTION:Volleyball - Men's Preliminary Round - Pool B
+SUMMARY:🏐 BRA 🇧🇷 - 🇪🇬 EGY
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T113000Z-fencing-MENS-PE-TEAM-TABLE-OF-8-EGY-FRA
+DTSTAMP:20240802T113000Z
+DTSTART:20240802T113000Z
+DTEND:20240802T122000Z
+DESCRIPTION:Fencing - Men's Épée Team Table of 8
+SUMMARY:🤺 EGY 🇪🇬 - 🇫🇷 FRA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T190000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-NOR-EGY
+DTSTAMP:20240802T190000Z
+DTSTART:20240802T190000Z
+DTEND:20240802T203000Z
+DESCRIPTION:Handball - Men's Preliminary Round Group B
+SUMMARY:🤾 NOR 🇳🇴 - 🇪🇬 EGY
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T070000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-QUALIFICATION-STAG
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T103000Z
+DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Qualification - Stage
+  1\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷
+  Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪
+  Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry Turner
+  LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
+  SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦 Maksym
+  HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej
+  RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦
+  Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
+  LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei EVGLEVSKI\n🇮🇳 Vijayveer
+  SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 25m Rapid Fire Pistol Men's Qualification - Stage 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T090000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-EGY-ARG
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T103000Z
+DESCRIPTION:Handball - Men's Preliminary Round Group B
+SUMMARY:🤾 EGY 🇪🇬 - 🇦🇷 ARG
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T095000Z-fencing-MENS-FOIL-TEAM-TABLE-OF-8-EGY-USA
+DTSTAMP:20240804T095000Z
+DTSTART:20240804T095000Z
+DTEND:20240804T110000Z
+DESCRIPTION:Fencing - Men's Foil Team Table of 8
+SUMMARY:🤺 EGY 🇪🇬 - 🇺🇸 USA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-diving-WOMENS-10M-PLATFORM-PRELIMINARY
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101300Z
+DESCRIPTION:Diving - Women's 10m Platform Preliminary\n🇯🇵 ARAI
+  Matsuri\n🇲🇽 Alejandra OROZCO LOZA\n🇪🇸 Ana CARVAJAL\n🇬🇧 Andrea
+  SPENDOLINI SIRIEIX\n🇨🇺 Anisley GARCIA NAVARRO\n🇨🇳 CHEN Yuxi\n🇨🇦
+  Caeli McKAY\n🇩🇪 Christina WASSEN\n🇮🇪 Ciara McGING\n🇺🇸 Daryn
+  WRIGHT\n🇺🇸 Delaney SCHNELL\n🇱🇻 Dzeja Delanija PATRIKA\n🇦🇺 Ellie
+  COLE\n🇳🇱 Else PRAASTERINK\n🇲🇽 Gabriela AGUNDEZ GARCIA\n🇧🇷 Ingrid
+  OLIVEIRA\n🇰🇵 KIM Mi Rae\n🇰🇷 KIM Nahyun\n🇨🇦 Kate MILLER\n🇬🇧 Lois
+  TOULSON\n🇮🇹 Maia BIGINELLI\n🇪🇬 Malak TAWFIK\n🇵🇷 Maycey Adrianne
+  VIETA\n🇦🇺 Melissa WU\n🇩🇪 Pauline Alexandra PFEIF\n🇨🇳 QUAN
+  Hongchan\n🇮🇹 Sarah JODOIN di MARIA\n🇺🇦 Sofiia LYSKUN\n🇩🇴 Victoria
+  GARZA
+SUMMARY:🏊 Women's 10m Platform Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-table-tennis-MENS-TEAM-ROUND-OF-16-EGY-TPE
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T110000Z
+DESCRIPTION:Table Tennis - Men's Team Round of 16
+SUMMARY:🏓 EGY 🇪🇬 - 🇹🇼 TPE
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T130000Z-table-tennis-WOMENS-TEAM-ROUND-OF-16-CHN-EGY
+DTSTAMP:20240805T130000Z
+DTSTART:20240805T130000Z
+DTEND:20240805T160000Z
+DESCRIPTION:Table Tennis - Women's Team Round of 16
+SUMMARY:🏓 CHN 🇨🇳 - 🇪🇬 EGY
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-diving-MENS-3M-SPRINGBOARD-PRELIMINARY
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T100900Z
+DESCRIPTION:Diving - Men's 3m Springboard Preliminary\n🇺🇸 Andrew
+  CAPOBIANCO\n🇺🇸 Carson TYLER\n🇨🇴 Daniel RESTREPO GARCIA\n🇩🇴 Frandiel
+  GOMEZ\n🇮🇹 Giovanni TOCCI\n🇫🇷 Gwendal BISCH\n🇬🇧 Jack LAUGHER\n🇮🇪
+  Jake PASSMORE\n🇩🇴 Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules
+  BOUYER\n🇲🇽 Kevin Alexander MUNOZ HEREDIA\n🇦🇺 Kurtis MATHEWS\n🇩🇪
+  Lars RUDIGER\n🇮🇹 Lorenzo MARSAGLIA\n🇨🇴 Luis Felipe URIBE
+  BERMUDEZ\n🇪🇬 Mohamed FAROUK\n🇩🇪 Moritz WESEMANN\n🇲🇽 Osmar OLVERA
+  IBARRA\n🇯🇵 SAKAI Sho\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO Haram\n🇨🇳 XIE
+  Siyi\n🇰🇷 YI Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
+SUMMARY:🏊 Men's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T130000Z-diving-WOMENS-3M-SPRINGBOARD-PRELIMINARY
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T145700Z
+DESCRIPTION:Diving - Women's 3m Springboard Preliminary\n🇲🇽 Alejandra
+  ESTUDILLO TORRES\n🇺🇸 Alison GIBSON\n🇦🇺 Alysha KOLOI\n🇨🇺 Anisley
+  GARCIA NAVARRO\n🇲🇽 Aranza VAZQUEZ MONTANO\n🇨🇳 CHANG Yani\n🇨🇳 CHEN
+  Yiwen\n🇮🇹 Chiara PELLACANI\n🇯🇵 ENOMOTO Haruka\n🇮🇹 Elena
+  BERTOCCHI\n🇸🇪 Emilia NILSSON GARIP\n🇬🇧 Grace REID\n🇳🇴 Helle
+  TUXEN\n🇩🇪 Jette MULLER\n🇿🇦 Julia VINCENT\n🇰🇷 KIM Suji\n🇳🇿 Lizzie
+  ROUSSEL\n🇯🇵 MIKAMI Sayaka\n🇦🇺 Maddison KEENEY\n🇪🇬 Maha AMER\n🇨🇦
+  Margo ERLAM\n🇲🇾 Nur Dhabitah SABRI\n🇨🇺 Prisis RUIZ\n🇺🇸 Sarah
+  BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇺🇦 Viktoriya
+  KESAR\n🇬🇧 Yasmin HARPER
+SUMMARY:🏊 Women's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080000Z-diving-MENS-10M-PLATFORM-PRELIMINARY
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T103900Z
+DESCRIPTION:Diving - Men's 10m Platform Preliminary\n🇨🇴 Alejandro
+  SOLARTE\n🇮🇹 Andreas Sargent LARSEN\n🇦🇹 Anton KNOLL\n🇲🇾 Bertrand
+  Rhodict ANAK LISES\n🇺🇸 Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇺🇸 Carson
+  TYLER\n🇦🇺 Cassiel ROUSSEAU\n🇰🇵 IM Yong Myong\n🇺🇿 Igor MYALIN\n🇦🇺
+  Jaxon BOWSHIRE\n🇰🇷 KIM Yeongtaek\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle
+  KOTHARI\n🇺🇦 Mark HRYTSENKO\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah
+  WILLIAMS\n🇪🇬 Ramez SOBHY\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo
+  GIOVANNINI\n🇵🇱 Robert LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN
+  Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 Men's 10m Platform Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

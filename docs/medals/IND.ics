@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//medals/IND//EN
+X-WR-CALNAME:🇮🇳 India 🏅 | Paris 2024
+NAME:🇮🇳 India 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T100000Z-shooting-10M-AIR-PISTOL-WOMENS-FINAL
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T104500Z
+DESCRIPTION:Shooting - 10m Air Pistol Women's Final\n🇨🇳 JIANG
+  Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye
+  Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
+SUMMARY:🔫 10m Air Pistol Women's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T073000Z-shooting-10M-AIR-RIFLE-WOMENS-FINAL
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:Shooting - 10m Air Rifle Women's Final\n🇰🇿 Alexandra Le\n🇨🇭
+  Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
+  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 10m Air Rifle Women's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-shooting-10M-AIR-RIFLE-MENS-FINAL
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T104500Z
+DESCRIPTION:Shooting - 10m Air Rifle Men's Final\n🇮🇳 Arjun BABUTA\n🇰🇷
+  CHOE Daehan\n🇮🇹 Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian
+  GUTIERREZ\n🇭🇷 Miran MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪
+  Victor LINDGREN
+SUMMARY:🔫 10m Air Rifle Men's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T073000Z-shooting-10M-AIR-PISTOL-MIXED-TEAM-BRONZE-MEDAL-MATCH-
+DTSTAMP:20240730T073000Z
+DTSTART:20240730T073000Z
+DTEND:20240730T075000Z
+DESCRIPTION:Shooting - 10m Air Pistol Mixed Team Bronze Medal Match
+SUMMARY:🔫 India 1 🇮🇳 - 🇰🇷 Korea 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+END:VCALENDAR
