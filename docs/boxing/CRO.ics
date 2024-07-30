@@ -12,4 +12,13 @@ DESCRIPTION:拳擊 - 男子80公斤級 - 預賽 - 16強賽
 SUMMARY:🥊 Hussein IASHAISH 🇯🇴 - 🇭🇷 Gabrijel VEOCIC
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T150600Z-boxing-80-14-DOM-CRO
+DTSTAMP:20240802T150600Z
+DTSTART:20240802T150600Z
+DTEND:20240802T151700Z
+DESCRIPTION:拳擊 - 男子80公斤級 - 1/4決賽
+SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇭🇷 Gabrijel VEOCIC
+LOCATION:北巴黎競技場
+END:VEVENT
 END:VCALENDAR
