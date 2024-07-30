@@ -83,11 +83,17 @@ UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇭🇰 中國香港\n🇩🇰 DEN\n🇧🇷 BRA\n🇵🇾 PAR\n🇯🇵
-  JPN\n🇧🇪 BEL\n🇨🇺 CUB\n🇱🇹 LTU\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩 INA\n🇦🇴
-  ANG\n🇧🇲 BER\n🇭🇷 CRO\n🇱🇾 LBA\n🇬🇷 GRE\n🇩🇿 ALG\n🇧🇬 BUL\n🇰🇿
-  KAZ\n🇿🇼 津巴布韋\n🇹🇳 TUN\n🇺🇸 USA\n🇪🇬 EGY\n🇹🇭 THA\n🇺🇾 URU\n🇳🇱
-  NED\n🇸🇮 斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 GER\n🇲🇨 MON\n🇷🇴 ROU\n🇸🇩 SUD
+DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇸🇩 Abdalla AHMED\n🇪🇬 Abdelkhalek
+  ELBANNA\n🇦🇴 Andre MATIAS\n🇯🇵 ARAKAWA Ryuta\n🇮🇳 Balraj PANWAR\n🇭🇺
+  Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
+  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
+  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
+  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
 SUMMARY:🚣 男子單人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -399,9 +405,17 @@ UID:20240728T100000Z-rowing-
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T102700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷
-  FRA\n🇦🇷 ARG\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇿 CZE\n🇨🇱
-  CHI\n🇮🇹 ITA\n🇮🇪 IRL\n🇨🇭 SUI\n🇲🇽 MEX
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
+  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇳🇴
+  Ask Jarl TJOEM\n🇪🇸 Caetano Xose HORTA POMBO\n🇨🇱 Cesar ABAROA\n🇪🇸
+  Dennis CARRACEDO FERRERO\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇮🇪
+  Fintan Mc CARTHY\n🇯🇵 FURUTA Naoki\n🇮🇹 Gabriel SOARES\n🇫🇷 Hugo
+  BEUREY\n🇺🇦 Igor KHMARA\n🇨🇭 Jan SCHAEUBLE\n🇨🇿 Jiri SIMANEK\n🇳🇴
+  Lars Martin BENSKE\n🇲🇽 Miguel CARBALLO NIETO\n🇨🇿 Miroslav
+  VRASTIL\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
+  ZANDWEGHE\n🇮🇪 Paul O DONOVAN\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros
+  GKAIDATZIS\n🇨🇭 Raphael AHUMADA\n🇺🇿 Shakhzod NURMATOV\n🇺🇿 Sobirjon
+  SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇮🇹 Stefano OPPO\n🇧🇪 Tibo VYVEY
 SUMMARY:🚣 男子輕量級雙人雙槳預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -529,8 +543,14 @@ UID:20240729T084000Z-rowing-
 DTSTAMP:20240729T084000Z
 DTSTART:20240729T084000Z
 DTEND:20240729T085700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇬🇷 GRE\n🇫🇷 FRA\n🇦🇷
-  ARG\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇱 CHI\n🇲🇽 MEX
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
+  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇨🇱
+  Cesar ABAROA\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇯🇵 FURUTA
+  Naoki\n🇫🇷 Hugo BEUREY\n🇺🇦 Igor KHMARA\n🇲🇽 Miguel CARBALLO
+  NIETO\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
+  ZANDWEGHE\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇺🇿 Shakhzod
+  NURMATOV\n🇺🇿 Sobirjon SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇧🇪 Tibo
+  VYVEY
 SUMMARY:🚣 男子輕量級雙人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -923,10 +943,10 @@ SUMMARY:🔫 女子雙向飛碟資格賽 - 第1天
 LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T092500Z-swimming-1500
-DTSTAMP:20240803T092500Z
-DTSTART:20240803T092500Z
-DTEND:20240803T103200Z
+UID:20240803T093005Z-swimming-1500
+DTSTAMP:20240803T093005Z
+DTSTART:20240803T093005Z
+DTEND:20240803T104037Z
 DESCRIPTION:游泳 - 男子1500米自由泳分組預賽\n🇹🇳 Ahmed JAOUADI\n🇺🇸 Bobby FINKE\n🇪🇸
   Carlos GARACH BENITO\n🇫🇷 Damien JOLY\n🇬🇧 Daniel JERVIS\n🇮🇪 Daniel
   WIFFEN\n🇫🇷 David AUBRY\n🇭🇺 David BETLEHEM\n🇺🇸 David JOHNSTON\n🇬🇷
