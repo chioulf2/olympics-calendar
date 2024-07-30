@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//football/ARG//EN
-X-WR-CALNAME:🇦🇷 Argentina 足球 | 巴黎2024
-NAME:🇦🇷 Argentina 足球 | 巴黎2024
+X-WR-CALNAME:🇦🇷 阿根廷 足球 | 巴黎2024
+NAME:🇦🇷 阿根廷 足球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240724T130000Z-football-B-ARG-MAR
 DTSTAMP:20240724T130000Z
 DTSTART:20240724T130000Z
 DTEND:20240724T144500Z
 DESCRIPTION:足球 - 男子B組
-SUMMARY:⚽ 阿根廷 🇦🇷 - 🇲🇦 摩洛哥
+SUMMARY:⚽ ARG 🇦🇷 - 🇲🇦 MAR
 LOCATION:熱奧弗魯瓦基查爾體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -18,7 +18,7 @@ DTSTAMP:20240727T130000Z
 DTSTART:20240727T130000Z
 DTEND:20240727T144500Z
 DESCRIPTION:足球 - 男子B組
-SUMMARY:⚽ 阿根廷 🇦🇷 - 🇮🇶 伊拉克
+SUMMARY:⚽ ARG 🇦🇷 - 🇮🇶 IRQ
 LOCATION:里昂體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DTSTAMP:20240730T150000Z
 DTSTART:20240730T150000Z
 DTEND:20240730T170000Z
 DESCRIPTION:足球 - 男子B組
-SUMMARY:⚽ 烏克蘭 🇺🇦 - 🇦🇷 阿根廷
+SUMMARY:⚽ UKR 🇺🇦 - 🇦🇷 ARG
 LOCATION:里昂體育場
 END:VEVENT
 END:VCALENDAR

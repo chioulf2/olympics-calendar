@@ -1,25 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//rowing/RSA//EN
-X-WR-CALNAME:🇿🇦 South Africa 賽艇 | 巴黎2024
-NAME:🇿🇦 South Africa 賽艇 | 巴黎2024
+X-WR-CALNAME:🇿🇦 南非 賽艇 | 巴黎2024
+NAME:🇿🇦 南非 賽艇 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T081200Z-rowing-
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:賽艇 - 女子單人雙槳分組預賽\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
-  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪
-  Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina
-  JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿
-  Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇳🇮 Evidelia GONZALEZ
-  JARQUIN\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
-  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen
-  NOBLE\n🇲🇽 Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline
-  EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
-  BADENHORST\n🇰🇼 Soaad ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue
-  PHAM\n🇱🇹 Viktorija SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis
-  COBAS GARCIA
+DESCRIPTION:賽艇 - 女子單人雙槳分組預賽\n🇹🇷 TUR\n🇧🇷 BRA\n🇵🇾 PAR\n🇨🇺 CUB\n🇳🇮
+  NCA\n🇱🇹 LTU\n🇮🇷 IRI\n🇹🇬 TOG\n🇪🇸 ESP\n🇦🇿 AZE\n🇩🇿 ALG\n🇧🇬
+  BUL\n🇿🇦 RSA\n🇰🇼 KUW\n🇺🇸 USA\n🇺🇿 UZB\n🇺🇬 UGA\n🇵🇪 PER\n🇳🇱
+  NED\n🇸🇮 斯洛文尼亞\n🇵🇭 PHI\n🇻🇳 VIE\n🇷🇸 SRB\n🇦🇹 AUT\n🇸🇬 SGP\n🇳🇿
+  新西蘭\n🇨🇭 SUI\n🇩🇪 GER\n🇲🇦 MAR\n🇲🇽 MEX\n🇦🇺 AUS
 SUMMARY:🚣 女子單人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -28,15 +21,9 @@ UID:20240728T090000Z-rowing-
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T092700Z
-DESCRIPTION:賽艇 - 男子雙人單槳分組預賽\n🇨🇭 Andrin GULICH\n🇺🇸 Billy BENDER\n🇿🇦
-  Christopher BAXTER\n🇳🇿 Daniel WILLIAMSON\n🇮🇹 Davide COMINI\n🇱🇹
-  Domantas STANKUNAS\n🇱🇹 Dovydas STANKUNAS\n🇷🇴 Florin ARTENI\n🇷🇴
-  Florin Sorin LEHACI\n🇮🇹 Giovanni CODATO\n🇪🇸 Jaime CANALEJO
-  PAZOS\n🇪🇸 Javier GARCIA ORDONEZ\n🇿🇦 John SMITH\n🇩🇪 Julius
-  CHRIST\n🇭🇷 Martin SINKOVIC\n🇮🇪 Nathan TIMONEY\n🇺🇸 Oliver BUB\n🇬🇧
-  Oliver WYNNE-GRIFFITH\n🇦🇺 Patrick HOLT\n🇳🇿 Phillip WILSON\n🇨🇭 Roman
-  ROEOESLI\n🇮🇪 Ross CORRIGAN\n🇦🇺 Simon KEENAN\n🇩🇪 Soenke KRUSE\n🇬🇧
-  Tom GEORGE\n🇭🇷 Valent SINKOVIC
+DESCRIPTION:賽艇 - 男子雙人單槳分組預賽\n🇱🇹 LTU\n🇪🇸 ESP\n🇭🇷 CRO\n🇿🇦 RSA\n🇺🇸
+  USA\n🇬🇧 GBR\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇩🇪 GER\n🇦🇺
+  AUS\n🇷🇴 ROU
 SUMMARY:🚣 男子雙人單槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -45,15 +32,10 @@ UID:20240730T073000Z-rowing-14
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T080700Z
-DESCRIPTION:賽艇 - 女子單人雙槳1/4決賽\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra
-  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
-  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
-  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
-  TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
-  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
-  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
-  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
-  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
+DESCRIPTION:賽艇 - 女子單人雙槳1/4決賽\n🇹🇷 TUR\n🇧🇷 BRA\n🇵🇾 PAR\n🇱🇹 LTU\n🇮🇷
+  IRI\n🇪🇸 ESP\n🇦🇿 AZE\n🇧🇬 BUL\n🇿🇦 RSA\n🇺🇸 USA\n🇺🇿 UZB\n🇵🇪
+  PER\n🇳🇱 NED\n🇸🇮 斯洛文尼亞\n🇵🇭 PHI\n🇻🇳 VIE\n🇷🇸 SRB\n🇦🇹 AUT\n🇳🇿
+  新西蘭\n🇨🇭 SUI\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
 SUMMARY:🚣 女子單人雙槳1/4決賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -62,8 +44,8 @@ UID:20240731T083400Z-rowing--AB-1
 DTSTAMP:20240731T083400Z
 DTSTART:20240731T083400Z
 DTEND:20240731T084100Z
-DESCRIPTION:賽艇 - 男子雙人單槳半決賽 A/B 1\n🇱🇹 立陶宛\n🇪🇸 西班牙\n🇭🇷 克羅地亞\n🇿🇦
-  南非\n🇺🇸 美國\n🇨🇭 瑞士
+DESCRIPTION:賽艇 - 男子雙人單槳半決賽 A/B 1\n🇱🇹 LTU\n🇪🇸 ESP\n🇭🇷 CRO\n🇿🇦
+  RSA\n🇺🇸 USA\n🇨🇭 SUI
 SUMMARY:🚣 男子雙人單槳半決賽 A/B 1
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT

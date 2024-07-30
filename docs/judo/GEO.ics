@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/GEO//EN
-X-WR-CALNAME:🇬🇪 Georgia 柔道 | 巴黎2024
-NAME:🇬🇪 Georgia 柔道 | 巴黎2024
+X-WR-CALNAME:🇬🇪 格魯吉亞 柔道 | 巴黎2024
+NAME:🇬🇪 格魯吉亞 柔道 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T091800Z-judo-6016-GEO-ISR
 DTSTAMP:20240727T091800Z
@@ -161,7 +161,7 @@ UID:20240803T084800Z-judo-16
 DTSTAMP:20240803T084800Z
 DTSTART:20240803T084800Z
 DTEND:20240803T084800Z
-DESCRIPTION:柔道 - 混合團體16強淘汰賽\n🇬🇪 格魯吉亞
+DESCRIPTION:柔道 - 混合團體16強淘汰賽\n🇬🇪 GEO
 SUMMARY:🥋 混合團體16強淘汰賽
 LOCATION:戰神廣場
 END:VEVENT

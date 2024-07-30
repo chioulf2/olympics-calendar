@@ -1,19 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//shooting/KAZ//EN
-X-WR-CALNAME:🇰🇿 Kazakhstan 射擊 | 巴黎2024
-NAME:🇰🇿 Kazakhstan 射擊 | 巴黎2024
+X-WR-CALNAME:🇰🇿 哈薩克斯坦 射擊 | 巴黎2024
+NAME:🇰🇿 哈薩克斯坦 射擊 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T070000Z-shooting-10
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T073000Z
-DESCRIPTION:射擊 - 混合團體10米氣步槍資格賽\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
-  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
-  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
-  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
-  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
+DESCRIPTION:射擊 - 混合團體10米氣步槍資格賽\n🇦🇷 Argentina\n🇦🇹 Austria\n🇨🇳 China
+  1\n🇨🇳 China 2\n🇨🇿 Czechia\n🇪🇬 Egypt\n🇪🇬 Egypt 1\n🇫🇷 France
+  1\n🇫🇷 France 2\n🇩🇪 Germany\n🇬🇧 Great Britain\n🇭🇺 Hungary\n🇮🇳
+  India 1\n🇮🇳 India 2\n🇮🇹 Italy\n🇯🇵 Japan\n🇰🇿 Kazakhstan 1\n🇰🇿
+  Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇲🇽 Mexico\n🇲🇳
+  Mongolia\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland 1\n🇵🇱 Poland
+  2\n🇺🇸 United States 1\n🇺🇸 United States 2
 SUMMARY:🔫 混合團體10米氣步槍資格賽
 LOCATION:沙託魯射擊中心
 END:VEVENT
@@ -123,10 +124,10 @@ UID:20240729T071500Z-shooting-10
 DTSTAMP:20240729T071500Z
 DTSTART:20240729T071500Z
 DTEND:20240729T074500Z
-DESCRIPTION:射擊 - 混合團體10米氣手槍資格賽\n🇧🇬 BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷
-  FRA\n🇩🇪 Germany 1\n🇩🇪 Germany 2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿
-  KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻 LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷
-  Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
+DESCRIPTION:射擊 - 混合團體10米氣手槍資格賽\n🇧🇬 Bulgaria\n🇨🇳 China 1\n🇨🇳 China
+  2\n🇫🇷 France\n🇩🇪 Germany 1\n🇩🇪 Germany 2\n🇮🇳 India 1\n🇮🇳 India
+  2\n🇰🇿 Kazakhstan\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻 Latvia\n🇵🇰
+  Pakistan\n🇷🇸 Serbia\n🇹🇷 Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 Ukraine
 SUMMARY:🔫 混合團體10米氣手槍資格賽
 LOCATION:沙託魯射擊中心
 END:VEVENT

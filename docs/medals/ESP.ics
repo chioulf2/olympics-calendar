@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/ESP//EN
-X-WR-CALNAME:🇪🇸 Spain 🏅 | 巴黎2024
-NAME:🇪🇸 Spain 🏅 | 巴黎2024
+X-WR-CALNAME:🇪🇸 西班牙 🏅 | 巴黎2024
+NAME:🇪🇸 西班牙 🏅 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
@@ -172,8 +172,8 @@ UID:20240802T090000Z-diving-3
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
 DTEND:20240802T095500Z
-DESCRIPTION:跳水 - 男子雙人3米跳板跳水\n🇨🇳 中國\n🇪🇸 西班牙\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧
-  英國\n🇺🇦 烏克蘭\n🇮🇹 意大利\n🇲🇽 墨西哥
+DESCRIPTION:跳水 - 男子雙人3米跳板跳水\n🇨🇳 CHN\n🇪🇸 ESP\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇮🇹 ITA\n🇲🇽 MEX
 SUMMARY:🏊 男子雙人3米跳板跳水
 LOCATION:水上運動中心
 END:VEVENT

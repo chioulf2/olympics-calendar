@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/USA//EN
-X-WR-CALNAME:🇺🇸 United States 網球 | 巴黎2024
-NAME:🇺🇸 United States 網球 | 巴黎2024
+X-WR-CALNAME:🇺🇸 美國 網球 | 巴黎2024
+NAME:🇺🇸 美國 網球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T100000Z-tennis-1-KAZ-USA
 DTSTAMP:20240727T100000Z

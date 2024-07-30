@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/GUY//EN
-X-WR-CALNAME:🇬🇾 Guyana | 巴黎2024
-NAME:🇬🇾 Guyana | 巴黎2024
+X-WR-CALNAME:🇬🇾 圭亞那 | 巴黎2024
+NAME:🇬🇾 圭亞那 | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
@@ -17,19 +17,11 @@ UID:20240727T094500Z-swimming-400
 DTSTAMP:20240727T094500Z
 DTSTART:20240727T094500Z
 DTEND:20240727T101400Z
-DESCRIPTION:游泳 - 男子400米自由泳分組預賽\n🇺🇸 Aaron SHACKELL\n🇹🇳 Ahmed
-  JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇨🇭
-  Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David AUBRY\n🇨🇱 Eduardo
-  CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺 Elijah WINNINGTON\n🇨🇳
-  FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme COSTA\n🇲🇾 Hoe Yean
-  KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya SIBIRTSEV\n🇵🇪 Joaquin
-  VARGAS\n🇧🇦 Jovan LEKIC\n🇬🇧 Kieran BIRD\n🇺🇸 Kieran SMITH\n🇰🇷 KIM
-  Woomin\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪
-  Lukas MAERTENS\n🇮🇹 Marco de TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola
-  GJURETANOVIKJ\n🇩🇪 Oliver KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov
-  MITSIN\n🇬🇾 Raekwon Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana
-  MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪 Victor JOHANSSON\n🇭🇺 Zalan
-  SARKANY\n🇨🇳 ZHANG Zhanshuo
+DESCRIPTION:游泳 - 男子400米自由泳分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇧🇪 BEL\n🇲🇰
+  MKD\n🇱🇹 LTU\n🇭🇺 HUN\n🇬🇾 GUY\n🇻🇪 VEN\n🇫🇷 FRA\n🇧🇦 波黑\n🇰🇪
+  KEN\n🇧🇬 BUL\n🇹🇳 TUN\n🇺🇸 USA\n🇬🇧 GBR\n🇨🇷 CRC\n🇺🇿 UZB\n🇵🇪
+  PER\n🇲🇾 MAS\n🇨🇱 CHI\n🇦🇹 AUT\n🇮🇹 ITA\n🇪🇪 EST\n🇨🇭 SUI\n🇸🇪
+  SWE\n🇸🇲 SMR\n🇩🇪 GER\n🇲🇦 MAR\n🇲🇩 MDA\n🇦🇺 AUS\n🇰🇷 KOR
 SUMMARY:🏊 男子400米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -47,16 +39,10 @@ UID:20240730T104759Z-swimming-100
 DTSTAMP:20240730T104759Z
 DTSTART:20240730T104759Z
 DTEND:20240730T110153Z
-DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
-  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
-  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
-  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
-  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
-  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
-  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
-  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
-  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
-  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇨🇳 CHN\n🇭🇰 中國香港\n🇨🇦 CAN\n🇮🇸
+  ISL\n🇬🇾 GUY\n🇭🇷 CRO\n🇫🇷 FRA\n🇵🇱 POL\n🇩🇿 ALG\n🇿🇼 津巴布韋\n🇺🇸
+  USA\n🇬🇧 GBR\n🇬🇩 GRN\n🇺🇬 UGA\n🇨🇿 CZE\n🇳🇱 NED\n🇧🇼 BOT\n🇸🇮
+  斯洛文尼亞\n🇵🇭 PHI\n🇰🇾 CAY\n🇨🇾 CYP\n🇸🇪 SWE\n🇦🇺 AUS\n🇸🇩 SUD
 SUMMARY:🏊 女子100米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT

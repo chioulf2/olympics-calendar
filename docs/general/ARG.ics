@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/ARG//EN
-X-WR-CALNAME:🇦🇷 Argentina | 巴黎2024
-NAME:🇦🇷 Argentina | 巴黎2024
+X-WR-CALNAME:🇦🇷 阿根廷 | 巴黎2024
+NAME:🇦🇷 阿根廷 | 巴黎2024
 BEGIN:VEVENT
 UID:20240724T130000Z-football-B-ARG-MAR
 DTSTAMP:20240724T130000Z
 DTSTART:20240724T130000Z
 DTEND:20240724T144500Z
 DESCRIPTION:足球 - 男子B組
-SUMMARY:⚽ 阿根廷 🇦🇷 - 🇲🇦 摩洛哥
+SUMMARY:⚽ ARG 🇦🇷 - 🇲🇦 MAR
 LOCATION:熱奧弗魯瓦基查爾體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -18,7 +18,7 @@ DTSTAMP:20240724T140000Z
 DTSTART:20240724T140000Z
 DTEND:20240724T141600Z
 DESCRIPTION:七人制橄欖球 - 男子分組循環賽B組
-SUMMARY:🏉 阿根廷 🇦🇷 - 🇰🇪 肯尼亞
+SUMMARY:🏉 ARG 🇦🇷 - 🇰🇪 KEN
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DTSTAMP:20240724T173000Z
 DTSTART:20240724T173000Z
 DTEND:20240724T174600Z
 DESCRIPTION:七人制橄欖球 - 男子分組循環賽B組
-SUMMARY:🏉 阿根廷 🇦🇷 - 🇼🇸 薩摩亞
+SUMMARY:🏉 ARG 🇦🇷 - 🇼🇸 SAM
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -64,7 +64,7 @@ DTSTAMP:20240725T123000Z
 DTSTART:20240725T123000Z
 DTEND:20240725T124600Z
 DESCRIPTION:七人制橄欖球 - 男子分組循環賽B組
-SUMMARY:🏉 阿根廷 🇦🇷 - 🇦🇺 澳大利亞
+SUMMARY:🏉 ARG 🇦🇷 - 🇦🇺 AUS
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -73,7 +73,7 @@ DTSTAMP:20240725T193000Z
 DTSTART:20240725T193000Z
 DTEND:20240725T194600Z
 DESCRIPTION:七人制橄欖球 - 男子1/4決賽
-SUMMARY:🏉 阿根廷 🇦🇷 - 🇫🇷 法國
+SUMMARY:🏉 ARG 🇦🇷 - 🇫🇷 FRA
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -90,12 +90,13 @@ UID:20240727T070000Z-shooting-10
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T073000Z
-DESCRIPTION:射擊 - 混合團體10米氣步槍資格賽\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
-  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
-  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
-  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
-  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
+DESCRIPTION:射擊 - 混合團體10米氣步槍資格賽\n🇦🇷 Argentina\n🇦🇹 Austria\n🇨🇳 China
+  1\n🇨🇳 China 2\n🇨🇿 Czechia\n🇪🇬 Egypt\n🇪🇬 Egypt 1\n🇫🇷 France
+  1\n🇫🇷 France 2\n🇩🇪 Germany\n🇬🇧 Great Britain\n🇭🇺 Hungary\n🇮🇳
+  India 1\n🇮🇳 India 2\n🇮🇹 Italy\n🇯🇵 Japan\n🇰🇿 Kazakhstan 1\n🇰🇿
+  Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇲🇽 Mexico\n🇲🇳
+  Mongolia\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland 1\n🇵🇱 Poland
+  2\n🇺🇸 United States 1\n🇺🇸 United States 2
 SUMMARY:🔫 混合團體10米氣步槍資格賽
 LOCATION:沙託魯射擊中心
 END:VEVENT
@@ -113,13 +114,9 @@ UID:20240727T091200Z-swimming-400
 DTSTAMP:20240727T091200Z
 DTSTART:20240727T091200Z
 DTEND:20240727T093000Z
-DESCRIPTION:游泳 - 女子400米自由泳分組預賽\n🇦🇷 Agostina HEIN\n🇭🇺 Ajna KESELY\n🇫🇷
-  Anastasiia KIRPICHNIKOVA\n🇺🇿 Anastasiya ZELINSKAYA\n🇦🇺 Ariarne
-  TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇳🇿 Eve THOMAS\n🇧🇷 Gabrielle
-  RONCATTO\n🇩🇪 Isabel GOSE\n🇦🇺 Jamie PERKINS\n🇯🇴 Karin BELBEISI\n🇺🇸
-  Katie LEDECKY\n🇯🇵 KOBORI Waka\n🇩🇪 Leonie MAERTENS\n🇨🇳 LI
-  Bingjie\n🇨🇳 LIU Yaxin\n🇧🇷 Maria Fernanda COSTA\n🇻🇮 Natalia Jean
-  KUIPERS\n🇺🇸 Paige MADDEN\n🇨🇦 Summer McINTOSH\n🇧🇪 Valentine DUMONT
+DESCRIPTION:游泳 - 女子400米自由泳分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇯🇵 JPN\n🇧🇪
+  BEL\n🇨🇦 CAN\n🇭🇺 HUN\n🇫🇷 FRA\n🇦🇷 ARG\n🇯🇴 JOR\n🇺🇸 USA\n🇻🇮
+  ISV\n🇺🇿 UZB\n🇳🇿 新西蘭\n🇩🇪 GER\n🇦🇺 AUS
 SUMMARY:🏊 女子400米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -138,7 +135,7 @@ DTSTAMP:20240727T111500Z
 DTSTART:20240727T111500Z
 DTEND:20240727T124500Z
 DESCRIPTION:曲棍球 - 男子分組循環賽B組
-SUMMARY:🏑 澳大利亞 🇦🇺 - 🇦🇷 阿根廷
+SUMMARY:🏑 AUS 🇦🇺 - 🇦🇷 ARG
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -156,7 +153,7 @@ DTSTAMP:20240727T130000Z
 DTSTART:20240727T130000Z
 DTEND:20240727T144500Z
 DESCRIPTION:足球 - 男子B組
-SUMMARY:⚽ 阿根廷 🇦🇷 - 🇮🇶 伊拉克
+SUMMARY:⚽ ARG 🇦🇷 - 🇮🇶 IRQ
 LOCATION:里昂體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -165,7 +162,7 @@ DTSTAMP:20240727T140000Z
 DTSTART:20240727T140000Z
 DTEND:20240727T153000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 挪威 🇳🇴 - 🇦🇷 阿根廷
+SUMMARY:🤾 NOR 🇳🇴 - 🇦🇷 ARG
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
@@ -174,7 +171,7 @@ DTSTAMP:20240727T160000Z
 DTSTART:20240727T160000Z
 DTEND:20240727T161600Z
 DESCRIPTION:七人制橄欖球 - 男子7-8名排名賽
-SUMMARY:🏉 阿根廷 🇦🇷 - 🇺🇸 美國
+SUMMARY:🏉 ARG 🇦🇷 - 🇺🇸 USA
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -192,7 +189,7 @@ DTSTAMP:20240727T174500Z
 DTSTART:20240727T174500Z
 DTEND:20240727T191500Z
 DESCRIPTION:曲棍球 - 女子分組循環賽B組
-SUMMARY:🏑 阿根廷 🇦🇷 - 🇺🇸 美國
+SUMMARY:🏑 ARG 🇦🇷 - 🇺🇸 USA
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -201,7 +198,7 @@ DTSTAMP:20240727T190000Z
 DTSTART:20240727T190000Z
 DTEND:20240727T211500Z
 DESCRIPTION:排球 - 男子預賽 - C組
-SUMMARY:🏐 美國 🇺🇸 - 🇦🇷 阿根廷
+SUMMARY:🏐 USA 🇺🇸 - 🇦🇷 ARG
 LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
@@ -267,18 +264,11 @@ UID:20240728T092700Z-swimming-100
 DTSTAMP:20240728T092700Z
 DTSTART:20240728T092700Z
 DTEND:20240728T094200Z
-DESCRIPTION:游泳 - 女子100米蛙泳分組預賽\n🇬🇲 Aminata Nia-Maria BARROW\n🇮🇱
-  Anastasia GORBENKO\n🇬🇧 Angharad EVANS\n🇩🇪 Anna ELENDT\n🇯🇵 AOKI
-  Reona\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika SZTANDERA\n🇦🇬 Ellie
-  SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma WEBER\n🇸🇬 En Yi Letitia
-  SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦 Imane Houda EL
-  BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL MONTERO\n🇱🇹 Kotryna
-  TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei CONNOLLY\n🇰🇼 Lara
-  DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭 Lisa MAMIE\n🇱🇧 Lynn
-  EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇲🇾 Rouxin
-  TAN\n🇱🇹 Ruta MEILUTYTE\n🇨🇦 Sophie ANGUS\n🇸🇪 Sophie HANSSON\n🇨🇴
-  Stefania GOMEZ HURTADO\n🇯🇵 SUZUKI Satomi\n🇨🇳 TANG Qianting\n🇿🇦
-  Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
+DESCRIPTION:游泳 - 女子100米蛙泳分組預賽\n🇨🇳 CHN\n🇵🇦 PAN\n🇯🇵 JPN\n🇮🇱 ISR\n🇨🇦
+  CAN\n🇱🇹 LTU\n🇦🇬 ANT\n🇪🇸 ESP\n🇬🇲 GAM\n🇵🇱 POL\n🇫🇮 FIN\n🇦🇷
+  ARG\n🇿🇦 RSA\n🇰🇼 KUW\n🇺🇸 USA\n🇬🇧 GBR\n🇨🇴 COL\n🇨🇰 COK\n🇲🇾
+  MAS\n🇨🇿 CZE\n🇳🇱 NED\n🇮🇹 ITA\n🇪🇪 EST\n🇮🇪 IRL\n🇸🇬 SGP\n🇨🇭
+  SUI\n🇸🇪 SWE\n🇩🇪 GER\n🇲🇦 MAR\n🇱🇧 LBN\n🇦🇺 AUS
 SUMMARY:🏊 女子100米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -287,17 +277,9 @@ UID:20240728T093000Z-rowing-
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T095700Z
-DESCRIPTION:賽艇 - 女子輕量級雙人雙槳分組預賽\n🇵🇪 Alessia PALACIOS\n🇮🇪 Aoife
-  CASEY\n🇫🇷 Claire BOVE\n🇬🇷 Dimitra KONTOU\n🇬🇧 Emily CRAIG\n🇦🇷
-  Evelyn SILVESTRO\n🇷🇴 Gianina Elena van GRONINGEN\n🇯🇵 HIROUCHI
-  Emi\n🇬🇧 Imogen GRANT\n🇷🇴 Ionela Livia COZMIUC\n🇳🇿 Jackie
-  KIDDLE\n🇨🇦 Jenny CASSON\n🇨🇦 Jill MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳
-  Khadija KRIMI\n🇦🇹 Lara TIEFENTHALER\n🇫🇷 Laura TARANTOLA\n🇦🇹 Louisa
-  ALTENHUBER\n🇮🇷 Mahsa JAVER\n🇮🇪 Margaret CREMEN\n🇵🇱 Martyna
-  RADOSZ\n🇺🇸 Michelle SECHSER\n🇺🇸 Molly RECKFORD\n🇯🇵 OISHI
-  Ayami\n🇨🇳 QIU Xiuping\n🇹🇳 Selma DHAOUADI\n🇳🇿 Shannon COX\n🇦🇷
-  Sonia BALUZZO CHIARUZZO\n🇵🇪 Valeria PALACIOS\n🇮🇷 Zeinab NOROUZI TAZEH
-  KAND\n🇬🇷 Zoi FITSIOU\n🇨🇳 ZOU Jiaqi
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳分組預賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇮🇷
+  IRI\n🇬🇷 GRE\n🇫🇷 FRA\n🇵🇱 POL\n🇦🇷 ARG\n🇹🇳 TUN\n🇺🇸 USA\n🇬🇧
+  GBR\n🇵🇪 PER\n🇦🇹 AUT\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇷🇴 ROU
 SUMMARY:🚣 女子輕量級雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -306,21 +288,12 @@ UID:20240728T094300Z-swimming-100
 DTSTAMP:20240728T094300Z
 DTSTART:20240728T094300Z
 DTEND:20240728T095900Z
-DESCRIPTION:游泳 - 男子100米仰泳分組預賽\n🇭🇺 Adam JASZO\n🇮🇱 Adam MARAANA\n🇹🇴
-  Alan Koti Lopeti UHI\n🇧🇯 Alexis Michel Roger Dodji KPADE\n🇨🇴 Anthony
-  RINCON VELASCO\n🇬🇷 Apostolos CHRISTOU\n🇹🇷 Berke SAKA\n🇦🇹 Bernhard
-  REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley WOODWARD\n🇬🇷 Evangelos
-  MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸
-  Hunter ARMSTRONG\n🇦🇺 Isaac COOPER\n🇧🇲 Jack HARVEY\n🇨🇦 Javier
-  ACEVEDO\n🇵🇹 Joao COSTA\n🇬🇧 Jonny MARSHALL\n🇳🇱 Kai van
-  WESTERING\n🇳🇿 Kane FOLLOWS\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
-  Marek ULRICH\n🇯🇵 MATSUYAMA Riku\n🇻🇮 Maximillian WILSON\n🇫🇷 Mewen
-  TOMAC\n🇮🇹 Michele LAMBERTI\n🇨🇿 Miroslav KNEDLA\n🇬🇪 Noe
-  PANSTKHAVA\n🇩🇪 Ole BRAUNSCHWEIG\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
-  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇮🇳
-  Srihari NATARAJ\n🇨🇭 Thierry BOLLIN\n🇮🇹 Thomas CECCON\n🇦🇷 Ulises
-  SARAVIA\n🇨🇳 XU Jiayu\n🇵🇸 Yazan AL BAWWAB\n🇵🇷 Yeziel MORALES\n🇫🇷
-  Yohann NDOYE-BROUARD\n🇬🇩 Zackary GRESHAM\n🇧🇳 Zeke CHAN
+DESCRIPTION:游泳 - 男子100米仰泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇵🇸 PLE\n🇧🇳 BRU\n🇯🇵
+  JPN\n🇮🇱 ISR\n🇨🇦 CAN\n🇭🇺 HUN\n🇮🇳 IND\n🇧🇲 BER\n🇪🇸 ESP\n🇬🇷
+  GRE\n🇧🇯 BEN\n🇫🇷 FRA\n🇵🇷 PUR\n🇵🇱 POL\n🇦🇷 ARG\n🇿🇦 RSA\n🇺🇸
+  USA\n🇻🇮 ISV\n🇬🇧 GBR\n🇨🇴 COL\n🇬🇩 GRN\n🇬🇪 GEO\n🇺🇦 UKR\n🇨🇿
+  CZE\n🇳🇱 NED\n🇹🇴 TGA\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇵🇹
+  POR\n🇩🇪 GER\n🇦🇺 AUS\n🇰🇷 KOR
 SUMMARY:🏊 男子100米仰泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -329,17 +302,9 @@ UID:20240728T100000Z-rowing-
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T102700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
-  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇳🇴
-  Ask Jarl TJOEM\n🇪🇸 Caetano Xose HORTA POMBO\n🇨🇱 Cesar ABAROA\n🇪🇸
-  Dennis CARRACEDO FERRERO\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇮🇪
-  Fintan Mc CARTHY\n🇯🇵 FURUTA Naoki\n🇮🇹 Gabriel SOARES\n🇫🇷 Hugo
-  BEUREY\n🇺🇦 Igor KHMARA\n🇨🇭 Jan SCHAEUBLE\n🇨🇿 Jiri SIMANEK\n🇳🇴
-  Lars Martin BENSKE\n🇲🇽 Miguel CARBALLO NIETO\n🇨🇿 Miroslav
-  VRASTIL\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
-  ZANDWEGHE\n🇮🇪 Paul O DONOVAN\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros
-  GKAIDATZIS\n🇨🇭 Raphael AHUMADA\n🇺🇿 Shakhzod NURMATOV\n🇺🇿 Sobirjon
-  SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇮🇹 Stefano OPPO\n🇧🇪 Tibo VYVEY
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷
+  FRA\n🇦🇷 ARG\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇿 CZE\n🇨🇱
+  CHI\n🇮🇹 ITA\n🇮🇪 IRL\n🇨🇭 SUI\n🇲🇽 MEX
 SUMMARY:🚣 男子輕量級雙人雙槳預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -402,12 +367,8 @@ UID:20240728T191000Z-swimming-100
 DTSTAMP:20240728T191000Z
 DTSTART:20240728T191000Z
 DTEND:20240728T192200Z
-DESCRIPTION:游泳 - 女子100米蛙泳半決賽\n🇬🇧 Angharad EVANS\n🇮🇹 Benedetta
-  PILATO\n🇪🇪 Eneli JEFIMOVA\n🇱🇹 Kotryna TETEREVKOVA\n🇺🇸 Lilly
-  KING\n🇮🇹 Lisa ANGIOLINI\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc
-  SHARRY\n🇱🇹 Ruta MEILUTYTE\n🇸🇪 Sophie HANSSON\n🇯🇵 SUZUKI
-  Satomi\n🇨🇳 TANG Qianting\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳
-  YANG Chang
+DESCRIPTION:游泳 - 女子100米蛙泳半決賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇱🇹 LTU\n🇦🇷 ARG\n🇿🇦
+  RSA\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇪🇪 EST\n🇮🇪 IRL\n🇸🇪 SWE
 SUMMARY:🏊 女子100米蛙泳半決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -425,14 +386,8 @@ UID:20240729T084000Z-rowing-
 DTSTAMP:20240729T084000Z
 DTSTART:20240729T084000Z
 DTEND:20240729T085700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
-  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇨🇱
-  Cesar ABAROA\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇯🇵 FURUTA
-  Naoki\n🇫🇷 Hugo BEUREY\n🇺🇦 Igor KHMARA\n🇲🇽 Miguel CARBALLO
-  NIETO\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
-  ZANDWEGHE\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇺🇿 Shakhzod
-  NURMATOV\n🇺🇿 Sobirjon SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇧🇪 Tibo
-  VYVEY
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇬🇷 GRE\n🇫🇷 FRA\n🇦🇷
+  ARG\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇱 CHI\n🇲🇽 MEX
 SUMMARY:🚣 男子輕量級雙人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -441,13 +396,8 @@ UID:20240729T090000Z-rowing-
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T091700Z
-DESCRIPTION:賽艇 - 女子輕量級雙人雙槳復活賽\n🇵🇪 Alessia PALACIOS\n🇮🇪 Aoife
-  CASEY\n🇦🇷 Evelyn SILVESTRO\n🇯🇵 HIROUCHI Emi\n🇨🇦 Jenny CASSON\n🇨🇦
-  Jill MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳 Khadija KRIMI\n🇦🇹 Lara
-  TIEFENTHALER\n🇦🇹 Louisa ALTENHUBER\n🇮🇷 Mahsa JAVER\n🇮🇪 Margaret
-  CREMEN\n🇵🇱 Martyna RADOSZ\n🇯🇵 OISHI Ayami\n🇨🇳 QIU Xiuping\n🇹🇳
-  Selma DHAOUADI\n🇦🇷 Sonia BALUZZO CHIARUZZO\n🇵🇪 Valeria PALACIOS\n🇮🇷
-  Zeinab NOROUZI TAZEH KAND\n🇨🇳 ZOU Jiaqi
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳復活賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇮🇷 IRI\n🇵🇱
+  POL\n🇦🇷 ARG\n🇹🇳 TUN\n🇵🇪 PER\n🇦🇹 AUT\n🇮🇪 IRL
 SUMMARY:🚣 女子輕量級雙人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -585,7 +535,7 @@ DTSTAMP:20240729T104500Z
 DTSTART:20240729T104500Z
 DTEND:20240729T121500Z
 DESCRIPTION:曲棍球 - 男子分組循環賽B組
-SUMMARY:🏑 印度 🇮🇳 - 🇦🇷 阿根廷
+SUMMARY:🏑 IND 🇮🇳 - 🇦🇷 ARG
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -605,7 +555,7 @@ DTSTAMP:20240729T153000Z
 DTSTART:20240729T153000Z
 DTEND:20240729T170000Z
 DESCRIPTION:曲棍球 - 女子分組循環賽B組
-SUMMARY:🏑 南非 🇿🇦 - 🇦🇷 阿根廷
+SUMMARY:🏑 RSA 🇿🇦 - 🇦🇷 ARG
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -614,7 +564,7 @@ DTSTAMP:20240729T190000Z
 DTSTART:20240729T190000Z
 DTEND:20240729T203000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 阿根廷 🇦🇷 - 🇭🇺 匈牙利
+SUMMARY:🤾 ARG 🇦🇷 - 🇭🇺 HUN
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
@@ -823,7 +773,7 @@ DTSTAMP:20240730T150000Z
 DTSTART:20240730T150000Z
 DTEND:20240730T170000Z
 DESCRIPTION:足球 - 男子B組
-SUMMARY:⚽ 烏克蘭 🇺🇦 - 🇦🇷 阿根廷
+SUMMARY:⚽ UKR 🇺🇦 - 🇦🇷 ARG
 LOCATION:里昂體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -832,7 +782,7 @@ DTSTAMP:20240730T150000Z
 DTSTART:20240730T150000Z
 DTEND:20240730T163000Z
 DESCRIPTION:曲棍球 - 男子分組循環賽B組
-SUMMARY:🏑 阿根廷 🇦🇷 - 🇳🇿 新西蘭
+SUMMARY:🏑 ARG 🇦🇷 - 🇳🇿 NZL
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -867,7 +817,7 @@ DTSTAMP:20240731T080000Z
 DTSTART:20240731T080000Z
 DTEND:20240731T093000Z
 DESCRIPTION:曲棍球 - 女子分組循環賽B組
-SUMMARY:🏑 阿根廷 🇦🇷 - 🇪🇸 西班牙
+SUMMARY:🏑 ARG 🇦🇷 - 🇪🇸 ESP
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -875,13 +825,9 @@ UID:20240731T090000Z-swimming-200
 DTSTAMP:20240731T090000Z
 DTSTART:20240731T090000Z
 DTEND:20240731T092100Z
-DESCRIPTION:游泳 - 女子200米蛙泳分組預賽\n🇦🇺 Ella RAMSAY\n🇸🇬 En Yi Letitia
-  SIM\n🇪🇪 Eneli JEFIMOVA\n🇮🇹 Francesca FANGIO\n🇦🇺 Jenna STRAUCH\n🇪🇸
-  Jessica VALL MONTERO\n🇺🇸 Kate DOUGLASS\n🇿🇦 Kaylene CORBETT\n🇨🇦
-  Kelsey WOG\n🇱🇹 Kotryna TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇺🇸 Lilly
-  KING\n🇨🇭 Lisa MAMIE\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇸🇪
-  Sophie HANSSON\n🇯🇵 SUZUKI Satomi\n🇨🇦 Sydney PICKREM\n🇿🇦 Tatjana
-  SMITH\n🇳🇱 Tes SCHOUTEN\n🇩🇰 Thea BLOMSTERBERG\n🇨🇳 YE Shiwen
+DESCRIPTION:游泳 - 女子200米蛙泳分組預賽\n🇨🇳 CHN\n🇩🇰 DEN\n🇯🇵 JPN\n🇨🇦 CAN\n🇱🇹
+  LTU\n🇪🇸 ESP\n🇦🇷 ARG\n🇿🇦 RSA\n🇺🇸 USA\n🇨🇿 CZE\n🇳🇱 NED\n🇮🇹
+  ITA\n🇪🇪 EST\n🇮🇪 IRL\n🇸🇬 SGP\n🇨🇭 SUI\n🇸🇪 SWE\n🇦🇺 AUS
 SUMMARY:🏊 女子200米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -890,8 +836,8 @@ UID:20240731T091400Z-rowing--AB-1
 DTSTAMP:20240731T091400Z
 DTSTART:20240731T091400Z
 DTEND:20240731T092100Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳半決賽 A/B 1\n🇧🇪 比利時\n🇫🇷 法國\n🇦🇷 阿根廷\n🇨🇿
-  捷克\n🇮🇪 愛爾蘭\n🇨🇭 瑞士
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳半決賽 A/B 1\n🇧🇪 BEL\n🇫🇷 FRA\n🇦🇷 ARG\n🇨🇿
+  CZE\n🇮🇪 IRL\n🇨🇭 SUI
 SUMMARY:🚣 男子輕量級雙人雙槳半決賽 A/B 1
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -900,8 +846,8 @@ UID:20240731T093400Z-rowing--AB-1
 DTSTAMP:20240731T093400Z
 DTSTART:20240731T093400Z
 DTEND:20240731T094100Z
-DESCRIPTION:賽艇 - 女子輕量級雙人雙槳半決賽 A/B 1\n🇨🇦 加拿大\n🇵🇱 波蘭\n🇦🇷 阿根廷\n🇺🇸
-  美國\n🇬🇧 英國\n🇳🇿 新西蘭
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳半決賽 A/B 1\n🇨🇦 CAN\n🇵🇱 POL\n🇦🇷 ARG\n🇺🇸
+  USA\n🇬🇧 GBR\n🇳🇿 新西蘭
 SUMMARY:🚣 女子輕量級雙人雙槳半決賽 A/B 1
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -911,7 +857,7 @@ DTSTAMP:20240731T110000Z
 DTSTART:20240731T110000Z
 DTEND:20240731T131500Z
 DESCRIPTION:排球 - 男子預賽 - C組
-SUMMARY:🏐 日本 🇯🇵 - 🇦🇷 阿根廷
+SUMMARY:🏐 JPN 🇯🇵 - 🇦🇷 ARG
 LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
@@ -1089,7 +1035,7 @@ DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
 DTEND:20240731T203000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 丹麥 🇩🇰 - 🇦🇷 阿根廷
+SUMMARY:🤾 DEN 🇩🇰 - 🇦🇷 ARG
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
@@ -1098,7 +1044,7 @@ DTSTAMP:20240801T111500Z
 DTSTART:20240801T111500Z
 DTEND:20240801T124500Z
 DESCRIPTION:曲棍球 - 男子分組循環賽B組
-SUMMARY:🏑 阿根廷 🇦🇷 - 🇮🇪 愛爾蘭
+SUMMARY:🏑 ARG 🇦🇷 - 🇮🇪 IRL
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -1379,7 +1325,7 @@ DTSTAMP:20240801T181500Z
 DTSTART:20240801T181500Z
 DTEND:20240801T194500Z
 DESCRIPTION:曲棍球 - 女子分組循環賽B組
-SUMMARY:🏑 阿根廷 🇦🇷 - 🇦🇺 澳大利亞
+SUMMARY:🏑 ARG 🇦🇷 - 🇦🇺 AUS
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -1388,7 +1334,7 @@ DTSTAMP:20240802T070000Z
 DTSTART:20240802T070000Z
 DTEND:20240802T091500Z
 DESCRIPTION:排球 - 男子預賽 - C組
-SUMMARY:🏐 阿根廷 🇦🇷 - 🇩🇪 德國
+SUMMARY:🏐 ARG 🇦🇷 - 🇩🇪 GER
 LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
@@ -1416,7 +1362,7 @@ DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
 DTEND:20240802T103000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 阿根廷 🇦🇷 - 🇫🇷 法國
+SUMMARY:🤾 ARG 🇦🇷 - 🇫🇷 FRA
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
@@ -1424,12 +1370,9 @@ UID:20240802T093500Z-swimming-800
 DTSTAMP:20240802T093500Z
 DTSTART:20240802T093500Z
 DTEND:20240802T095700Z
-DESCRIPTION:游泳 - 女子800米自由泳分組預賽\n🇦🇷 Agostina HEIN\n🇭🇺 Ajna KESELY\n🇫🇷
-  Anastasiia KIRPICHNIKOVA\n🇦🇺 Ariarne TITMUS\n🇸🇬 Ching Hwee GAN\n🇳🇿
-  Erika FAIRWEATHER\n🇳🇿 Eve THOMAS\n🇩🇪 Isabel GOSE\n🇹🇳 Jamila
-  BOULAKBECH\n🇺🇸 Katie LEDECKY\n🇨🇱 Kristel KOBRICH\n🇦🇺 Lani
-  PALLISTER\n🇨🇳 LI Bingjie\n🇧🇷 Maria Fernanda COSTA\n🇺🇸 Paige
-  MADDEN\n🇮🇹 Simona QUADARELLA
+DESCRIPTION:游泳 - 女子800米自由泳分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇭🇺 HUN\n🇫🇷
+  FRA\n🇦🇷 ARG\n🇹🇳 TUN\n🇺🇸 USA\n🇨🇱 CHI\n🇮🇹 ITA\n🇸🇬 SGP\n🇳🇿
+  新西蘭\n🇩🇪 GER\n🇦🇺 AUS
 SUMMARY:🏊 女子800米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -1439,7 +1382,7 @@ DTSTAMP:20240802T153000Z
 DTSTART:20240802T153000Z
 DTEND:20240802T170000Z
 DESCRIPTION:曲棍球 - 男子分組循環賽B組
-SUMMARY:🏑 比利時 🇧🇪 - 🇦🇷 阿根廷
+SUMMARY:🏑 BEL 🇧🇪 - 🇦🇷 ARG
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -1448,7 +1391,7 @@ DTSTAMP:20240803T080000Z
 DTSTART:20240803T080000Z
 DTEND:20240803T093000Z
 DESCRIPTION:曲棍球 - 女子分組循環賽B組
-SUMMARY:🏑 英國 🇬🇧 - 🇦🇷 阿根廷
+SUMMARY:🏑 GBR 🇬🇧 - 🇦🇷 ARG
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -1457,7 +1400,7 @@ DTSTAMP:20240804T090000Z
 DTSTART:20240804T090000Z
 DTEND:20240804T103000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 埃及 🇪🇬 - 🇦🇷 阿根廷
+SUMMARY:🤾 EGY 🇪🇬 - 🇦🇷 ARG
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT

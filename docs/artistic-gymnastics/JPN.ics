@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/JPN//EN
-X-WR-CALNAME:🇯🇵 Japan 競技體操 | 巴黎2024
-NAME:🇯🇵 Japan 競技體操 | 巴黎2024
+X-WR-CALNAME:🇯🇵 日本 競技體操 | 巴黎2024
+NAME:🇯🇵 日本 競技體操 | 巴黎2024
 BEGIN:VEVENT
 UID:20240729T153000Z-artistic-gymnastics-
 DTSTAMP:20240729T153000Z
 DTSTART:20240729T153000Z
 DTEND:20240729T180000Z
-DESCRIPTION:競技體操 - 男子團體決賽\n🇨🇳 中國\n🇯🇵 日本\n🇨🇦 加拿大\n🇺🇸 美國\n🇬🇧
-  英國\n🇺🇦 烏克蘭\n🇮🇹 意大利\n🇨🇭 瑞士
+DESCRIPTION:競技體操 - 男子團體決賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇺🇸 USA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇮🇹 ITA\n🇨🇭 SUI
 SUMMARY:🤸 男子團體決賽
 LOCATION:貝爾西體育館
 END:VEVENT
@@ -18,8 +18,8 @@ UID:20240730T161500Z-artistic-gymnastics-
 DTSTAMP:20240730T161500Z
 DTSTART:20240730T161500Z
 DTEND:20240730T181000Z
-DESCRIPTION:競技體操 - 女子團體決賽\n🇨🇳 中國\n🇧🇷 巴西\n🇯🇵 日本\n🇨🇦 加拿大\n🇺🇸
-  美國\n🇬🇧 英國\n🇮🇹 意大利\n🇷🇴 羅馬尼亞
+DESCRIPTION:競技體操 - 女子團體決賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇯🇵 JPN\n🇨🇦 CAN\n🇺🇸
+  USA\n🇬🇧 GBR\n🇮🇹 ITA\n🇷🇴 ROU
 SUMMARY:🤸 女子團體決賽
 LOCATION:貝爾西體育館
 END:VEVENT

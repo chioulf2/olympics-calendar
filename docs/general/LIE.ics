@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/LIE//EN
-X-WR-CALNAME:🇱🇮 Liechtenstein | 巴黎2024
-NAME:🇱🇮 Liechtenstein | 巴黎2024
+X-WR-CALNAME:🇱🇮 列支敦士登 | 巴黎2024
+NAME:🇱🇮 列支敦士登 | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z

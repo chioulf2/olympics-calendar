@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/TPE//EN
-X-WR-CALNAME:🇹🇼 Chinese Taipei 網球 | 巴黎2024
-NAME:🇹🇼 Chinese Taipei 網球 | 巴黎2024
+X-WR-CALNAME:🇹🇼 中華台北 網球 | 巴黎2024
+NAME:🇹🇼 中華台北 網球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis-1-ROU-TPE
 DTSTAMP:20240728T100000Z

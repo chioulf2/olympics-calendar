@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/USA//EN
-X-WR-CALNAME:🇺🇸 United States 羽毛球 | 巴黎2024
-NAME:🇺🇸 United States 羽毛球 | 巴黎2024
+X-WR-CALNAME:🇺🇸 美國 羽毛球 | 巴黎2024
+NAME:🇺🇸 美國 羽毛球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T063000Z-badminton--D-CHN-USA
 DTSTAMP:20240727T063000Z

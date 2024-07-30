@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//archery/BRA//EN
-X-WR-CALNAME:🇧🇷 Brazil 射箭 | 巴黎2024
-NAME:🇧🇷 Brazil 射箭 | 巴黎2024
+X-WR-CALNAME:🇧🇷 巴西 射箭 | 巴黎2024
+NAME:🇧🇷 巴西 射箭 | 巴黎2024
 BEGIN:VEVENT
 UID:20240725T073000Z-archery-
 DTSTAMP:20240725T073000Z
@@ -84,7 +84,7 @@ DTSTAMP:20240802T084600Z
 DTSTART:20240802T084600Z
 DTEND:20240802T090500Z
 DESCRIPTION:射箭 - 混合團體1/8淘汰賽
-SUMMARY:🏹 墨西哥 🇲🇽 - 🇧🇷 巴西
+SUMMARY:🏹 MEX 🇲🇽 - 🇧🇷 BRA
 LOCATION:榮軍院
 END:VEVENT
 END:VCALENDAR

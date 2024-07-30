@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//football/DOM//EN
-X-WR-CALNAME:🇩🇴 Dominican Republic 足球 | 巴黎2024
-NAME:🇩🇴 Dominican Republic 足球 | 巴黎2024
+X-WR-CALNAME:🇩🇴 多明尼加共和國 足球 | 巴黎2024
+NAME:🇩🇴 多明尼加共和國 足球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240724T150000Z-football-C-EGY-DOM
 DTSTAMP:20240724T150000Z
 DTSTART:20240724T150000Z
 DTEND:20240724T164500Z
 DESCRIPTION:足球 - 男子C組
-SUMMARY:⚽ 埃及 🇪🇬 - 🇩🇴 多米尼加
+SUMMARY:⚽ EGY 🇪🇬 - 🇩🇴 DOM
 LOCATION:博茹瓦爾體育場
 END:VEVENT
 BEGIN:VEVENT

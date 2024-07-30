@@ -1,25 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//swimming/PAN//EN
-X-WR-CALNAME:🇵🇦 Panama 游泳 | 巴黎2024
-NAME:🇵🇦 Panama 游泳 | 巴黎2024
+X-WR-CALNAME:🇵🇦 巴拿馬 游泳 | 巴黎2024
+NAME:🇵🇦 巴拿馬 游泳 | 巴黎2024
 BEGIN:VEVENT
 UID:20240728T092700Z-swimming-100
 DTSTAMP:20240728T092700Z
 DTSTART:20240728T092700Z
 DTEND:20240728T094200Z
-DESCRIPTION:游泳 - 女子100米蛙泳分組預賽\n🇬🇲 Aminata Nia-Maria BARROW\n🇮🇱
-  Anastasia GORBENKO\n🇬🇧 Angharad EVANS\n🇩🇪 Anna ELENDT\n🇯🇵 AOKI
-  Reona\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika SZTANDERA\n🇦🇬 Ellie
-  SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma WEBER\n🇸🇬 En Yi Letitia
-  SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦 Imane Houda EL
-  BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL MONTERO\n🇱🇹 Kotryna
-  TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei CONNOLLY\n🇰🇼 Lara
-  DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭 Lisa MAMIE\n🇱🇧 Lynn
-  EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇲🇾 Rouxin
-  TAN\n🇱🇹 Ruta MEILUTYTE\n🇨🇦 Sophie ANGUS\n🇸🇪 Sophie HANSSON\n🇨🇴
-  Stefania GOMEZ HURTADO\n🇯🇵 SUZUKI Satomi\n🇨🇳 TANG Qianting\n🇿🇦
-  Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
+DESCRIPTION:游泳 - 女子100米蛙泳分組預賽\n🇨🇳 CHN\n🇵🇦 PAN\n🇯🇵 JPN\n🇮🇱 ISR\n🇨🇦
+  CAN\n🇱🇹 LTU\n🇦🇬 ANT\n🇪🇸 ESP\n🇬🇲 GAM\n🇵🇱 POL\n🇫🇮 FIN\n🇦🇷
+  ARG\n🇿🇦 RSA\n🇰🇼 KUW\n🇺🇸 USA\n🇬🇧 GBR\n🇨🇴 COL\n🇨🇰 COK\n🇲🇾
+  MAS\n🇨🇿 CZE\n🇳🇱 NED\n🇮🇹 ITA\n🇪🇪 EST\n🇮🇪 IRL\n🇸🇬 SGP\n🇨🇭
+  SUI\n🇸🇪 SWE\n🇩🇪 GER\n🇲🇦 MAR\n🇱🇧 LBN\n🇦🇺 AUS
 SUMMARY:🏊 女子100米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -28,15 +21,10 @@ UID:20240730T110153Z-swimming-200
 DTSTAMP:20240730T110153Z
 DTSTART:20240730T110153Z
 DTEND:20240730T112042Z
-DESCRIPTION:游泳 - 男子200米蛙泳分組預賽\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro
-  AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler
-  CHRISTIANSON\n🇳🇱 Caspar CORBEAU\n🇰🇷 CHO Sung Jae\n🇱🇻 Daniils
-  BOBROVS\n🇰🇬 Denis PETRASHOV\n🇨🇳 DONG Zhihao\n🇸🇪 Erik PERSSON\n🇯🇵
-  HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺 Joshua
-  YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
-  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
-  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
-  Ippei\n🇦🇺 Zac STUBBLETY-COOK
+DESCRIPTION:游泳 - 男子200米蛙泳分組預賽\n🇨🇳 CHN\n🇧🇭 BRN\n🇵🇦 PAN\n🇯🇵 JPN\n🇱🇹
+  LTU\n🇮🇸 ISL\n🇰🇬 KGZ\n🇱🇻 LAT\n🇫🇷 FRA\n🇵🇱 POL\n🇫🇮 FIN\n🇧🇬
+  BUL\n🇭🇳 HON\n🇯🇴 JOR\n🇺🇸 USA\n🇳🇱 NED\n🇸🇪 SWE\n🇲🇽 MEX\n🇦🇺
+  AUS\n🇰🇷 KOR
 SUMMARY:🏊 男子200米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT

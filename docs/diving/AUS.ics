@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//diving/AUS//EN
-X-WR-CALNAME:🇦🇺 Australia 跳水 | 巴黎2024
-NAME:🇦🇺 Australia 跳水 | 巴黎2024
+X-WR-CALNAME:🇦🇺 澳大利亞 跳水 | 巴黎2024
+NAME:🇦🇺 澳大利亞 跳水 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T090000Z-diving-3
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T094600Z
-DESCRIPTION:跳水 - 女子雙人3米跳板跳水\n🇨🇳 中國\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧 英國\n🇺🇦
-  烏克蘭\n🇮🇹 意大利\n🇩🇪 德國\n🇦🇺 澳大利亞
+DESCRIPTION:跳水 - 女子雙人3米跳板跳水\n🇨🇳 CHN\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇦
+  UKR\n🇮🇹 ITA\n🇩🇪 GER\n🇦🇺 AUS
 SUMMARY:🏊 女子雙人3米跳板跳水
 LOCATION:水上運動中心
 END:VEVENT
@@ -18,8 +18,8 @@ UID:20240729T090000Z-diving-10
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T095600Z
-DESCRIPTION:跳水 - 男子雙人10米跳臺跳水決賽\n🇨🇳 中國\n🇨🇦 加拿大\n🇫🇷 法國\n🇬🇧 英國\n🇺🇦
-  烏克蘭\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+DESCRIPTION:跳水 - 男子雙人10米跳臺跳水決賽\n🇨🇳 CHN\n🇨🇦 CAN\n🇫🇷 FRA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
 SUMMARY:🏊 男子雙人10米跳臺跳水決賽
 LOCATION:水上運動中心
 END:VEVENT

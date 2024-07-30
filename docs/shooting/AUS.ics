@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//shooting/AUS//EN
-X-WR-CALNAME:🇦🇺 Australia 射擊 | 巴黎2024
-NAME:🇦🇺 Australia 射擊 | 巴黎2024
+X-WR-CALNAME:🇦🇺 澳大利亞 射擊 | 巴黎2024
+NAME:🇦🇺 澳大利亞 射擊 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T103000Z-shooting-10
 DTSTAMP:20240727T103000Z

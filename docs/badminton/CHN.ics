@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/CHN//EN
-X-WR-CALNAME:🇨🇳 China 羽毛球 | 巴黎2024
-NAME:🇨🇳 China 羽毛球 | 巴黎2024
+X-WR-CALNAME:🇨🇳 中國 羽毛球 | 巴黎2024
+NAME:🇨🇳 中國 羽毛球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T063000Z-badminton--D-CHN-USA
 DTSTAMP:20240727T063000Z

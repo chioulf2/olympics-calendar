@@ -1,26 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//swimming/EST//EN
-X-WR-CALNAME:🇪🇪 Estonia 游泳 | 巴黎2024
-NAME:🇪🇪 Estonia 游泳 | 巴黎2024
+X-WR-CALNAME:🇪🇪 愛沙尼亞 游泳 | 巴黎2024
+NAME:🇪🇪 愛沙尼亞 游泳 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T094500Z-swimming-400
 DTSTAMP:20240727T094500Z
 DTSTART:20240727T094500Z
 DTEND:20240727T101400Z
-DESCRIPTION:游泳 - 男子400米自由泳分組預賽\n🇺🇸 Aaron SHACKELL\n🇹🇳 Ahmed
-  JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇨🇭
-  Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David AUBRY\n🇨🇱 Eduardo
-  CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺 Elijah WINNINGTON\n🇨🇳
-  FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme COSTA\n🇲🇾 Hoe Yean
-  KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya SIBIRTSEV\n🇵🇪 Joaquin
-  VARGAS\n🇧🇦 Jovan LEKIC\n🇬🇧 Kieran BIRD\n🇺🇸 Kieran SMITH\n🇰🇷 KIM
-  Woomin\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪
-  Lukas MAERTENS\n🇮🇹 Marco de TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola
-  GJURETANOVIKJ\n🇩🇪 Oliver KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov
-  MITSIN\n🇬🇾 Raekwon Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana
-  MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪 Victor JOHANSSON\n🇭🇺 Zalan
-  SARKANY\n🇨🇳 ZHANG Zhanshuo
+DESCRIPTION:游泳 - 男子400米自由泳分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇧🇪 BEL\n🇲🇰
+  MKD\n🇱🇹 LTU\n🇭🇺 HUN\n🇬🇾 GUY\n🇻🇪 VEN\n🇫🇷 FRA\n🇧🇦 波黑\n🇰🇪
+  KEN\n🇧🇬 BUL\n🇹🇳 TUN\n🇺🇸 USA\n🇬🇧 GBR\n🇨🇷 CRC\n🇺🇿 UZB\n🇵🇪
+  PER\n🇲🇾 MAS\n🇨🇱 CHI\n🇦🇹 AUT\n🇮🇹 ITA\n🇪🇪 EST\n🇨🇭 SUI\n🇸🇪
+  SWE\n🇸🇲 SMR\n🇩🇪 GER\n🇲🇦 MAR\n🇲🇩 MDA\n🇦🇺 AUS\n🇰🇷 KOR
 SUMMARY:🏊 男子400米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -29,18 +21,11 @@ UID:20240728T092700Z-swimming-100
 DTSTAMP:20240728T092700Z
 DTSTART:20240728T092700Z
 DTEND:20240728T094200Z
-DESCRIPTION:游泳 - 女子100米蛙泳分組預賽\n🇬🇲 Aminata Nia-Maria BARROW\n🇮🇱
-  Anastasia GORBENKO\n🇬🇧 Angharad EVANS\n🇩🇪 Anna ELENDT\n🇯🇵 AOKI
-  Reona\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika SZTANDERA\n🇦🇬 Ellie
-  SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma WEBER\n🇸🇬 En Yi Letitia
-  SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦 Imane Houda EL
-  BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL MONTERO\n🇱🇹 Kotryna
-  TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei CONNOLLY\n🇰🇼 Lara
-  DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭 Lisa MAMIE\n🇱🇧 Lynn
-  EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇲🇾 Rouxin
-  TAN\n🇱🇹 Ruta MEILUTYTE\n🇨🇦 Sophie ANGUS\n🇸🇪 Sophie HANSSON\n🇨🇴
-  Stefania GOMEZ HURTADO\n🇯🇵 SUZUKI Satomi\n🇨🇳 TANG Qianting\n🇿🇦
-  Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
+DESCRIPTION:游泳 - 女子100米蛙泳分組預賽\n🇨🇳 CHN\n🇵🇦 PAN\n🇯🇵 JPN\n🇮🇱 ISR\n🇨🇦
+  CAN\n🇱🇹 LTU\n🇦🇬 ANT\n🇪🇸 ESP\n🇬🇲 GAM\n🇵🇱 POL\n🇫🇮 FIN\n🇦🇷
+  ARG\n🇿🇦 RSA\n🇰🇼 KUW\n🇺🇸 USA\n🇬🇧 GBR\n🇨🇴 COL\n🇨🇰 COK\n🇲🇾
+  MAS\n🇨🇿 CZE\n🇳🇱 NED\n🇮🇹 ITA\n🇪🇪 EST\n🇮🇪 IRL\n🇸🇬 SGP\n🇨🇭
+  SUI\n🇸🇪 SWE\n🇩🇪 GER\n🇲🇦 MAR\n🇱🇧 LBN\n🇦🇺 AUS
 SUMMARY:🏊 女子100米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -49,12 +34,8 @@ UID:20240728T191000Z-swimming-100
 DTSTAMP:20240728T191000Z
 DTSTART:20240728T191000Z
 DTEND:20240728T192200Z
-DESCRIPTION:游泳 - 女子100米蛙泳半決賽\n🇬🇧 Angharad EVANS\n🇮🇹 Benedetta
-  PILATO\n🇪🇪 Eneli JEFIMOVA\n🇱🇹 Kotryna TETEREVKOVA\n🇺🇸 Lilly
-  KING\n🇮🇹 Lisa ANGIOLINI\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc
-  SHARRY\n🇱🇹 Ruta MEILUTYTE\n🇸🇪 Sophie HANSSON\n🇯🇵 SUZUKI
-  Satomi\n🇨🇳 TANG Qianting\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳
-  YANG Chang
+DESCRIPTION:游泳 - 女子100米蛙泳半決賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇱🇹 LTU\n🇦🇷 ARG\n🇿🇦
+  RSA\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇪🇪 EST\n🇮🇪 IRL\n🇸🇪 SWE
 SUMMARY:🏊 女子100米蛙泳半決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -74,16 +55,10 @@ UID:20240730T090000Z-swimming-200
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T091751Z
-DESCRIPTION:游泳 - 男子200米蝶泳分組預賽\n🇮🇹 Alberto RAZZETTI\n🇪🇸 Arbidel GONZALEZ
-  ALVAREZ\n🇺🇦 Denys KESIL\n🇳🇮 Gerald HERNANDEZ\n🇮🇹 Giacomo
-  CARINI\n🇯🇵 HONDA Tomoru\n🇨🇦 Ilya KHARUN\n🇰🇷 KIM Minseop\n🇪🇪
-  Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱 Krzysztof CHMIELEWSKI\n🇫🇷 Leon
-  MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇺🇸 Luca URLANDO\n🇦🇹 Martin
-  ESPERNBERGER\n🏳️ Matin BALSINI\n🇿🇦 Matthew SATES\n🇦🇺 Matthew
-  TEMPLE\n🇵🇱 Michal CHMIELEWSKI\n🇧🇷 Nicolas ALBIERO\n🇨🇳 NIU
-  Guangsheng\n🇨🇭 Noe PONTI\n🇧🇬 Petar Petrov MITSIN\n🇦🇿 Ramil
-  VALIZADA\n🇭🇺 Richard MARTON\n🇯🇵 TERAKADO Genki\n🇺🇸 Thomas
-  HEILMAN\n🇹🇼 WANG Kuan-Hung
+DESCRIPTION:游泳 - 男子200米蝶泳分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇯🇵 JPN\n🇨🇦 CAN\n🇳🇮
+  NCA\n🇭🇺 HUN\n🇪🇸 ESP\n🇫🇷 FRA\n🇵🇱 POL\n🇦🇿 AZE\n🇧🇬 BUL\n🇿🇦
+  RSA\n🇺🇸 USA\n🇺🇦 UKR\n🇦🇹 AUT\n🏳️ 奧林匹克難民代表團\n🇮🇹 ITA\n🇪🇪
+  EST\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇦🇺 AUS\n🇰🇷 KOR\n🇹🇼 Chinese Taipei
 SUMMARY:🏊 男子200米蝶泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -92,13 +67,9 @@ UID:20240731T090000Z-swimming-200
 DTSTAMP:20240731T090000Z
 DTSTART:20240731T090000Z
 DTEND:20240731T092100Z
-DESCRIPTION:游泳 - 女子200米蛙泳分組預賽\n🇦🇺 Ella RAMSAY\n🇸🇬 En Yi Letitia
-  SIM\n🇪🇪 Eneli JEFIMOVA\n🇮🇹 Francesca FANGIO\n🇦🇺 Jenna STRAUCH\n🇪🇸
-  Jessica VALL MONTERO\n🇺🇸 Kate DOUGLASS\n🇿🇦 Kaylene CORBETT\n🇨🇦
-  Kelsey WOG\n🇱🇹 Kotryna TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇺🇸 Lilly
-  KING\n🇨🇭 Lisa MAMIE\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇸🇪
-  Sophie HANSSON\n🇯🇵 SUZUKI Satomi\n🇨🇦 Sydney PICKREM\n🇿🇦 Tatjana
-  SMITH\n🇳🇱 Tes SCHOUTEN\n🇩🇰 Thea BLOMSTERBERG\n🇨🇳 YE Shiwen
+DESCRIPTION:游泳 - 女子200米蛙泳分組預賽\n🇨🇳 CHN\n🇩🇰 DEN\n🇯🇵 JPN\n🇨🇦 CAN\n🇱🇹
+  LTU\n🇪🇸 ESP\n🇦🇷 ARG\n🇿🇦 RSA\n🇺🇸 USA\n🇨🇿 CZE\n🇳🇱 NED\n🇮🇹
+  ITA\n🇪🇪 EST\n🇮🇪 IRL\n🇸🇬 SGP\n🇨🇭 SUI\n🇸🇪 SWE\n🇦🇺 AUS
 SUMMARY:🏊 女子200米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT

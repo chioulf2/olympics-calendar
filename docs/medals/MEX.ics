@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/MEX//EN
-X-WR-CALNAME:🇲🇽 Mexico 🏅 | 巴黎2024
-NAME:🇲🇽 Mexico 🏅 | 巴黎2024
+X-WR-CALNAME:🇲🇽 墨西哥 🏅 | 巴黎2024
+NAME:🇲🇽 墨西哥 🏅 | 巴黎2024
 BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
@@ -30,7 +30,7 @@ DTSTAMP:20240728T144800Z
 DTSTART:20240728T144800Z
 DTEND:20240728T151100Z
 DESCRIPTION:射箭 - 女子團體銅牌賽
-SUMMARY:🏹 荷蘭 🇳🇱 - 🇲🇽 墨西哥
+SUMMARY:🏹 NED 🇳🇱 - 🇲🇽 MEX
 LOCATION:榮軍院
 END:VEVENT
 BEGIN:VEVENT
@@ -38,8 +38,8 @@ UID:20240729T090000Z-diving-10
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T095600Z
-DESCRIPTION:跳水 - 男子雙人10米跳臺跳水決賽\n🇨🇳 中國\n🇨🇦 加拿大\n🇫🇷 法國\n🇬🇧 英國\n🇺🇦
-  烏克蘭\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+DESCRIPTION:跳水 - 男子雙人10米跳臺跳水決賽\n🇨🇳 CHN\n🇨🇦 CAN\n🇫🇷 FRA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
 SUMMARY:🏊 男子雙人10米跳臺跳水決賽
 LOCATION:水上運動中心
 END:VEVENT
@@ -121,8 +121,8 @@ UID:20240731T090000Z-diving-10
 DTSTAMP:20240731T090000Z
 DTSTART:20240731T090000Z
 DTEND:20240731T094700Z
-DESCRIPTION:跳水 - 女子雙人10米跳臺跳水\n🇨🇳 中國\n🇨🇦 加拿大\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧
-  英國\n🇺🇦 烏克蘭\n🇰🇵 朝鮮\n🇲🇽 墨西哥
+DESCRIPTION:跳水 - 女子雙人10米跳臺跳水\n🇨🇳 CHN\n🇨🇦 CAN\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇰🇵 PRK\n🇲🇽 MEX
 SUMMARY:🏊 女子雙人10米跳臺跳水
 LOCATION:水上運動中心
 END:VEVENT
@@ -131,8 +131,8 @@ UID:20240802T090000Z-diving-3
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
 DTEND:20240802T095500Z
-DESCRIPTION:跳水 - 男子雙人3米跳板跳水\n🇨🇳 中國\n🇪🇸 西班牙\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧
-  英國\n🇺🇦 烏克蘭\n🇮🇹 意大利\n🇲🇽 墨西哥
+DESCRIPTION:跳水 - 男子雙人3米跳板跳水\n🇨🇳 CHN\n🇪🇸 ESP\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇮🇹 ITA\n🇲🇽 MEX
 SUMMARY:🏊 男子雙人3米跳板跳水
 LOCATION:水上運動中心
 END:VEVENT

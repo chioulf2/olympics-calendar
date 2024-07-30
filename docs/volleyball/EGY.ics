@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//volleyball/EGY//EN
-X-WR-CALNAME:🇪🇬 Egypt 排球 | 巴黎2024
-NAME:🇪🇬 Egypt 排球 | 巴黎2024
+X-WR-CALNAME:🇪🇬 埃及 排球 | 巴黎2024
+NAME:🇪🇬 埃及 排球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T150000Z-volleyball--B-POL-EGY
 DTSTAMP:20240727T150000Z
 DTSTART:20240727T150000Z
 DTEND:20240727T171500Z
 DESCRIPTION:排球 - 男子預賽 - B組
-SUMMARY:🏐 波蘭 🇵🇱 - 🇪🇬 埃及
+SUMMARY:🏐 POL 🇵🇱 - 🇪🇬 EGY
 LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
@@ -18,7 +18,7 @@ DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T091500Z
 DESCRIPTION:排球 - 男子預賽 - B組
-SUMMARY:🏐 意大利 🇮🇹 - 🇪🇬 埃及
+SUMMARY:🏐 ITA 🇮🇹 - 🇪🇬 EGY
 LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DTSTAMP:20240802T110000Z
 DTSTART:20240802T110000Z
 DTEND:20240802T131500Z
 DESCRIPTION:排球 - 男子預賽 - B組
-SUMMARY:🏐 巴西 🇧🇷 - 🇪🇬 埃及
+SUMMARY:🏐 BRA 🇧🇷 - 🇪🇬 EGY
 LOCATION:南巴黎競技場1號館
 END:VEVENT
 END:VCALENDAR

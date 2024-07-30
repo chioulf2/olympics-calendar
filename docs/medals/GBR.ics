@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/GBR//EN
-X-WR-CALNAME:🇬🇧 Great Britain 🏅 | 巴黎2024
-NAME:🇬🇧 Great Britain 🏅 | 巴黎2024
+X-WR-CALNAME:🇬🇧 英國 🏅 | 巴黎2024
+NAME:🇬🇧 英國 🏅 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T090000Z-diving-3
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T094600Z
-DESCRIPTION:跳水 - 女子雙人3米跳板跳水\n🇨🇳 中國\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧 英國\n🇺🇦
-  烏克蘭\n🇮🇹 意大利\n🇩🇪 德國\n🇦🇺 澳大利亞
+DESCRIPTION:跳水 - 女子雙人3米跳板跳水\n🇨🇳 CHN\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇦
+  UKR\n🇮🇹 ITA\n🇩🇪 GER\n🇦🇺 AUS
 SUMMARY:🏊 女子雙人3米跳板跳水
 LOCATION:水上運動中心
 END:VEVENT
@@ -56,8 +56,8 @@ UID:20240727T193400Z-swimming-4X100
 DTSTAMP:20240727T193400Z
 DTSTART:20240727T193400Z
 DTEND:20240727T194400Z
-DESCRIPTION:游泳 - 女子4x100米自由泳接力決賽\n🇨🇳 中國\n🇨🇦 加拿大\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧
-  英國\n🇮🇹 意大利\n🇸🇪 瑞典\n🇦🇺 澳大利亞
+DESCRIPTION:游泳 - 女子4x100米自由泳接力決賽\n🇨🇳 CHN\n🇨🇦 CAN\n🇫🇷 FRA\n🇺🇸
+  USA\n🇬🇧 GBR\n🇮🇹 ITA\n🇸🇪 SWE\n🇦🇺 AUS
 SUMMARY:🏊 女子4x100米自由泳接力決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -66,8 +66,8 @@ UID:20240727T194400Z-swimming-4X100
 DTSTAMP:20240727T194400Z
 DTSTART:20240727T194400Z
 DTEND:20240727T195400Z
-DESCRIPTION:游泳 - 男子4x100米自由泳接力決賽\n🇨🇳 中國\n🇨🇦 加拿大\n🇭🇺 匈牙利\n🇺🇸
-  美國\n🇬🇧 英國\n🇮🇹 意大利\n🇩🇪 德國\n🇦🇺 澳大利亞
+DESCRIPTION:游泳 - 男子4x100米自由泳接力決賽\n🇨🇳 CHN\n🇨🇦 CAN\n🇭🇺 HUN\n🇺🇸
+  USA\n🇬🇧 GBR\n🇮🇹 ITA\n🇩🇪 GER\n🇦🇺 AUS
 SUMMARY:🏊 男子4x100米自由泳接力決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -131,8 +131,8 @@ UID:20240729T090000Z-diving-10
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T095600Z
-DESCRIPTION:跳水 - 男子雙人10米跳臺跳水決賽\n🇨🇳 中國\n🇨🇦 加拿大\n🇫🇷 法國\n🇬🇧 英國\n🇺🇦
-  烏克蘭\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+DESCRIPTION:跳水 - 男子雙人10米跳臺跳水決賽\n🇨🇳 CHN\n🇨🇦 CAN\n🇫🇷 FRA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
 SUMMARY:🏊 男子雙人10米跳臺跳水決賽
 LOCATION:水上運動中心
 END:VEVENT
@@ -141,9 +141,9 @@ UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
-DESCRIPTION:馬術 - 三項賽 - 團體場地障礙決賽\n🇧🇷 巴西\n🇯🇵 日本\n🇧🇪 比利時\n🇨🇦 加拿大\n🇫🇷
-  法國\n🇵🇱 波蘭\n🇺🇸 美國\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇳🇿
-  新西蘭\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇩🇪 德國\n🇦🇺 澳大利亞
+DESCRIPTION:馬術 - 三項賽 - 團體場地障礙決賽\n🇧🇷 BRA\n🇯🇵 JPN\n🇧🇪 BEL\n🇨🇦
+  CAN\n🇫🇷 FRA\n🇵🇱 POL\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪
+  IRL\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇸🇪 SWE\n🇩🇪 GER\n🇦🇺 AUS
 SUMMARY:🏇 三項賽 - 團體場地障礙決賽
 LOCATION:凡爾賽宮
 END:VEVENT
@@ -202,8 +202,8 @@ UID:20240729T153000Z-artistic-gymnastics-
 DTSTAMP:20240729T153000Z
 DTSTART:20240729T153000Z
 DTEND:20240729T180000Z
-DESCRIPTION:競技體操 - 男子團體決賽\n🇨🇳 中國\n🇯🇵 日本\n🇨🇦 加拿大\n🇺🇸 美國\n🇬🇧
-  英國\n🇺🇦 烏克蘭\n🇮🇹 意大利\n🇨🇭 瑞士
+DESCRIPTION:競技體操 - 男子團體決賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇺🇸 USA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇮🇹 ITA\n🇨🇭 SUI
 SUMMARY:🤸 男子團體決賽
 LOCATION:貝爾西體育館
 END:VEVENT
@@ -256,8 +256,8 @@ UID:20240730T161500Z-artistic-gymnastics-
 DTSTAMP:20240730T161500Z
 DTSTART:20240730T161500Z
 DTEND:20240730T181000Z
-DESCRIPTION:競技體操 - 女子團體決賽\n🇨🇳 中國\n🇧🇷 巴西\n🇯🇵 日本\n🇨🇦 加拿大\n🇺🇸
-  美國\n🇬🇧 英國\n🇮🇹 意大利\n🇷🇴 羅馬尼亞
+DESCRIPTION:競技體操 - 女子團體決賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇯🇵 JPN\n🇨🇦 CAN\n🇺🇸
+  USA\n🇬🇧 GBR\n🇮🇹 ITA\n🇷🇴 ROU
 SUMMARY:🤸 女子團體決賽
 LOCATION:貝爾西體育館
 END:VEVENT
@@ -318,8 +318,8 @@ UID:20240731T090000Z-diving-10
 DTSTAMP:20240731T090000Z
 DTSTART:20240731T090000Z
 DTEND:20240731T094700Z
-DESCRIPTION:跳水 - 女子雙人10米跳臺跳水\n🇨🇳 中國\n🇨🇦 加拿大\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧
-  英國\n🇺🇦 烏克蘭\n🇰🇵 朝鮮\n🇲🇽 墨西哥
+DESCRIPTION:跳水 - 女子雙人10米跳臺跳水\n🇨🇳 CHN\n🇨🇦 CAN\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇰🇵 PRK\n🇲🇽 MEX
 SUMMARY:🏊 女子雙人10米跳臺跳水
 LOCATION:水上運動中心
 END:VEVENT
@@ -328,8 +328,8 @@ UID:20240731T102600Z-rowing-A
 DTSTAMP:20240731T102600Z
 DTSTART:20240731T102600Z
 DTEND:20240731T103300Z
-DESCRIPTION:賽艇 - 男子四人雙槳決賽A\n🇵🇱 波蘭\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇨🇭
-  瑞士\n🇩🇪 德國
+DESCRIPTION:賽艇 - 男子四人雙槳決賽A\n🇵🇱 POL\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇨🇭
+  SUI\n🇩🇪 GER
 SUMMARY:🚣 男子四人雙槳決賽A
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -338,8 +338,8 @@ UID:20240731T103800Z-rowing-A
 DTSTAMP:20240731T103800Z
 DTSTART:20240731T103800Z
 DTEND:20240731T104500Z
-DESCRIPTION:賽艇 - 女子四人雙槳決賽A\n🇨🇳 中國\n🇬🇧 英國\n🇺🇦 烏克蘭\n🇳🇱 荷蘭\n🇨🇭
-  瑞士\n🇩🇪 德國
+DESCRIPTION:賽艇 - 女子四人雙槳決賽A\n🇨🇳 CHN\n🇬🇧 GBR\n🇺🇦 UKR\n🇳🇱 NED\n🇨🇭
+  SUI\n🇩🇪 GER
 SUMMARY:🚣 女子四人雙槳決賽A
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -348,8 +348,8 @@ UID:20240802T090000Z-diving-3
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
 DTEND:20240802T095500Z
-DESCRIPTION:跳水 - 男子雙人3米跳板跳水\n🇨🇳 中國\n🇪🇸 西班牙\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧
-  英國\n🇺🇦 烏克蘭\n🇮🇹 意大利\n🇲🇽 墨西哥
+DESCRIPTION:跳水 - 男子雙人3米跳板跳水\n🇨🇳 CHN\n🇪🇸 ESP\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇮🇹 ITA\n🇲🇽 MEX
 SUMMARY:🏊 男子雙人3米跳板跳水
 LOCATION:水上運動中心
 END:VEVENT

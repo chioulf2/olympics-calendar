@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/EGY//EN
-X-WR-CALNAME:🇪🇬 Egypt | 巴黎2024
-NAME:🇪🇬 Egypt | 巴黎2024
+X-WR-CALNAME:🇪🇬 埃及 | 巴黎2024
+NAME:🇪🇬 埃及 | 巴黎2024
 BEGIN:VEVENT
 UID:20240724T150000Z-football-C-EGY-DOM
 DTSTAMP:20240724T150000Z
 DTSTART:20240724T150000Z
 DTEND:20240724T164500Z
 DESCRIPTION:足球 - 男子C組
-SUMMARY:⚽ 埃及 🇪🇬 - 🇩🇴 多米尼加
+SUMMARY:⚽ EGY 🇪🇬 - 🇩🇴 DOM
 LOCATION:博茹瓦爾體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -83,17 +83,11 @@ UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇸🇩 Abdalla AHMED\n🇪🇬 Abdelkhalek
-  ELBANNA\n🇦🇴 Andre MATIAS\n🇯🇵 ARAKAWA Ryuta\n🇮🇳 Balraj PANWAR\n🇭🇺
-  Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
-  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
-  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
-  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
-  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
-  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
-  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
-  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
-  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
+DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇭🇰 中國香港\n🇩🇰 DEN\n🇧🇷 BRA\n🇵🇾 PAR\n🇯🇵
+  JPN\n🇧🇪 BEL\n🇨🇺 CUB\n🇱🇹 LTU\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩 INA\n🇦🇴
+  ANG\n🇧🇲 BER\n🇭🇷 CRO\n🇱🇾 LBA\n🇬🇷 GRE\n🇩🇿 ALG\n🇧🇬 BUL\n🇰🇿
+  KAZ\n🇿🇼 津巴布韋\n🇹🇳 TUN\n🇺🇸 USA\n🇪🇬 EGY\n🇹🇭 THA\n🇺🇾 URU\n🇳🇱
+  NED\n🇸🇮 斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 GER\n🇲🇨 MON\n🇷🇴 ROU\n🇸🇩 SUD
 SUMMARY:🚣 男子單人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -102,12 +96,13 @@ UID:20240727T070000Z-shooting-10
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T073000Z
-DESCRIPTION:射擊 - 混合團體10米氣步槍資格賽\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
-  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
-  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
-  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
-  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
+DESCRIPTION:射擊 - 混合團體10米氣步槍資格賽\n🇦🇷 Argentina\n🇦🇹 Austria\n🇨🇳 China
+  1\n🇨🇳 China 2\n🇨🇿 Czechia\n🇪🇬 Egypt\n🇪🇬 Egypt 1\n🇫🇷 France
+  1\n🇫🇷 France 2\n🇩🇪 Germany\n🇬🇧 Great Britain\n🇭🇺 Hungary\n🇮🇳
+  India 1\n🇮🇳 India 2\n🇮🇹 Italy\n🇯🇵 Japan\n🇰🇿 Kazakhstan 1\n🇰🇿
+  Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇲🇽 Mexico\n🇲🇳
+  Mongolia\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland 1\n🇵🇱 Poland
+  2\n🇺🇸 United States 1\n🇺🇸 United States 2
 SUMMARY:🔫 混合團體10米氣步槍資格賽
 LOCATION:沙託魯射擊中心
 END:VEVENT
@@ -153,7 +148,7 @@ DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T103000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 匈牙利 🇭🇺 - 🇪🇬 埃及
+SUMMARY:🤾 HUN 🇭🇺 - 🇪🇬 EGY
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
@@ -266,7 +261,7 @@ DTSTAMP:20240727T150000Z
 DTSTART:20240727T150000Z
 DTEND:20240727T164500Z
 DESCRIPTION:足球 - 男子C組
-SUMMARY:⚽ 烏茲別克斯坦 🇺🇿 - 🇪🇬 埃及
+SUMMARY:⚽ UZB 🇺🇿 - 🇪🇬 EGY
 LOCATION:博茹瓦爾體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -275,7 +270,7 @@ DTSTAMP:20240727T150000Z
 DTSTART:20240727T150000Z
 DTEND:20240727T171500Z
 DESCRIPTION:排球 - 男子預賽 - B組
-SUMMARY:🏐 波蘭 🇵🇱 - 🇪🇬 埃及
+SUMMARY:🏐 POL 🇵🇱 - 🇪🇬 EGY
 LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
@@ -404,17 +399,9 @@ UID:20240728T100000Z-rowing-
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T102700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
-  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇳🇴
-  Ask Jarl TJOEM\n🇪🇸 Caetano Xose HORTA POMBO\n🇨🇱 Cesar ABAROA\n🇪🇸
-  Dennis CARRACEDO FERRERO\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇮🇪
-  Fintan Mc CARTHY\n🇯🇵 FURUTA Naoki\n🇮🇹 Gabriel SOARES\n🇫🇷 Hugo
-  BEUREY\n🇺🇦 Igor KHMARA\n🇨🇭 Jan SCHAEUBLE\n🇨🇿 Jiri SIMANEK\n🇳🇴
-  Lars Martin BENSKE\n🇲🇽 Miguel CARBALLO NIETO\n🇨🇿 Miroslav
-  VRASTIL\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
-  ZANDWEGHE\n🇮🇪 Paul O DONOVAN\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros
-  GKAIDATZIS\n🇨🇭 Raphael AHUMADA\n🇺🇿 Shakhzod NURMATOV\n🇺🇿 Sobirjon
-  SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇮🇹 Stefano OPPO\n🇧🇪 Tibo VYVEY
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷
+  FRA\n🇦🇷 ARG\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇿 CZE\n🇨🇱
+  CHI\n🇮🇹 ITA\n🇮🇪 IRL\n🇨🇭 SUI\n🇲🇽 MEX
 SUMMARY:🚣 男子輕量級雙人雙槳預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -423,18 +410,11 @@ UID:20240728T100000Z-swimming-200
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T101600Z
-DESCRIPTION:游泳 - 女子200米自由泳分組預賽\n🇿🇦 Aimee CANNY\n🇨🇺 Andrea BECALI\n🇱🇦
-  Ariana Southa DIRKZWAGER\n🇦🇺 Ariarne TITMUS\n🇨🇿 Barbora
-  SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇮🇳 Dhinidhi DESINGHU\n🇳🇵 Duana
-  LAMA\n🇲🇳 Enkhkhuslen BATBAYAR\n🇳🇿 Erika FAIRWEATHER\n🇺🇸 Erin
-  GEMMELL\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇵🇰 Jehanara NABI\n🇩🇪 Julia
-  MROZINSKI\n🇭🇳 Julimar AVILA MANCIA\n🇦🇱 Kaltra MECA\n🇮🇱 Lea
-  POLONSKY\n🇨🇳 LI Bingjie\n🇭🇺 Lilla Minna ABRAHAM\n🇪🇬 Lojine ABDALLA
-  SALAH\n🇦🇪 Maha ALSHEHHI\n🇧🇷 Maria Fernanda COSTA\n🇻🇪 Maria Victoria
-  YEGRES COTTIN\n🇨🇦 Mary-Sophie HARVEY\n🇸🇦 Mashael Meshari A
-  ALAYED\n🇦🇺 Mollie O'CALLAGHAN\n🇭🇺 Nikolett PADAR\n🇷🇴 Rebecca-Aimee
-  DIACONESCU\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇧🇪 Valentine
-  DUMONT\n🇨🇳 YANG Junxuan
+DESCRIPTION:游泳 - 女子200米自由泳分組預賽\n🇨🇳 CHN\n🇭🇰 中國香港\n🇧🇷 BRA\n🇵🇰
+  PAK\n🇧🇪 BEL\n🇮🇱 ISR\n🇨🇦 CAN\n🇨🇺 CUB\n🇳🇵 NEP\n🇮🇸 ISL\n🇭🇺
+  HUN\n🇮🇳 IND\n🇱🇦 LAO\n🇸🇦 KSA\n🇻🇪 VEN\n🇦🇱 ALB\n🇦🇪 UAE\n🇿🇦
+  RSA\n🇭🇳 HON\n🇺🇸 USA\n🇪🇬 EGY\n🇨🇿 CZE\n🇳🇿 新西蘭\n🇲🇳 MGL\n🇩🇪
+  GER\n🇦🇺 AUS\n🇷🇴 ROU
 SUMMARY:🏊 女子200米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -542,14 +522,8 @@ UID:20240729T084000Z-rowing-
 DTSTAMP:20240729T084000Z
 DTSTART:20240729T084000Z
 DTEND:20240729T085700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
-  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇨🇱
-  Cesar ABAROA\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇯🇵 FURUTA
-  Naoki\n🇫🇷 Hugo BEUREY\n🇺🇦 Igor KHMARA\n🇲🇽 Miguel CARBALLO
-  NIETO\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
-  ZANDWEGHE\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇺🇿 Shakhzod
-  NURMATOV\n🇺🇿 Sobirjon SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇧🇪 Tibo
-  VYVEY
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇬🇷 GRE\n🇫🇷 FRA\n🇦🇷
+  ARG\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇱 CHI\n🇲🇽 MEX
 SUMMARY:🚣 男子輕量級雙人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -558,17 +532,10 @@ UID:20240729T092800Z-swimming-800
 DTSTAMP:20240729T092800Z
 DTSTART:20240729T092800Z
 DTEND:20240729T100700Z
-DESCRIPTION:游泳 - 男子800米自由泳分組預賽\n🇹🇳 Ahmed JAOUADI\n🇻🇪 Alfonso Enrique
-  MESTRE VIVAS\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
-  WIFFEN\n🇫🇷 David AUBRY\n🇬🇷 Dimitrios MARKOS\n🇦🇺 Elijah
-  WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇩🇪 Florian
-  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇳🇴 Henrik
-  CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇺🇿 Ilya SIBIRTSEV\n🇳🇴 Jon
-  JOENTVEDT\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇧🇪 Lucas
-  HENVEAUX\n🇺🇸 Luke WHITLOCK\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
-  ROMANCHUK\n🇫🇷 Pacome BRICOUT\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
-  SCHWARZ\n🇲🇨 Theo DRUENNE\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
-  STANCU\n🇭🇺 Zalan SARKANY\n🇨🇳 ZHANG Zhanshuo
+DESCRIPTION:游泳 - 男子800米自由泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇧🇷 BRA\n🇧🇪
+  BEL\n🇭🇺 HUN\n🇪🇸 ESP\n🇬🇷 GRE\n🇻🇪 VEN\n🇫🇷 FRA\n🇹🇳 TUN\n🇺🇸
+  USA\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇺🇿 UZB\n🇻🇳 VIE\n🇦🇹 AUT\n🇮🇹
+  ITA\n🇮🇪 IRL\n🇸🇪 SWE\n🇩🇪 GER\n🇲🇨 MON\n🇦🇺 AUS\n🇷🇴 ROU
 SUMMARY:🏊 男子800米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -605,7 +572,7 @@ DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
 DTEND:20240729T133000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 埃及 🇪🇬 - 🇩🇰 丹麥
+SUMMARY:🤾 EGY 🇪🇬 - 🇩🇰 DEN
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
@@ -678,7 +645,7 @@ DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T091500Z
 DESCRIPTION:排球 - 男子預賽 - B組
-SUMMARY:🏐 意大利 🇮🇹 - 🇪🇬 埃及
+SUMMARY:🏐 ITA 🇮🇹 - 🇪🇬 EGY
 LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
@@ -695,14 +662,10 @@ UID:20240730T081000Z-rowing-14
 DTSTAMP:20240730T081000Z
 DTSTART:20240730T081000Z
 DTEND:20240730T084700Z
-DESCRIPTION:賽艇 - 男子單人雙槳1/4決賽\n🇪🇬 Abdelkhalek ELBANNA\n🇯🇵 ARAKAWA
-  Ryuta\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno
-  CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹 Giedrius
-  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
-  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴 Mihai
-  CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy CARDONA
-  BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
-  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
+DESCRIPTION:賽艇 - 男子單人雙槳1/4決賽\n🇭🇰 中國香港\n🇩🇰 DEN\n🇧🇷 BRA\n🇵🇾 PAR\n🇯🇵
+  JPN\n🇧🇪 BEL\n🇨🇺 CUB\n🇱🇹 LTU\n🇭🇺 HUN\n🇮🇳 IND\n🇭🇷 CRO\n🇬🇷
+  GRE\n🇩🇿 ALG\n🇧🇬 BUL\n🇺🇸 USA\n🇪🇬 EGY\n🇺🇾 URU\n🇳🇱 NED\n🇸🇮
+  斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 GER\n🇲🇨 MON\n🇷🇴 ROU
 SUMMARY:🚣 男子單人雙槳1/4決賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -721,7 +684,7 @@ DTSTAMP:20240730T113000Z
 DTSTART:20240730T113000Z
 DTEND:20240730T122000Z
 DESCRIPTION:擊劍 - 女子團體重劍8強
-SUMMARY:🤺 意大利 🇮🇹 - 🇪🇬 埃及
+SUMMARY:🤺 ITA 🇮🇹 - 🇪🇬 EGY
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
@@ -730,7 +693,7 @@ DTSTAMP:20240730T130000Z
 DTSTART:20240730T130000Z
 DTEND:20240730T150000Z
 DESCRIPTION:足球 - 男子C組
-SUMMARY:⚽ 西班牙 🇪🇸 - 🇪🇬 埃及
+SUMMARY:⚽ ESP 🇪🇸 - 🇪🇬 EGY
 LOCATION:波爾多體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -770,7 +733,7 @@ UID:20240731T073000Z-rowing-C
 DTSTAMP:20240731T073000Z
 DTSTART:20240731T073000Z
 DTEND:20240731T073700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳決賽C\n🇯🇵 日本\n🇪🇬 埃及\n🇺🇿 烏茲別克斯坦\n🇨🇱 智利
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳決賽C\n🇯🇵 JPN\n🇪🇬 EGY\n🇺🇿 UZB\n🇨🇱 CHI
 SUMMARY:🚣 男子輕量級雙人雙槳決賽C
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -789,7 +752,7 @@ DTSTAMP:20240731T113000Z
 DTSTART:20240731T113000Z
 DTEND:20240731T122000Z
 DESCRIPTION:擊劍 - 男子團體佩劍8強
-SUMMARY:🤺 法國 🇫🇷 - 🇪🇬 埃及
+SUMMARY:🤺 FRA 🇫🇷 - 🇪🇬 EGY
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
@@ -816,7 +779,7 @@ DTSTAMP:20240731T170000Z
 DTSTART:20240731T170000Z
 DTEND:20240731T183000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 法國 🇫🇷 - 🇪🇬 埃及
+SUMMARY:🤾 FRA 🇫🇷 - 🇪🇬 EGY
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
@@ -834,7 +797,7 @@ DTSTAMP:20240801T095000Z
 DTSTART:20240801T095000Z
 DTEND:20240801T110000Z
 DESCRIPTION:擊劍 - 女子團體花劍8強
-SUMMARY:🤺 埃及 🇪🇬 - 🇮🇹 意大利
+SUMMARY:🤺 EGY 🇪🇬 - 🇮🇹 ITA
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
@@ -893,7 +856,7 @@ DTSTAMP:20240802T110000Z
 DTSTART:20240802T110000Z
 DTEND:20240802T131500Z
 DESCRIPTION:排球 - 男子預賽 - B組
-SUMMARY:🏐 巴西 🇧🇷 - 🇪🇬 埃及
+SUMMARY:🏐 BRA 🇧🇷 - 🇪🇬 EGY
 LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
@@ -902,7 +865,7 @@ DTSTAMP:20240802T113000Z
 DTSTART:20240802T113000Z
 DTEND:20240802T122000Z
 DESCRIPTION:擊劍 - 男子團體重劍8強
-SUMMARY:🤺 埃及 🇪🇬 - 🇫🇷 法國
+SUMMARY:🤺 EGY 🇪🇬 - 🇫🇷 FRA
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
@@ -911,7 +874,7 @@ DTSTAMP:20240802T190000Z
 DTSTART:20240802T190000Z
 DTEND:20240802T203000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 挪威 🇳🇴 - 🇪🇬 埃及
+SUMMARY:🤾 NOR 🇳🇴 - 🇪🇬 EGY
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
@@ -937,15 +900,10 @@ UID:20240803T092500Z-swimming-1500
 DTSTAMP:20240803T092500Z
 DTSTART:20240803T092500Z
 DTEND:20240803T103200Z
-DESCRIPTION:游泳 - 男子1500米自由泳分組預賽\n🇹🇳 Ahmed JAOUADI\n🇺🇸 Bobby FINKE\n🇪🇸
-  Carlos GARACH BENITO\n🇫🇷 Damien JOLY\n🇬🇧 Daniel JERVIS\n🇮🇪 Daniel
-  WIFFEN\n🇫🇷 David AUBRY\n🇭🇺 David BETLEHEM\n🇺🇸 David JOHNSTON\n🇬🇷
-  Dimitrios MARKOS\n🇹🇷 Emir Batur ALBAYRAK\n🇨🇳 FEI Liwei\n🇩🇪 Florian
-  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇳🇴 Henrik CHRISTIANSEN\n🇻🇳 Huy
-  Hoang NGUYEN\n🇵🇱 Krzysztof CHMIELEWSKI\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca
-  de TULLIO\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo ROMANCHUK\n🇨🇺 Rodolfo
-  FALCON JR\n🇦🇺 Samuel SHORT\n🇩🇪 Sven SCHWARZ\n🇸🇪 Victor
-  JOHANSSON\n🇷🇴 Vlad Stefan STANCU\n🇭🇺 Zalan SARKANY
+DESCRIPTION:游泳 - 男子1500米自由泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇨🇺 CUB\n🇭🇺
+  HUN\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷 FRA\n🇵🇱 POL\n🇹🇳 TUN\n🇺🇸 USA\n🇬🇧
+  GBR\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇻🇳 VIE\n🇮🇹 ITA\n🇮🇪 IRL\n🇸🇪
+  SWE\n🇩🇪 GER\n🇦🇺 AUS\n🇷🇴 ROU
 SUMMARY:🏊 男子1500米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -973,7 +931,7 @@ DTSTAMP:20240804T090000Z
 DTSTART:20240804T090000Z
 DTEND:20240804T103000Z
 DESCRIPTION:手球 - 男子預賽B組
-SUMMARY:🤾 埃及 🇪🇬 - 🇦🇷 阿根廷
+SUMMARY:🤾 EGY 🇪🇬 - 🇦🇷 ARG
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
@@ -982,7 +940,7 @@ DTSTAMP:20240804T095000Z
 DTSTART:20240804T095000Z
 DTEND:20240804T110000Z
 DESCRIPTION:擊劍 - 男子團體花劍8強
-SUMMARY:🤺 埃及 🇪🇬 - 🇺🇸 美國
+SUMMARY:🤺 EGY 🇪🇬 - 🇺🇸 USA
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
@@ -1009,7 +967,7 @@ DTSTAMP:20240805T080000Z
 DTSTART:20240805T080000Z
 DTEND:20240805T110000Z
 DESCRIPTION:乒乓球 - 男子團體16強賽
-SUMMARY:🏓 埃及 🇪🇬 - 🇹🇼 Chinese Taipei
+SUMMARY:🏓 EGY 🇪🇬 - 🇹🇼 TPE
 LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
@@ -1018,7 +976,7 @@ DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
 DTEND:20240805T160000Z
 DESCRIPTION:乒乓球 - 女子團體16強賽
-SUMMARY:🏓 中國 🇨🇳 - 🇪🇬 埃及
+SUMMARY:🏓 CHN 🇨🇳 - 🇪🇬 EGY
 LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT

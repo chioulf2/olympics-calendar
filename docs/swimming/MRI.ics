@@ -1,40 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//swimming/MRI//EN
-X-WR-CALNAME:🇲🇺 Mauritius 游泳 | 巴黎2024
-NAME:🇲🇺 Mauritius 游泳 | 巴黎2024
+X-WR-CALNAME:🇲🇺 毛里求斯 游泳 | 巴黎2024
+NAME:🇲🇺 毛里求斯 游泳 | 巴黎2024
 BEGIN:VEVENT
 UID:20240730T091751Z-swimming-100
 DTSTAMP:20240730T091751Z
 DTSTART:20240730T091751Z
 DTEND:20240730T095131Z
-DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
-  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
-  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
-  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
-  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
-  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
-  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
-  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
-  SANTOS\n🇰🇲 Hadji HASSANE\n🇬🇭 Harry STACEY\n🇦🇴 Henrique
-  MASCARENHAS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇸🇷 Irvin
-  HOOST\n🇴🇲 Issa Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack
-  KIRBY\n🇬🇧 Jacob Henry WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier
-  NUNEZ\n🇱🇨 Jayhan Jamaud ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺
-  Johnathan SILAS\n🇸🇬 Jonathan Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge
-  IGA\n🇨🇦 Josh LIENDO\n🇵🇬 Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle
-  ABEYSINGHE\n🇦🇺 Kyle CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹
-  Leonardo DEPLANO\n🇧🇷 Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳
-  Matthieu SEYE\n🇫🇷 Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad
-  ZUBAID\n🇹🇲 Musa ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola
-  MILJENIC\n🇨🇾 Nikolas ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh
-  PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲 Phone Pyae HAN\n🇫🇷 Rafael
-  FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷
-  Samyar ABDOLI\n🇧🇹 Sangay TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de
-  CELIS MONTALBAN\n🇱🇧 Simon DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir
-  STJEPANOVIC\n🇨🇳 WANG Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef
-  ABUBAKER\n🇦🇪 Yousuf ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M
-  ALSARRAJ
+DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇹🇲 TKM\n🇧🇹 BHU\n🇨🇳 CHN\n🇭🇰
+  中國香港\n🇧🇧 BAR\n🇵🇬 PNG\n🇧🇷 BRA\n🇧🇸 BAH\n🇲🇺 MRI\n🇮🇱 ISR\n🇨🇦
+  CAN\n🇬🇭 GHA\n🇳🇵 NEP\n🇻🇺 VAN\n🇱🇹 LTU\n🇮🇷 IRI\n🇭🇺 HUN\n🇩🇴
+  多米尼加\n🇦🇴 ANG\n🇪🇸 ESP\n🇭🇷 CRO\n🇱🇾 LBA\n🇸🇦 KSA\n🇦🇲 ARM\n🇹🇿
+  TAN\n🇻🇪 VEN\n🇧🇩 BAN\n🇫🇷 FRA\n🇵🇱 POL\n🇴🇲 OMA\n🇦🇱 ALB\n🇦🇼
+  ARU\n🇦🇪 UAE\n🇰🇿 KAZ\n🇰🇭 CAM\n🇰🇼 KUW\n🇽🇰 KOS\n🇰🇲 COM\n🇺🇸
+  USA\n🇬🇧 GBR\n🇹🇭 THA\n🇺🇾 URU\n🇹🇹 TTO\n🇲🇱 馬裡\n🇨🇿 CZE\n🇳🇱
+  NED\n🇨🇲 CMR\n🇱🇰 SRI\n🇰🇾 CAY\n🇸🇳 SEN\n🇨🇾 CYP\n🇷🇸 SRB\n🇮🇹
+  ITA\n🇸🇬 SGP\n🇳🇿 新西蘭\n🇸🇪 SWE\n🇱🇨 LCA\n🇵🇹 POR\n🇲🇳 MGL\n🇩🇪
+  GER\n🇲🇲 MYA\n🇱🇧 LBN\n🇲🇽 MEX\n🇦🇺 AUS\n🇱🇺 LUX\n🇰🇷 KOR\n🇸🇻
+  ESA\n🇼🇸 SAM\n🇷🇴 ROU\n🇸🇷 SUR
 SUMMARY:🏊 男子100米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -43,15 +27,9 @@ UID:20240801T090000Z-swimming-200
 DTSTAMP:20240801T090000Z
 DTSTART:20240801T090000Z
 DTEND:20240801T091500Z
-DESCRIPTION:游泳 - 女子200米仰泳分組預賽\n🇵🇱 Adela PISKORSKA\n🇪🇸 Africa ZAMORANO
-  SANZ\n🇮🇱 Anastasia GORBENKO\n🇲🇺 Anishta TEELUCK\n🇮🇱 Aviv
-  BARZELAY\n🇵🇹 Camila REBELO\n🇪🇸 Carmen WEILER SASTRE\n🇭🇰 CHEUNG Sum
-  Yuet Cindy\n🇭🇺 Dora MOLNAR\n🇫🇷 Emma TEREBO\n🇭🇺 Eszter
-  SZABO-FELTOTHY\n🇧🇬 Gabriela GEORGIEVA\n🇬🇧 Honey OSRIN\n🇦🇺 Jaclyn
-  BARCLAY\n🇬🇧 Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇵🇱
-  Laura BERNAT\n🇰🇷 LEE Eunji\n🇮🇹 Margherita PANZIERA\n🇫🇷 Pauline
-  MAHIEU\n🇨🇳 PENG Xuwei\n🇺🇸 Phoebe BACON\n🇨🇦 Regan RATHWELL\n🇺🇸
-  Regan SMITH\n🇲🇩 Tatiana SALCUTAN
+DESCRIPTION:游泳 - 女子200米仰泳分組預賽\n🇨🇳 CHN\n🇭🇰 中國香港\n🇲🇺 MRI\n🇮🇱
+  ISR\n🇨🇦 CAN\n🇭🇺 HUN\n🇪🇸 ESP\n🇫🇷 FRA\n🇵🇱 POL\n🇧🇬 BUL\n🇺🇸
+  USA\n🇬🇧 GBR\n🇮🇹 ITA\n🇵🇹 POR\n🇲🇩 MDA\n🇦🇺 AUS\n🇰🇷 KOR
 SUMMARY:🏊 女子200米仰泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT

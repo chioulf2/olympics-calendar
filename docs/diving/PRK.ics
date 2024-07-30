@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//diving/PRK//EN
-X-WR-CALNAME:🇰🇵 North Korea 跳水 | 巴黎2024
-NAME:🇰🇵 North Korea 跳水 | 巴黎2024
+X-WR-CALNAME:🇰🇵 朝鮮 跳水 | 巴黎2024
+NAME:🇰🇵 朝鮮 跳水 | 巴黎2024
 BEGIN:VEVENT
 UID:20240731T090000Z-diving-10
 DTSTAMP:20240731T090000Z
 DTSTART:20240731T090000Z
 DTEND:20240731T094700Z
-DESCRIPTION:跳水 - 女子雙人10米跳臺跳水\n🇨🇳 中國\n🇨🇦 加拿大\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧
-  英國\n🇺🇦 烏克蘭\n🇰🇵 朝鮮\n🇲🇽 墨西哥
+DESCRIPTION:跳水 - 女子雙人10米跳臺跳水\n🇨🇳 CHN\n🇨🇦 CAN\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
+  GBR\n🇺🇦 UKR\n🇰🇵 PRK\n🇲🇽 MEX
 SUMMARY:🏊 女子雙人10米跳臺跳水
 LOCATION:水上運動中心
 END:VEVENT

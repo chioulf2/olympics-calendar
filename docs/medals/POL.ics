@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/POL//EN
-X-WR-CALNAME:🇵🇱 Poland 🏅 | 巴黎2024
-NAME:🇵🇱 Poland 🏅 | 巴黎2024
+X-WR-CALNAME:🇵🇱 波蘭 🏅 | 巴黎2024
+NAME:🇵🇱 波蘭 🏅 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
@@ -79,9 +79,9 @@ UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
-DESCRIPTION:馬術 - 三項賽 - 團體場地障礙決賽\n🇧🇷 巴西\n🇯🇵 日本\n🇧🇪 比利時\n🇨🇦 加拿大\n🇫🇷
-  法國\n🇵🇱 波蘭\n🇺🇸 美國\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇳🇿
-  新西蘭\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇩🇪 德國\n🇦🇺 澳大利亞
+DESCRIPTION:馬術 - 三項賽 - 團體場地障礙決賽\n🇧🇷 BRA\n🇯🇵 JPN\n🇧🇪 BEL\n🇨🇦
+  CAN\n🇫🇷 FRA\n🇵🇱 POL\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪
+  IRL\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇸🇪 SWE\n🇩🇪 GER\n🇦🇺 AUS
 SUMMARY:🏇 三項賽 - 團體場地障礙決賽
 LOCATION:凡爾賽宮
 END:VEVENT
@@ -149,8 +149,8 @@ UID:20240731T102600Z-rowing-A
 DTSTAMP:20240731T102600Z
 DTSTART:20240731T102600Z
 DTEND:20240731T103300Z
-DESCRIPTION:賽艇 - 男子四人雙槳決賽A\n🇵🇱 波蘭\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇨🇭
-  瑞士\n🇩🇪 德國
+DESCRIPTION:賽艇 - 男子四人雙槳決賽A\n🇵🇱 POL\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇨🇭
+  SUI\n🇩🇪 GER
 SUMMARY:🚣 男子四人雙槳決賽A
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT

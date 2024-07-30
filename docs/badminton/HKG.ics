@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/HKG//EN
-X-WR-CALNAME:🇭🇰 Hong Kong 羽毛球 | 巴黎2024
-NAME:🇭🇰 Hong Kong 羽毛球 | 巴黎2024
+X-WR-CALNAME:🇭🇰 香港 羽毛球 | 巴黎2024
+NAME:🇭🇰 香港 羽毛球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T120000Z-badminton--B-HKG-BUL
 DTSTAMP:20240727T120000Z

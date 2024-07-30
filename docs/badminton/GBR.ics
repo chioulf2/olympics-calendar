@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/GBR//EN
-X-WR-CALNAME:🇬🇧 Great Britain 羽毛球 | 巴黎2024
-NAME:🇬🇧 Great Britain 羽毛球 | 巴黎2024
+X-WR-CALNAME:🇬🇧 英國 羽毛球 | 巴黎2024
+NAME:🇬🇧 英國 羽毛球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T081000Z-badminton--A-MAS-GBR
 DTSTAMP:20240727T081000Z

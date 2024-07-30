@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/CHN//EN
-X-WR-CALNAME:🇨🇳 China 網球 | 巴黎2024
-NAME:🇨🇳 China 網球 | 巴黎2024
+X-WR-CALNAME:🇨🇳 中國 網球 | 巴黎2024
+NAME:🇨🇳 中國 網球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis-1
 DTSTAMP:20240728T100000Z

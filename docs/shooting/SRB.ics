@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//shooting/SRB//EN
-X-WR-CALNAME:🇷🇸 Serbia 射擊 | 巴黎2024
-NAME:🇷🇸 Serbia 射擊 | 巴黎2024
+X-WR-CALNAME:🇷🇸 塞爾維亞 射擊 | 巴黎2024
+NAME:🇷🇸 塞爾維亞 射擊 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T083000Z-shooting-10
 DTSTAMP:20240727T083000Z
@@ -87,10 +87,10 @@ UID:20240729T071500Z-shooting-10
 DTSTAMP:20240729T071500Z
 DTSTART:20240729T071500Z
 DTEND:20240729T074500Z
-DESCRIPTION:射擊 - 混合團體10米氣手槍資格賽\n🇧🇬 BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷
-  FRA\n🇩🇪 Germany 1\n🇩🇪 Germany 2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿
-  KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻 LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷
-  Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
+DESCRIPTION:射擊 - 混合團體10米氣手槍資格賽\n🇧🇬 Bulgaria\n🇨🇳 China 1\n🇨🇳 China
+  2\n🇫🇷 France\n🇩🇪 Germany 1\n🇩🇪 Germany 2\n🇮🇳 India 1\n🇮🇳 India
+  2\n🇰🇿 Kazakhstan\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻 Latvia\n🇵🇰
+  Pakistan\n🇷🇸 Serbia\n🇹🇷 Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 Ukraine
 SUMMARY:🔫 混合團體10米氣手槍資格賽
 LOCATION:沙託魯射擊中心
 END:VEVENT

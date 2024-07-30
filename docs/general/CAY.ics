@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/CAY//EN
-X-WR-CALNAME:🇰🇾 Cayman Islands | 巴黎2024
-NAME:🇰🇾 Cayman Islands | 巴黎2024
+X-WR-CALNAME:🇰🇾 開曼群島 | 巴黎2024
+NAME:🇰🇾 開曼群島 | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
@@ -17,33 +17,17 @@ UID:20240730T091751Z-swimming-100
 DTSTAMP:20240730T091751Z
 DTSTART:20240730T091751Z
 DTEND:20240730T095131Z
-DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
-  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
-  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
-  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
-  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
-  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
-  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
-  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
-  SANTOS\n🇰🇲 Hadji HASSANE\n🇬🇭 Harry STACEY\n🇦🇴 Henrique
-  MASCARENHAS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇸🇷 Irvin
-  HOOST\n🇴🇲 Issa Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack
-  KIRBY\n🇬🇧 Jacob Henry WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier
-  NUNEZ\n🇱🇨 Jayhan Jamaud ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺
-  Johnathan SILAS\n🇸🇬 Jonathan Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge
-  IGA\n🇨🇦 Josh LIENDO\n🇵🇬 Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle
-  ABEYSINGHE\n🇦🇺 Kyle CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹
-  Leonardo DEPLANO\n🇧🇷 Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳
-  Matthieu SEYE\n🇫🇷 Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad
-  ZUBAID\n🇹🇲 Musa ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola
-  MILJENIC\n🇨🇾 Nikolas ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh
-  PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲 Phone Pyae HAN\n🇫🇷 Rafael
-  FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷
-  Samyar ABDOLI\n🇧🇹 Sangay TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de
-  CELIS MONTALBAN\n🇱🇧 Simon DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir
-  STJEPANOVIC\n🇨🇳 WANG Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef
-  ABUBAKER\n🇦🇪 Yousuf ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M
-  ALSARRAJ
+DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇹🇲 TKM\n🇧🇹 BHU\n🇨🇳 CHN\n🇭🇰
+  中國香港\n🇧🇧 BAR\n🇵🇬 PNG\n🇧🇷 BRA\n🇧🇸 BAH\n🇲🇺 MRI\n🇮🇱 ISR\n🇨🇦
+  CAN\n🇬🇭 GHA\n🇳🇵 NEP\n🇻🇺 VAN\n🇱🇹 LTU\n🇮🇷 IRI\n🇭🇺 HUN\n🇩🇴
+  多米尼加\n🇦🇴 ANG\n🇪🇸 ESP\n🇭🇷 CRO\n🇱🇾 LBA\n🇸🇦 KSA\n🇦🇲 ARM\n🇹🇿
+  TAN\n🇻🇪 VEN\n🇧🇩 BAN\n🇫🇷 FRA\n🇵🇱 POL\n🇴🇲 OMA\n🇦🇱 ALB\n🇦🇼
+  ARU\n🇦🇪 UAE\n🇰🇿 KAZ\n🇰🇭 CAM\n🇰🇼 KUW\n🇽🇰 KOS\n🇰🇲 COM\n🇺🇸
+  USA\n🇬🇧 GBR\n🇹🇭 THA\n🇺🇾 URU\n🇹🇹 TTO\n🇲🇱 馬裡\n🇨🇿 CZE\n🇳🇱
+  NED\n🇨🇲 CMR\n🇱🇰 SRI\n🇰🇾 CAY\n🇸🇳 SEN\n🇨🇾 CYP\n🇷🇸 SRB\n🇮🇹
+  ITA\n🇸🇬 SGP\n🇳🇿 新西蘭\n🇸🇪 SWE\n🇱🇨 LCA\n🇵🇹 POR\n🇲🇳 MGL\n🇩🇪
+  GER\n🇲🇲 MYA\n🇱🇧 LBN\n🇲🇽 MEX\n🇦🇺 AUS\n🇱🇺 LUX\n🇰🇷 KOR\n🇸🇻
+  ESA\n🇼🇸 SAM\n🇷🇴 ROU\n🇸🇷 SUR
 SUMMARY:🏊 男子100米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -52,16 +36,10 @@ UID:20240730T104759Z-swimming-100
 DTSTAMP:20240730T104759Z
 DTSTART:20240730T104759Z
 DTEND:20240730T110153Z
-DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
-  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
-  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
-  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
-  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
-  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
-  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
-  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
-  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
-  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇨🇳 CHN\n🇭🇰 中國香港\n🇨🇦 CAN\n🇮🇸
+  ISL\n🇬🇾 GUY\n🇭🇷 CRO\n🇫🇷 FRA\n🇵🇱 POL\n🇩🇿 ALG\n🇿🇼 津巴布韋\n🇺🇸
+  USA\n🇬🇧 GBR\n🇬🇩 GRN\n🇺🇬 UGA\n🇨🇿 CZE\n🇳🇱 NED\n🇧🇼 BOT\n🇸🇮
+  斯洛文尼亞\n🇵🇭 PHI\n🇰🇾 CAY\n🇨🇾 CYP\n🇸🇪 SWE\n🇦🇺 AUS\n🇸🇩 SUD
 SUMMARY:🏊 女子100米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -70,30 +48,16 @@ UID:20240801T091600Z-swimming-50
 DTSTAMP:20240801T091600Z
 DTSTART:20240801T091600Z
 DTEND:20240801T093800Z
-DESCRIPTION:游泳 - 男子50米自由泳分組預賽\n🇪🇷 Aaron Ghebre OWUSU\n🇬🇦 Adam
-  MPALI\n🏳️ Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨 Alex JOACHIM\n🇬🇧
-  Alexander COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote NDOMBE IMPELENGA\n🇩🇪
-  Artem SELIN\n🇧🇮 Belly-Cresus GANIRA\n🇦🇺 Ben ARMBRUSTER\n🇬🇧 Benjamin
-  PROUD\n🇸🇪 Bjoern SEELIGER\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron
-  McEVOY\n🇲🇷 Camil DOUA\n🇺🇸 Chris GUILIANO\n🇿🇲 Damien SHAMAMBO\n🇫🇯
-  David YOUNG\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇹 Dylan CARTER\n🇬🇳 Elhadj
-  N'gnane DIALLO\n🇦🇫 Fahim ANWARI\n🇹🇯 Fakhriddin MADKAMOV\n🇲🇼 Filipe
-  GOMES\n🇫🇷 Florent MANAUDOU\n🇨🇬 Freddy MAYALA\n🇲🇽 Gabriel CASTANO
-  GARCIA\n🇧🇷 Guilherme SANTOS\n🇬🇶 Higinio NDONG OBAMA\n🇭🇰 HO Ian
-  Yentou\n🇩🇯 Houmed HOUSSEIN BARKAT\n🇭🇷 Jere HRIBAR\n🇰🇷 JI
-  Yuchan\n🇵🇼 Jion HOSEI\n🇹🇱 Jolanio GUTERRES\n🇸🇬 Jonathan Eu Jin
-  TAN\n🇰🇾 Jordan CROOKS\n🇨🇻 Jose TATI\n🇨🇦 Josh LIENDO\n🇸🇱 Joshua
-  WYSE\n🇳🇱 Kenzo SIMONS\n🇬🇷 Kristian GKOLOMEEV\n🇲🇹 Kyle
-  MICALLEF\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇹🇬 Magnim
-  Jordano DAOU\n🇳🇪 Marouane MAMANE HAMISSOU ABBA\n🇮🇱 Martin
-  KARTAVI\n🇸🇰 Matej DUSA\n🇫🇷 Maxime GROUSSET\n🇮🇱 Meiron Amir
-  CHERUTI\n🇵🇹 Miguel NASCIMENTO\n🇦🇼 Mikel SCHREUDERS\n🇲🇻 Mohamed Aan
-  HUSSAIN\n🇳🇴 Nicholas LIA\n🇬🇲 Ousman JOBE\n🇬🇼 Pedro ROGERY\n🇲🇭
-  Phillip KINONO\n🇵🇱 Piotr LUDWICZAK\n🇳🇱 Renzo TJON-A-JOE\n🇮🇪 Shane
-  RYAN\n🇧🇫 Souleymane NAPARE\n🇬🇷 Stergios Marios BILAS\n🇭🇺
-  Szebasztian SZABO\n🇳🇿 Taiko TOREPE-ORMSBY\n🇨🇫 Terence TENGUE\n🇨🇭
-  Thierry BOLLIN\n🇮🇪 Thomas FANNON\n🇳🇬 Tobi SIJUADE\n🇰🇳 Troy
-  NISBETT\n🇺🇦 Vladyslav BUKHOV\n🇩🇲 Warren Adam LAWRENCE
+DESCRIPTION:游泳 - 男子50米自由泳分組預賽\n🇨🇫 中非\n🇭🇰 中國香港\n🇪🇷 ERI\n🇧🇷 BRA\n🇲🇷
+  MTN\n🇮🇱 ISR\n🇨🇦 CAN\n🇬🇦 GAB\n🇳🇬 尼日利亞\n🇳🇪 NIG\n🇧🇫 BUR\n🇧🇮
+  BDI\n🇭🇺 HUN\n🇩🇯 DJI\n🇩🇲 DMA\n🇹🇬 TOG\n🇨🇻 CPV\n🇭🇷 CRO\n🇬🇷
+  GRE\n🇬🇶 GEQ\n🇻🇪 VEN\n🇬🇲 GAM\n🇵🇼 帕勞\n🇹🇱 TLS\n🇫🇷 FRA\n🇵🇱
+  POL\n🇦🇫 AFG\n🇦🇼 ARU\n🇺🇸 USA\n🇬🇧 GBR\n🇨🇬 剛果（布）\n🇨🇩 剛果（金）\n🇳🇴
+  NOR\n🇺🇦 UKR\n🇹🇹 TTO\n🇲🇹 MLT\n🇲🇼 MAW\n🇲🇭 MHL\n🇲🇻 MDV\n🇳🇱
+  NED\n🇬🇳 GUI\n🇬🇼 GBS\n🇫🇯 FIJ\n🇸🇰 SVK\n🇰🇾 CAY\n🇹🇯 TJK\n🇸🇱
+  SLE\n🇷🇸 SRB\n🏳️ 奧林匹克難民代表團\n🇮🇹 ITA\n🇮🇪 IRL\n🇸🇬 SGP\n🇳🇿
+  新西蘭\n🇨🇭 SUI\n🇸🇪 SWE\n🇻🇨 VIN\n🇰🇳 SKN\n🇵🇹 POR\n🇩🇪 GER\n🇲🇽
+  MEX\n🇦🇺 AUS\n🇰🇷 KOR\n🇿🇲 ZAM
 SUMMARY:🏊 男子50米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT

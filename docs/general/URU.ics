@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/URU//EN
-X-WR-CALNAME:🇺🇾 Uruguay | 巴黎2024
-NAME:🇺🇾 Uruguay | 巴黎2024
+X-WR-CALNAME:🇺🇾 烏拉圭 | 巴黎2024
+NAME:🇺🇾 烏拉圭 | 巴黎2024
 BEGIN:VEVENT
 UID:20240724T150000Z-rugby-sevens-C-FIJ-URU
 DTSTAMP:20240724T150000Z
 DTSTART:20240724T150000Z
 DTEND:20240724T151600Z
 DESCRIPTION:七人制橄欖球 - 男子分組循環賽C組
-SUMMARY:🏉 斐濟 🇫🇯 - 🇺🇾 烏拉圭
+SUMMARY:🏉 FIJ 🇫🇯 - 🇺🇾 URU
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -18,7 +18,7 @@ DTSTAMP:20240724T180000Z
 DTSTART:20240724T180000Z
 DTEND:20240724T181600Z
 DESCRIPTION:七人制橄欖球 - 男子分組循環賽C組
-SUMMARY:🏉 法國 🇫🇷 - 🇺🇾 烏拉圭
+SUMMARY:🏉 FRA 🇫🇷 - 🇺🇾 URU
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DTSTAMP:20240725T130000Z
 DTSTART:20240725T130000Z
 DTEND:20240725T131600Z
 DESCRIPTION:七人制橄欖球 - 男子分組循環賽C組
-SUMMARY:🏉 美國 🇺🇸 - 🇺🇾 烏拉圭
+SUMMARY:🏉 USA 🇺🇸 - 🇺🇾 URU
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +36,7 @@ DTSTAMP:20240725T183000Z
 DTSTART:20240725T183000Z
 DTEND:20240725T184600Z
 DESCRIPTION:七人制橄欖球 - 男子9-12名排名賽
-SUMMARY:🏉 烏拉圭 🇺🇾 - 🇰🇪 肯尼亞
+SUMMARY:🏉 URU 🇺🇾 - 🇰🇪 KEN
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -53,17 +53,11 @@ UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇸🇩 Abdalla AHMED\n🇪🇬 Abdelkhalek
-  ELBANNA\n🇦🇴 Andre MATIAS\n🇯🇵 ARAKAWA Ryuta\n🇮🇳 Balraj PANWAR\n🇭🇺
-  Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
-  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
-  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
-  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
-  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
-  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
-  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
-  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
-  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
+DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇭🇰 中國香港\n🇩🇰 DEN\n🇧🇷 BRA\n🇵🇾 PAR\n🇯🇵
+  JPN\n🇧🇪 BEL\n🇨🇺 CUB\n🇱🇹 LTU\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩 INA\n🇦🇴
+  ANG\n🇧🇲 BER\n🇭🇷 CRO\n🇱🇾 LBA\n🇬🇷 GRE\n🇩🇿 ALG\n🇧🇬 BUL\n🇰🇿
+  KAZ\n🇿🇼 津巴布韋\n🇹🇳 TUN\n🇺🇸 USA\n🇪🇬 EGY\n🇹🇭 THA\n🇺🇾 URU\n🇳🇱
+  NED\n🇸🇮 斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 GER\n🇲🇨 MON\n🇷🇴 ROU\n🇸🇩 SUD
 SUMMARY:🚣 男子單人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -73,7 +67,7 @@ DTSTAMP:20240727T143000Z
 DTSTART:20240727T143000Z
 DTEND:20240727T144600Z
 DESCRIPTION:七人制橄欖球 - 男子11-12名排名賽
-SUMMARY:🏉 日本 🇯🇵 - 🇺🇾 烏拉圭
+SUMMARY:🏉 JPN 🇯🇵 - 🇺🇾 URU
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
@@ -171,14 +165,10 @@ UID:20240730T081000Z-rowing-14
 DTSTAMP:20240730T081000Z
 DTSTART:20240730T081000Z
 DTEND:20240730T084700Z
-DESCRIPTION:賽艇 - 男子單人雙槳1/4決賽\n🇪🇬 Abdelkhalek ELBANNA\n🇯🇵 ARAKAWA
-  Ryuta\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno
-  CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹 Giedrius
-  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
-  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴 Mihai
-  CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy CARDONA
-  BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
-  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
+DESCRIPTION:賽艇 - 男子單人雙槳1/4決賽\n🇭🇰 中國香港\n🇩🇰 DEN\n🇧🇷 BRA\n🇵🇾 PAR\n🇯🇵
+  JPN\n🇧🇪 BEL\n🇨🇺 CUB\n🇱🇹 LTU\n🇭🇺 HUN\n🇮🇳 IND\n🇭🇷 CRO\n🇬🇷
+  GRE\n🇩🇿 ALG\n🇧🇬 BUL\n🇺🇸 USA\n🇪🇬 EGY\n🇺🇾 URU\n🇳🇱 NED\n🇸🇮
+  斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 GER\n🇲🇨 MON\n🇷🇴 ROU
 SUMMARY:🚣 男子單人雙槳1/4決賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -196,33 +186,17 @@ UID:20240730T091751Z-swimming-100
 DTSTAMP:20240730T091751Z
 DTSTART:20240730T091751Z
 DTEND:20240730T095131Z
-DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
-  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
-  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
-  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
-  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
-  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
-  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
-  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
-  SANTOS\n🇰🇲 Hadji HASSANE\n🇬🇭 Harry STACEY\n🇦🇴 Henrique
-  MASCARENHAS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇸🇷 Irvin
-  HOOST\n🇴🇲 Issa Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack
-  KIRBY\n🇬🇧 Jacob Henry WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier
-  NUNEZ\n🇱🇨 Jayhan Jamaud ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺
-  Johnathan SILAS\n🇸🇬 Jonathan Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge
-  IGA\n🇨🇦 Josh LIENDO\n🇵🇬 Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle
-  ABEYSINGHE\n🇦🇺 Kyle CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹
-  Leonardo DEPLANO\n🇧🇷 Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳
-  Matthieu SEYE\n🇫🇷 Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad
-  ZUBAID\n🇹🇲 Musa ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola
-  MILJENIC\n🇨🇾 Nikolas ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh
-  PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲 Phone Pyae HAN\n🇫🇷 Rafael
-  FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷
-  Samyar ABDOLI\n🇧🇹 Sangay TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de
-  CELIS MONTALBAN\n🇱🇧 Simon DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir
-  STJEPANOVIC\n🇨🇳 WANG Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef
-  ABUBAKER\n🇦🇪 Yousuf ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M
-  ALSARRAJ
+DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇹🇲 TKM\n🇧🇹 BHU\n🇨🇳 CHN\n🇭🇰
+  中國香港\n🇧🇧 BAR\n🇵🇬 PNG\n🇧🇷 BRA\n🇧🇸 BAH\n🇲🇺 MRI\n🇮🇱 ISR\n🇨🇦
+  CAN\n🇬🇭 GHA\n🇳🇵 NEP\n🇻🇺 VAN\n🇱🇹 LTU\n🇮🇷 IRI\n🇭🇺 HUN\n🇩🇴
+  多米尼加\n🇦🇴 ANG\n🇪🇸 ESP\n🇭🇷 CRO\n🇱🇾 LBA\n🇸🇦 KSA\n🇦🇲 ARM\n🇹🇿
+  TAN\n🇻🇪 VEN\n🇧🇩 BAN\n🇫🇷 FRA\n🇵🇱 POL\n🇴🇲 OMA\n🇦🇱 ALB\n🇦🇼
+  ARU\n🇦🇪 UAE\n🇰🇿 KAZ\n🇰🇭 CAM\n🇰🇼 KUW\n🇽🇰 KOS\n🇰🇲 COM\n🇺🇸
+  USA\n🇬🇧 GBR\n🇹🇭 THA\n🇺🇾 URU\n🇹🇹 TTO\n🇲🇱 馬裡\n🇨🇿 CZE\n🇳🇱
+  NED\n🇨🇲 CMR\n🇱🇰 SRI\n🇰🇾 CAY\n🇸🇳 SEN\n🇨🇾 CYP\n🇷🇸 SRB\n🇮🇹
+  ITA\n🇸🇬 SGP\n🇳🇿 新西蘭\n🇸🇪 SWE\n🇱🇨 LCA\n🇵🇹 POR\n🇲🇳 MGL\n🇩🇪
+  GER\n🇲🇲 MYA\n🇱🇧 LBN\n🇲🇽 MEX\n🇦🇺 AUS\n🇱🇺 LUX\n🇰🇷 KOR\n🇸🇻
+  ESA\n🇼🇸 SAM\n🇷🇴 ROU\n🇸🇷 SUR
 SUMMARY:🏊 男子100米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -321,17 +295,11 @@ UID:20240802T091400Z-swimming-200
 DTSTAMP:20240802T091400Z
 DTSTART:20240802T091400Z
 DTEND:20240802T093400Z
-DESCRIPTION:游泳 - 女子200米個人混合泳分組預賽\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
-  Anastasia GORBENKO\n🇮🇩 Azzahra PERMATAHANI\n🇨🇿 Barbora
-  SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma SEBESTYEN\n🇦🇺 Ella
-  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇬🇧 Freya
-  Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva MALUKA\n🇨🇻 Jayla
-  PINA\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇰🇷 KIM Seoyeong\n🇵🇷
-  Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena KREUNDL\n🇳🇱 Marrit
-  STEENBERGEN\n🇯🇵 MATSUMOTO Shiho\n🇵🇪 McKenna de BEVER\n🇺🇾 Nicole
-  FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara FRANCESCHI\n🇨🇦
-  Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara POTOCKA\n🇻🇳 Thi My
-  Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE Shiwen\n🇨🇳 YU Yiting
+DESCRIPTION:游泳 - 女子200米個人混合泳分組預賽\n🇨🇳 CHN\n🇵🇸 PLE\n🇯🇵 JPN\n🇮🇱
+  ISR\n🇨🇦 CAN\n🇭🇺 HUN\n🇮🇩 INA\n🇪🇸 ESP\n🇨🇻 CPV\n🇱🇻 LAT\n🇫🇷
+  FRA\n🇵🇷 PUR\n🇿🇦 RSA\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇾 URU\n🇵🇪 PER\n🇨🇿
+  CZE\n🇳🇱 NED\n🇸🇰 SVK\n🇻🇳 VIE\n🇦🇹 AUT\n🇮🇹 ITA\n🇮🇪 IRL\n🇦🇺
+  AUS\n🇰🇷 KOR\n🇹🇼 Chinese Taipei
 SUMMARY:🏊 女子200米個人混合泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT

@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/USA//EN
-X-WR-CALNAME:🇺🇸 United States 柔道 | 巴黎2024
-NAME:🇺🇸 United States 柔道 | 巴黎2024
+X-WR-CALNAME:🇺🇸 美國 柔道 | 巴黎2024
+NAME:🇺🇸 美國 柔道 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T080000Z-judo-4832-CHN-USA
 DTSTAMP:20240727T080000Z
