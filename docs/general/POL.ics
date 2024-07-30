@@ -119,11 +119,18 @@ UID:20240727T093000Z-swimming-100
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T094400Z
-DESCRIPTION:游泳 - 男子100米蛙泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇯🇵 JPN\n🇮🇱 ISR\n🇶🇦
-  QAT\n🇱🇹 LTU\n🇮🇸 ISL\n🇰🇬 KGZ\n🇦🇬 ANT\n🇱🇦 LAO\n🇵🇱 POL\n🇺🇸
-  USA\n🇦🇸 ASA\n🇬🇧 GBR\n🇭🇹 HAI\n🇲🇬 MAD\n🇫🇲 密克羅尼西亞\n🇳🇱 NED\n🇲🇿
-  MOZ\n🇧🇼 BOT\n🇸🇿 斯威士蘭\n🇦🇹 AUT\n🇮🇹 ITA\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺
-  AUS\n🇰🇷 KOR
+DESCRIPTION:游泳 - 男子100米蛙泳分組預賽\n🇶🇦 Abdulaziz AL-OBAIDLY\n🇬🇧 Adam
+  PEATY\n🇧🇼 Adrian ROBINSON\n🇭🇹 Alexandre GRAND'PIERRE\n🇱🇹 Andrius
+  SIDLAUSKAS\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇹🇷 Berkay
+  OGRETIR\n🇦🇹 Bernhard REITSHAMMER\n🇳🇱 Caspar CORBEAU\n🇸🇿 Chadd NG
+  CHIU HING NING\n🇺🇸 Charlie SWANSON\n🇰🇷 CHOI Dongyeol\n🇰🇬 Denis
+  PETRASHOV\n🇦🇬 Jadon WUILLIEZ\n🇬🇧 James WILBY\n🇵🇱 Jan
+  KALUSOWSKI\n🇲🇬 Jonathan RAHARVEL\n🇦🇺 Joshua YONG\n🇩🇪 Lucas
+  MATZERATH\n🇮🇹 Ludovico Blu Art VIBERTI\n🇲🇿 Matthew LAWRENCE\n🇩🇪
+  Melvin IMOUDU\n🇦🇸 Micah MASEI\n🇲🇽 Miguel Alejandro de LARA
+  OJEDA\n🇺🇸 Nic FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN Haiyang\n🇮🇱 Ron
+  POLONSKY\n🇦🇺 Sam WILLIAMSON\n🇱🇦 Steven INSIXIENGMAY\n🇨🇳 SUN
+  Jiajun\n🇯🇵 TANIGUCHI Taku\n🇫🇲 Tasi LIMTIACO
 SUMMARY:🏊 男子100米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -150,9 +157,27 @@ UID:20240727T101500Z-swimming-4X100
 DTSTAMP:20240727T101500Z
 DTSTART:20240727T101500Z
 DTEND:20240727T102600Z
-DESCRIPTION:游泳 - 女子4x100米自由泳接力分組預賽\n🇨🇳 CHN\n🇭🇰 中國香港\n🇩🇰 DEN\n🇧🇷
-  BRA\n🇨🇦 CAN\n🇭🇺 HUN\n🇫🇷 FRA\n🇵🇱 POL\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱
-  NED\n🇸🇮 斯洛文尼亞\n🇮🇹 ITA\n🇮🇪 IRL\n🇸🇪 SWE\n🇦🇺 AUS
+DESCRIPTION:游泳 - 女子4x100米自由泳接力分組預賽\n🇺🇸 Abbey WEITZEIL\n🇧🇷 Ana Carolina
+  VIEIRA\n🇬🇧 Anna HOPKIN\n🇭🇰 AU Hoi Shun Stephanie\n🇫🇷 Beryl
+  GASTALDELLO\n🇦🇺 Bronte CAMPBELL\n🇨🇦 Brooklyn DOUTHWRIGHT\n🇫🇷
+  Charlotte BONNET\n🇭🇰 CHENG Camille Lily Mei\n🇨🇳 CHENG Yujie\n🇮🇹
+  Chiara TARANTINO\n🇮🇪 Danielle HILL\n🇩🇰 Elisabeth Sabroe EBBESEN\n🇦🇺
+  Emma McKEON\n🇮🇹 Emma Virginia MENICUCCI\n🇺🇸 Erika CONNOLLY\n🇮🇪 Erin
+  RIORDAN\n🇬🇧 Eva OKARO\n🇬🇧 Freya ANDERSON\n🇧🇷 Giovana MEDEIROS\n🇮🇪
+  Grace DAVISON\n🇸🇮 Janja SEGEL\n🇵🇱 Julia MAIK\n🇩🇰 Julie Kepp
+  JENSEN\n🇭🇰 KAN Cheuk Tung Natalie\n🇵🇱 Katarzyna WASICK\n🇺🇸 Kate
+  DOUGLASS\n🇸🇮 Katja FAIN\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia
+  FIEDKIEWICZ\n🇭🇺 Lilla Minna ABRAHAM\n🇫🇷 Lison NOWACZYK\n🇬🇧 Lucy
+  HOPE\n🇧🇷 Maria Paula HEITMANN\n🇳🇱 Marrit STEENBERGEN\n🇩🇰 Martine
+  DAMBORG\n🇫🇷 Mary-Ambre MOLUH\n🇨🇦 Mary-Sophie HARVEY\n🇦🇺 Meg
+  HARRIS\n🇸🇪 Michelle COLEMAN\n🇸🇮 Neza KLANCAR\n🇭🇺 Nikolett
+  PADAR\n🇦🇺 Olivia WUNSCH\n🇭🇺 Panna UGRAI\n🇨🇦 Penny OLEKSIAK\n🇭🇺
+  Petra SENANSZKY\n🇳🇱 Sam van NUNEN\n🇮🇹 Sara CURTIS\n🇸🇪 Sara
+  JUNEVIK\n🇸🇪 Sarah SJOESTROEM\n🇩🇰 Signe BRO\n🇺🇸 Simone MANUEL\n🇸🇪
+  Sofia AASTEDT\n🇮🇹 Sofia MORINI\n🇧🇷 Stephanie BALDUCCINI\n🇭🇰 TAM Hoi
+  Lam\n🇨🇦 Taylor RUCK\n🇳🇱 Tessa GIELE\n🇸🇮 Tjasa PINTAR\n🇮🇪 Victoria
+  CATTERSON\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan\n🇨🇳 YU Yiting\n🇵🇱
+  Zuzanna FAMULOK
 SUMMARY:🏊 女子4x100米自由泳接力分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -161,9 +186,27 @@ UID:20240727T102600Z-swimming-4X100
 DTSTAMP:20240727T102600Z
 DTSTART:20240727T102600Z
 DTEND:20240727T103600Z
-DESCRIPTION:游泳 - 男子4x100米自由泳接力分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇮🇱 ISR\n🇨🇦
-  CAN\n🇭🇺 HUN\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷 FRA\n🇵🇱 POL\n🇺🇸 USA\n🇬🇧
-  GBR\n🇷🇸 SRB\n🇮🇹 ITA\n🇸🇪 SWE\n🇩🇪 GER\n🇦🇺 AUS
+DESCRIPTION:游泳 - 男子4x100米自由泳接力分組預賽\n🇭🇺 Adam JASZO\n🇬🇧 Alexander
+  COHOON\n🇮🇱 Alexey GLIVINSKIY\n🇬🇷 Andreas VAZAIOS\n🇷🇸 Andrej
+  BARNA\n🇵🇱 Bartosz PISZCZOROWICZ\n🇸🇪 Bjoern SEELIGER\n🇧🇷 Breno
+  CORREIA\n🇺🇸 Caeleb DRESSEL\n🇪🇸 Cesar CASTRO VALLE\n🇨🇳 CHEN
+  Juner\n🇮🇱 Denis LOKTEV\n🇵🇱 Dominik DUDYS\n🇬🇧 Duncan SCOTT\n🇸🇪
+  Elias PERSSON\n🇨🇦 Finlay KNOX\n🇦🇺 Flynn SOUTHAM\n🇧🇷 Gabriel
+  SANTOS\n🇮🇱 Gal COHEN GROUMI\n🇧🇷 Guilherme SANTOS\n🇫🇷 Guillaume
+  GUTH\n🇫🇷 Hadrien SALVAN\n🇭🇺 Hubert KOS\n🇺🇸 Hunter ARMSTRONG\n🇸🇪
+  Isak ELIASSON\n🇦🇺 Jack CARTWRIGHT\n🇬🇧 Jacob Henry WHITTLE\n🇨🇦
+  Javier ACEVEDO\n🇨🇳 JI Xinjie\n🇨🇦 Josh LIENDO\n🇩🇪 Josha
+  SALCHOW\n🇷🇸 Justin CVETKOV\n🇵🇱 Kamil SIERADZKI\n🇦🇺 Kyle
+  CHALMERS\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇩🇪 Luca
+  ARMBRUSTER\n🇪🇸 Luis DOMINGUEZ\n🇮🇹 Manuel FRIGO\n🇧🇷 Marcelo
+  CHIERIGHINI\n🇪🇸 Mario MOLLA YANES\n🇵🇱 Mateusz CHOWANIEC\n🇺🇸 Matt
+  KING\n🇭🇺 Nandor NEMETH\n🇷🇸 Nikola ACIN\n🇬🇷 Odyssefs MELADINIS\n🇨🇳
+  PAN Zhanle\n🇬🇷 Panagiotis BOLANOS\n🇮🇹 Paolo CONTE BONIN\n🇩🇪 Peter
+  VARJASI\n🇫🇷 Rafael FENTE--DAMERS\n🇩🇪 Rafael MIROSLAW\n🇸🇪 Robin
+  HANSON\n🇺🇸 Ryan HELD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇬🇷 Stergios
+  Marios BILAS\n🇭🇺 Szebasztian SZABO\n🇬🇧 Tom DEAN\n🇮🇱 Tomer
+  FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇫🇷 W. Amazigh YEBBA\n🇨🇳 WANG
+  Haoyu\n🇦🇺 William YANG\n🇨🇦 Yuri KISIL
 SUMMARY:🏊 男子4x100米自由泳接力分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -467,11 +510,18 @@ UID:20240728T092700Z-swimming-100
 DTSTAMP:20240728T092700Z
 DTSTART:20240728T092700Z
 DTEND:20240728T094200Z
-DESCRIPTION:游泳 - 女子100米蛙泳分組預賽\n🇨🇳 CHN\n🇵🇦 PAN\n🇯🇵 JPN\n🇮🇱 ISR\n🇨🇦
-  CAN\n🇱🇹 LTU\n🇦🇬 ANT\n🇪🇸 ESP\n🇬🇲 GAM\n🇵🇱 POL\n🇫🇮 FIN\n🇦🇷
-  ARG\n🇿🇦 RSA\n🇰🇼 KUW\n🇺🇸 USA\n🇬🇧 GBR\n🇨🇴 COL\n🇨🇰 COK\n🇲🇾
-  MAS\n🇨🇿 CZE\n🇳🇱 NED\n🇮🇹 ITA\n🇪🇪 EST\n🇮🇪 IRL\n🇸🇬 SGP\n🇨🇭
-  SUI\n🇸🇪 SWE\n🇩🇪 GER\n🇲🇦 MAR\n🇱🇧 LBN\n🇦🇺 AUS
+DESCRIPTION:游泳 - 女子100米蛙泳分組預賽\n🇬🇲 Aminata Nia-Maria BARROW\n🇮🇱
+  Anastasia GORBENKO\n🇬🇧 Angharad EVANS\n🇩🇪 Anna ELENDT\n🇯🇵 AOKI
+  Reona\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika SZTANDERA\n🇦🇬 Ellie
+  SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma WEBER\n🇸🇬 En Yi Letitia
+  SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦 Imane Houda EL
+  BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL MONTERO\n🇱🇹 Kotryna
+  TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei CONNOLLY\n🇰🇼 Lara
+  DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭 Lisa MAMIE\n🇱🇧 Lynn
+  EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇲🇾 Rouxin
+  TAN\n🇱🇹 Ruta MEILUTYTE\n🇨🇦 Sophie ANGUS\n🇸🇪 Sophie HANSSON\n🇨🇴
+  Stefania GOMEZ HURTADO\n🇯🇵 SUZUKI Satomi\n🇨🇳 TANG Qianting\n🇿🇦
+  Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
 SUMMARY:🏊 女子100米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -499,12 +549,21 @@ UID:20240728T094300Z-swimming-100
 DTSTAMP:20240728T094300Z
 DTSTART:20240728T094300Z
 DTEND:20240728T095900Z
-DESCRIPTION:游泳 - 男子100米仰泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇵🇸 PLE\n🇧🇳 BRU\n🇯🇵
-  JPN\n🇮🇱 ISR\n🇨🇦 CAN\n🇭🇺 HUN\n🇮🇳 IND\n🇧🇲 BER\n🇪🇸 ESP\n🇬🇷
-  GRE\n🇧🇯 BEN\n🇫🇷 FRA\n🇵🇷 PUR\n🇵🇱 POL\n🇦🇷 ARG\n🇿🇦 RSA\n🇺🇸
-  USA\n🇻🇮 ISV\n🇬🇧 GBR\n🇨🇴 COL\n🇬🇩 GRN\n🇬🇪 GEO\n🇺🇦 UKR\n🇨🇿
-  CZE\n🇳🇱 NED\n🇹🇴 TGA\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇵🇹
-  POR\n🇩🇪 GER\n🇦🇺 AUS\n🇰🇷 KOR
+DESCRIPTION:游泳 - 男子100米仰泳分組預賽\n🇭🇺 Adam JASZO\n🇮🇱 Adam MARAANA\n🇹🇴
+  Alan Koti Lopeti UHI\n🇧🇯 Alexis Michel Roger Dodji KPADE\n🇨🇴 Anthony
+  RINCON VELASCO\n🇬🇷 Apostolos CHRISTOU\n🇹🇷 Berke SAKA\n🇦🇹 Bernhard
+  REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley WOODWARD\n🇬🇷 Evangelos
+  MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸
+  Hunter ARMSTRONG\n🇦🇺 Isaac COOPER\n🇧🇲 Jack HARVEY\n🇨🇦 Javier
+  ACEVEDO\n🇵🇹 Joao COSTA\n🇬🇧 Jonny MARSHALL\n🇳🇱 Kai van
+  WESTERING\n🇳🇿 Kane FOLLOWS\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
+  Marek ULRICH\n🇯🇵 MATSUYAMA Riku\n🇻🇮 Maximillian WILSON\n🇫🇷 Mewen
+  TOMAC\n🇮🇹 Michele LAMBERTI\n🇨🇿 Miroslav KNEDLA\n🇬🇪 Noe
+  PANSTKHAVA\n🇩🇪 Ole BRAUNSCHWEIG\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
+  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇮🇳
+  Srihari NATARAJ\n🇨🇭 Thierry BOLLIN\n🇮🇹 Thomas CECCON\n🇦🇷 Ulises
+  SARAVIA\n🇨🇳 XU Jiayu\n🇵🇸 Yazan AL BAWWAB\n🇵🇷 Yeziel MORALES\n🇫🇷
+  Yohann NDOYE-BROUARD\n🇬🇩 Zackary GRESHAM\n🇧🇳 Zeke CHAN
 SUMMARY:🏊 男子100米仰泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -727,8 +786,12 @@ UID:20240728T193200Z-swimming-100
 DTSTAMP:20240728T193200Z
 DTSTART:20240728T193200Z
 DTEND:20240728T194400Z
-DESCRIPTION:游泳 - 男子100米仰泳半決賽\n🇨🇳 CHN\n🇨🇦 CAN\n🇭🇺 HUN\n🇪🇸 ESP\n🇬🇷
-  GRE\n🇫🇷 FRA\n🇵🇱 POL\n🇿🇦 RSA\n🇺🇸 USA\n🇬🇧 GBR\n🇨🇿 CZE\n🇮🇹 ITA
+DESCRIPTION:游泳 - 男子100米仰泳半決賽\n🇬🇷 Apostolos CHRISTOU\n🇨🇦 Blake
+  TIERNEY\n🇬🇷 Evangelos MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ
+  de OLIVEIRA\n🇺🇸 Hunter ARMSTRONG\n🇬🇧 Jonny MARSHALL\n🇵🇱 Ksawery
+  MASIUK\n🇫🇷 Mewen TOMAC\n🇨🇿 Miroslav KNEDLA\n🇬🇧 Oliver MORGAN\n🇿🇦
+  Pieter COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷
+  Yohann NDOYE-BROUARD
 SUMMARY:🏊 男子100米仰泳半決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -826,11 +889,18 @@ UID:20240729T091300Z-swimming-100
 DTSTAMP:20240729T091300Z
 DTSTART:20240729T091300Z
 DTEND:20240729T092700Z
-DESCRIPTION:游泳 - 女子100米仰泳分組預賽\n🇹🇲 TKM\n🇨🇳 CHN\n🇭🇰 中國香港\n🇧🇭
-  BRN\n🇧🇪 BEL\n🇮🇱 ISR\n🇨🇦 CAN\n🇬🇹 危地馬拉\n🇩🇴 多米尼加\n🇧🇲 BER\n🇪🇸
-  ESP\n🇱🇾 LBA\n🇫🇷 FRA\n🇵🇱 POL\n🇧🇬 BUL\n🇰🇿 KAZ\n🇺🇸 USA\n🇬🇧
-  GBR\n🇺🇦 UKR\n🇹🇹 TTO\n🇳🇱 NED\n🇲🇿 MOZ\n🇱🇰 SRI\n🇮🇪 IRL\n🇸🇪
-  SWE\n🇲🇽 MEX\n🇦🇺 AUS\n🇸🇻 ESA
+DESCRIPTION:游泳 - 女子100米仰泳分組預賽\n🇵🇱 Adela PISKORSKA\n🇧🇭 Amani
+  ALOBAIDLI\n🇮🇱 Aviv BARZELAY\n🇹🇲 Aynura PRIMOVA\n🇫🇷 Beryl
+  GASTALDELLO\n🇪🇸 Carmen WEILER SASTRE\n🇲🇽 Celia PULIDO ORTIZ\n🇸🇻
+  Celina MARQUEZ\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇮🇪 Danielle HILL\n🇲🇿
+  Denise DONELLI\n🇩🇴 Elizabeth JIMENEZ\n🇧🇲 Emma HARVEY\n🇫🇷 Emma
+  TEREBO\n🇧🇬 Gabriela GEORGIEVA\n🇱🇰 Ganga SENAVIRATHNE\n🇨🇦 Ingrid
+  WILM\n🇦🇺 Iona ANDERSON\n🇺🇸 Katharine BERKOFF\n🇬🇧 Kathleen
+  DAWSON\n🇦🇺 Kaylee McKEOWN\n🇳🇱 Kira TOUSSAINT\n🇨🇦 Kylie MASSE\n🇸🇪
+  Louise HANSSON\n🇬🇹 Lucero MEJIA\n🇳🇱 Maaike de WAARD\n🇬🇧 Medi Eira
+  HARRIS\n🇱🇾 Mek ALMUKHTAR\n🇺🇦 Nika SHARAFUTDINOVA\n🇺🇸 Regan
+  SMITH\n🇧🇪 Roos VANOTTERDIJK\n🇨🇳 WAN Letian\n🇨🇳 WANG Xueer\n🇰🇿
+  Xeniya IGNATOVA\n🇹🇹 Zuri FERGUSON
 SUMMARY:🏊 女子100米仰泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -1672,10 +1742,16 @@ UID:20240731T092100Z-swimming-200
 DTSTAMP:20240731T092100Z
 DTSTART:20240731T092100Z
 DTEND:20240731T094600Z
-DESCRIPTION:游泳 - 男子200米仰泳分組預賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇮🇱 ISR\n🇨🇦 CAN\n🇭🇺
-  HUN\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷 FRA\n🇵🇷 PUR\n🇵🇱 POL\n🇿🇦 RSA\n🇿🇼
-  津巴布韋\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇦 UKR\n🇳🇱 NED\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭
-  SUI\n🇩🇪 GER\n🇦🇺 AUS\n🇰🇷 KOR\n🇸🇩 SUD
+DESCRIPTION:游泳 - 男子200米仰泳分組預賽\n🇭🇺 Adam TELEGDY\n🇬🇷 Apostolos
+  CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley
+  WOODWARD\n🇮🇱 David GERCHIK\n🇿🇼 Denilson CYPRIANOS\n🇭🇺 Hubert
+  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇳🇱 Kai van WESTERING\n🇳🇿 Kane
+  FOLLOWS\n🇺🇸 Keaton JONES\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
+  Lukas MAERTENS\n🇬🇧 Luke GREENBANK\n🇮🇹 Matteo RESTIVO\n🇫🇷 Mewen
+  TOMAC\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
+  COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇦🇺 Se-Bom LEE\n🇯🇵
+  TAKEHARA Hidekazu\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇵🇷 Yeziel
+  MORALES\n🇫🇷 Yohann NDOYE-BROUARD\n🇸🇩 Ziyad SALEEM
 SUMMARY:🏊 男子200米仰泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
