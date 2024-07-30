@@ -21,4 +21,13 @@ DESCRIPTION:拳擊 - 男子51公斤級 - 預賽 - 16強賽
 SUMMARY:🥊 Patrick CHINYEMBA 🇿🇲 - 🇮🇳 Amit AMIT
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T190400Z-boxing-51-14
+DTSTAMP:20240802T190400Z
+DTSTART:20240802T190400Z
+DTEND:20240802T191500Z
+DESCRIPTION:拳擊 - 男子51公斤級 - 1/4決賽\n🇿🇲 Patrick CHINYEMBA
+SUMMARY:🥊 男子51公斤級 - 1/4決賽
+LOCATION:北巴黎競技場
+END:VEVENT
 END:VCALENDAR
