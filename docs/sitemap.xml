@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://olympics.easyfindinfo.com/</loc>
+    <lastmod>2024-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://olympics.easyfindinfo.com/today.html?noc=TPE&amp;country=%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97</loc>
+    <lastmod>2024-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://olympics.easyfindinfo.com/all.html?noc=TPE&amp;country=%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97</loc>
+    <lastmod>2024-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
