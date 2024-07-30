@@ -76,8 +76,18 @@ UID:20240727T103000Z-rowing-
 DTSTAMP:20240727T103000Z
 DTSTART:20240727T103000Z
 DTEND:20240727T104700Z
-DESCRIPTION:賽艇 - 男子四人雙槳分組預賽\n🇵🇱 POL\n🇬🇧 GBR\n🇳🇴 NOR\n🇳🇱 NED\n🇮🇹
-  ITA\n🇪🇪 EST\n🇨🇭 SUI\n🇩🇪 GER\n🇷🇴 ROU
+DESCRIPTION:賽艇 - 男子四人雙槳分組預賽\n🇪🇪 Allar RAJA\n🇮🇹 Andrea PANIZZA\n🇷🇴
+  Andrei LUNGU\n🇩🇪 Anton FINGER\n🇬🇧 Callum DIXON\n🇨🇭 Dominic
+  CONDRAU\n🇵🇱 Dominik CZAJA\n🇳🇴 Erik Andre SOLBAKKEN\n🇵🇱 Fabian
+  BARANSKI\n🇳🇱 Finn FLORIJN\n🇷🇴 Florin Bogdan HORODISTEANU\n🇮🇹
+  Giacomo GENTILI\n🇬🇧 Graeme THOMAS\n🇷🇴 Ioan PRUNDEANU\n🇳🇴 Jan Oscar
+  Stabe HELVIG\n🇪🇪 Johann POOLAK\n🇨🇭 Jonah PLOCK\n🇳🇴 Jonas Slettemark
+  JUEL\n🇳🇱 Koen METSEMAKERS\n🇳🇴 Kristoffer BRUN\n🇳🇱 Lennart van
+  LIEROP\n🇷🇴 Leontin NUTESCU\n🇮🇹 Luca CHIUMENTO\n🇮🇹 Luca
+  RAMBALDI\n🇵🇱 Mateusz BISKUP\n🇬🇧 Matthew HAYWOOD\n🇨🇭 Maurin
+  LANGE\n🇩🇪 Max APPEL\n🇪🇪 Mikhail KUSHTEYN\n🇵🇱 Miroslaw
+  ZIETARSKI\n🇩🇪 Moritz WOLFF\n🇨🇭 Scott BAERLOCHER\n🇬🇧 Thomas
+  BARRAS\n🇩🇪 Tim-Ole NASKE\n🇳🇱 Tone WIETEN\n🇪🇪 Tonu ENDREKSON
 SUMMARY:🚣 男子四人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -177,8 +187,13 @@ UID:20240729T092000Z-rowing-
 DTSTAMP:20240729T092000Z
 DTSTART:20240729T092000Z
 DTEND:20240729T092700Z
-DESCRIPTION:賽艇 - 男子四人雙槳復活賽\n🇳🇴 NOR\n🇪🇪 EST\n🇨🇭 SUI\n🇩🇪 GER\n🇷🇴
-  ROU
+DESCRIPTION:賽艇 - 男子四人雙槳復活賽\n🇪🇪 Allar RAJA\n🇷🇴 Andrei LUNGU\n🇩🇪 Anton
+  FINGER\n🇨🇭 Dominic CONDRAU\n🇳🇴 Erik Andre SOLBAKKEN\n🇷🇴 Florin
+  Bogdan HORODISTEANU\n🇷🇴 Ioan PRUNDEANU\n🇳🇴 Jan Oscar Stabe
+  HELVIG\n🇪🇪 Johann POOLAK\n🇨🇭 Jonah PLOCK\n🇳🇴 Jonas Slettemark
+  JUEL\n🇳🇴 Kristoffer BRUN\n🇷🇴 Leontin NUTESCU\n🇨🇭 Maurin LANGE\n🇩🇪
+  Max APPEL\n🇪🇪 Mikhail KUSHTEYN\n🇩🇪 Moritz WOLFF\n🇨🇭 Scott
+  BAERLOCHER\n🇩🇪 Tim-Ole NASKE\n🇪🇪 Tonu ENDREKSON
 SUMMARY:🚣 男子四人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -331,6 +346,20 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽07\n🇦🇷 Chiara FER
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
 SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽07
 LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T184400Z-swimming-200
+DTSTAMP:20240730T184400Z
+DTSTART:20240730T184400Z
+DTEND:20240730T190000Z
+DESCRIPTION:游泳 - 男子200米蝶泳半決賽\n🇮🇹 Alberto RAZZETTI\n🇪🇸 Arbidel GONZALEZ
+  ALVAREZ\n🇮🇹 Giacomo CARINI\n🇨🇦 Ilya KHARUN\n🇰🇷 KIM Minseop\n🇪🇪
+  Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱 Krzysztof CHMIELEWSKI\n🇫🇷 Leon
+  MARCHAND\n🇦🇹 Martin ESPERNBERGER\n🇵🇱 Michal CHMIELEWSKI\n🇨🇭 Noe
+  PONTI\n🇭🇺 Richard MARTON\n🇯🇵 TERAKADO Genki\n🇺🇸 Thomas
+  HEILMAN\n🇹🇼 WANG Kuan-Hung
+SUMMARY:🏊 男子200米蝶泳半決賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T072000Z-badminton--M-IND-EST
