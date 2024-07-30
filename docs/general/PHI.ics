@@ -17,11 +17,18 @@ UID:20240727T081200Z-rowing-
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:賽艇 - 女子單人雙槳分組預賽\n🇹🇷 土耳其\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇨🇺 古巴\n🇳🇮
-  尼加拉瓜\n🇱🇹 立陶宛\n🇮🇷 伊朗\n🇹🇬 多哥\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆\n🇩🇿 阿爾及利亞\n🇧🇬
-  保加利亞\n🇿🇦 南非\n🇰🇼 科威特\n🇺🇸 美國\n🇺🇿 烏茲別克斯坦\n🇺🇬 烏幹達\n🇵🇪 秘魯\n🇳🇱
-  荷蘭\n🇸🇮 斯洛文尼亞\n🇵🇭 菲律賓\n🇻🇳 越南\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇸🇬 新加坡\n🇳🇿
-  新西蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇦 摩洛哥\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+DESCRIPTION:賽艇 - 女子單人雙槳分組預賽\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪
+  Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina
+  JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿
+  Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇳🇮 Evidelia GONZALEZ
+  JARQUIN\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen
+  NOBLE\n🇲🇽 Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline
+  EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇰🇼 Soaad ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue
+  PHAM\n🇱🇹 Viktorija SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis
+  COBAS GARCIA
 SUMMARY:🚣 女子單人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -30,9 +37,12 @@ UID:20240728T070000Z-rowing-
 DTSTAMP:20240728T070000Z
 DTSTART:20240728T070000Z
 DTEND:20240728T073100Z
-DESCRIPTION:賽艇 - 女子單人雙槳復活賽\n🇹🇷 土耳其\n🇵🇾 巴拉圭\n🇨🇺 古巴\n🇳🇮 尼加拉瓜\n🇮🇷
-  伊朗\n🇹🇬 多哥\n🇩🇿 阿爾及利亞\n🇰🇼 科威特\n🇺🇬 烏幹達\n🇵🇪 秘魯\n🇵🇭 菲律賓\n🇻🇳
-  越南\n🇸🇬 新加坡\n🇲🇦 摩洛哥
+DESCRIPTION:賽艇 - 女子單人雙槳復活賽\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇹🇷 Elis
+  OZBAY\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷 Fatemeh
+  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇺🇬 Kathleen NOBLE\n🇲🇦
+  Majdouline EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad ALFAQAAN\n🇻🇳
+  Thi Hue PHAM\n🇨🇺 Yariulvis COBAS GARCIA
 SUMMARY:🚣 女子單人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -68,10 +78,15 @@ UID:20240730T073000Z-rowing-14
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T080700Z
-DESCRIPTION:賽艇 - 女子單人雙槳1/4決賽\n🇹🇷 土耳其\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇱🇹 立陶宛\n🇮🇷
-  伊朗\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆\n🇧🇬 保加利亞\n🇿🇦 南非\n🇺🇸 美國\n🇺🇿 烏茲別克斯坦\n🇵🇪
-  秘魯\n🇳🇱 荷蘭\n🇸🇮 斯洛文尼亞\n🇵🇭 菲律賓\n🇻🇳 越南\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇳🇿
-  新西蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+DESCRIPTION:賽艇 - 女子單人雙槳1/4決賽\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
+  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
+  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
+  TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
 SUMMARY:🚣 女子單人雙槳1/4決賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -89,10 +104,16 @@ UID:20240730T104759Z-swimming-100
 DTSTAMP:20240730T104759Z
 DTSTART:20240730T104759Z
 DTEND:20240730T110153Z
-DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇨🇳 中國\n🇭🇰 中國香港\n🇨🇦 加拿大\n🇮🇸 冰島\n🇬🇾
-  圭亞那\n🇭🇷 克羅地亞\n🇫🇷 法國\n🇵🇱 波蘭\n🇩🇿 阿爾及利亞\n🇿🇼 津巴布韋\n🇺🇸 美國\n🇬🇧
-  英國\n🇬🇩 格林納達\n🇺🇬 烏幹達\n🇨🇿 捷克\n🇳🇱 荷蘭\n🇧🇼 博茨瓦納\n🇸🇮 斯洛文尼亞\n🇵🇭
-  菲律賓\n🇰🇾 開曼群島\n🇨🇾 塞浦路斯\n🇸🇪 瑞典\n🇦🇺 澳大利亞\n🇸🇩 蘇丹
+DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
+  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
+  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
+  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
+  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
+  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
+  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
+  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
+  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
 SUMMARY:🏊 女子100米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -146,11 +167,19 @@ UID:20240802T090000Z-swimming-100
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
 DTEND:20240802T091300Z
-DESCRIPTION:游泳 - 男子100米蝶泳分組預賽\n🇾🇪 也門\n🇨🇳 中國\n🇧🇷 巴西\n🇯🇵 日本\n🇯🇲
-  牙買加\n🇮🇱 以色列\n🇨🇦 加拿大\n🇮🇶 伊拉克\n🇭🇺 匈牙利\n🇮🇩 印度尼西亞\n🇪🇸 西班牙\n🇭🇷
-  克羅地亞\n🇫🇷 法國\n🇵🇱 波蘭\n🇧🇬 保加利亞\n🇿🇦 南非\n🇰🇿 哈薩克斯坦\n🇺🇸 美國\n🇬🇧
-  英國\n🇺🇬 烏幹達\n🇨🇿 捷克\n🇳🇱 荷蘭\n🇵🇭 菲律賓\n🇲🇪 黑山\n🇦🇹 奧地利\n🇳🇿
-  新西蘭\n🇨🇭 瑞士\n🇵🇹 葡萄牙\n🇩🇪 德國\n🇦🇺 澳大利亞\n🇷🇼 盧旺達
+DESCRIPTION:游泳 - 男子100米蝶泳分組預賽\n🇰🇿 Adilbek MUSSIN\n🇦🇺 Ben
+  ARMBRUSTER\n🇺🇸 Caeleb DRESSEL\n🇳🇿 Cameron GRAY\n🇿🇦 Chad le
+  CLOS\n🇫🇷 Clement SECCHI\n🇨🇿 Daniel GRACIK\n🇵🇹 Diogo MATOS
+  RIBEIRO\n🇮🇱 Gal COHEN GROUMI\n🇮🇶 Hasan Ali Khaleel AL-ZINKEE\n🇭🇺
+  Hubert KOS\n🇨🇦 Ilya KHARUN\n🇵🇱 Jakub MAJERSKI\n🇬🇧 James GUY\n🇵🇭
+  Jarod HATCH\n🇺🇬 Jesse Ssuubi SSENGONZI\n🇮🇩 Joe KURNIAWAN\n🇯🇲 Josh
+  KIRLEW\n🇨🇦 Josh LIENDO\n🇧🇬 Josif MILADINOV\n🇩🇪 Kaii WINKLER\n🇧🇷
+  Kayky MOTA\n🇭🇺 Kristof MILAK\n🇪🇸 Mario MOLLA YANES\n🇯🇵 MATSUMOTO
+  Katsuhiro\n🇿🇦 Matthew SATES\n🇦🇺 Matthew TEMPLE\n🇫🇷 Maxime
+  GROUSSET\n🇲🇪 Milos MILENKOVIC\n🇯🇵 MIZUNUMA Naoki\n🇭🇷 Nikola
+  MILJENIC\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE\n🇷🇼 Oscar Cyusa PEYRE
+  MITILLA\n🇦🇹 Simon BUCHER\n🇨🇳 SUN Jiajun\n🇺🇸 Thomas HEILMAN\n🇮🇱
+  Tomer FRANKEL\n🇨🇳 WANG Changhao\n🇾🇪 Yusuf Marwan Abdullah NASSER
 SUMMARY:🏊 男子100米蝶泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT

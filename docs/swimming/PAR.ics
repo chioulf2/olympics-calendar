@@ -8,11 +8,18 @@ UID:20240727T090000Z-swimming-100
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T091100Z
-DESCRIPTION:游泳 - 女子100米蝶泳分組預賽\n🇨🇳 中國\n🇩🇰 丹麥\n🇵🇾 巴拉圭\n🇯🇵 日本\n🇧🇪
-  比利時\n🇨🇦 加拿大\n🇳🇮 尼加拉瓜\n🇪🇸 西班牙\n🇬🇷 希臘\n🇦🇲 亞美尼亞\n🇫🇷 法國\n🇧🇦
-  波黑\n🇿🇦 南非\n🇺🇸 美國\n🇬🇧 英國\n🇬🇪 格魯吉亞\n🇨🇿 捷克\n🇳🇱 荷蘭\n🇸🇿
-  斯威士蘭\n🇸🇳 塞內加爾\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇳🇿 新西蘭\n🇸🇪 瑞典\n🇩🇪 德國\n🇦🇺
-  澳大利亞
+DESCRIPTION:游泳 - 女子100米蝶泳分組預賽\n🇦🇺 Alexandria PERKINS\n🇬🇪 Ana
+  NIZHARADZE\n🇩🇪 Angelina KOEHLER\n🇬🇷 Anna NTOUNTOUNAKI\n🇨🇿 Barbora
+  SEEMANOVA\n🇮🇹 Costanza COCCONCELLI\n🇮🇪 Ellen WALSHE\n🇦🇺 Emma
+  McKEON\n🇿🇦 Erin GALLAGHER\n🇬🇷 Georgia DAMASIOTI\n🇺🇸 Gretchen
+  WALSH\n🇸🇿 Hayley HOY\n🇩🇰 Helena Rosendahl BACH\n🇯🇵 HIRAI
+  Mizuki\n🇯🇵 IKEE Rikako\n🇬🇧 Keanna Louise MACINNES\n🇧🇦 Lana
+  PUDAR\n🇪🇸 Laura CABANES GARZAS\n🇸🇪 Louise HANSSON\n🇵🇾 Luana
+  ALONSO\n🇨🇦 Margaret MAC NEIL\n🇳🇮 Maria Victoria SCHUTZMEIER\n🇫🇷
+  Marie WATTEL\n🇸🇳 Oumy DIOP\n🇨🇦 Rebecca SMITH\n🇧🇪 Roos
+  VANOTTERDIJK\n🇳🇱 Tessa GIELE\n🇺🇸 Torri HUSKE\n🇳🇿 Vanessa Hazel
+  OUWEHAND\n🇦🇲 Varsenik MANUCHARYAN\n🇮🇹 Viola SCOTTO di CARLO\n🇨🇳
+  ZHANG Yufei
 SUMMARY:🏊 女子100米蝶泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -21,10 +28,14 @@ UID:20240801T094000Z-swimming-200
 DTSTAMP:20240801T094000Z
 DTSTART:20240801T094000Z
 DTEND:20240801T095500Z
-DESCRIPTION:游泳 - 男子200米個人混合泳分組預賽\n🇹🇷 土耳其\n🇨🇳 中國\n🇪🇨 厄瓜多爾\n🇵🇾
-  巴拉圭\n🇯🇵 日本\n🇮🇱 以色列\n🇨🇦 加拿大\n🇭🇺 匈牙利\n🇬🇹 危地馬拉\n🇪🇸 西班牙\n🇬🇷
-  希臘\n🇫🇷 法國\n🇩🇿 阿爾及利亞\n🇿🇦 南非\n🇧🇴 玻利維亞\n🇺🇸 美國\n🇬🇧 英國\n🇸🇨
-  塞舌爾\n🇮🇹 意大利\n🇳🇿 新西蘭\n🇨🇭 瑞士\n🇦🇺 澳大利亞
+DESCRIPTION:游泳 - 男子200米個人混合泳分組預賽\n🇮🇹 Alberto RAZZETTI\n🇬🇷 Apostolos
+  PAPASTAMOS\n🇹🇷 Berke SAKA\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇬🇹
+  Erick GORDILLO\n🇧🇴 Esteban NUNEZ del PRADO\n🇨🇦 Finlay KNOX\n🇭🇺
+  Gabor ZOMBORI\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇩🇿 Jaouad SYOUD\n🇨🇭
+  Jeremy DESPLANCHES\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇵🇾 Matheo
+  MATEOS\n🇿🇦 Matthew SATES\n🇮🇱 Ron POLONSKY\n🇯🇵 SETO Daiya\n🇺🇸
+  Shaine CASAS\n🇸🇨 Simon BACHMANN\n🇦🇺 Thomas NEILL\n🇬🇧 Tom DEAN\n🇪🇨
+  Tomas PERIBONIO AVILA\n🇨🇳 WANG Shun\n🇦🇺 William Campbell PETRIC
 SUMMARY:🏊 男子200米個人混合泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT

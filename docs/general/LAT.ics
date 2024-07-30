@@ -111,10 +111,15 @@ UID:20240730T110153Z-swimming-200
 DTSTAMP:20240730T110153Z
 DTSTART:20240730T110153Z
 DTEND:20240730T112042Z
-DESCRIPTION:游泳 - 男子200米蛙泳分組預賽\n🇨🇳 中國\n🇧🇭 巴林\n🇵🇦 巴拿馬\n🇯🇵 日本\n🇱🇹
-  立陶宛\n🇮🇸 冰島\n🇰🇬 吉爾吉斯斯坦\n🇱🇻 拉脫維亞\n🇫🇷 法國\n🇵🇱 波蘭\n🇫🇮 芬蘭\n🇧🇬
-  保加利亞\n🇭🇳 洪都拉斯\n🇯🇴 約旦\n🇺🇸 美國\n🇳🇱 荷蘭\n🇸🇪 瑞典\n🇲🇽 墨西哥\n🇦🇺
-  澳大利亞\n🇰🇷 韓國
+DESCRIPTION:游泳 - 男子200米蛙泳分組預賽\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro
+  AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler
+  CHRISTIANSON\n🇳🇱 Caspar CORBEAU\n🇰🇷 CHO Sung Jae\n🇱🇻 Daniils
+  BOBROVS\n🇰🇬 Denis PETRASHOV\n🇨🇳 DONG Zhihao\n🇸🇪 Erik PERSSON\n🇯🇵
+  HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺 Joshua
+  YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
+  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
+  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
+  Ippei\n🇦🇺 Zac STUBBLETY-COOK
 SUMMARY:🏊 男子200米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -203,11 +208,17 @@ UID:20240802T091400Z-swimming-200
 DTSTAMP:20240802T091400Z
 DTSTART:20240802T091400Z
 DTEND:20240802T093400Z
-DESCRIPTION:游泳 - 女子200米個人混合泳分組預賽\n🇨🇳 中國\n🇵🇸 巴勒斯坦\n🇯🇵 日本\n🇮🇱
-  以色列\n🇨🇦 加拿大\n🇭🇺 匈牙利\n🇮🇩 印度尼西亞\n🇪🇸 西班牙\n🇨🇻 佛得角\n🇱🇻 拉脫維亞\n🇫🇷
-  法國\n🇵🇷 波多黎各\n🇿🇦 南非\n🇺🇸 美國\n🇬🇧 英國\n🇺🇾 烏拉圭\n🇵🇪 秘魯\n🇨🇿
-  捷克\n🇳🇱 荷蘭\n🇸🇰 斯洛伐克\n🇻🇳 越南\n🇦🇹 奧地利\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇦🇺
-  澳大利亞\n🇰🇷 韓國\n🇹🇼 TPE
+DESCRIPTION:游泳 - 女子200米個人混合泳分組預賽\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
+  Anastasia GORBENKO\n🇮🇩 Azzahra PERMATAHANI\n🇨🇿 Barbora
+  SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma SEBESTYEN\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇬🇧 Freya
+  Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva MALUKA\n🇨🇻 Jayla
+  PINA\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇰🇷 KIM Seoyeong\n🇵🇷
+  Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena KREUNDL\n🇳🇱 Marrit
+  STEENBERGEN\n🇯🇵 MATSUMOTO Shiho\n🇵🇪 McKenna de BEVER\n🇺🇾 Nicole
+  FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara FRANCESCHI\n🇨🇦
+  Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara POTOCKA\n🇻🇳 Thi My
+  Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE Shiwen\n🇨🇳 YU Yiting
 SUMMARY:🏊 女子200米個人混合泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
