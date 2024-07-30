@@ -253,15 +253,9 @@ UID:20240727T093000Z-rowing-
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T095700Z
-DESCRIPTION:賽艇 - 男子雙人雙槳分組預賽\n🇪🇸 Aleix GARCIA I PUJOLAR\n🇷🇴 Andrei
-  Sebastian CORNEA\n🇭🇷 Anton LONCARIC\n🇺🇸 Ben DAVISON\n🇮🇪 Daire
-  LYNCH\n🇫🇷 Hugo BOUCHERON\n🇩🇪 Jonas GELSEN\n🇳🇿 Jordan PARRY\n🇳🇴
-  Kjetil BORCH\n🇨🇳 LIU Zhiyu\n🇩🇪 Marc WEBER\n🇷🇴 Marian Florian
-  ENACHE\n🇳🇴 Martin HELSETH\n🇷🇸 Martin MACKOVIC\n🇮🇹 Matteo
-  SARTORI\n🇫🇷 Matthieu ANDRODIAS\n🇳🇱 Melvin TWELLAAR\n🇮🇹 Nicolo'
-  CARUCCI\n🇷🇸 Nikolaj PIMENOV\n🇭🇷 Patrik LONCARIC\n🇮🇪 Philip
-  DOYLE\n🇳🇿 Robbie MANSON\n🇪🇸 Rodrigo CONDE ROMERO\n🇺🇸 Sorin
-  KOSZYK\n🇳🇱 Stef BROENINK\n🇨🇳 SULITAN Adilijiang
+DESCRIPTION:賽艇 - 男子雙人雙槳分組預賽\n🇨🇳 CHN\n🇪🇸 ESP\n🇭🇷 CRO\n🇫🇷 FRA\n🇺🇸
+  USA\n🇳🇴 NOR\n🇳🇱 NED\n🇷🇸 SRB\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇩🇪
+  GER\n🇷🇴 ROU
 SUMMARY:🚣 男子雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -305,15 +299,9 @@ UID:20240727T100000Z-rowing-
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T102700Z
-DESCRIPTION:賽艇 - 女子雙人雙槳分組預賽\n🇮🇪 Alison BERGIN\n🇦🇺 Amanda BATEMAN\n🇷🇴
-  Ancuta BODNAR\n🇨🇿 Anna SANTRUCKOVA\n🇳🇿 Brooke FRANCIS\n🇮🇹 Clara
-  GUERRA\n🇱🇹 Donata KARALIENE\n🇱🇹 Dovile RIMKUTE\n🇫🇷 Elodie RAVERA
-  SCARAMOZZINO\n🇫🇷 Emma LUNATTI\n🇦🇺 Harriet HUDSON\n🇳🇴 Inger Seim
-  KAVLIE\n🇺🇸 Kristi WAGNER\n🇨🇿 Lenka LUKSOVA\n🇳🇱 Lisa
-  SCHEENAARD\n🇨🇳 LU Shiyu\n🇳🇿 Lucy SPOORS\n🇳🇱 Martine VELDHUIS\n🇬🇧
-  Mathilda HODGKINS BYRNE\n🇬🇧 Rebecca WILDE\n🇨🇳 SHEN Shuangmei\n🇷🇴
-  Simona RADIS\n🇺🇸 Sophia VITAS\n🇮🇹 Stefania GOBBI\n🇳🇴 Thea
-  HELSETH\n🇮🇪 Zoe HYDE
+DESCRIPTION:賽艇 - 女子雙人雙槳分組預賽\n🇨🇳 CHN\n🇱🇹 LTU\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
+  GBR\n🇳🇴 NOR\n🇨🇿 CZE\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇦🇺
+  AUS\n🇷🇴 ROU
 SUMMARY:🚣 女子雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -367,18 +355,8 @@ UID:20240727T105000Z-rowing-
 DTSTAMP:20240727T105000Z
 DTSTART:20240727T105000Z
 DTEND:20240727T110700Z
-DESCRIPTION:賽艇 - 女子四人雙槳分組預賽\n🇷🇴 Alexandra UNGUREANU\n🇺🇦 Anastasiia
-  KOZHENKOVA\n🇳🇱 Bente PAULIS\n🇦🇺 Caitlin CRONIN\n🇨🇭 Celia
-  DUPRE\n🇨🇳 CHEN Yunxia\n🇨🇳 CUI Xiaotong\n🇺🇦 Daryna VERKHOGLIAD\n🇷🇴
-  Emanuela Ioana CIOTAU\n🇺🇸 Emily DELLEMAN\n🇨🇭 Fabienne SCHWEIZER\n🇬🇧
-  Georgina BRAYSHAW\n🇺🇸 Grace JOYCE\n🇬🇧 Hannah SCOTT\n🇷🇴 Ioana
-  Madalina MOROSAN\n🇺🇦 Kateryna DUDCHENKO\n🇳🇱 Laila YOUSSIFOU\n🇦🇺
-  Laura GOURLEY\n🇬🇧 Lauren HENRY\n🇺🇸 Lauren O'CONNOR\n🇩🇪 Leonie
-  MENZEL\n🇨🇭 Lisa LOETSCHER\n🇬🇧 Lola ANDERSON\n🇨🇳 LYU Yang\n🇩🇪
-  Maren VOELZ\n🇨🇭 Pascale WALKER\n🇷🇴 Patricia CIRES\n🇩🇪 Pia
-  GREITEN\n🇦🇺 Ria THOMPSON\n🇳🇱 Roos de JONG\n🇦🇺 Rowena MEREDITH\n🇩🇪
-  Tabea SCHENDEKEHL\n🇺🇸 Teal COHEN\n🇳🇱 Tessa DULLEMANS\n🇺🇦 Yevheniia
-  DOVHODKO\n🇨🇳 ZHANG Ling
+DESCRIPTION:賽艇 - 女子四人雙槳分組預賽\n🇨🇳 CHN\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇦 UKR\n🇳🇱
+  NED\n🇨🇭 SUI\n🇩🇪 GER\n🇦🇺 AUS\n🇷🇴 ROU
 SUMMARY:🚣 女子四人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -679,9 +657,7 @@ UID:20240728T082000Z-rowing-
 DTSTAMP:20240728T082000Z
 DTSTART:20240728T082000Z
 DTEND:20240728T082700Z
-DESCRIPTION:賽艇 - 男子雙人雙槳復活賽\n🇩🇪 Jonas GELSEN\n🇨🇳 LIU Zhiyu\n🇩🇪 Marc
-  WEBER\n🇷🇸 Martin MACKOVIC\n🇮🇹 Matteo SARTORI\n🇮🇹 Nicolo'
-  CARUCCI\n🇷🇸 Nikolaj PIMENOV\n🇨🇳 SULITAN Adilijiang
+DESCRIPTION:賽艇 - 男子雙人雙槳復活賽\n🇨🇳 CHN\n🇷🇸 SRB\n🇮🇹 ITA\n🇩🇪 GER
 SUMMARY:🚣 男子雙人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -825,17 +801,9 @@ UID:20240728T093000Z-rowing-
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T095700Z
-DESCRIPTION:賽艇 - 女子輕量級雙人雙槳分組預賽\n🇵🇪 Alessia PALACIOS\n🇮🇪 Aoife
-  CASEY\n🇫🇷 Claire BOVE\n🇬🇷 Dimitra KONTOU\n🇬🇧 Emily CRAIG\n🇦🇷
-  Evelyn SILVESTRO\n🇷🇴 Gianina Elena van GRONINGEN\n🇯🇵 HIROUCHI
-  Emi\n🇬🇧 Imogen GRANT\n🇷🇴 Ionela Livia COZMIUC\n🇳🇿 Jackie
-  KIDDLE\n🇨🇦 Jenny CASSON\n🇨🇦 Jill MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳
-  Khadija KRIMI\n🇦🇹 Lara TIEFENTHALER\n🇫🇷 Laura TARANTOLA\n🇦🇹 Louisa
-  ALTENHUBER\n🇮🇷 Mahsa JAVER\n🇮🇪 Margaret CREMEN\n🇵🇱 Martyna
-  RADOSZ\n🇺🇸 Michelle SECHSER\n🇺🇸 Molly RECKFORD\n🇯🇵 OISHI
-  Ayami\n🇨🇳 QIU Xiuping\n🇹🇳 Selma DHAOUADI\n🇳🇿 Shannon COX\n🇦🇷
-  Sonia BALUZZO CHIARUZZO\n🇵🇪 Valeria PALACIOS\n🇮🇷 Zeinab NOROUZI TAZEH
-  KAND\n🇬🇷 Zoi FITSIOU\n🇨🇳 ZOU Jiaqi
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳分組預賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇮🇷
+  IRI\n🇬🇷 GRE\n🇫🇷 FRA\n🇵🇱 POL\n🇦🇷 ARG\n🇹🇳 TUN\n🇺🇸 USA\n🇬🇧
+  GBR\n🇵🇪 PER\n🇦🇹 AUT\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇷🇴 ROU
 SUMMARY:🚣 女子輕量級雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -951,18 +919,8 @@ UID:20240728T103000Z-rowing-
 DTSTAMP:20240728T103000Z
 DTSTART:20240728T103000Z
 DTEND:20240728T104700Z
-DESCRIPTION:賽艇 - 女子四人單槳分組預賽\n🇷🇴 Adriana ADAM\n🇷🇴 Amalia BERES\n🇩🇰
-  Astrid STEENSBERG\n🇳🇱 Benthe BOONSTRA\n🇺🇸 Daisy MAZZIO-MANSON\n🇳🇿
-  Davina WADDY\n🇮🇪 Eimear LAMBE\n🇮🇪 Emily HEGARTY\n🇺🇸 Emily
-  KALLFELZ\n🇬🇧 Esme BOOTH\n🇩🇰 Frida Sanggaard NIELSEN\n🇬🇧 Helen
-  GLOVER\n🇳🇱 Hermijntje DRENTH\n🇮🇪 Imogen MAGNER\n🇳🇿 Jackie
-  GOWLER\n🇦🇺 Jean MITCHELL\n🇩🇰 Julie POULSEN\n🇺🇸 Kate KNIFTON\n🇺🇸
-  Kelsey REELICK\n🇳🇿 Kerri WILLIAMS\n🇦🇺 Lily ALTON\n🇨🇳 LIU
-  Xiaoxin\n🇷🇴 Maria LEHACI\n🇷🇴 Maria Magdalena RUSU\n🇩🇰 Marie Skytte
-  Hauberg JOHANNESEN\n🇳🇱 Marloes OLDENBURG\n🇦🇺 Molly GOODMAN\n🇮🇪
-  Natalie LONG\n🇦🇺 Olympia ALDERSEY\n🇳🇿 Phoebe SPOORS\n🇬🇧 Rebecca
-  SHORTEN\n🇬🇧 Sam REDGRAVE\n🇳🇱 Tinka OFFEREINS\n🇨🇳 WANG Zifeng\n🇨🇳
-  XU Xingye\n🇨🇳 ZHANG Shuxian
+DESCRIPTION:賽艇 - 女子四人單槳分組預賽\n🇨🇳 CHN\n🇩🇰 DEN\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱
+  NED\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇦🇺 AUS\n🇷🇴 ROU
 SUMMARY:🚣 女子四人單槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1442,13 +1400,8 @@ UID:20240729T090000Z-rowing-
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T091700Z
-DESCRIPTION:賽艇 - 女子輕量級雙人雙槳復活賽\n🇵🇪 Alessia PALACIOS\n🇮🇪 Aoife
-  CASEY\n🇦🇷 Evelyn SILVESTRO\n🇯🇵 HIROUCHI Emi\n🇨🇦 Jenny CASSON\n🇨🇦
-  Jill MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳 Khadija KRIMI\n🇦🇹 Lara
-  TIEFENTHALER\n🇦🇹 Louisa ALTENHUBER\n🇮🇷 Mahsa JAVER\n🇮🇪 Margaret
-  CREMEN\n🇵🇱 Martyna RADOSZ\n🇯🇵 OISHI Ayami\n🇨🇳 QIU Xiuping\n🇹🇳
-  Selma DHAOUADI\n🇦🇷 Sonia BALUZZO CHIARUZZO\n🇵🇪 Valeria PALACIOS\n🇮🇷
-  Zeinab NOROUZI TAZEH KAND\n🇨🇳 ZOU Jiaqi
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳復活賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇮🇷 IRI\n🇵🇱
+  POL\n🇦🇷 ARG\n🇹🇳 TUN\n🇵🇪 PER\n🇦🇹 AUT\n🇮🇪 IRL
 SUMMARY:🚣 女子輕量級雙人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1482,13 +1435,8 @@ UID:20240729T093000Z-rowing-
 DTSTAMP:20240729T093000Z
 DTSTART:20240729T093000Z
 DTEND:20240729T093700Z
-DESCRIPTION:賽艇 - 女子四人雙槳復活賽\n🇷🇴 Alexandra UNGUREANU\n🇦🇺 Caitlin
-  CRONIN\n🇨🇭 Celia DUPRE\n🇨🇳 CHEN Yunxia\n🇨🇳 CUI Xiaotong\n🇷🇴
-  Emanuela Ioana CIOTAU\n🇺🇸 Emily DELLEMAN\n🇨🇭 Fabienne SCHWEIZER\n🇺🇸
-  Grace JOYCE\n🇷🇴 Ioana Madalina MOROSAN\n🇦🇺 Laura GOURLEY\n🇺🇸 Lauren
-  O'CONNOR\n🇨🇭 Lisa LOETSCHER\n🇨🇳 LYU Yang\n🇨🇭 Pascale WALKER\n🇷🇴
-  Patricia CIRES\n🇦🇺 Ria THOMPSON\n🇦🇺 Rowena MEREDITH\n🇺🇸 Teal
-  COHEN\n🇨🇳 ZHANG Ling
+DESCRIPTION:賽艇 - 女子四人雙槳復活賽\n🇨🇳 CHN\n🇺🇸 USA\n🇨🇭 SUI\n🇦🇺 AUS\n🇷🇴
+  ROU
 SUMMARY:🚣 女子四人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
