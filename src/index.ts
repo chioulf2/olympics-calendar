@@ -257,7 +257,7 @@ const generateOutputPage = () => {
   html.push("</td>");
   html.push("<td>");
   NOCS.sort().forEach((noc) => {
-    html.push(`<a href="general/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
+    html.push(`<a href="general/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
   });
   html.push("</td>");
   html.push("</tr>");
@@ -272,7 +272,7 @@ const generateOutputPage = () => {
     .filter((ics) => ics !== "general.ics")
     .forEach((ics) => {
       const noc = ics.replace(".ics", "");
-      html.push(`<a href="medals/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
+      html.push(`<a href="medals/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
     });
   html.push("</td>");
   html.push("</tr>");
@@ -288,7 +288,7 @@ const generateOutputPage = () => {
     html.push("</td>");
     html.push("<td>");
     sport.NOCS.sort().forEach((noc) => {
-      html.push(`<a href="${sport.key}/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
+      html.push(`<a href="${sport.key}/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
     });
     html.push("</td>");
     html.push("</tr>");
@@ -297,7 +297,7 @@ const generateOutputPage = () => {
 
   const todays: string[] = [];
   NOCS.sort().forEach((noc) => {
-    todays.push(`<a href="./today.html?noc=${noc}" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
+    todays.push(`<a href="./today.html?noc=${noc}" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
   });
 
   const template = fs.readFileSync(`${__dirname}/index/template.html`, "utf-8");
