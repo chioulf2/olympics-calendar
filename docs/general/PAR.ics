@@ -74,11 +74,18 @@ UID:20240727T090000Z-swimming-100
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T091100Z
-DESCRIPTION:游泳 - 女子100米蝶泳分組預賽\n🇨🇳 CHN\n🇩🇰 DEN\n🇵🇾 PAR\n🇯🇵 JPN\n🇧🇪
-  BEL\n🇨🇦 CAN\n🇳🇮 NCA\n🇪🇸 ESP\n🇬🇷 GRE\n🇦🇲 ARM\n🇫🇷 FRA\n🇧🇦
-  波黑\n🇿🇦 RSA\n🇺🇸 USA\n🇬🇧 GBR\n🇬🇪 GEO\n🇨🇿 CZE\n🇳🇱 NED\n🇸🇿
-  斯威士蘭\n🇸🇳 SEN\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇸🇪 SWE\n🇩🇪 GER\n🇦🇺
-  AUS
+DESCRIPTION:游泳 - 女子100米蝶泳分組預賽\n🇦🇺 Alexandria PERKINS\n🇬🇪 Ana
+  NIZHARADZE\n🇩🇪 Angelina KOEHLER\n🇬🇷 Anna NTOUNTOUNAKI\n🇨🇿 Barbora
+  SEEMANOVA\n🇮🇹 Costanza COCCONCELLI\n🇮🇪 Ellen WALSHE\n🇦🇺 Emma
+  McKEON\n🇿🇦 Erin GALLAGHER\n🇬🇷 Georgia DAMASIOTI\n🇺🇸 Gretchen
+  WALSH\n🇸🇿 Hayley HOY\n🇩🇰 Helena Rosendahl BACH\n🇯🇵 HIRAI
+  Mizuki\n🇯🇵 IKEE Rikako\n🇬🇧 Keanna Louise MACINNES\n🇧🇦 Lana
+  PUDAR\n🇪🇸 Laura CABANES GARZAS\n🇸🇪 Louise HANSSON\n🇵🇾 Luana
+  ALONSO\n🇨🇦 Margaret MAC NEIL\n🇳🇮 Maria Victoria SCHUTZMEIER\n🇫🇷
+  Marie WATTEL\n🇸🇳 Oumy DIOP\n🇨🇦 Rebecca SMITH\n🇧🇪 Roos
+  VANOTTERDIJK\n🇳🇱 Tessa GIELE\n🇺🇸 Torri HUSKE\n🇳🇿 Vanessa Hazel
+  OUWEHAND\n🇦🇲 Varsenik MANUCHARYAN\n🇮🇹 Viola SCOTTO di CARLO\n🇨🇳
+  ZHANG Yufei
 SUMMARY:🏊 女子100米蝶泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -197,6 +204,28 @@ SUMMARY:⚽ PAR 🇵🇾 - 🇲🇱 MLI
 LOCATION:王子公園
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T080400Z-rowing--CD-2
+DTSTAMP:20240731T080400Z
+DTSTART:20240731T080400Z
+DTEND:20240731T081100Z
+DESCRIPTION:賽艇 - 男子單人雙槳半決賽 C/D 2\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob
+  PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO
+SUMMARY:🚣 男子單人雙槳半決賽 C/D 2
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T081400Z-rowing--CD-1
+DTSTAMP:20240731T081400Z
+DTSTART:20240731T081400Z
+DTEND:20240731T082100Z
+DESCRIPTION:賽艇 - 女子單人雙槳半決賽 C/D 1\n🇵🇾 Alejandra ALONSO ALDERETE\n🇧🇷
+  Beatriz CUNHA TAVARES CARDOSO\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭
+  Joanie DELGACO\n🇷🇸 Jovana ARSIC\n🇸🇮 Nina KOSTANJSEK
+SUMMARY:🚣 女子單人雙槳半決賽 C/D 1
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T100000Z-beach-volleyball--D-LAT-PAR
 DTSTAMP:20240731T100000Z
 DTSTART:20240731T100000Z
@@ -204,6 +233,33 @@ DTEND:20240731T105000Z
 DESCRIPTION:沙灘排球 - 女子預賽 - D組
 SUMMARY:🏐 TINA/ANASTASIJA 🇱🇻 - 🇵🇾 POLETTI/MICHELLE
 LOCATION:埃菲爾鐵塔體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-golf-1
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T160000Z
+DESCRIPTION:高爾夫 - 男子第1回合\n🇲🇽 Abraham ANCER\n🇵🇱 Adrian MERONK\n🇧🇪
+  Adrien DUMONT de CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪 Alex NOREN\n🇰🇷 AN
+  Byeong Hun\n🇨🇴 Camilo VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan
+  BEZUIDENHOUT\n🇺🇸 Collin MORIKAWA\n🇨🇦 Corey CONNERS\n🇳🇿 Daniel
+  HILLIER\n🇪🇸 David PUIG\n🇨🇳 DOU Zecheng\n🇦🇷 Emiliano GRILLO\n🇿🇦
+  Erik van ROOYEN\n🇵🇾 Fabrizio ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾
+  Gavin GREEN\n🇮🇹 Guido MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin
+  NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸 Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech
+  APHIBARNRAT\n🇳🇴 Kristoffer VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA
+  Hideki\n🇬🇧 Matt FITZPATRICK\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias
+  SCHMID\n🇫🇷 Matthieu PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵
+  NAKAJIMA Keita\n🇨🇦 Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai
+  HOJGAARD\n🇹🇼 PAN C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa
+  CAMPOS\n🇮🇪 Rory McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸
+  Scottie SCHEFFLER\n🇦🇹 Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar
+  SHARMA\n🇩🇪 Stephan JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas
+  DETRY\n🇩🇰 Thorbjorn OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor
+  PEREZ\n🇳🇴 Viktor HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander
+  SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
+SUMMARY:⛳ 男子第1回合
+LOCATION:國家高爾夫球場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T094700Z-swimming-200
@@ -220,6 +276,42 @@ DESCRIPTION:游泳 - 男子200米個人混合泳分組預賽\n🇮🇹 Alberto R
   Tomas PERIBONIO AVILA\n🇨🇳 WANG Shun\n🇦🇺 William Campbell PETRIC
 SUMMARY:🏊 男子200米個人混合泳分組預賽
 LOCATION:拉德芳斯體育館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T070000Z-golf-2
+DTSTAMP:20240802T070000Z
+DTSTART:20240802T070000Z
+DTEND:20240802T160000Z
+DESCRIPTION:高爾夫 - 男子第2回合\n🇲🇽 Abraham ANCER\n🇵🇱 Adrian MERONK\n🇧🇪
+  Adrien DUMONT de CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪 Alex NOREN\n🇰🇷 AN
+  Byeong Hun\n🇨🇴 Camilo VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan
+  BEZUIDENHOUT\n🇺🇸 Collin MORIKAWA\n🇨🇦 Corey CONNERS\n🇳🇿 Daniel
+  HILLIER\n🇪🇸 David PUIG\n🇨🇳 DOU Zecheng\n🇦🇷 Emiliano GRILLO\n🇿🇦
+  Erik van ROOYEN\n🇵🇾 Fabrizio ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾
+  Gavin GREEN\n🇮🇹 Guido MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin
+  NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸 Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech
+  APHIBARNRAT\n🇳🇴 Kristoffer VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA
+  Hideki\n🇬🇧 Matt FITZPATRICK\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias
+  SCHMID\n🇫🇷 Matthieu PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵
+  NAKAJIMA Keita\n🇨🇦 Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai
+  HOJGAARD\n🇹🇼 PAN C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa
+  CAMPOS\n🇮🇪 Rory McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸
+  Scottie SCHEFFLER\n🇦🇹 Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar
+  SHARMA\n🇩🇪 Stephan JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas
+  DETRY\n🇩🇰 Thorbjorn OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor
+  PEREZ\n🇳🇴 Viktor HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander
+  SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
+SUMMARY:⛳ 男子第2回合
+LOCATION:國家高爾夫球場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T170000Z-football-14-EGY-PAR
+DTSTAMP:20240802T170000Z
+DTSTART:20240802T170000Z
+DTEND:20240802T184500Z
+DESCRIPTION:足球 - 男子1/4決賽
+SUMMARY:⚽ EGY 🇪🇬 - 🇵🇾 PAR
+LOCATION:馬賽體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-beach-volleyball--D-SUI-PAR

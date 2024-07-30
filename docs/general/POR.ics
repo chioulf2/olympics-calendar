@@ -141,12 +141,21 @@ UID:20240728T094300Z-swimming-100
 DTSTAMP:20240728T094300Z
 DTSTART:20240728T094300Z
 DTEND:20240728T095900Z
-DESCRIPTION:游泳 - 男子100米仰泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇵🇸 PLE\n🇧🇳 BRU\n🇯🇵
-  JPN\n🇮🇱 ISR\n🇨🇦 CAN\n🇭🇺 HUN\n🇮🇳 IND\n🇧🇲 BER\n🇪🇸 ESP\n🇬🇷
-  GRE\n🇧🇯 BEN\n🇫🇷 FRA\n🇵🇷 PUR\n🇵🇱 POL\n🇦🇷 ARG\n🇿🇦 RSA\n🇺🇸
-  USA\n🇻🇮 ISV\n🇬🇧 GBR\n🇨🇴 COL\n🇬🇩 GRN\n🇬🇪 GEO\n🇺🇦 UKR\n🇨🇿
-  CZE\n🇳🇱 NED\n🇹🇴 TGA\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇵🇹
-  POR\n🇩🇪 GER\n🇦🇺 AUS\n🇰🇷 KOR
+DESCRIPTION:游泳 - 男子100米仰泳分組預賽\n🇭🇺 Adam JASZO\n🇮🇱 Adam MARAANA\n🇹🇴
+  Alan Koti Lopeti UHI\n🇧🇯 Alexis Michel Roger Dodji KPADE\n🇨🇴 Anthony
+  RINCON VELASCO\n🇬🇷 Apostolos CHRISTOU\n🇹🇷 Berke SAKA\n🇦🇹 Bernhard
+  REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley WOODWARD\n🇬🇷 Evangelos
+  MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸
+  Hunter ARMSTRONG\n🇦🇺 Isaac COOPER\n🇧🇲 Jack HARVEY\n🇨🇦 Javier
+  ACEVEDO\n🇵🇹 Joao COSTA\n🇬🇧 Jonny MARSHALL\n🇳🇱 Kai van
+  WESTERING\n🇳🇿 Kane FOLLOWS\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
+  Marek ULRICH\n🇯🇵 MATSUYAMA Riku\n🇻🇮 Maximillian WILSON\n🇫🇷 Mewen
+  TOMAC\n🇮🇹 Michele LAMBERTI\n🇨🇿 Miroslav KNEDLA\n🇬🇪 Noe
+  PANSTKHAVA\n🇩🇪 Ole BRAUNSCHWEIG\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
+  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇮🇳
+  Srihari NATARAJ\n🇨🇭 Thierry BOLLIN\n🇮🇹 Thomas CECCON\n🇦🇷 Ulises
+  SARAVIA\n🇨🇳 XU Jiayu\n🇵🇸 Yazan AL BAWWAB\n🇵🇷 Yeziel MORALES\n🇫🇷
+  Yohann NDOYE-BROUARD\n🇬🇩 Zackary GRESHAM\n🇧🇳 Zeke CHAN
 SUMMARY:🏊 男子100米仰泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -391,6 +400,25 @@ DESCRIPTION:鐵人三項 - 女子個人賽\n🇳🇿 Ainsley THORPE\n🇩🇰 Al
   MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
 SUMMARY:🏊 女子個人賽
 LOCATION:亞歷山大三世橋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-shooting--2
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T100000Z
+DESCRIPTION:射擊 - 女子多向飛碟資格賽 - 第2天\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 女子多向飛碟資格賽 - 第2天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T080000Z-judo-7032-ITA-POR

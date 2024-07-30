@@ -84,4 +84,15 @@ DESCRIPTION:賽艇 - 男子輕量級雙人雙槳決賽C\n🇯🇵 JPN\n🇪🇬 
 SUMMARY:🚣 男子輕量級雙人雙槳決賽C
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T073000Z-rowing--AB-1
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T073700Z
+DESCRIPTION:賽艇 - 女子單人雙槳半決賽 A/B 1\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima
+  Katharina JANZEN\n🇧🇬 Desislava ANGELOVA\n🇳🇱 Karolien FLORIJN\n🇦🇺
+  Tara RIGNEY\n🇪🇸 Virginia DIAZ RIVAS
+SUMMARY:🚣 女子單人雙槳半決賽 A/B 1
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
 END:VCALENDAR

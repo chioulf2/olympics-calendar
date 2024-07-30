@@ -58,10 +58,17 @@ UID:20240729T092800Z-swimming-800
 DTSTAMP:20240729T092800Z
 DTSTART:20240729T092800Z
 DTEND:20240729T100700Z
-DESCRIPTION:游泳 - 男子800米自由泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇧🇷 BRA\n🇧🇪
-  BEL\n🇭🇺 HUN\n🇪🇸 ESP\n🇬🇷 GRE\n🇻🇪 VEN\n🇫🇷 FRA\n🇹🇳 TUN\n🇺🇸
-  USA\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇺🇿 UZB\n🇻🇳 VIE\n🇦🇹 AUT\n🇮🇹
-  ITA\n🇮🇪 IRL\n🇸🇪 SWE\n🇩🇪 GER\n🇲🇨 MON\n🇦🇺 AUS\n🇷🇴 ROU
+DESCRIPTION:游泳 - 男子800米自由泳分組預賽\n🇹🇳 Ahmed JAOUADI\n🇻🇪 Alfonso Enrique
+  MESTRE VIVAS\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
+  WIFFEN\n🇫🇷 David AUBRY\n🇬🇷 Dimitrios MARKOS\n🇦🇺 Elijah
+  WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇩🇪 Florian
+  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇳🇴 Henrik
+  CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇺🇿 Ilya SIBIRTSEV\n🇳🇴 Jon
+  JOENTVEDT\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇧🇪 Lucas
+  HENVEAUX\n🇺🇸 Luke WHITLOCK\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
+  ROMANCHUK\n🇫🇷 Pacome BRICOUT\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
+  SCHWARZ\n🇲🇨 Theo DRUENNE\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
+  STANCU\n🇭🇺 Zalan SARKANY\n🇨🇳 ZHANG Zhanshuo
 SUMMARY:🏊 男子800米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -79,6 +86,17 @@ DESCRIPTION:賽艇 - 男子單人雙槳1/4決賽\n🇪🇬 Abdelkhalek ELBANNA\n
   BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
   NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
 SUMMARY:🚣 男子單人雙槳1/4決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T080400Z-rowing--CD-2
+DTSTAMP:20240731T080400Z
+DTSTART:20240731T080400Z
+DTEND:20240731T081100Z
+DESCRIPTION:賽艇 - 男子單人雙槳半決賽 C/D 2\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob
+  PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO
+SUMMARY:🚣 男子單人雙槳半決賽 C/D 2
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT

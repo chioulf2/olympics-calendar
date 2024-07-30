@@ -74,11 +74,19 @@ UID:20240727T094500Z-swimming-400
 DTSTAMP:20240727T094500Z
 DTSTART:20240727T094500Z
 DTEND:20240727T101400Z
-DESCRIPTION:游泳 - 男子400米自由泳分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇧🇪 BEL\n🇲🇰
-  MKD\n🇱🇹 LTU\n🇭🇺 HUN\n🇬🇾 GUY\n🇻🇪 VEN\n🇫🇷 FRA\n🇧🇦 波黑\n🇰🇪
-  KEN\n🇧🇬 BUL\n🇹🇳 TUN\n🇺🇸 USA\n🇬🇧 GBR\n🇨🇷 CRC\n🇺🇿 UZB\n🇵🇪
-  PER\n🇲🇾 MAS\n🇨🇱 CHI\n🇦🇹 AUT\n🇮🇹 ITA\n🇪🇪 EST\n🇨🇭 SUI\n🇸🇪
-  SWE\n🇸🇲 SMR\n🇩🇪 GER\n🇲🇦 MAR\n🇲🇩 MDA\n🇦🇺 AUS\n🇰🇷 KOR
+DESCRIPTION:游泳 - 男子400米自由泳分組預賽\n🇺🇸 Aaron SHACKELL\n🇹🇳 Ahmed
+  JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇨🇭
+  Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David AUBRY\n🇨🇱 Eduardo
+  CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺 Elijah WINNINGTON\n🇨🇳
+  FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme COSTA\n🇲🇾 Hoe Yean
+  KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya SIBIRTSEV\n🇵🇪 Joaquin
+  VARGAS\n🇧🇦 Jovan LEKIC\n🇬🇧 Kieran BIRD\n🇺🇸 Kieran SMITH\n🇰🇷 KIM
+  Woomin\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪
+  Lukas MAERTENS\n🇮🇹 Marco de TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola
+  GJURETANOVIKJ\n🇩🇪 Oliver KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov
+  MITSIN\n🇬🇾 Raekwon Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana
+  MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪 Victor JOHANSSON\n🇭🇺 Zalan
+  SARKANY\n🇨🇳 ZHANG Zhanshuo
 SUMMARY:🏊 男子400米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -348,6 +356,33 @@ SUMMARY:🏐 VAN DE VELDE/IMMERS 🇳🇱 - 🇨🇱 M.GRIMALT/E.GRIMALT
 LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T070000Z-golf-1
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T160000Z
+DESCRIPTION:高爾夫 - 男子第1回合\n🇲🇽 Abraham ANCER\n🇵🇱 Adrian MERONK\n🇧🇪
+  Adrien DUMONT de CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪 Alex NOREN\n🇰🇷 AN
+  Byeong Hun\n🇨🇴 Camilo VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan
+  BEZUIDENHOUT\n🇺🇸 Collin MORIKAWA\n🇨🇦 Corey CONNERS\n🇳🇿 Daniel
+  HILLIER\n🇪🇸 David PUIG\n🇨🇳 DOU Zecheng\n🇦🇷 Emiliano GRILLO\n🇿🇦
+  Erik van ROOYEN\n🇵🇾 Fabrizio ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾
+  Gavin GREEN\n🇮🇹 Guido MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin
+  NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸 Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech
+  APHIBARNRAT\n🇳🇴 Kristoffer VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA
+  Hideki\n🇬🇧 Matt FITZPATRICK\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias
+  SCHMID\n🇫🇷 Matthieu PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵
+  NAKAJIMA Keita\n🇨🇦 Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai
+  HOJGAARD\n🇹🇼 PAN C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa
+  CAMPOS\n🇮🇪 Rory McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸
+  Scottie SCHEFFLER\n🇦🇹 Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar
+  SHARMA\n🇩🇪 Stephan JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas
+  DETRY\n🇩🇰 Thorbjorn OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor
+  PEREZ\n🇳🇴 Viktor HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander
+  SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
+SUMMARY:⛳ 男子第1回合
+LOCATION:國家高爾夫球場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T080000Z-judo-10032-POL-CHI
 DTSTAMP:20240801T080000Z
 DTSTART:20240801T080000Z
@@ -355,6 +390,33 @@ DTEND:20240801T080600Z
 DESCRIPTION:柔道 - 男子100公斤級32強淘汰賽
 SUMMARY:🥋 Piotr KUCZERA 🇵🇱 - 🇨🇱 Thomas BRICENO
 LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T070000Z-golf-2
+DTSTAMP:20240802T070000Z
+DTSTART:20240802T070000Z
+DTEND:20240802T160000Z
+DESCRIPTION:高爾夫 - 男子第2回合\n🇲🇽 Abraham ANCER\n🇵🇱 Adrian MERONK\n🇧🇪
+  Adrien DUMONT de CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪 Alex NOREN\n🇰🇷 AN
+  Byeong Hun\n🇨🇴 Camilo VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan
+  BEZUIDENHOUT\n🇺🇸 Collin MORIKAWA\n🇨🇦 Corey CONNERS\n🇳🇿 Daniel
+  HILLIER\n🇪🇸 David PUIG\n🇨🇳 DOU Zecheng\n🇦🇷 Emiliano GRILLO\n🇿🇦
+  Erik van ROOYEN\n🇵🇾 Fabrizio ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾
+  Gavin GREEN\n🇮🇹 Guido MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin
+  NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸 Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech
+  APHIBARNRAT\n🇳🇴 Kristoffer VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA
+  Hideki\n🇬🇧 Matt FITZPATRICK\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias
+  SCHMID\n🇫🇷 Matthieu PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵
+  NAKAJIMA Keita\n🇨🇦 Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai
+  HOJGAARD\n🇹🇼 PAN C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa
+  CAMPOS\n🇮🇪 Rory McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸
+  Scottie SCHEFFLER\n🇦🇹 Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar
+  SHARMA\n🇩🇪 Stephan JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas
+  DETRY\n🇩🇰 Thorbjorn OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor
+  PEREZ\n🇳🇴 Viktor HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander
+  SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
+SUMMARY:⛳ 男子第2回合
+LOCATION:國家高爾夫球場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T080000Z-beach-volleyball--B-ITA-CHI

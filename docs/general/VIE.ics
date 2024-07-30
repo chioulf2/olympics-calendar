@@ -202,10 +202,17 @@ UID:20240729T092800Z-swimming-800
 DTSTAMP:20240729T092800Z
 DTSTART:20240729T092800Z
 DTEND:20240729T100700Z
-DESCRIPTION:游泳 - 男子800米自由泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇧🇷 BRA\n🇧🇪
-  BEL\n🇭🇺 HUN\n🇪🇸 ESP\n🇬🇷 GRE\n🇻🇪 VEN\n🇫🇷 FRA\n🇹🇳 TUN\n🇺🇸
-  USA\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇺🇿 UZB\n🇻🇳 VIE\n🇦🇹 AUT\n🇮🇹
-  ITA\n🇮🇪 IRL\n🇸🇪 SWE\n🇩🇪 GER\n🇲🇨 MON\n🇦🇺 AUS\n🇷🇴 ROU
+DESCRIPTION:游泳 - 男子800米自由泳分組預賽\n🇹🇳 Ahmed JAOUADI\n🇻🇪 Alfonso Enrique
+  MESTRE VIVAS\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
+  WIFFEN\n🇫🇷 David AUBRY\n🇬🇷 Dimitrios MARKOS\n🇦🇺 Elijah
+  WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇩🇪 Florian
+  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇳🇴 Henrik
+  CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇺🇿 Ilya SIBIRTSEV\n🇳🇴 Jon
+  JOENTVEDT\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇧🇪 Lucas
+  HENVEAUX\n🇺🇸 Luke WHITLOCK\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
+  ROMANCHUK\n🇫🇷 Pacome BRICOUT\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
+  SCHWARZ\n🇲🇨 Theo DRUENNE\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
+  STANCU\n🇭🇺 Zalan SARKANY\n🇨🇳 ZHANG Zhanshuo
 SUMMARY:🏊 男子800米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -252,6 +259,17 @@ DTEND:20240731T071000Z
 DESCRIPTION:羽毛球 - 女子單打小組賽 - K組
 SUMMARY:🏸 Beiwen ZHANG 🇺🇸 - 🇻🇳 Thuy Linh NGUYEN
 LOCATION:拉夏貝爾門體育館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T082400Z-rowing--CD-2
+DTSTAMP:20240731T082400Z
+DTSTART:20240731T082400Z
+DTEND:20240731T083100Z
+DESCRIPTION:賽艇 - 女子單人雙槳半決賽 C/D 2\n🇵🇪 Adriana SANGUINETI\n🇦🇿 Diana
+  DYMCHENKO\n🇹🇷 Elis OZBAY\n🇲🇽 Kenia LECHUGA ALANIS\n🇿🇦 Paige
+  BADENHORST\n🇻🇳 Thi Hue PHAM
+SUMMARY:🚣 女子單人雙槳半決賽 C/D 2
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T173000Z-badminton--K-IND-VIE

@@ -172,11 +172,18 @@ UID:20240728T100000Z-swimming-200
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T101600Z
-DESCRIPTION:游泳 - 女子200米自由泳分組預賽\n🇨🇳 CHN\n🇭🇰 中國香港\n🇧🇷 BRA\n🇵🇰
-  PAK\n🇧🇪 BEL\n🇮🇱 ISR\n🇨🇦 CAN\n🇨🇺 CUB\n🇳🇵 NEP\n🇮🇸 ISL\n🇭🇺
-  HUN\n🇮🇳 IND\n🇱🇦 LAO\n🇸🇦 KSA\n🇻🇪 VEN\n🇦🇱 ALB\n🇦🇪 UAE\n🇿🇦
-  RSA\n🇭🇳 HON\n🇺🇸 USA\n🇪🇬 EGY\n🇨🇿 CZE\n🇳🇿 新西蘭\n🇲🇳 MGL\n🇩🇪
-  GER\n🇦🇺 AUS\n🇷🇴 ROU
+DESCRIPTION:游泳 - 女子200米自由泳分組預賽\n🇿🇦 Aimee CANNY\n🇨🇺 Andrea BECALI\n🇱🇦
+  Ariana Southa DIRKZWAGER\n🇦🇺 Ariarne TITMUS\n🇨🇿 Barbora
+  SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇮🇳 Dhinidhi DESINGHU\n🇳🇵 Duana
+  LAMA\n🇲🇳 Enkhkhuslen BATBAYAR\n🇳🇿 Erika FAIRWEATHER\n🇺🇸 Erin
+  GEMMELL\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇵🇰 Jehanara NABI\n🇩🇪 Julia
+  MROZINSKI\n🇭🇳 Julimar AVILA MANCIA\n🇦🇱 Kaltra MECA\n🇮🇱 Lea
+  POLONSKY\n🇨🇳 LI Bingjie\n🇭🇺 Lilla Minna ABRAHAM\n🇪🇬 Lojine ABDALLA
+  SALAH\n🇦🇪 Maha ALSHEHHI\n🇧🇷 Maria Fernanda COSTA\n🇻🇪 Maria Victoria
+  YEGRES COTTIN\n🇨🇦 Mary-Sophie HARVEY\n🇸🇦 Mashael Meshari A
+  ALAYED\n🇦🇺 Mollie O'CALLAGHAN\n🇭🇺 Nikolett PADAR\n🇷🇴 Rebecca-Aimee
+  DIACONESCU\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇧🇪 Valentine
+  DUMONT\n🇨🇳 YANG Junxuan
 SUMMARY:🏊 女子200米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -268,6 +275,17 @@ DTEND:20240730T193100Z
 DESCRIPTION:拳擊 - 男子80公斤級 - 預賽 - 16強賽
 SUMMARY:🥊 Kaan AYKUTSUN 🇹🇷 - 🇨🇺 Arlen LOPEZ CARDONA
 LOCATION:北巴黎競技場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T080400Z-rowing--CD-2
+DTSTAMP:20240731T080400Z
+DTSTART:20240731T080400Z
+DTEND:20240731T081100Z
+DESCRIPTION:賽艇 - 男子單人雙槳半決賽 C/D 2\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob
+  PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO
+SUMMARY:🚣 男子單人雙槳半決賽 C/D 2
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T081800Z-judo-9032-KGZ-CUB
