@@ -2,11 +2,11 @@
 <html>
 
 <head>
-  <title>2024巴黎奧運-今日賽程 Paris 2024 Summer Olympic Games - Today's events</title>
+  <title>2024巴黎奧運-全部賽程 Paris 2024 Summer Olympic Games - All Events</title>
   <link href="./style.css?refresh=20240827" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="2024巴黎奧運-今日賽程 Paris 2024 Summer Olympic Games - Today's events">
-  <meta name="keywords" content="2024巴黎奧運-今日賽程 Paris 2024, Summer Olympic Games - Today's events">
+  <meta name="description" content="2024巴黎奧運-全部賽程 Paris 2024 Summer Olympic Games - All Events">
+  <meta name="keywords" content="2024巴黎奧運-全部賽程 Paris 2024, Summer Olympic Games - All Events">
   <meta name="author" content="Fabrice LAMANT">
   <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js"></script>
 
@@ -30,10 +30,10 @@
 <body>
   <div class="p-4">
     <div class="border-b pb-4 border-slate-900/10">
-      <h1 class="text-4xl text-center">2024巴黎奧運-今日賽程 Paris 2024 - Today's events</h1>
+      <h1 class="text-4xl text-center">2024巴黎奧運-全部賽程 Paris 2024 - All Events</h1>
     </div>
 
-    <div>
+    <div id="events-container">
       <div class="event py-4" data-start="20240724T130000Z" data-end="20240724T144500Z" data-noc="ARG,MAR">
 <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
 <div class="w-3/5 align-top inline-block text-black pl-2">
@@ -48675,11 +48675,11 @@
 </div>
     </div>
     <div class="no-event my-10 text-center text-2xl hidden">
-      今天該國沒有比賽 No event today, come back tomorrow! :)
+      該國沒有比賽 No events for this country.
     </div>
 
     <div class="text-sm my-10 text-center">
-      This webiste is not affiliated with the International Olympic Committee.
+      This website is not affiliated with the International Olympic Committee.
       All trademarks, logos and brand names are the property of their respective owners.
     </div>
   </div>
@@ -48688,72 +48688,87 @@
     const now = DateTime.now();
     const noc = new URLSearchParams(window.location.search).get('noc');
 
-
-    // 動態更新
-    // Define a function to update the page based on noc
+    // Update page content based on NOC
     const updatePageContent = (noc) => {
-      // Update title
       const title = document.querySelector('title');
-      if (noc) {
-        title.textContent = `2024巴黎奧運-今日賽程 Paris 2024 - ${noc} - Today's events`;
-      }
-
-      // Update meta description
       const descriptionMeta = document.querySelector('meta[name="description"]');
-      if (noc) {
-        descriptionMeta.setAttribute('content', `2024巴黎奧運-今日賽程 Paris 2024 - ${noc} - Today's events`);
-      }
-
-      // Update h1
       const h1 = document.querySelector('h1');
+
       if (noc) {
-        h1.textContent = `2024巴黎奧運-今日賽程 Paris 2024 - ${noc}`;
+        title.textContent = `2024巴黎奧運-全部賽程 Paris 2024 - ${noc} - All Events`;
+        descriptionMeta.setAttribute('content', `2024巴黎奧運-全部賽程 Paris 2024 - ${noc} - All Events`);
+        h1.textContent = `2024巴黎奧運-全部賽程 Paris 2024 - ${noc}`;
       }
     };
 
-    // Call the function to update the content
     updatePageContent(noc);
-
-
 
     let color = 0;
     const cycleColor = () => {
-      color++
-      color = color % 5
-      console.log(color);
-      switch (color) {
-        case 0: return "blue";
-        case 1: return "yellow";
-        case 2: return "black";
-        case 3: return "green";
-        case 4: return "red";
-      }
+      color = (color + 1) % 5;
+      const colors = ["blue", "yellow", "black", "green", "red"];
+      return colors[color];
     };
 
-    document.querySelectorAll('.event').forEach((element) => {
+    const events = document.querySelectorAll('.event');
+    const eventsContainer = document.getElementById('events-container');
+
+    // Sort events by start time
+    const sortedEvents = Array.from(events).sort((a, b) => {
+      const startA = DateTime.fromISO(a.getAttribute('data-start'));
+      const startB = DateTime.fromISO(b.getAttribute('data-start'));
+      return startA - startB;
+    });
+
+    // Group events by date
+    const eventsByDate = {};
+    sortedEvents.forEach((element) => {
       const start = DateTime.fromISO(element.getAttribute('data-start'));
       const end = DateTime.fromISO(element.getAttribute('data-end'));
       const nocs = element.getAttribute('data-noc').split(",");
 
-      if (nocs.includes(noc)) {
-        if (now.day === start.day) {
-          element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
-          if (end < now) {
-            element.remove();
-          } else {
-            element.classList.add(cycleColor());
-          }
-        } else {
-          element.remove();
+      if (!noc || nocs.includes(noc)) {
+        const dateKey = start.toFormat('yyyy-MM-dd');
+        if (!eventsByDate[dateKey]) {
+          eventsByDate[dateKey] = [];
         }
+        eventsByDate[dateKey].push(element);
+
+        element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
+        if (end < now) {
+          element.classList.add('past-event');
+        } else if (start > now) {
+          element.classList.add('future-event');
+        } else {
+          element.classList.add('current-event');
+        }
+        element.classList.add(cycleColor());
       } else {
         element.remove();
       }
     });
+
+    // Remove competitors not matching the selected NOC
     document.querySelectorAll(`.competitor:not(.${noc})`).forEach((element) => {
       element.remove();
     });
-    if (document.querySelectorAll('.event').length === 0) {
+
+    // Clear the events container
+    eventsContainer.innerHTML = '';
+
+    // Render events grouped by date
+    for (const [date, events] of Object.entries(eventsByDate)) {
+      const dateHeader = document.createElement('h2');
+      dateHeader.textContent = DateTime.fromISO(date).toLocaleString(DateTime.DATE_FULL);
+      dateHeader.classList.add('text-2xl', 'font-bold', 'mt-8', 'mb-4');
+      eventsContainer.appendChild(dateHeader);
+
+      events.forEach((event) => {
+        eventsContainer.appendChild(event);
+      });
+    }
+
+    if (eventsContainer.children.length === 0) {
       document.querySelector('.no-event').classList.remove('hidden');
     }
   </script>
@@ -48766,3 +48781,5 @@
     gtag('config', 'G-TMKRPDKYK7');
   </script>
 </body>
+
+</html>
