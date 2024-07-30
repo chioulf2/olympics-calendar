@@ -50,7 +50,7 @@
     const now = DateTime.now();
 
     const urlParams = new URLSearchParams(window.location.search);
-    const noc = new urlParams.get('noc');
+    const noc = urlParams.get('noc');
     const countryName = urlParams.get('country');
 
 
