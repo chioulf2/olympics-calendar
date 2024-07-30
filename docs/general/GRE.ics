@@ -320,10 +320,14 @@ UID:20240730T081000Z-rowing-14
 DTSTAMP:20240730T081000Z
 DTSTART:20240730T081000Z
 DTEND:20240730T084700Z
-DESCRIPTION:賽艇 - 男子單人雙槳1/4決賽\n🇭🇰 中國香港\n🇩🇰 DEN\n🇧🇷 BRA\n🇵🇾 PAR\n🇯🇵
-  JPN\n🇧🇪 BEL\n🇨🇺 CUB\n🇱🇹 LTU\n🇭🇺 HUN\n🇮🇳 IND\n🇭🇷 CRO\n🇬🇷
-  GRE\n🇩🇿 ALG\n🇧🇬 BUL\n🇺🇸 USA\n🇪🇬 EGY\n🇺🇾 URU\n🇳🇱 NED\n🇸🇮
-  斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 GER\n🇲🇨 MON\n🇷🇴 ROU
+DESCRIPTION:賽艇 - 男子單人雙槳1/4決賽\n🇪🇬 Abdelkhalek ELBANNA\n🇯🇵 ARAKAWA
+  Ryuta\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno
+  CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹 Giedrius
+  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
+  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴 Mihai
+  CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy CARDONA
+  BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
+  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
 SUMMARY:🚣 男子單人雙槳1/4決賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -407,9 +411,27 @@ UID:20240730T112042Z-swimming-4X200
 DTSTAMP:20240730T112042Z
 DTSTART:20240730T112042Z
 DTEND:20240730T114006Z
-DESCRIPTION:游泳 - 男子4x200米自由泳接力分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇯🇵 JPN\n🇮🇱
-  ISR\n🇨🇦 CAN\n🇱🇹 LTU\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
-  GBR\n🇮🇹 ITA\n🇨🇭 SUI\n🇩🇪 GER\n🇦🇺 AUS\n🇰🇷 KOR
+DESCRIPTION:游泳 - 男子4x200米自由泳接力分組預賽\n🇮🇹 Alessandro RAGAINI\n🇨🇦 Alex
+  AXON\n🇬🇷 Andreas VAZAIOS\n🇱🇹 Andrius SIDLAUSKAS\n🇨🇭 Antonio
+  DJAKOVIC\n🇮🇱 Bar SOLOVEYCHIK\n🇺🇸 Blake PIERONI\n🇺🇸 Brooks
+  CURRY\n🇮🇹 Carlos D'AMBROSIO\n🇪🇸 Carlos GARACH BENITO\n🇪🇸 Cesar
+  CASTRO VALLE\n🇺🇸 Chris GUILIANO\n🇱🇹 Danas RAPSYS\n🇮🇱 Denis
+  LOKTEV\n🇬🇷 Dimitrios MARKOS\n🇺🇸 Drew KIBLER\n🇧🇷 Eduardo OLIVEIRA de
+  MORAES\n🇮🇱 Eitan BEN SHITRIT\n🇨🇳 FEI Liwei\n🇧🇷 Fernando
+  SCHEFFER\n🇪🇸 Ferran JULIA TOUS\n🇮🇹 Filippo MEGLI\n🇦🇺 Flynn
+  SOUTHAM\n🇮🇱 Gal COHEN GROUMI\n🇮🇹 Giovanni CASERTA\n🇧🇷 Guilherme
+  COSTA\n🇫🇷 Hadrien SALVAN\n🇬🇧 Jack McMILLAN\n🇬🇧 James GUY\n🇨🇦
+  Jeremy BAGSHAW\n🇨🇭 Jeremy DESPLANCHES\n🇨🇳 JI Xinjie\n🇩🇪 Josha
+  SALCHOW\n🇦🇺 Kai TAYLOR\n🇬🇧 Kieran BIRD\n🇰🇷 KIM Woomin\n🇰🇷 KIM
+  Yeonghyeon\n🇬🇷 Konstantinos Emmanouil STAMOU\n🇬🇷 Konstantinos
+  ENGLEZAKIS\n🇰🇷 LEE Hojoon\n🇰🇷 LEE Yooyeon\n🇨🇦 Lorne WIGGINTON\n🇪🇸
+  Luis DOMINGUEZ\n🇩🇪 Lukas MAERTENS\n🇯🇵 MANO Hidenari\n🇯🇵 MATSUMOTO
+  Katsuhiro\n🇯🇵 MURASA Tatsuya\n🇧🇷 Murilo SETIN SARTORI\n🇨🇭 Nils
+  LIESS\n🇨🇳 NIU Guangsheng\n🇨🇦 Patrick HUSSEY\n🇩🇪 Rafael
+  MIROSLAW\n🇫🇷 Roman FUCHS\n🇦🇺 Thomas NEILL\n🇨🇭 Tiago BEHAR\n🇩🇪
+  Timo SORGIUS\n🇬🇧 Tom DEAN\n🇱🇹 Tomas LUKMINAS\n🇱🇹 Tomas
+  NAVIKONIS\n🇫🇷 W. Amazigh YEBBA\n🇯🇵 YANAGIMOTO Konosuke\n🇫🇷 Yann le
+  GOFF\n🇦🇺 Zac INCERTI\n🇨🇳 ZHANG Zhanshuo
 SUMMARY:🏊 男子4x200米自由泳接力分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
