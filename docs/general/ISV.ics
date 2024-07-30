@@ -45,9 +45,13 @@ UID:20240727T091200Z-swimming-400
 DTSTAMP:20240727T091200Z
 DTSTART:20240727T091200Z
 DTEND:20240727T093000Z
-DESCRIPTION:游泳 - 女子400米自由泳分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇯🇵 JPN\n🇧🇪
-  BEL\n🇨🇦 CAN\n🇭🇺 HUN\n🇫🇷 FRA\n🇦🇷 ARG\n🇯🇴 JOR\n🇺🇸 USA\n🇻🇮
-  ISV\n🇺🇿 UZB\n🇳🇿 新西蘭\n🇩🇪 GER\n🇦🇺 AUS
+DESCRIPTION:游泳 - 女子400米自由泳分組預賽\n🇦🇷 Agostina HEIN\n🇭🇺 Ajna KESELY\n🇫🇷
+  Anastasiia KIRPICHNIKOVA\n🇺🇿 Anastasiya ZELINSKAYA\n🇦🇺 Ariarne
+  TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇳🇿 Eve THOMAS\n🇧🇷 Gabrielle
+  RONCATTO\n🇩🇪 Isabel GOSE\n🇦🇺 Jamie PERKINS\n🇯🇴 Karin BELBEISI\n🇺🇸
+  Katie LEDECKY\n🇯🇵 KOBORI Waka\n🇩🇪 Leonie MAERTENS\n🇨🇳 LI
+  Bingjie\n🇨🇳 LIU Yaxin\n🇧🇷 Maria Fernanda COSTA\n🇻🇮 Natalia Jean
+  KUIPERS\n🇺🇸 Paige MADDEN\n🇨🇦 Summer McINTOSH\n🇧🇪 Valentine DUMONT
 SUMMARY:🏊 女子400米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -56,12 +60,21 @@ UID:20240728T094300Z-swimming-100
 DTSTAMP:20240728T094300Z
 DTSTART:20240728T094300Z
 DTEND:20240728T095900Z
-DESCRIPTION:游泳 - 男子100米仰泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇵🇸 PLE\n🇧🇳 BRU\n🇯🇵
-  JPN\n🇮🇱 ISR\n🇨🇦 CAN\n🇭🇺 HUN\n🇮🇳 IND\n🇧🇲 BER\n🇪🇸 ESP\n🇬🇷
-  GRE\n🇧🇯 BEN\n🇫🇷 FRA\n🇵🇷 PUR\n🇵🇱 POL\n🇦🇷 ARG\n🇿🇦 RSA\n🇺🇸
-  USA\n🇻🇮 ISV\n🇬🇧 GBR\n🇨🇴 COL\n🇬🇩 GRN\n🇬🇪 GEO\n🇺🇦 UKR\n🇨🇿
-  CZE\n🇳🇱 NED\n🇹🇴 TGA\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇵🇹
-  POR\n🇩🇪 GER\n🇦🇺 AUS\n🇰🇷 KOR
+DESCRIPTION:游泳 - 男子100米仰泳分組預賽\n🇭🇺 Adam JASZO\n🇮🇱 Adam MARAANA\n🇹🇴
+  Alan Koti Lopeti UHI\n🇧🇯 Alexis Michel Roger Dodji KPADE\n🇨🇴 Anthony
+  RINCON VELASCO\n🇬🇷 Apostolos CHRISTOU\n🇹🇷 Berke SAKA\n🇦🇹 Bernhard
+  REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley WOODWARD\n🇬🇷 Evangelos
+  MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸
+  Hunter ARMSTRONG\n🇦🇺 Isaac COOPER\n🇧🇲 Jack HARVEY\n🇨🇦 Javier
+  ACEVEDO\n🇵🇹 Joao COSTA\n🇬🇧 Jonny MARSHALL\n🇳🇱 Kai van
+  WESTERING\n🇳🇿 Kane FOLLOWS\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
+  Marek ULRICH\n🇯🇵 MATSUYAMA Riku\n🇻🇮 Maximillian WILSON\n🇫🇷 Mewen
+  TOMAC\n🇮🇹 Michele LAMBERTI\n🇨🇿 Miroslav KNEDLA\n🇬🇪 Noe
+  PANSTKHAVA\n🇩🇪 Ole BRAUNSCHWEIG\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
+  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇮🇳
+  Srihari NATARAJ\n🇨🇭 Thierry BOLLIN\n🇮🇹 Thomas CECCON\n🇦🇷 Ulises
+  SARAVIA\n🇨🇳 XU Jiayu\n🇵🇸 Yazan AL BAWWAB\n🇵🇷 Yeziel MORALES\n🇫🇷
+  Yohann NDOYE-BROUARD\n🇬🇩 Zackary GRESHAM\n🇧🇳 Zeke CHAN
 SUMMARY:🏊 男子100米仰泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
