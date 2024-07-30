@@ -1,6 +1,17 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/GUA//EN
-X-WR-CALNAME:🇬🇹 Guatemala 🏅 | Paris 2024
-NAME:🇬🇹 Guatemala 🏅 | Paris 2024
+X-WR-CALNAME:🇬🇹 瓜地馬拉 🏅 | 巴黎2024
+NAME:🇬🇹 瓜地馬拉 🏅 | 巴黎2024
+BEGIN:VEVENT
+UID:20240730T133000Z-shooting-
+DTSTAMP:20240730T133000Z
+DTSTART:20240730T133000Z
+DTEND:20240730T144500Z
+DESCRIPTION:射擊 - 男子多向飛碟決賽\n🇺🇸 Derrick Scott MEIN\n🇦🇺 James
+  WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇬🇧 Nathan HALES\n🇨🇳 QI
+  Ying\n🇸🇪 Rickard LEVIN-ANDERSSON
+SUMMARY:🔫 男子多向飛碟決賽
+LOCATION:沙託魯射擊中心
+END:VEVENT
 END:VCALENDAR
