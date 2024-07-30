@@ -19,8 +19,8 @@ const downloadSchedule = async (sportKey: string) => {
   const cacheFile = `${__dirname}/../cache/${sportKey}.html`;
 
   if (!fs.existsSync(cacheFile)) {
-    debug(`Downloading schedule for ${sportKey} https://olympics.com/en/paris-2024/schedule/${sportKey}`);
-    const response = await fetch(`https://olympics.com/en/paris-2024/schedule/${sportKey}`);
+    debug(`Downloading schedule for ${sportKey} https://olympics.com/zh/paris-2024/schedule/${sportKey}`);
+    const response = await fetch(`https://olympics.com/zh/paris-2024/schedule/${sportKey}`);
     const content = await response.text();
     fs.writeFileSync(cacheFile, content);
   }
