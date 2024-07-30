@@ -107,11 +107,12 @@
       if (nocs.includes(noc)) {
         if (now.day === start.day) {
           element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
-          if (end < now) {
-            element.remove();
-          } else {
+          //如果時間過了就不顯示了 這邏輯先拿掉 顯示整天的
+          // if (end < now) {
+          //   element.remove();
+          // } else {
             element.classList.add(cycleColor());
-          }
+          // }
         } else {
           element.remove();
         }
