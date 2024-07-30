@@ -1,18 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/SUI//EN
-X-WR-CALNAME:🇨🇭 瑞士 競技體操 | 巴黎2024
-NAME:🇨🇭 瑞士 競技體操 | 巴黎2024
-BEGIN:VEVENT
-UID:20240729T153000Z-artistic-gymnastics-
-DTSTAMP:20240729T153000Z
-DTSTART:20240729T153000Z
-DTEND:20240729T180000Z
-DESCRIPTION:競技體操 - 男子團體決賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇺🇸 USA\n🇬🇧
-  GBR\n🇺🇦 UKR\n🇮🇹 ITA\n🇨🇭 SUI
-SUMMARY:🤸 男子團體決賽
-LOCATION:貝爾西體育館
-END:VEVENT
+PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/NED//EN
+X-WR-CALNAME:🇳🇱 荷蘭 競技體操 | 巴黎2024
+NAME:🇳🇱 荷蘭 競技體操 | 巴黎2024
 BEGIN:VEVENT
 UID:20240731T153000Z-artistic-gymnastics-
 DTSTAMP:20240731T153000Z

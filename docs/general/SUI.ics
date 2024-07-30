@@ -1360,6 +1360,22 @@ SUMMARY:⛵ 男子帆船49人級 - 比賽12
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T153000Z-artistic-gymnastics-
+DTSTAMP:20240731T153000Z
+DTSTART:20240731T153000Z
+DTEND:20240731T180000Z
+DESCRIPTION:競技體操 - 男子全能決賽\n🇵🇭 Carlos Edriel YULO\n🇳🇱 Casimir
+  SCHMIDT\n🇧🇷 Diogo SOARES\n🇨🇦 Felix DOLCI\n🇨🇭 Florian
+  LANGENEGGER\n🇳🇱 Frank RIJKEN\n🇺🇸 Frederick RICHARD\n🇯🇵 HASHIMOTO
+  Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇦🇺 Jesse MOORE\n🇬🇧 Joe
+  FRASER\n🇭🇺 Krisztofer MESZAROS\n🇮🇹 Mario MACCHIATI\n🇨🇭 Matteo
+  GIUBELLINI\n🇰🇿 Milad KARIMI\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA
+  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇺🇸 Paul JUDA\n🇨🇦 Rene
+  COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 男子全能決賽
+LOCATION:貝爾西體育館
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T190000Z-beach-volleyball--D-CAN-SUI
 DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
@@ -1443,6 +1459,21 @@ DESCRIPTION:射擊 - 女子50米步槍三姿資格賽\n🇵🇱 Aleksandra Anna 
   Yesugen OYUNBAT\n🇨🇳 ZHANG Qiongyue
 SUMMARY:🔫 女子50米步槍三姿資格賽
 LOCATION:沙託魯射擊中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T133000Z-canoe-slalom-
+DTSTAMP:20240801T133000Z
+DTSTART:20240801T133000Z
+DTEND:20240801T143000Z
+DESCRIPTION:皮劃艇激流回旋 - 男子單人皮艇半決賽\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn
+  BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub
+  GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱
+  Mateusz POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel
+  HENDRICK\n🇪🇸 Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳
+  QUAN Xin\n🇹🇳 Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy
+  ANDERSON\n🇫🇷 Titouan CASTRYCK
+SUMMARY:🛶 男子單人皮艇半決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T135300Z-sailing-IQFOIL-12
