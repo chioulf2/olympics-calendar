@@ -264,9 +264,15 @@ UID:20240727T093000Z-rowing-
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T095700Z
-DESCRIPTION:賽艇 - 男子雙人雙槳分組預賽\n🇨🇳 CHN\n🇪🇸 ESP\n🇭🇷 CRO\n🇫🇷 FRA\n🇺🇸
-  USA\n🇳🇴 NOR\n🇳🇱 NED\n🇷🇸 SRB\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇩🇪
-  GER\n🇷🇴 ROU
+DESCRIPTION:賽艇 - 男子雙人雙槳分組預賽\n🇪🇸 Aleix GARCIA I PUJOLAR\n🇷🇴 Andrei
+  Sebastian CORNEA\n🇭🇷 Anton LONCARIC\n🇺🇸 Ben DAVISON\n🇮🇪 Daire
+  LYNCH\n🇫🇷 Hugo BOUCHERON\n🇩🇪 Jonas GELSEN\n🇳🇿 Jordan PARRY\n🇳🇴
+  Kjetil BORCH\n🇨🇳 LIU Zhiyu\n🇩🇪 Marc WEBER\n🇷🇴 Marian Florian
+  ENACHE\n🇳🇴 Martin HELSETH\n🇷🇸 Martin MACKOVIC\n🇮🇹 Matteo
+  SARTORI\n🇫🇷 Matthieu ANDRODIAS\n🇳🇱 Melvin TWELLAAR\n🇮🇹 Nicolo'
+  CARUCCI\n🇷🇸 Nikolaj PIMENOV\n🇭🇷 Patrik LONCARIC\n🇮🇪 Philip
+  DOYLE\n🇳🇿 Robbie MANSON\n🇪🇸 Rodrigo CONDE ROMERO\n🇺🇸 Sorin
+  KOSZYK\n🇳🇱 Stef BROENINK\n🇨🇳 SULITAN Adilijiang
 SUMMARY:🚣 男子雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -315,9 +321,15 @@ UID:20240727T100000Z-rowing-
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T102700Z
-DESCRIPTION:賽艇 - 女子雙人雙槳分組預賽\n🇨🇳 CHN\n🇱🇹 LTU\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
-  GBR\n🇳🇴 NOR\n🇨🇿 CZE\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇦🇺
-  AUS\n🇷🇴 ROU
+DESCRIPTION:賽艇 - 女子雙人雙槳分組預賽\n🇮🇪 Alison BERGIN\n🇦🇺 Amanda BATEMAN\n🇷🇴
+  Ancuta BODNAR\n🇨🇿 Anna SANTRUCKOVA\n🇳🇿 Brooke FRANCIS\n🇮🇹 Clara
+  GUERRA\n🇱🇹 Donata KARALIENE\n🇱🇹 Dovile RIMKUTE\n🇫🇷 Elodie RAVERA
+  SCARAMOZZINO\n🇫🇷 Emma LUNATTI\n🇦🇺 Harriet HUDSON\n🇳🇴 Inger Seim
+  KAVLIE\n🇺🇸 Kristi WAGNER\n🇨🇿 Lenka LUKSOVA\n🇳🇱 Lisa
+  SCHEENAARD\n🇨🇳 LU Shiyu\n🇳🇿 Lucy SPOORS\n🇳🇱 Martine VELDHUIS\n🇬🇧
+  Mathilda HODGKINS BYRNE\n🇬🇧 Rebecca WILDE\n🇨🇳 SHEN Shuangmei\n🇷🇴
+  Simona RADIS\n🇺🇸 Sophia VITAS\n🇮🇹 Stefania GOBBI\n🇳🇴 Thea
+  HELSETH\n🇮🇪 Zoe HYDE
 SUMMARY:🚣 女子雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1001,9 +1013,17 @@ UID:20240728T093000Z-rowing-
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T095700Z
-DESCRIPTION:賽艇 - 女子輕量級雙人雙槳分組預賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇮🇷
-  IRI\n🇬🇷 GRE\n🇫🇷 FRA\n🇵🇱 POL\n🇦🇷 ARG\n🇹🇳 TUN\n🇺🇸 USA\n🇬🇧
-  GBR\n🇵🇪 PER\n🇦🇹 AUT\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇷🇴 ROU
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳分組預賽\n🇵🇪 Alessia PALACIOS\n🇮🇪 Aoife
+  CASEY\n🇫🇷 Claire BOVE\n🇬🇷 Dimitra KONTOU\n🇬🇧 Emily CRAIG\n🇦🇷
+  Evelyn SILVESTRO\n🇷🇴 Gianina Elena van GRONINGEN\n🇯🇵 HIROUCHI
+  Emi\n🇬🇧 Imogen GRANT\n🇷🇴 Ionela Livia COZMIUC\n🇳🇿 Jackie
+  KIDDLE\n🇨🇦 Jenny CASSON\n🇨🇦 Jill MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳
+  Khadija KRIMI\n🇦🇹 Lara TIEFENTHALER\n🇫🇷 Laura TARANTOLA\n🇦🇹 Louisa
+  ALTENHUBER\n🇮🇷 Mahsa JAVER\n🇮🇪 Margaret CREMEN\n🇵🇱 Martyna
+  RADOSZ\n🇺🇸 Michelle SECHSER\n🇺🇸 Molly RECKFORD\n🇯🇵 OISHI
+  Ayami\n🇨🇳 QIU Xiuping\n🇹🇳 Selma DHAOUADI\n🇳🇿 Shannon COX\n🇦🇷
+  Sonia BALUZZO CHIARUZZO\n🇵🇪 Valeria PALACIOS\n🇮🇷 Zeinab NOROUZI TAZEH
+  KAND\n🇬🇷 Zoi FITSIOU\n🇨🇳 ZOU Jiaqi
 SUMMARY:🚣 女子輕量級雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1053,9 +1073,17 @@ UID:20240728T100000Z-rowing-
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T102700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷
-  FRA\n🇦🇷 ARG\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇿 CZE\n🇨🇱
-  CHI\n🇮🇹 ITA\n🇮🇪 IRL\n🇨🇭 SUI\n🇲🇽 MEX
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
+  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇳🇴
+  Ask Jarl TJOEM\n🇪🇸 Caetano Xose HORTA POMBO\n🇨🇱 Cesar ABAROA\n🇪🇸
+  Dennis CARRACEDO FERRERO\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇮🇪
+  Fintan Mc CARTHY\n🇯🇵 FURUTA Naoki\n🇮🇹 Gabriel SOARES\n🇫🇷 Hugo
+  BEUREY\n🇺🇦 Igor KHMARA\n🇨🇭 Jan SCHAEUBLE\n🇨🇿 Jiri SIMANEK\n🇳🇴
+  Lars Martin BENSKE\n🇲🇽 Miguel CARBALLO NIETO\n🇨🇿 Miroslav
+  VRASTIL\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
+  ZANDWEGHE\n🇮🇪 Paul O DONOVAN\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros
+  GKAIDATZIS\n🇨🇭 Raphael AHUMADA\n🇺🇿 Shakhzod NURMATOV\n🇺🇿 Sobirjon
+  SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇮🇹 Stefano OPPO\n🇧🇪 Tibo VYVEY
 SUMMARY:🚣 男子輕量級雙人雙槳預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1194,8 +1222,17 @@ UID:20240728T105000Z-rowing-
 DTSTAMP:20240728T105000Z
 DTSTART:20240728T105000Z
 DTEND:20240728T110700Z
-DESCRIPTION:賽艇 - 男子四人單槳分組預賽\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹
-  ITA\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇦🇺 AUS\n🇷🇴 ROU
+DESCRIPTION:賽艇 - 男子四人單槳分組預賽\n🇦🇺 Alex HILL\n🇷🇴 Andrei MANDRILA\n🇫🇷
+  Benoit BRUNET\n🇷🇴 Ciprian TUDOSA\n🇬🇧 David AMBLER\n🇳🇱 Eli
+  BROUWER\n🇦🇺 Fergus HAMILTON\n🇬🇧 Freddie DAVIDSON\n🇮🇹 Giovanni
+  ABAGNALE\n🇮🇹 Giuseppe VICINO\n🇫🇷 Guillaume TURLAN\n🇳🇱 Guus
+  MOLLEE\n🇦🇺 Jack ROBERTSON\n🇨🇭 Joel SCHUERCH\n🇺🇸 Justin BEST\n🇨🇭
+  Kai SCHAETZLE\n🇺🇸 Liam CORRIGAN\n🇳🇿 Logan ULLRICH\n🇬🇧 Matt
+  ALDRIDGE\n🇳🇿 Matt MACDONALD\n🇮🇹 Matteo LODO\n🇺🇸 Michael GRADY\n🇳🇱
+  Nelson RITSEMA\n🇮🇹 Nicholas KOHL\n🇺🇸 Nick MEAD\n🇬🇧 Oliver
+  WILKES\n🇳🇿 Ollie MACLEAN\n🇨🇭 Patrick BRUNNER\n🇳🇱 Rik RIENKS\n🇷🇴
+  Sergiu Vasile BEJAN\n🇷🇴 Stefan Constantin BERARIU\n🇫🇷 Teo RAYET\n🇫🇷
+  Thibaud TURLAN\n🇨🇭 Tim ROTH\n🇦🇺 Timothy MASTERS\n🇳🇿 Tom MURRAY
 SUMMARY:🚣 男子四人單槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1654,8 +1691,14 @@ UID:20240729T084000Z-rowing-
 DTSTAMP:20240729T084000Z
 DTSTART:20240729T084000Z
 DTEND:20240729T085700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇬🇷 GRE\n🇫🇷 FRA\n🇦🇷
-  ARG\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇱 CHI\n🇲🇽 MEX
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
+  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇨🇱
+  Cesar ABAROA\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇯🇵 FURUTA
+  Naoki\n🇫🇷 Hugo BEUREY\n🇺🇦 Igor KHMARA\n🇲🇽 Miguel CARBALLO
+  NIETO\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
+  ZANDWEGHE\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇺🇿 Shakhzod
+  NURMATOV\n🇺🇿 Sobirjon SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇧🇪 Tibo
+  VYVEY
 SUMMARY:🚣 男子輕量級雙人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -3138,6 +3181,15 @@ SUMMARY:🛶 男子單人皮艇預賽第1輪
 LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T135000Z-fencing-2-POL-FRA
+DTSTAMP:20240730T135000Z
+DTSTART:20240730T135000Z
+DTEND:20240730T144000Z
+DESCRIPTION:擊劍 - 女子團體重劍半決賽2
+SUMMARY:🤺 POL 🇵🇱 - 🇫🇷 FRA
+LOCATION:巴黎大皇宮
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T141900Z-sailing-49-09
 DTSTAMP:20240730T141900Z
 DTSTART:20240730T141900Z
@@ -3247,6 +3299,20 @@ SUMMARY:🏹 Gaby SCHLOESSER 🇳🇱 - 🇫🇷 Lisa BARBELIN
 LOCATION:榮軍院
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T183000Z-swimming-100
+DTSTAMP:20240730T183000Z
+DTSTART:20240730T183000Z
+DTEND:20240730T184400Z
+DESCRIPTION:游泳 - 男子100米自由泳半決賽\n🇮🇹 Alessandro MIRESSI\n🇷🇸 Andrej
+  BARNA\n🇺🇸 Chris GUILIANO\n🇷🇴 David POPOVICI\n🇧🇷 Guilherme
+  SANTOS\n🇺🇸 Jack ALEXY\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh LIENDO\n🇩🇪 Josha
+  SALCHOW\n🇦🇺 Kyle CHALMERS\n🇬🇧 Matthew RICHARDS\n🇫🇷 Maxime
+  GROUSSET\n🇭🇺 Nandor NEMETH\n🇨🇳 PAN Zhanle\n🇷🇸 Velimir
+  STJEPANOVIC\n🇦🇺 William YANG
+SUMMARY:🏊 男子100米自由泳半決賽
+LOCATION:拉德芳斯體育館
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T190000Z-swimming-100
 DTSTAMP:20240730T190000Z
 DTSTART:20240730T190000Z
@@ -3305,6 +3371,33 @@ SUMMARY:🏀 FRA 🇫🇷 - 🇨🇳 CHN
 LOCATION:協和廣場1號場地
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T193300Z-swimming-100
+DTSTAMP:20240730T193300Z
+DTSTART:20240730T193300Z
+DTEND:20240730T194700Z
+DESCRIPTION:游泳 - 女子100米自由泳半決賽\n🇬🇧 Anna HOPKIN\n🇨🇿 Barbora
+  SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY
+  Siobhan Bernadette\n🇵🇭 Kayla SANCHEZ\n🇫🇷 Marie WATTEL\n🇳🇱 Marrit
+  STEENBERGEN\n🇸🇪 Michelle COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇸🇮 Neza
+  KLANCAR\n🇸🇪 Sarah SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Torri HUSKE\n🇨🇳
+  WU Qingfeng\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 女子100米自由泳半決賽
+LOCATION:拉德芳斯體育館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T195900Z-swimming-200
+DTSTAMP:20240730T195900Z
+DTSTART:20240730T195900Z
+DTEND:20240730T201500Z
+DESCRIPTION:游泳 - 男子200米蛙泳半決賽\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇳🇱
+  Caspar CORBEAU\n🇰🇷 CHO Sung Jae\n🇰🇬 Denis PETRASHOV\n🇨🇳 DONG
+  Zhihao\n🇸🇪 Erik PERSSON\n🇯🇵 HANAGURUMA Yu\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir EPITROPOV\n🇺🇸 Matt
+  FALLON\n🇨🇳 QIN Haiyang\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 男子200米蛙泳半決賽
+LOCATION:拉德芳斯體育館
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T200500Z-3x3-basketball--POL-FRA
 DTSTAMP:20240730T200500Z
 DTSTART:20240730T200500Z
@@ -3312,6 +3405,16 @@ DTEND:20240730T203000Z
 DESCRIPTION:三人籃球 - 男子分組循環賽
 SUMMARY:🏀 POL 🇵🇱 - 🇫🇷 FRA
 LOCATION:協和廣場1號場地
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T201500Z-swimming-4X200
+DTSTAMP:20240730T201500Z
+DTSTART:20240730T201500Z
+DTEND:20240730T202800Z
+DESCRIPTION:游泳 - 男子4x200米自由泳接力決賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇮🇱 ISR\n🇫🇷
+  FRA\n🇺🇸 USA\n🇬🇧 GBR\n🇩🇪 GER\n🇦🇺 AUS\n🇰🇷 KOR
+SUMMARY:🏊 男子4x200米自由泳接力決賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T060000Z-triathlon-
