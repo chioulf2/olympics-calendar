@@ -1,42 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/UKR//EN
-X-WR-CALNAME:🇺🇦 Ukraine Table Tennis | Paris 2024
-NAME:🇺🇦 Ukraine Table Tennis | Paris 2024
+X-WR-CALNAME:🇺🇦 Ukraine 乒乓球 | Paris 2024
+NAME:🇺🇦 Ukraine 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T180000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-ROU-UKR
+UID:20240727T180000Z-table-tennis-64-ROU-UKR
 DTSTAMP:20240727T180000Z
 DTSTART:20240727T180000Z
 DTEND:20240727T184500Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Elizabeta SAMARA 🇷🇴 - 🇺🇦 Solomiya BRATEYKO
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T093000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-UKR-THA
+UID:20240728T093000Z-table-tennis-64-UKR-THA
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T101500Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Margaryta PESOTSKA 🇺🇦 - 🇹🇭 Orawan PARANANG
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-UKR-CHN
+UID:20240729T100000Z-table-tennis-64-UKR-CHN
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T110000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Yaroslav ZHMUDENKO 🇺🇦 - 🇨🇳 FAN Zhendong
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T080000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-32-ROU-UKR
+UID:20240730T080000Z-table-tennis-32-ROU-UKR
 DTSTAMP:20240730T080000Z
 DTSTART:20240730T080000Z
 DTEND:20240730T090000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 32
+DESCRIPTION:乒乓球 - 女子单打32强赛
 SUMMARY:🏓 Bernadette SZOCS 🇷🇴 - 🇺🇦 Margaryta PESOTSKA
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

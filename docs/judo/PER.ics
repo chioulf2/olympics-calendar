@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/PER//EN
-X-WR-CALNAME:🇵🇪 Peru Judo | Paris 2024
-NAME:🇵🇪 Peru Judo | Paris 2024
+X-WR-CALNAME:🇵🇪 Peru 柔道 | Paris 2024
+NAME:🇵🇪 Peru 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T080600Z-judo-MEN-66-KG-ELIMINATION-ROUND-OF-32-ITA-PER
+UID:20240728T080600Z-judo-6632-ITA-PER
 DTSTAMP:20240728T080600Z
 DTSTART:20240728T080600Z
 DTEND:20240728T081200Z
-DESCRIPTION:Judo - Men -66 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子66公斤级32强淘汰赛
 SUMMARY:🥋 Matteo PIRAS 🇮🇹 - 🇵🇪 Juan POSTIGOS
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

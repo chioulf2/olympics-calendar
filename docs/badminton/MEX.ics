@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/MEX//EN
-X-WR-CALNAME:🇲🇽 Mexico Badminton | Paris 2024
-NAME:🇲🇽 Mexico Badminton | Paris 2024
+X-WR-CALNAME:🇲🇽 Mexico 羽毛球 | Paris 2024
+NAME:🇲🇽 Mexico 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T143000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-I-TPE-ME
+UID:20240728T143000Z-badminton--I-TPE-MEX
 DTSTAMP:20240728T143000Z
 DTSTART:20240728T143000Z
 DTEND:20240728T153000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group I
+DESCRIPTION:羽毛球 - 男子单打小组赛 - I组
 SUMMARY:🏸 CHOU Tien Chen 🇹🇼 - 🇲🇽 Luis Ramon GARRIDO
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T134000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-I-HKG-ME
+UID:20240730T134000Z-badminton--I-HKG-MEX
 DTSTAMP:20240730T134000Z
 DTSTART:20240730T134000Z
 DTEND:20240730T142000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group I
+DESCRIPTION:羽毛球 - 男子单打小组赛 - I组
 SUMMARY:🏸 LEE Cheuk Yiu 🇭🇰 - 🇲🇽 Luis Ramon GARRIDO
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

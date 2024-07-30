@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/RSA//EN
-X-WR-CALNAME:🇿🇦 South Africa Fencing | Paris 2024
-NAME:🇿🇦 South Africa Fencing | Paris 2024
+X-WR-CALNAME:🇿🇦 South Africa 击剑 | Paris 2024
+NAME:🇿🇦 South Africa 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T080000Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-64-KAZ-RSA
+UID:20240728T080000Z-fencing-64-KAZ-RSA
 DTSTAMP:20240728T080000Z
 DTSTART:20240728T080000Z
 DTEND:20240728T082500Z
-DESCRIPTION:Fencing - Men's Épée Individual Table of 64
+DESCRIPTION:击剑 - 男子个人重剑64强
 SUMMARY:🤺 Vadim SHARLAIMOV 🇰🇿 - 🇿🇦 Harry SANER
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

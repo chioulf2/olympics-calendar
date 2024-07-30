@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/BEL//EN
-X-WR-CALNAME:🇧🇪 Belgium Table Tennis | Paris 2024
-NAME:🇧🇪 Belgium Table Tennis | Paris 2024
+X-WR-CALNAME:🇧🇪 Belgium 乒乓球 | Paris 2024
+NAME:🇧🇪 Belgium 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T180000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-BEL-SWE
+UID:20240727T180000Z-table-tennis-64-BEL-SWE
 DTSTAMP:20240727T180000Z
 DTSTART:20240727T180000Z
 DTEND:20240727T190000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Cedric NUYTINCK 🇧🇪 - 🇸🇪 Truls MOREGARD
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T080000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-JPN-BEL
+UID:20240729T080000Z-table-tennis-64-JPN-BEL
 DTSTAMP:20240729T080000Z
 DTSTART:20240729T080000Z
 DTEND:20240729T090000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Tomokazu HARIMOTO 🇯🇵 - 🇧🇪 Martin ALLEGRO
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

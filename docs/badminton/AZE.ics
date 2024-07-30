@@ -1,42 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/AZE//EN
-X-WR-CALNAME:🇦🇿 Azerbaijan Badminton | Paris 2024
-NAME:🇦🇿 Azerbaijan Badminton | Paris 2024
+X-WR-CALNAME:🇦🇿 Azerbaijan 羽毛球 | Paris 2024
+NAME:🇦🇿 Azerbaijan 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T063000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-N-CHN-
+UID:20240727T063000Z-badminton--N-CHN-AZE
 DTSTAMP:20240727T063000Z
 DTSTART:20240727T063000Z
 DTEND:20240727T071000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group N
+DESCRIPTION:羽毛球 - 女子单打小组赛 - N组
 SUMMARY:🏸 HE Bing Jiao 🇨🇳 - 🇦🇿 Keisha Fatimah AZZAHRA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T063000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-N-GBR-
+UID:20240729T063000Z-badminton--N-GBR-AZE
 DTSTAMP:20240729T063000Z
 DTSTART:20240729T063000Z
 DTEND:20240729T071000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group N
+DESCRIPTION:羽毛球 - 女子单打小组赛 - N组
 SUMMARY:🏸 Kirsty GILMOUR 🇬🇧 - 🇦🇿 Keisha Fatimah AZZAHRA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T182000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-E-AZE-AU
+UID:20240729T182000Z-badminton--E-AZE-AUT
 DTSTAMP:20240729T182000Z
 DTSTART:20240729T182000Z
 DTEND:20240729T190000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group E
+DESCRIPTION:羽毛球 - 男子单打小组赛 - E组
 SUMMARY:🏸 Ade Resky DWICAHYO 🇦🇿 - 🇦🇹 Collins Valentine FILIMON
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T143000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-E-DEN-AZ
+UID:20240731T143000Z-badminton--E-DEN-AZE
 DTSTAMP:20240731T143000Z
 DTSTART:20240731T143000Z
 DTEND:20240731T151000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group E
+DESCRIPTION:羽毛球 - 男子单打小组赛 - E组
 SUMMARY:🏸 Anders ANTONSEN 🇩🇰 - 🇦🇿 Ade Resky DWICAHYO
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

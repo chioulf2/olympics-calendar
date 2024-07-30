@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//marathon-swimming/general//EN
-X-WR-CALNAME:🏊 Marathon Swimming | Paris 2024
-NAME:🏊 Marathon Swimming | Paris 2024
+X-WR-CALNAME:🏊 马拉松游泳 | Paris 2024
+NAME:🏊 马拉松游泳 | Paris 2024
 BEGIN:VEVENT
-UID:20240808T053000Z-marathon-swimming-WOMENS-10KM
+UID:20240808T053000Z-marathon-swimming-10
 DTSTAMP:20240808T053000Z
 DTSTART:20240808T053000Z
 DTEND:20240808T075000Z
-DESCRIPTION:Marathon Swimming - Women's 10km
-SUMMARY:🏊 Women's 10km
-LOCATION:Pont Alexandre III
+DESCRIPTION:马拉松游泳 - 女子10公里
+SUMMARY:🏊 女子10公里
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T053000Z-marathon-swimming-MENS-10KM
+UID:20240809T053000Z-marathon-swimming-10
 DTSTAMP:20240809T053000Z
 DTSTART:20240809T053000Z
 DTEND:20240809T075000Z
-DESCRIPTION:Marathon Swimming - Men's 10km
-SUMMARY:🏊 Men's 10km
-LOCATION:Pont Alexandre III
+DESCRIPTION:马拉松游泳 - 男子10公里
+SUMMARY:🏊 男子10公里
+LOCATION:亚历山大三世桥
 END:VEVENT
 END:VCALENDAR

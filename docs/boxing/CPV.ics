@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//boxing/CPV//EN
-X-WR-CALNAME:🇨🇻 Cabo Verde Boxing | Paris 2024
-NAME:🇨🇻 Cabo Verde Boxing | Paris 2024
+X-WR-CALNAME:🇨🇻 Cabo Verde 拳击 | Paris 2024
+NAME:🇨🇻 Cabo Verde 拳击 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T140200Z-boxing-MENS-51KG-PRELIMINARIES-ROUND-OF-16-CPV-THA
+UID:20240730T140200Z-boxing-51-16-CPV-THA
 DTSTAMP:20240730T140200Z
 DTSTART:20240730T140200Z
 DTEND:20240730T141300Z
-DESCRIPTION:Boxing - Men's 51kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 男子51公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 David de PINA 🇨🇻 - 🇹🇭 Thitisan PANMOT
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T183200Z-boxing-WOMENS-66KG-PRELIMINARIES-ROUND-OF-16-BEL-CPV
+UID:20240801T183200Z-boxing-66-16-BEL-CPV
 DTSTAMP:20240801T183200Z
 DTSTART:20240801T183200Z
 DTEND:20240801T184300Z
-DESCRIPTION:Boxing - Women's 66kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 女子66公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Oshin DERIEUW 🇧🇪 - 🇨🇻 Ivanusa MOREIRA
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 END:VCALENDAR

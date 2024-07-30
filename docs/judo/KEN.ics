@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/KEN//EN
-X-WR-CALNAME:🇰🇪 Kenya Judo | Paris 2024
-NAME:🇰🇪 Kenya Judo | Paris 2024
+X-WR-CALNAME:🇰🇪 Kenya 柔道 | Paris 2024
+NAME:🇰🇪 Kenya 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240801T081200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-KEN-POR
+UID:20240801T081200Z-judo-7832-KEN-POR
 DTSTAMP:20240801T081200Z
 DTSTART:20240801T081200Z
 DTEND:20240801T081800Z
-DESCRIPTION:Judo - Women -78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤级32强淘汰赛
 SUMMARY:🥋 Zeddy CHEROTICH 🇰🇪 - 🇵🇹 Patricia SAMPAIO
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

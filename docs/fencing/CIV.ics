@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/CIV//EN
-X-WR-CALNAME:🇨🇮 Côte d'Ivoire Fencing | Paris 2024
-NAME:🇨🇮 Côte d'Ivoire Fencing | Paris 2024
+X-WR-CALNAME:🇨🇮 Côte d'Ivoire 击剑 | Paris 2024
+NAME:🇨🇮 Côte d'Ivoire 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T092500Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-32-CIV-FRA
+UID:20240728T092500Z-fencing-32-CIV-FRA
 DTSTAMP:20240728T092500Z
 DTSTART:20240728T092500Z
 DTEND:20240728T095500Z
-DESCRIPTION:Fencing - Women's Foil Individual Table of 32
+DESCRIPTION:击剑 - 女子个人花剑32强
 SUMMARY:🤺 Maxine Isabel ESTEBAN 🇨🇮 - 🇫🇷 Pauline RANVIER
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T113500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32-CIV-USA
+UID:20240729T113500Z-fencing-32-CIV-USA
 DTSTAMP:20240729T113500Z
 DTSTART:20240729T113500Z
 DTEND:20240729T120500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 32
+DESCRIPTION:击剑 - 男子个人花剑32强
 SUMMARY:🤺 Jeremy Fafa KERYHUEL 🇨🇮 - 🇺🇸 Alexander MASSIALAS
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

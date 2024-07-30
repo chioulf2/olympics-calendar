@@ -4,132 +4,127 @@ PRODID:-//fabrice404//olympics-calendar//medals/POL//EN
 X-WR-CALNAME:🇵🇱 Poland 🏅 | Paris 2024
 NAME:🇵🇱 Poland 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
+UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
 DTSTART:20240727T123000Z
 DTEND:20240727T135900Z
-DESCRIPTION:Cycling Road - Women's Individual Time Trial\n🇵🇱 Agnieszka
-  SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina
-  AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰
-  Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina
-  SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena
-  HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
-  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia
-  KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱
-  Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
-  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
-  SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz
-  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 Women's Individual Time Trial
-LOCATION:Pont Alexandre III
+DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
+  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
+  NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
+  Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
+  Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
+  Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
+  BROWN\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪
+  Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO
+  PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
+  BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮
+  Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子个人计时赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+UID:20240727T143200Z-cycling-road-
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
 DTEND:20240727T155700Z
-DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
-  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
-  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
-  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
-  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
-  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
-  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
-  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
-  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
-  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
-  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
-  Yevgeniy FEDOROV
-SUMMARY:🚴 Men's Individual Time Trial
-LOCATION:Pont Alexandre III
+DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
+  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
+  TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin VAUQUELIN\n🇳🇿 Laurence
+  PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰
+  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal
+  KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier
+  LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan
+  MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan
+  KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
+SUMMARY:🚴 男子个人计时赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T121000Z-cycling-mountain-bike-WOMENS-CROSS-COUNTRY
+UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
-DESCRIPTION:Cycling Mountain Bike - Women's Cross-country\n🇨🇿 Adela
-  HOLUBOVA\n🇨🇭 Alessandra KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie
-  HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹
-  Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽
-  Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley
-  BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla
-  MWAMIKAZI\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura
-  STIGGER\n🇫🇷 Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona
-  MITTERWALLNER\n🇩🇪 Nina BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND
-  PREVOT\n🇳🇱 Puck PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel
-  QUEIROS\n🇦🇺 Rebecca HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia
-  BLUNK\n🇨🇭 Sina FREI\n🇩🇰 Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳
-  WU Zhifan\n🇺🇦 Yana BELOMOINA
-SUMMARY:🚴 Women's Cross-country
-LOCATION:Elancourt Hill
+DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
+  KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
+  Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
+  MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
+  SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
+  HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla MWAMIKAZI\n🇸🇪 Jenny
+  RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana
+  LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
+  BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND PREVOT\n🇳🇱 Puck
+  PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel QUEIROS\n🇦🇺 Rebecca
+  HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
+  Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳 WU Zhifan\n🇺🇦 Yana
+  BELOMOINA
+SUMMARY:🚴 女子越野赛
+LOCATION:埃朗库尔山
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T154500Z-canoe-slalom-WOMENS-KAYAK-SINGLE-FINAL
+UID:20240728T154500Z-canoe-slalom-
 DTSTAMP:20240728T154500Z
 DTSTART:20240728T154500Z
 DTEND:20240728T162900Z
-DESCRIPTION:Canoe Slalom - Women's Kayak Single Final\n🇧🇷 Ana
-  SATILA\n🇫🇷 Camille PRIGENT\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska
-  MINTALOVA\n🇸🇮 Eva TERCELJ\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
-  Klaudia ZWOLINSKA\n🇳🇿 Luuka JONES\n🇪🇸 Maialen CHOURRAUT\n🇩🇪 Ricarda
-  FUNK\n🇮🇹 Stefanie HORN
-SUMMARY:🛶 Women's Kayak Single Final
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 女子单人皮艇决赛\n🇧🇷 Ana SATILA\n🇫🇷 Camille PRIGENT\n🇦🇹
+  Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇦🇺 Jessica
+  FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇳🇿 Luuka JONES\n🇪🇸
+  Maialen CHOURRAUT\n🇩🇪 Ricarda FUNK\n🇮🇹 Stefanie HORN
+SUMMARY:🛶 女子单人皮艇决赛
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-equestrian-EVENTING-TEAM-JUMPING-FINAL
+UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
-DESCRIPTION:Equestrian - Eventing Team Jumping Final\n🇦🇺 AUS\n🇧🇪
-  BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇸🇪 SWE\n🇨🇭 SUI\n🇺🇸 USA
-SUMMARY:🏇 Eventing Team Jumping Final
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛 - 团体场地障碍决赛\n🇨🇦 加拿大\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
+  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇵🇱 波兰\n🇦🇺 澳大利亚\n🇮🇪 爱尔兰\n🇸🇪
+  瑞典\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰
+SUMMARY:🏇 三项赛 - 团体场地障碍决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY
+UID:20240729T121000Z-cycling-mountain-bike-
 DTSTAMP:20240729T121000Z
 DTSTART:20240729T121000Z
 DTEND:20240729T134000Z
-DESCRIPTION:Cycling Mountain Bike - Men's Cross-country\n🇲🇽 Adair Zabdiel
-  GUTIERREZ PRIETO\n🇿🇦 Alan HATHERLY\n🇳🇦 Alex MILLER\n🇬🇧 Charlie
-  ALDRIDGE\n🇺🇸 Christopher BLEVINS\n🇪🇸 David VALERO SERRANO\n🇨🇴 Diego
-  Alfonso ARIAS CUERVO\n🇷🇴 Ede-Karoly MOLNAR\n🇨🇦 Gunnar HOLMGREN\n🇧🇪
-  Jens SCHUERMANS\n🇪🇸 Jofre CULLELL ESTAPE\n🇫🇮 Joni SAVASTE\n🇫🇷
-  Jordan SARROU\n🇩🇪 Julian SCHELB\n🇳🇴 Knut ROEHME\n🇵🇱 Krzysztof
-  LUKASIK\n🇮🇹 Luca BRAIDOT\n🇩🇪 Luca SCHWARZBAUER\n🇨🇳 MI
-  Jiujiang\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻 Martins BLUMS\n🇨🇭 Mathias
-  FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇭 Nino SCHURTER\n🇺🇦 Oleksandr
-  HUDYMA\n🇨🇿 Ondrej CINK\n🇧🇪 Pierre de FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮
-  Romano PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰 Simon ANDREASSEN\n🇮🇹 Simone
-  AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer ZALTSMAN\n🇧🇷 Ulan BASTOS
-  GALINSKI\n🇫🇷 Victor KORETZKY
-SUMMARY:🚴 Men's Cross-country
-LOCATION:Elancourt Hill
+DESCRIPTION:山地自行车 - 男子越野赛\n🇲🇽 Adair Zabdiel GUTIERREZ PRIETO\n🇿🇦 Alan
+  HATHERLY\n🇳🇦 Alex MILLER\n🇬🇧 Charlie ALDRIDGE\n🇺🇸 Christopher
+  BLEVINS\n🇪🇸 David VALERO SERRANO\n🇨🇴 Diego Alfonso ARIAS CUERVO\n🇷🇴
+  Ede-Karoly MOLNAR\n🇨🇦 Gunnar HOLMGREN\n🇧🇪 Jens SCHUERMANS\n🇪🇸 Jofre
+  CULLELL ESTAPE\n🇫🇮 Joni SAVASTE\n🇫🇷 Jordan SARROU\n🇩🇪 Julian
+  SCHELB\n🇳🇴 Knut ROEHME\n🇵🇱 Krzysztof LUKASIK\n🇮🇹 Luca BRAIDOT\n🇩🇪
+  Luca SCHWARZBAUER\n🇨🇳 MI Jiujiang\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻
+  Martins BLUMS\n🇨🇭 Mathias FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇭 Nino
+  SCHURTER\n🇺🇦 Oleksandr HUDYMA\n🇨🇿 Ondrej CINK\n🇧🇪 Pierre de
+  FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮 Romano PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰
+  Simon ANDREASSEN\n🇮🇹 Simone AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer
+  ZALTSMAN\n🇧🇷 Ulan BASTOS GALINSKI\n🇫🇷 Victor KORETZKY
+SUMMARY:🚴 男子越野赛
+LOCATION:埃朗库尔山
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T152000Z-canoe-slalom-MENS-CANOE-SINGLE-FINAL
+UID:20240729T152000Z-canoe-slalom-
 DTSTAMP:20240729T152000Z
 DTSTART:20240729T152000Z
 DTEND:20240729T160400Z
-DESCRIPTION:Canoe Slalom - Men's Canoe Single Final\n🇬🇧 Adam
-  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
-  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
-  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
-  CARTER\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Men's Canoe Single Final
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 男子单人划艇决赛\n🇬🇧 Adam BURGESS\n🇸🇮 Benjamin
+  SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰
+  Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas
+  GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子单人划艇决赛
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T060000Z-triathlon-WOMENS-INDIVIDUAL
+UID:20240731T060000Z-triathlon-
 DTSTAMP:20240731T060000Z
 DTSTART:20240731T060000Z
 DTEND:20240731T080500Z
-DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
-  Alberte KJAER PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧
-  Beth POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
+  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
   SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
   HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
   LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
@@ -145,17 +140,17 @@ DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
   Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
   SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
   MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
-SUMMARY:🏊 Women's Individual
-LOCATION:Pont Alexandre III
+SUMMARY:🏊 女子个人赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T102600Z-rowing-MENS-QUADRUPLE-SCULLS-FINAL-A
+UID:20240731T102600Z-rowing-A
 DTSTAMP:20240731T102600Z
 DTSTART:20240731T102600Z
 DTEND:20240731T103300Z
-DESCRIPTION:Rowing - Men's Quadruple Sculls Final A\n🇩🇪 GER\n🇬🇧
-  GBR\n🇮🇹 ITA\n🇳🇱 NED\n🇵🇱 POL\n🇨🇭 SUI
-SUMMARY:🚣 Men's Quadruple Sculls Final A
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 男子四人双桨决赛A\n🇩🇪 德国\n🇮🇹 意大利\n🇵🇱 波兰\n🇨🇭 瑞士\n🇬🇧
+  英国\n🇳🇱 荷兰
+SUMMARY:🚣 男子四人双桨决赛A
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 END:VCALENDAR

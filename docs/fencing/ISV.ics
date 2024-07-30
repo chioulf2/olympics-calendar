@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/ISV//EN
-X-WR-CALNAME:🇻🇮 U.S. Virgin Islands Fencing | Paris 2024
-NAME:🇻🇮 U.S. Virgin Islands Fencing | Paris 2024
+X-WR-CALNAME:🇻🇮 U.S. Virgin Islands 击剑 | Paris 2024
+NAME:🇻🇮 U.S. Virgin Islands 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T072500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-64-CAN-ISV
+UID:20240729T072500Z-fencing-64-CAN-ISV
 DTSTAMP:20240729T072500Z
 DTSTART:20240729T072500Z
 DTEND:20240729T075500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 64
+DESCRIPTION:击剑 - 男子个人花剑64强
 SUMMARY:🤺 Blake BROSZUS 🇨🇦 - 🇻🇮 Kruz SCHEMBRI
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/VAN//EN
-X-WR-CALNAME:🇻🇺 Vanuatu Judo | Paris 2024
-NAME:🇻🇺 Vanuatu Judo | Paris 2024
+X-WR-CALNAME:🇻🇺 Vanuatu 柔道 | Paris 2024
+NAME:🇻🇺 Vanuatu 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T091200Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-VAN-NED
+UID:20240730T091200Z-judo-8132-VAN-NED
 DTSTAMP:20240730T091200Z
 DTSTART:20240730T091200Z
 DTEND:20240730T091800Z
-DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
 SUMMARY:🥋 Hugo CUMBO 🇻🇺 - 🇳🇱 Frank de WIT
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

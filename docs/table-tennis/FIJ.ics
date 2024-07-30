@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/FIJ//EN
-X-WR-CALNAME:🇫🇯 Fiji Table Tennis | Paris 2024
-NAME:🇫🇯 Fiji Table Tennis | Paris 2024
+X-WR-CALNAME:🇫🇯 Fiji 乒乓球 | Paris 2024
+NAME:🇫🇯 Fiji 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T110000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-FIJ-GBR
+UID:20240729T110000Z-table-tennis-64-FIJ-GBR
 DTSTAMP:20240729T110000Z
 DTSTART:20240729T110000Z
 DTEND:20240729T120000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Vicky WU 🇫🇯 - 🇬🇧 Liam PITCHFORD
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

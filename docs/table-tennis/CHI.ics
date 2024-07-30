@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/CHI//EN
-X-WR-CALNAME:🇨🇱 Chile Table Tennis | Paris 2024
-NAME:🇨🇱 Chile Table Tennis | Paris 2024
+X-WR-CALNAME:🇨🇱 Chile 乒乓球 | Paris 2024
+NAME:🇨🇱 Chile 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T134500Z-table-tennis-WOMENS-SINGLES-PRELIMINARY-ROUND-CHI-LBN
+UID:20240727T134500Z-table-tennis--CHI-LBN
 DTSTAMP:20240727T134500Z
 DTSTART:20240727T134500Z
 DTEND:20240727T143000Z
-DESCRIPTION:Table Tennis - Women's Singles Preliminary Round
+DESCRIPTION:乒乓球 - 女子单打预赛
 SUMMARY:🏓 Zhiying ZENG 🇨🇱 - 🇱🇧 Mariana SAHAKIAN
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T193000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-KAZ-CHI
+UID:20240727T193000Z-table-tennis-64-KAZ-CHI
 DTSTAMP:20240727T193000Z
 DTSTART:20240727T193000Z
 DTEND:20240727T201500Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Kirill GERASSIMENKO 🇰🇿 - 🇨🇱 Nicolas BURGOS
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T180000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-CHI-CAN
+UID:20240728T180000Z-table-tennis-64-CHI-CAN
 DTSTAMP:20240728T180000Z
 DTSTART:20240728T180000Z
 DTEND:20240728T190000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Paulina VEGA 🇨🇱 - 🇨🇦 Mo ZHANG
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

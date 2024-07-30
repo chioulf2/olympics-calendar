@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/NED//EN
-X-WR-CALNAME:🇳🇱 Netherlands Table Tennis | Paris 2024
-NAME:🇳🇱 Netherlands Table Tennis | Paris 2024
+X-WR-CALNAME:🇳🇱 Netherlands 乒乓球 | Paris 2024
+NAME:🇳🇱 Netherlands 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T184500Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-NED-EGY
+UID:20240727T184500Z-table-tennis-64-NED-EGY
 DTSTAMP:20240727T184500Z
 DTSTART:20240727T184500Z
 DTEND:20240727T193000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Britt EERLAND 🇳🇱 - 🇪🇬 Hana GODA
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T180000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-32-CZE-NED
+UID:20240729T180000Z-table-tennis-32-CZE-NED
 DTSTAMP:20240729T180000Z
 DTSTART:20240729T180000Z
 DTEND:20240729T190000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 32
+DESCRIPTION:乒乓球 - 女子单打32强赛
 SUMMARY:🏓 Hana MATELOVA 🇨🇿 - 🇳🇱 Britt EERLAND
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

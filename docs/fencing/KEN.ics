@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/KEN//EN
-X-WR-CALNAME:🇰🇪 Kenya Fencing | Paris 2024
-NAME:🇰🇪 Kenya Fencing | Paris 2024
+X-WR-CALNAME:🇰🇪 Kenya 击剑 | Paris 2024
+NAME:🇰🇪 Kenya 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T094000Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-32-KEN-UKR
+UID:20240727T094000Z-fencing-32-KEN-UKR
 DTSTAMP:20240727T094000Z
 DTSTART:20240727T094000Z
 DTEND:20240727T100500Z
-DESCRIPTION:Fencing - Women's Épée Individual Table of 32
+DESCRIPTION:击剑 - 女子个人重剑32强
 SUMMARY:🤺 Alexandra NDOLO 🇰🇪 - 🇺🇦 Olena KRYVYTSKA
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

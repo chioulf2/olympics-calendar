@@ -4,44 +4,44 @@ PRODID:-//fabrice404//olympics-calendar//medals/EST//EN
 X-WR-CALNAME:🇪🇪 Estonia 🏅 | Paris 2024
 NAME:🇪🇪 Estonia 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T184000Z-fencing-WOMENS-PE-INDIVIDUAL-BRONZE-MEDAL-BOUT-HUN-EST
+UID:20240727T184000Z-fencing--HUN-EST
 DTSTAMP:20240727T184000Z
 DTSTART:20240727T184000Z
 DTEND:20240727T190500Z
-DESCRIPTION:Fencing - Women's Épée Individual Bronze Medal Bout
+DESCRIPTION:击剑 - 女子个人重剑铜牌赛
 SUMMARY:🤺 Eszter MUHARI 🇭🇺 - 🇪🇪 Nelli DIFFERT
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T121000Z-cycling-mountain-bike-WOMENS-CROSS-COUNTRY
+UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
-DESCRIPTION:Cycling Mountain Bike - Women's Cross-country\n🇨🇿 Adela
-  HOLUBOVA\n🇨🇭 Alessandra KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie
-  HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹
-  Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽
-  Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley
-  BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla
-  MWAMIKAZI\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura
-  STIGGER\n🇫🇷 Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona
-  MITTERWALLNER\n🇩🇪 Nina BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND
-  PREVOT\n🇳🇱 Puck PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel
-  QUEIROS\n🇦🇺 Rebecca HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia
-  BLUNK\n🇨🇭 Sina FREI\n🇩🇰 Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳
-  WU Zhifan\n🇺🇦 Yana BELOMOINA
-SUMMARY:🚴 Women's Cross-country
-LOCATION:Elancourt Hill
+DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
+  KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
+  Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
+  MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
+  SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
+  HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla MWAMIKAZI\n🇸🇪 Jenny
+  RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana
+  LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
+  BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND PREVOT\n🇳🇱 Puck
+  PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel QUEIROS\n🇦🇺 Rebecca
+  HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
+  Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳 WU Zhifan\n🇺🇦 Yana
+  BELOMOINA
+SUMMARY:🚴 女子越野赛
+LOCATION:埃朗库尔山
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T193400Z-swimming-WOMENS-100M-BREASTSTROKE-FINAL
+UID:20240729T193400Z-swimming-100
 DTSTAMP:20240729T193400Z
 DTSTART:20240729T193400Z
 DTEND:20240729T194100Z
-DESCRIPTION:Swimming - Women's 100m Breaststroke Final\n🇬🇧 Angharad
-  EVANS\n🇮🇹 Benedetta PILATO\n🇪🇪 Eneli JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪
-  Mona Mc SHARRY\n🇨🇳 TANG Qianting\n🇿🇦 Tatjana SMITH
-SUMMARY:🏊 Women's 100m Breaststroke Final
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子100米蛙泳决赛\n🇬🇧 Angharad EVANS\n🇮🇹 Benedetta
+  PILATO\n🇪🇪 Eneli JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪 Mona Mc SHARRY\n🇨🇳
+  TANG Qianting\n🇿🇦 Tatjana SMITH
+SUMMARY:🏊 女子100米蛙泳决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 END:VCALENDAR

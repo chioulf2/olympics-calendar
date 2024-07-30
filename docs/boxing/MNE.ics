@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//boxing/MNE//EN
-X-WR-CALNAME:🇲🇪 Montenegro Boxing | Paris 2024
-NAME:🇲🇪 Montenegro Boxing | Paris 2024
+X-WR-CALNAME:🇲🇪 Montenegro 拳击 | Paris 2024
+NAME:🇲🇪 Montenegro 拳击 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T133000Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-32-TPE-MNE
+UID:20240727T133000Z-boxing-54-32-TPE-MNE
 DTSTAMP:20240727T133000Z
 DTSTART:20240727T133000Z
 DTEND:20240727T134100Z
-DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 女子54公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 HUANG Hsiao Wen 🇹🇼 - 🇲🇪 Bojana GOJKOVIC
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 END:VCALENDAR

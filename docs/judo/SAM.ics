@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/SAM//EN
-X-WR-CALNAME:🇼🇸 Samoa Judo | Paris 2024
-NAME:🇼🇸 Samoa Judo | Paris 2024
+X-WR-CALNAME:🇼🇸 Samoa 柔道 | Paris 2024
+NAME:🇼🇸 Samoa 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T085400Z-judo-MEN-73-KG-ELIMINATION-ROUND-OF-32-TAN-SAM
+UID:20240729T085400Z-judo-7332-TAN-SAM
 DTSTAMP:20240729T085400Z
 DTSTART:20240729T085400Z
 DTEND:20240729T090000Z
-DESCRIPTION:Judo - Men -73 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子73公斤级32强淘汰赛
 SUMMARY:🥋 Andrew Thomas MLUGU 🇹🇿 - 🇼🇸 William TAI TIN
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

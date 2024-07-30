@@ -13,22 +13,22 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T081800Z-judo-WOMEN-57-KG-ELIMINATION-ROUND-OF-32-GUM-GUI
+UID:20240729T081800Z-judo-5732-GUM-GUI
 DTSTAMP:20240729T081800Z
 DTSTART:20240729T081800Z
 DTEND:20240729T082400Z
-DESCRIPTION:Judo - Women -57 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子57公斤级32强淘汰赛
 SUMMARY:🥋 Maria ESCANO 🇬🇺 - 🇬🇳 Mariana ESTEVES
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T060000Z-triathlon-WOMENS-INDIVIDUAL
+UID:20240731T060000Z-triathlon-
 DTSTAMP:20240731T060000Z
 DTSTART:20240731T060000Z
 DTEND:20240731T080500Z
-DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
-  Alberte KJAER PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧
-  Beth POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
+  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
   SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
   HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
   LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
@@ -44,8 +44,8 @@ DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
   Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
   SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
   MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
-SUMMARY:🏊 Women's Individual
-LOCATION:Pont Alexandre III
+SUMMARY:🏊 女子个人赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

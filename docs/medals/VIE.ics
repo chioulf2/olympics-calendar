@@ -4,14 +4,14 @@ PRODID:-//fabrice404//olympics-calendar//medals/VIE//EN
 X-WR-CALNAME:🇻🇳 Vietnam 🏅 | Paris 2024
 NAME:🇻🇳 Vietnam 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T100000Z-shooting-10M-AIR-PISTOL-WOMENS-FINAL
+UID:20240728T100000Z-shooting-10
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T104500Z
-DESCRIPTION:Shooting - 10m Air Pistol Women's Final\n🇨🇳 JIANG
-  Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye
-  Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
-SUMMARY:🔫 10m Air Pistol Women's Final
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气手枪决赛\n🇨🇳 JIANG Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI
+  Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳
+  Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
+SUMMARY:🔫 女子10米气手枪决赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 END:VCALENDAR

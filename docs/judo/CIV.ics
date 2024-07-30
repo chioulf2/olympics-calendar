@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/CIV//EN
-X-WR-CALNAME:🇨🇮 Côte d'Ivoire Judo | Paris 2024
-NAME:🇨🇮 Côte d'Ivoire Judo | Paris 2024
+X-WR-CALNAME:🇨🇮 Côte d'Ivoire 柔道 | Paris 2024
+NAME:🇨🇮 Côte d'Ivoire 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T090600Z-judo-WOMEN-57-KG-ELIMINATION-ROUND-OF-32-UZB-CIV
+UID:20240729T090600Z-judo-5732-UZB-CIV
 DTSTAMP:20240729T090600Z
 DTSTART:20240729T090600Z
 DTEND:20240729T091200Z
-DESCRIPTION:Judo - Women -57 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子57公斤级32强淘汰赛
 SUMMARY:🥋 Shukurjon AMINOVA 🇺🇿 - 🇨🇮 Zouleiha Abzetta DABONNE
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

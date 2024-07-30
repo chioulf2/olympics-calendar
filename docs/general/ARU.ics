@@ -13,14 +13,14 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T083000Z-shooting-10M-AIR-PISTOL-MENS-QUALIFICATION
+UID:20240727T083000Z-shooting-10
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T094500Z
-DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
-  CHEEMA\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳
-  Davaakhuu ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️
-  Edilio Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
+DESCRIPTION:射击 - 男子10米气手枪资格赛\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️ Edilio
+  Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
   FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
   KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
   Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
@@ -29,387 +29,429 @@ DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
   CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
-SUMMARY:🔫 10m Air Pistol Men's Qualification
-LOCATION:Chateauroux Shooting Ctr
+SUMMARY:🔫 男子10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T102300Z-sailing-MENS-WINDSURFING-RACE-1
+UID:20240729T102300Z-sailing-IQFOIL-01
 DTSTAMP:20240729T102300Z
 DTSTART:20240729T102300Z
 DTEND:20240729T103200Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 1\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 1
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛01\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛01
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T091751Z-swimming-MENS-100M-FREESTYLE-HEATS
+UID:20240730T091751Z-swimming-100
 DTSTAMP:20240730T091751Z
 DTSTART:20240730T091751Z
 DTEND:20240730T095131Z
-DESCRIPTION:Swimming - Men's 100m Freestyle - Heats\n🇦🇱 ALB\n🇦🇴
-  ANG\n🇦🇲 ARM\n🇦🇼 ARU\n🇦🇺 AUS\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇧 BAR\n🇧🇹
-  BHU\n🇧🇷 BRA\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇰🇲
-  COM\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿 CZE\n🇩🇴 DOM\n🇸🇻 ESA\n🇫🇷 FRA\n🇩🇪
-  GER\n🇬🇭 GHA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇷 IR
-  Iran\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇿 KAZ\n🇰🇷 KOR\n🇽🇰 KOS\n🇰🇼 KUW\n🇱🇧
-  LBN\n🇱🇾 LBA\n🇱🇹 LTU\n🇱🇺 LUX\n🇲🇱 MLI\n🇲🇺 MRI\n🇲🇽 MEX\n🇲🇳
-  MGL\n🇲🇲 MYA\n🇳🇵 NEP\n🇳🇱 NED\n🇳🇿 NZL\n🇴🇲 OMA\n🇵🇬 PNG\n🇵🇱
-  POL\n🇵🇹 POR\n🇷🇴 ROU\n🇱🇨 LCA\n🇼🇸 SAM\n🇸🇦 KSA\n🇸🇳 SEN\n🇷🇸
-  SRB\n🇸🇬 SGP\n🇪🇸 ESP\n🇱🇰 SRI\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇿 TAN\n🇹🇭
-  THA\n🇹🇹 TTO\n🇹🇲 TKM\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇺🇾 URU\n🇻🇺
-  VAN\n🇻🇪 VEN
-SUMMARY:🏊 Men's 100m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子100米自由泳分组预赛\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
+  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
+  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
+  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
+  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
+  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
+  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
+  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
+  SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭
+  Harry STACEY\n🇦🇴 Henrique MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa
+  Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry
+  WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud
+  ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan
+  Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬
+  Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle
+  CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷
+  Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷
+  Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
+  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
+  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
+  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
+  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
+  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
+  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
+  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
+  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
+SUMMARY:🏊 男子100米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T101300Z-sailing-MENS-WINDSURFING-RACE-2
+UID:20240730T101300Z-sailing-IQFOIL-02
 DTSTAMP:20240730T101300Z
 DTSTART:20240730T101300Z
 DTEND:20240730T103400Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 2\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 2
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛02\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛02
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T104400Z-sailing-MENS-WINDSURFING-RACE-3
+UID:20240730T104400Z-sailing-IQFOIL-03
 DTSTAMP:20240730T104400Z
 DTSTART:20240730T104400Z
 DTEND:20240730T110500Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 3\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 3
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛03\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛03
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T111500Z-sailing-MENS-WINDSURFING-RACE-4
+UID:20240730T111500Z-sailing-IQFOIL-04
 DTSTAMP:20240730T111500Z
 DTSTART:20240730T111500Z
 DTEND:20240730T113600Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 4\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 4
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛04\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛04
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T114600Z-sailing-MENS-WINDSURFING-RACE-5
+UID:20240730T114600Z-sailing-IQFOIL-05
 DTSTAMP:20240730T114600Z
 DTSTART:20240730T114600Z
 DTEND:20240730T120700Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 5\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 5
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛05\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛05
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T121700Z-sailing-MENS-WINDSURFING-RACE-6
+UID:20240730T121700Z-sailing-IQFOIL-06
 DTSTAMP:20240730T121700Z
 DTSTART:20240730T121700Z
 DTEND:20240730T123800Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 6\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 6
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛06\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛06
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T120300Z-sailing-MENS-WINDSURFING-RACE-7
+UID:20240731T120300Z-sailing-IQFOIL-07
 DTSTAMP:20240731T120300Z
 DTSTART:20240731T120300Z
 DTEND:20240731T122400Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 7\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 7
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛07\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛07
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T123400Z-sailing-MENS-WINDSURFING-RACE-8
+UID:20240731T123400Z-sailing-IQFOIL-08
 DTSTAMP:20240731T123400Z
 DTSTART:20240731T123400Z
 DTEND:20240731T125500Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 8\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 8
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛08\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛08
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T130500Z-sailing-MENS-WINDSURFING-RACE-9
+UID:20240731T130500Z-sailing-IQFOIL-09
 DTSTAMP:20240731T130500Z
 DTSTART:20240731T130500Z
 DTEND:20240731T132600Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 9\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 9
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛09\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛09
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T133600Z-sailing-MENS-WINDSURFING-RACE-10
+UID:20240731T133600Z-sailing-IQFOIL-10
 DTSTAMP:20240731T133600Z
 DTSTART:20240731T133600Z
 DTEND:20240731T135700Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 10\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 10
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛10\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛10
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T140700Z-sailing-MENS-WINDSURFING-RACE-11
+UID:20240731T140700Z-sailing-IQFOIL-11
 DTSTAMP:20240731T140700Z
 DTSTART:20240731T140700Z
 DTEND:20240731T142800Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 11\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 11
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛11\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛11
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T091600Z-swimming-MENS-50M-FREESTYLE-HEATS
+UID:20240801T091600Z-swimming-50
 DTSTAMP:20240801T091600Z
 DTSTART:20240801T091600Z
 DTEND:20240801T093800Z
-DESCRIPTION:Swimming - Men's 50m Freestyle - Heats\n🇦🇫 AFG\n🇦🇼
-  ARU\n🇦🇺 AUS\n🇧🇷 BRA\n🇧🇫 BUR\n🇧🇮 BDI\n🇨🇻 CPV\n🇨🇦 CAN\n🇰🇾
-  CAY\n🇨🇫 Centr Afric Rep\n🇨🇬 CGO\n🇭🇷 CRO\n🇨🇩 DR Congo\n🇩🇯
-  DJI\n🇩🇲 DMA\n🏳️ EOR\n🇬🇶 GEQ\n🇪🇷 ERI\n🇫🇯 FIJ\n🇫🇷 FRA\n🇬🇦
-  GAB\n🇬🇲 GAM\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇬🇳 GUI\n🇬🇼 GBS\n🇭🇰
-  Hong Kong, China\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇷 KOR\n🇲🇼
-  MAW\n🇲🇻 MDV\n🇲🇹 MLT\n🇲🇭 MHL\n🇲🇷 MTN\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿
-  NZL\n🇳🇪 NIG\n🇳🇬 NGR\n🇳🇴 NOR\n🇵🇼 PLW\n🇵🇱 POL\n🇵🇹 POR\n🇷🇸
-  SRB\n🇸🇱 SLE\n🇸🇬 SGP\n🇸🇰 SVK\n🇰🇳 St Kitts and Nevis\n🇻🇨
-  StVincent&Grenadines\n🇸🇪 SWE\n🇨🇭 SUI\n🇹🇯 TJK\n🇹🇱 TLS\n🇹🇬
-  TOG\n🇹🇹 TTO\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇪 VEN\n🇿🇲 ZAM
-SUMMARY:🏊 Men's 50m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子50米自由泳分组预赛\n🇪🇷 Aaron Ghebre OWUSU\n🇬🇦 Adam
+  MPALI\n🏳️ Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨 Alex JOACHIM\n🇬🇧
+  Alexander COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote NDOMBE IMPELENGA\n🇩🇪
+  Artem SELIN\n🇧🇮 Belly-Cresus GANIRA\n🇦🇺 Ben ARMBRUSTER\n🇬🇧 Benjamin
+  PROUD\n🇸🇪 Bjoern SEELIGER\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron
+  McEVOY\n🇲🇷 Camil DOUA\n🇺🇸 Chris GUILIANO\n🇿🇲 Damien SHAMAMBO\n🇫🇯
+  David YOUNG\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇹 Dylan CARTER\n🇬🇳 Elhadj
+  N'gnane DIALLO\n🇦🇫 Fahim ANWARI\n🇹🇯 Fakhriddin MADKAMOV\n🇲🇼 Filipe
+  GOMES\n🇫🇷 Florent MANAUDOU\n🇨🇬 Freddy MAYALA\n🇲🇽 Gabriel CASTANO
+  GARCIA\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian Yentou\n🇬🇶 Higinio NDONG
+  OBAMA\n🇩🇯 Houmed HOUSSEIN BARKAT\n🇰🇷 JI Yuchan\n🇭🇷 Jere
+  HRIBAR\n🇵🇼 Jion HOSEI\n🇹🇱 Jolanio GUTERRES\n🇸🇬 Jonathan Eu Jin
+  TAN\n🇰🇾 Jordan CROOKS\n🇨🇻 Jose TATI\n🇨🇦 Josh LIENDO\n🇸🇱 Joshua
+  WYSE\n🇳🇱 Kenzo SIMONS\n🇬🇷 Kristian GKOLOMEEV\n🇲🇹 Kyle
+  MICALLEF\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇹🇬 Magnim
+  Jordano DAOU\n🇳🇪 Marouane MAMANE HAMISSOU ABBA\n🇮🇱 Martin
+  KARTAVI\n🇸🇰 Matej DUSA\n🇫🇷 Maxime GROUSSET\n🇮🇱 Meiron Amir
+  CHERUTI\n🇵🇹 Miguel NASCIMENTO\n🇦🇼 Mikel SCHREUDERS\n🇲🇻 Mohamed Aan
+  HUSSAIN\n🇳🇴 Nicholas LIA\n🇬🇲 Ousman JOBE\n🇬🇼 Pedro ROGERY\n🇲🇭
+  Phillip KINONO\n🇵🇱 Piotr LUDWICZAK\n🇳🇱 Renzo TJON-A-JOE\n🇮🇪 Shane
+  RYAN\n🇧🇫 Souleymane NAPARE\n🇬🇷 Stergios Marios BILAS\n🇭🇺
+  Szebasztian SZABO\n🇳🇿 Taiko TOREPE-ORMSBY\n🇨🇫 Terence TENGUE\n🇨🇭
+  Thierry BOLLIN\n🇮🇪 Thomas FANNON\n🇳🇬 Tobi SIJUADE\n🇰🇳 Troy
+  NISBETT\n🇺🇦 Vladyslav BUKHOV\n🇩🇲 Warren Adam LAWRENCE
+SUMMARY:🏊 男子50米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T135300Z-sailing-MENS-WINDSURFING-RACE-12
+UID:20240801T135300Z-sailing-IQFOIL-12
 DTSTAMP:20240801T135300Z
 DTSTART:20240801T135300Z
 DTEND:20240801T141400Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 12\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 12
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛12\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛12
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T142400Z-sailing-MENS-WINDSURFING-RACE-13
+UID:20240801T142400Z-sailing-IQFOIL-13
 DTSTAMP:20240801T142400Z
 DTSTART:20240801T142400Z
 DTEND:20240801T144500Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 13\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 13
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛13\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛13
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T145500Z-sailing-MENS-WINDSURFING-RACE-14
+UID:20240801T145500Z-sailing-IQFOIL-14
 DTSTAMP:20240801T145500Z
 DTSTART:20240801T145500Z
 DTEND:20240801T151600Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 14\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 14
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛14\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛14
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T152600Z-sailing-MENS-WINDSURFING-RACE-15
+UID:20240801T152600Z-sailing-IQFOIL-15
 DTSTAMP:20240801T152600Z
 DTSTART:20240801T152600Z
 DTEND:20240801T154700Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 15\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 15
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛15\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛15
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T155700Z-sailing-MENS-WINDSURFING-RACE-16
+UID:20240801T155700Z-sailing-IQFOIL-16
 DTSTAMP:20240801T155700Z
 DTSTART:20240801T155700Z
 DTEND:20240801T161800Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 16\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 16
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛16\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛16
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T162800Z-sailing-MENS-WINDSURFING-RACE-17
+UID:20240801T162800Z-sailing-IQFOIL-17
 DTSTAMP:20240801T162800Z
 DTSTART:20240801T162800Z
 DTEND:20240801T164900Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 17\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 17
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛17\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛17
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T165900Z-sailing-MENS-WINDSURFING-RACE-18
+UID:20240801T165900Z-sailing-IQFOIL-18
 DTSTAMP:20240801T165900Z
 DTSTART:20240801T165900Z
 DTEND:20240801T172000Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 18\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 18
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛18\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛18
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T173000Z-sailing-MENS-WINDSURFING-RACE-19
+UID:20240801T173000Z-sailing-IQFOIL-19
 DTSTAMP:20240801T173000Z
 DTSTART:20240801T173000Z
 DTEND:20240801T175100Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 19\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 19
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛19\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛19
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T180100Z-sailing-MENS-WINDSURFING-RACE-20
+UID:20240801T180100Z-sailing-IQFOIL-20
 DTSTAMP:20240801T180100Z
 DTSTART:20240801T180100Z
 DTEND:20240801T182200Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 20\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 20
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛 20\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛 20
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
+UID:20240803T090000Z-swimming-50
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
 DTEND:20240803T092200Z
-DESCRIPTION:Swimming - Women's 50m Freestyle - Heats\n🇦🇼 ARU\n🇦🇺
-  AUS\n🇦🇿 AZE\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇪 BEL\n🇧🇯 BEN\n🇧🇴 BOL\n🇧🇳
-  Brunei Darussalam\n🇧🇫 BUR\n🇧🇮 BDI\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇨🇫
-  Centr Afric Rep\n🇨🇳 CHN\n🇰🇲 COM\n🇨🇬 CGO\n🇭🇷 CRO\n🇨🇩 DR
-  Congo\n🇩🇰 DEN\n🇩🇯 DJI\n🇩🇲 DMA\n🇪🇨 ECU\n🇪🇷 ERI\n🇪🇹 ETH\n🇫🇯
-  FIJ\n🇫🇷 FRA\n🇬🇦 GAB\n🇬🇭 GHA\n🇬🇧 GBR\n🇬🇷 GRE\n🇬🇳 GUI\n🇭🇹
-  HAI\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇲 JAM\n🇰🇪 KEN\n🇽🇰 KOS\n🇰🇬
-  KGZ\n🇲🇬 MAD\n🇲🇼 MAW\n🇲🇻 MDV\n🇲🇱 MLI\n🇲🇭 MHL\n🇫🇲
-  Micronesia\n🇲🇪 MNE\n🇳🇱 NED\n🇳🇪 NIG\n🇳🇬 NGR\n🇵🇼 PLW\n🇵🇬
-  PNG\n🇵🇱 POL\n🇷🇼 RWA\n🇼🇸 SAM\n🇸🇨 SEY\n🇸🇱 SLE\n🇸🇮 SLO\n🇸🇧
-  SOL\n🇻🇨 StVincent&Grenadines\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇯 TJK\n🇹🇿
-  TAN\n🇹🇭 THA\n🇹🇱 TLS\n🇹🇬 TOG\n🇹🇴 TGA\n🇺🇸 USA\n🇻🇺 VAN\n🇿🇲 ZAM
-SUMMARY:🏊 Women's 50m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子50米自由泳分组预赛\n🇳🇬 Adaku NWANDU\n🇹🇬 Adele Sodalo Agnes
+  GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻 Aishath Ulya SHAIG\n🇫🇯 Anahira
+  McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧 Anna HOPKIN\n🇲🇬 Antsa
+  RABEJAONA\n🇰🇭 Apsara Katarina SAKBUM\n🇫🇷 Beryl GASTALDELLO\n🇦🇼
+  Chloe FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle HILL\n🇨🇩 Divine
+  MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina BORDACHYOVA\n🇰🇬
+  Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬 Georgia-Leigh
+  VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen WALSH\n🇽🇰 Hana
+  BEIQI\n🇧🇳 Hayley WONG\n🇧🇫 Iman KOURAOGO\n🇹🇱 Imelda XIMENES
+  BELO\n🇧🇯 Ionnah Eliane DOUILLET\n🇸🇧 Isabella MILLAR\n🇭🇷 Jana
+  PAVALIC\n🇩🇲 Jasmine SCHOFIELD\n🇹🇭 Jenjira SRISA - ARD\n🇬🇭 Joselle
+  MENSAH\n🇲🇪 Jovana KULJACA\n🇩🇰 Julie Kepp JENSEN\n🇸🇷 Kaelyn Ciara
+  Suryanti DJOPARTO\n🇼🇸 Kaiya BROWN\n🇵🇱 Katarzyna WASICK\n🇲🇭 Kayla
+  HEPLER\n🇻🇨 Kennice Aphenie GREENE\n🇫🇲 Kestra KIHLENG\n🇸🇨 Khema
+  ELIZABETH\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇷🇼 Lidwine
+  UMUHOZA UWASE\n🇪🇹 Lina Alemayehu SELO\n🇻🇺 Loane RUSSET\n🇧🇮 Lois
+  Eliora IRISHURA\n🇰🇲 Maesha SAADI\n🇰🇪 Maria BRUNLEHNER\n🇧🇴 Maria
+  Jose RIBERA\n🇦🇿 Mariam SHEIKHALIZADEHKHANGHAH\n🇭🇹 Mayah
+  CHOULOUTE\n🇦🇺 Meg HARRIS\n🇫🇷 Melanie HENIQUE\n🇿🇲 Mia PHIRI\n🇸🇪
+  Michelle COLEMAN\n🇧🇩 Mst Sonia KHATUN\n🇩🇯 Naima-Zahra AMISON\n🇸🇮
+  Neza KLANCAR\n🇹🇴 Noelani Malia DAY\n🇬🇦 Noelie Annette LACOUR\n🇸🇱
+  Olamide SAM\n🇭🇺 Petra SENANSZKY\n🇧🇸 Rhanishka GIBBS\n🇯🇲 Sabrina
+  LYN\n🇳🇪 Salima AHMADOU YOUSSOUFOU\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Simone MANUEL\n🇹🇿 Sophia
+  LATIFF\n🇲🇼 Tayamika CHANGANAMUNO\n🇨🇦 Taylor RUCK\n🇬🇷 Theodora
+  DRAKOU\n🇨🇫 Tracy Marine ANDET\n🇳🇱 Valerie van ROON\n🇨🇬 Vanessa
+  BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 女子50米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

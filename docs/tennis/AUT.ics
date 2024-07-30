@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/AUT//EN
-X-WR-CALNAME:🇦🇹 Austria Tennis | Paris 2024
-NAME:🇦🇹 Austria Tennis | Paris 2024
+X-WR-CALNAME:🇦🇹 Austria 网球 | Paris 2024
+NAME:🇦🇹 Austria 网球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-NED-AUT
+UID:20240728T100000Z-tennis-1-NED-AUT
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T130000Z
-DESCRIPTION:Tennis - Men's Singles First Round
+DESCRIPTION:网球 - 男子单打第1轮
 SUMMARY:🎾 Robin HAASE 🇳🇱 - 🇦🇹 Sebastian OFNER
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-USA-AUT
+UID:20240728T100000Z-tennis-1-USA-AUT
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T173000Z
-DESCRIPTION:Tennis - Women's Singles First Round
+DESCRIPTION:网球 - 女子单打第1轮
 SUMMARY:🎾 Emma NAVARRO 🇺🇸 - 🇦🇹 Julia GRABHER
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T170000Z-tennis-MENS-SINGLES-SECOND-ROUND
+UID:20240730T170000Z-tennis-2
 DTSTAMP:20240730T170000Z
 DTSTART:20240730T170000Z
 DTEND:20240730T200000Z
-DESCRIPTION:Tennis - Men's Singles Second Round\n🇦🇹 Sebastian OFNER
-SUMMARY:🎾 Men's Singles Second Round
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 男子单打第2轮\n🇦🇹 Sebastian OFNER
+SUMMARY:🎾 男子单打第2轮
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 END:VCALENDAR

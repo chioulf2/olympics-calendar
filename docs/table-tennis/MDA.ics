@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/MDA//EN
-X-WR-CALNAME:🇲🇩 Moldova Table Tennis | Paris 2024
-NAME:🇲🇩 Moldova Table Tennis | Paris 2024
+X-WR-CALNAME:🇲🇩 Moldova 乒乓球 | Paris 2024
+NAME:🇲🇩 Moldova 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T130000Z-table-tennis-MENS-SINGLES-PRELIMINARY-ROUND-USA-MDA
+UID:20240727T130000Z-table-tennis--USA-MDA
 DTSTAMP:20240727T130000Z
 DTSTART:20240727T130000Z
 DTEND:20240727T134500Z
-DESCRIPTION:Table Tennis - Men's Singles Preliminary Round
+DESCRIPTION:乒乓球 - 男子单打预赛
 SUMMARY:🏓 Kanak JHA 🇺🇸 - 🇲🇩 Vladislav URSU
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

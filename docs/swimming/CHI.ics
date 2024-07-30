@@ -1,42 +1,55 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//swimming/CHI//EN
-X-WR-CALNAME:🇨🇱 Chile Swimming | Paris 2024
-NAME:🇨🇱 Chile Swimming | Paris 2024
+X-WR-CALNAME:🇨🇱 Chile 游泳 | Paris 2024
+NAME:🇨🇱 Chile 游泳 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T094500Z-swimming-MENS-400M-FREESTYLE-HEATS
+UID:20240727T094500Z-swimming-400
 DTSTAMP:20240727T094500Z
 DTSTART:20240727T094500Z
 DTEND:20240727T101400Z
-DESCRIPTION:Swimming - Men's 400m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇧🇪 BEL\n🇧🇦 Bosnia & Herzegovina\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇱
-  CHI\n🇨🇳 CHN\n🇨🇷 CRC\n🇪🇪 EST\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇾
-  GUY\n🇭🇺 HUN\n🇮🇹 ITA\n🇰🇪 KEN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇾 MAS\n🇲🇦
-  MAR\n🇲🇰 MKD\n🇵🇪 PER\n🇲🇩 Republic of Moldova\n🇸🇲 SMR\n🇸🇪
-  SWE\n🇨🇭 SUI\n🇹🇳 TUN\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪 VEN
-SUMMARY:🏊 Men's 400m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子400米自由泳分组预赛\n🇺🇸 Aaron SHACKELL\n🇹🇳 Ahmed
+  JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇨🇭
+  Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David AUBRY\n🇨🇱 Eduardo
+  CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺 Elijah WINNINGTON\n🇨🇳
+  FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme COSTA\n🇲🇾 Hoe Yean
+  KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya SIBIRTSEV\n🇵🇪 Joaquin
+  VARGAS\n🇧🇦 Jovan LEKIC\n🇰🇷 KIM Woomin\n🇬🇧 Kieran BIRD\n🇺🇸 Kieran
+  SMITH\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪
+  Lukas MAERTENS\n🇮🇹 Marco de TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola
+  GJURETANOVIKJ\n🇩🇪 Oliver KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov
+  MITSIN\n🇬🇾 Raekwon Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana
+  MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪 Victor JOHANSSON\n🇨🇳 ZHANG
+  Zhanshuo\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 男子400米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T095131Z-swimming-WOMENS-1500M-FREESTYLE-HEATS
+UID:20240730T095131Z-swimming-1500
 DTSTAMP:20240730T095131Z
 DTSTART:20240730T095131Z
 DTEND:20240730T104759Z
-DESCRIPTION:Swimming - Women's 1500m Freestyle - Heats\n🇦🇺 AUS\n🇧🇷
-  BRA\n🇨🇱 CHI\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇭🇺 HUN\n🇮🇹 ITA\n🇲🇹
-  MLT\n🇳🇿 NZL\n🇸🇬 SGP\n🇺🇸 USA
-SUMMARY:🏊 Women's 1500m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子1500米自由泳分组预赛\n🇫🇷 Anastasiia KIRPICHNIKOVA\n🇧🇷
+  Beatriz DIZOTTI\n🇸🇬 Ching Hwee GAN\n🇳🇿 Eve THOMAS\n🇨🇳 GAO
+  Weizhong\n🇮🇹 Ginevra TADDEUCCI\n🇩🇪 Isabel GOSE\n🇺🇸 Katie
+  GRIMES\n🇺🇸 Katie LEDECKY\n🇨🇱 Kristel KOBRICH\n🇨🇳 LI Bingjie\n🇦🇺
+  Lani PALLISTER\n🇩🇪 Leonie MAERTENS\n🇦🇺 Moesha JOHNSON\n🇲🇹 Sasha
+  GATT\n🇮🇹 Simona QUADARELLA\n🇭🇺 Vivien JACKL
+SUMMARY:🏊 女子1500米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T093500Z-swimming-WOMENS-800M-FREESTYLE-HEATS
+UID:20240802T093500Z-swimming-800
 DTSTAMP:20240802T093500Z
 DTSTART:20240802T093500Z
 DTEND:20240802T095700Z
-DESCRIPTION:Swimming - Women's 800m Freestyle - Heats\n🇦🇷 ARG\n🇦🇺
-  AUS\n🇧🇷 BRA\n🇨🇱 CHI\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇭🇺 HUN\n🇮🇹
-  ITA\n🇳🇿 NZL\n🇸🇬 SGP\n🇹🇳 TUN\n🇺🇸 USA
-SUMMARY:🏊 Women's 800m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子800米自由泳分组预赛\n🇦🇷 Agostina HEIN\n🇭🇺 Ajna KESELY\n🇫🇷
+  Anastasiia KIRPICHNIKOVA\n🇦🇺 Ariarne TITMUS\n🇸🇬 Ching Hwee GAN\n🇳🇿
+  Erika FAIRWEATHER\n🇳🇿 Eve THOMAS\n🇩🇪 Isabel GOSE\n🇹🇳 Jamila
+  BOULAKBECH\n🇺🇸 Katie LEDECKY\n🇨🇱 Kristel KOBRICH\n🇨🇳 LI
+  Bingjie\n🇦🇺 Lani PALLISTER\n🇧🇷 Maria Fernanda COSTA\n🇺🇸 Paige
+  MADDEN\n🇮🇹 Simona QUADARELLA
+SUMMARY:🏊 女子800米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 END:VCALENDAR

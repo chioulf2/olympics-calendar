@@ -4,63 +4,61 @@ PRODID:-//fabrice404//olympics-calendar//general/IND//EN
 X-WR-CALNAME:🇮🇳 India | Paris 2024
 NAME:🇮🇳 India | Paris 2024
 BEGIN:VEVENT
-UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
+UID:20240725T073000Z-archery-
 DTSTAMP:20240725T073000Z
 DTSTART:20240725T073000Z
 DTEND:20240725T103000Z
-DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
-  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
-  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
-  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
-  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
-  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
-  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
-  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
-  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
-  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
-  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
-  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
-  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
-  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
-  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
-  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
-  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
-  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
-  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
-  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
-  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
-  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
-SUMMARY:🏹 Women's Individual Ranking Round
-LOCATION:Invalides
+DESCRIPTION:射箭 - 女子个人排名赛\n🇨🇳 AN Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩
+  Alexandra MIRCA\n🇵🇷 Alondra RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza
+  SLIACHTICAS CAETANO\n🇨🇴 Ana RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽
+  Angela RUIZ\n🇮🇳 Ankita BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD
+  ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧 Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷
+  Caroline LOPEZ\n🇺🇸 Casey KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪
+  Charline SCHWARZ\n🇮🇹 Chiara REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰
+  Denisa BARANKOVA\n🇮🇩 Diananda CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif
+  Berra GOKKIR\n🇦🇹 Elisabeth STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby
+  SCHLOESSER\n🇸🇲 Giorgia CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana
+  ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪 Katharina BAUER\n🇩🇰 Kirstine DANSTRUP
+  ANDERSEN\n🇹🇼 LEI Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM
+  Sihyeon\n🇦🇺 Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa
+  BARBELIN\n🇷🇴 Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs
+  HAVERS\n🇩🇪 Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina
+  FALLAH\n🇰🇷 NAM Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD
+  FAZIL\n🇬🇧 Penny HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩
+  Rezza OCTAVIA\n🇹🇳 Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa
+  Nurafifah KAMAL\n🇻🇳 Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦
+  Virginie CHENIER\n🇵🇱 Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul
+  RAMAZANOVA\n🇸🇮 Zana PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 女子个人排名赛
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T121500Z-archery-MENS-INDIVIDUAL-RANKING-ROUND
+UID:20240725T121500Z-archery-
 DTSTAMP:20240725T121500Z
 DTSTART:20240725T121500Z
 DTEND:20240725T151500Z
-DESCRIPTION:Archery - Men's Individual Ranking Round\n🇹🇷 Abdullah
-  YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹 Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿
-  Alexandr YEREMENKO\n🇺🇿 Amirkhon SADIKOV\n🇨🇱 Andres GALLARDO
-  FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮 Antti TEKONIEMI\n🇮🇩 Arif
-  PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim TUMER\n🇺🇸 Brady
-  ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos ROJAS\n🇬🇧 Conor
-  HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi ZHANGBYRBAY\n🇮🇳 Dhiraj
-  BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA Takaharu\n🇮🇹 Federico
-  MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩
-  Israel MADAYE\n🇫🇷 Jean-Charles VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO
-  Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷 KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI
-  Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹 Lam DORJI\n🇧🇷 Marcus
-  D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽 Matias GRANDE\n🇮🇹 Mauro
-  NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵
-  NAKANISHI Junya\n🇻🇮 Nicholas D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold
-  BAATARKHUYAG\n🇪🇸 Pablo ACHA GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit
-  KLEIN\n🇮🇳 Pravin Ramesh JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵
-  SAITO Fumiya\n🇨🇴 Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI
-  Yu-Hsuan\n🇹🇼 TANG Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas
-  CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳 WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof
-  TOLBA\n🇸🇮 Ziga RAVNIKAR
-SUMMARY:🏹 Men's Individual Ranking Round
-LOCATION:Invalides
+DESCRIPTION:射箭 - 男子个人排名赛\n🇹🇷 Abdullah YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹
+  Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿 Alexandr YEREMENKO\n🇺🇿 Amirkhon
+  SADIKOV\n🇨🇱 Andres GALLARDO FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮
+  Antti TEKONIEMI\n🇮🇩 Arif PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim
+  TUMER\n🇺🇸 Brady ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos
+  ROJAS\n🇬🇧 Conor HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi
+  ZHANGBYRBAY\n🇮🇳 Dhiraj BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA
+  Takaharu\n🇮🇹 Federico MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo
+  FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩 Israel MADAYE\n🇫🇷 Jean-Charles
+  VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷
+  KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹
+  Lam DORJI\n🇧🇷 Marcus D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽
+  Matias GRANDE\n🇮🇹 Mauro NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete
+  GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵 NAKANISHI Junya\n🇻🇮 Nicholas
+  D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold BAATARKHUYAG\n🇪🇸 Pablo ACHA
+  GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit KLEIN\n🇮🇳 Pravin Ramesh
+  JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵 SAITO Fumiya\n🇨🇴
+  Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI Yu-Hsuan\n🇹🇼 TANG
+  Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳
+  WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 男子个人排名赛
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
@@ -72,43 +70,47 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇩🇿 ALG\n🇦🇴 ANG\n🇧🇪
-  BEL\n🇧🇲 BER\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬
-  EGY\n🇩🇪 GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩
-  INA\n🇯🇵 JPN\n🇰🇿 KAZ\n🇱🇾 LBA\n🇱🇹 LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿
-  NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇺🇸
-  USA\n🇺🇾 URU\n🇿🇼 ZIM
-SUMMARY:🚣 Men's Single Sculls Heats
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 男子单人双桨分组预赛\n🇯🇵 ARAKAWA Ryuta\n🇸🇩 Abdalla AHMED\n🇪🇬
+  Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz
+  Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
+  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
+  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
+  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 男子单人双桨分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T070000Z-shooting-10M-AIR-RIFLE-MIXED-TEAM-QUALIFICATION
+UID:20240727T070000Z-shooting-10
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T073000Z
-DESCRIPTION:Shooting - 10m Air Rifle Mixed Team Qualification\n🇦🇷
-  ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳 China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt
-  1\n🇫🇷 France 1\n🇫🇷 France 2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India
-  1\n🇮🇳 India 2\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan
-  2\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴
-  Norway 2\n🇵🇱 Poland 1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United
-  States 2
-SUMMARY:🔫 10m Air Rifle Mixed Team Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 混合团体10米气步枪资格赛\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
+  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
+  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
+  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
+  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 混合团体10米气步枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T083000Z-shooting-10M-AIR-PISTOL-MENS-QUALIFICATION
+UID:20240727T083000Z-shooting-10
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T094500Z
-DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
-  CHEEMA\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳
-  Davaakhuu ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️
-  Edilio Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
+DESCRIPTION:射击 - 男子10米气手枪资格赛\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️ Edilio
+  Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
   FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
   KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
   Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
@@ -117,789 +119,804 @@ DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
   CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
-SUMMARY:🔫 10m Air Pistol Men's Qualification
-LOCATION:Chateauroux Shooting Ctr
+SUMMARY:🔫 男子10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T103000Z-shooting-10M-AIR-PISTOL-WOMENS-QUALIFICATION
+UID:20240727T103000Z-shooting-10
 DTSTAMP:20240727T103000Z
 DTSTART:20240727T103000Z
 DTEND:20240727T114500Z
-DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
-  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea
-  PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta
-  KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana
-  DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲
-  Elmira KARAPETYAN\n🇪🇬 Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿
-  Irina YUNUSMETOVA\n🇨🇳 JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM
-  Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala
-  TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina
-  PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬
-  Nour Abbas MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa
-  CHARNI\n🇮🇳 Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda
-  TARHAN\n🇹🇷 Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn
-  PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong
-  TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
-SUMMARY:🔫 10m Air Pistol Women's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气手枪资格赛\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA
+  VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷
+  Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille
+  JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪
+  Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲 Elmira KARAPETYAN\n🇪🇬
+  Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿 Irina YUNUSMETOVA\n🇨🇳
+  JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak
+  SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia
+  BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola
+  KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas
+  MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa CHARNI\n🇮🇳
+  Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
+  Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu
+  Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong TEH\n🇹🇼 YU Ai Wen\n🇾🇪
+  Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 女子10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T134000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-L-IND-GU
+UID:20240727T134000Z-badminton--L-IND-GUA
 DTSTAMP:20240727T134000Z
 DTSTART:20240727T134000Z
 DTEND:20240727T142000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group L
+DESCRIPTION:羽毛球 - 男子单打小组赛 - L组
 SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇬🇹 Kevin CORDON
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T134500Z-table-tennis-MENS-SINGLES-PRELIMINARY-ROUND-IND-JOR
+UID:20240727T134500Z-table-tennis--IND-JOR
 DTSTAMP:20240727T134500Z
 DTSTART:20240727T134500Z
 DTEND:20240727T143000Z
-DESCRIPTION:Table Tennis - Men's Singles Preliminary Round
+DESCRIPTION:乒乓球 - 男子单打预赛
 SUMMARY:🏓 Harmeet DESAI 🇮🇳 - 🇯🇴 Zaid ABO YAMAN
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T143000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-C-IND-FR
+UID:20240727T143000Z-badminton--C-IND-FRA
 DTSTAMP:20240727T143000Z
 DTSTART:20240727T143000Z
 DTEND:20240727T153000Z
-DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group C
+DESCRIPTION:羽毛球 - 男子双打小组赛 - C组
 SUMMARY:🏸 RANKIREDDY/SHETTY 🇮🇳 - 🇫🇷 CORVEE/LABAR
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T153000Z-hockey-MENS-POOL-B-IND-NZL
+UID:20240727T153000Z-hockey-B-IND-NZL
 DTSTAMP:20240727T153000Z
 DTSTART:20240727T153000Z
 DTEND:20240727T170000Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 IND 🇮🇳 - 🇳🇿 NZL
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 印度 🇮🇳 - 🇳🇿 新西兰
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T182000Z-badminton-WOMENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-C-KOR-
+UID:20240727T182000Z-badminton--C-KOR-IND
 DTSTAMP:20240727T182000Z
 DTSTART:20240727T182000Z
 DTEND:20240727T190000Z
-DESCRIPTION:Badminton - Women's Doubles Group Play Stage - Group C
+DESCRIPTION:羽毛球 - 女子双打小组赛 - C组
 SUMMARY:🏸 KIM/KONG 🇰🇷 - 🇮🇳 CRASTO/PONNAPPA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T183200Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-32-IND-VIE
+UID:20240727T183200Z-boxing-54-32-IND-VIE
 DTSTAMP:20240727T183200Z
 DTSTART:20240727T183200Z
 DTEND:20240727T184300Z
-DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 女子54公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 PREETI 🇮🇳 - 🇻🇳 Thi Kim Anh VO
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T071500Z-shooting-10M-AIR-RIFLE-WOMENS-QUALIFICATION
+UID:20240728T071500Z-shooting-10
 DTSTAMP:20240728T071500Z
 DTSTART:20240728T071500Z
 DTEND:20240728T083000Z
-DESCRIPTION:Shooting - 10m Air Rifle Women's Qualification\n🇰🇿 Alexandra
-  Le\n🇲🇰 Anastasija MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna
-  JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹
-  Barbara GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷
-  Fatemeh AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽
-  Goretti Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿
-  Houda CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷
-  KEUM Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️
-  Luna SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮
-  Mariel Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA
-  Misaki\n🇦🇹 Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne
-  MULLER\n🇮🇳 Ramita RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng
-  IBSEN\n🇺🇸 Sagen MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL
-  AMIRANI\n🇩🇰 Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita
-  NEPAL\n🇳🇴 Synnoeve BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika
-  BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
-SUMMARY:🔫 10m Air Rifle Women's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气步枪资格赛\n🇰🇿 Alexandra Le\n🇲🇰 Anastasija
+  MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna JANSSEN\n🇰🇿 Arina
+  ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹 Barbara
+  GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷 Fatemeh
+  AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽 Goretti
+  Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿 Houda
+  CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷 KEUM
+  Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️ Luna
+  SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮 Mariel
+  Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA Misaki\n🇦🇹
+  Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
+  RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng IBSEN\n🇺🇸 Sagen
+  MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL AMIRANI\n🇩🇰
+  Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita NEPAL\n🇳🇴 Synnoeve
+  BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar
+  MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
+SUMMARY:🔫 女子10米气步枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T072000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-M-IND-
+UID:20240728T072000Z-badminton--M-IND-MDV
 DTSTAMP:20240728T072000Z
 DTSTART:20240728T072000Z
 DTEND:20240728T080000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group M
+DESCRIPTION:羽毛球 - 女子单打小组赛 - M组
 SUMMARY:🏸 V. Sindhu PUSARLA 🇮🇳 - 🇲🇻 Fathimath Nabaaha ABDUL RAZZAQ
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T073600Z-rowing-MENS-SINGLE-SCULLS-REPECHAGES
+UID:20240728T073600Z-rowing-
 DTSTAMP:20240728T073600Z
 DTSTART:20240728T073600Z
 DTEND:20240728T080700Z
-DESCRIPTION:Rowing - Men's Single Sculls Repechages\n🇩🇿 ALG\n🇦🇴
-  ANG\n🇧🇲 BER\n🇭🇰 Hong Kong, China\n🇮🇳 IND\n🇮🇩 INA\n🇰🇿 KAZ\n🇱🇾
-  LBA\n🇲🇨 MON\n🇵🇾 PAR\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇿🇼 ZIM
-SUMMARY:🚣 Men's Single Sculls Repechages
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 男子单人双桨复活赛\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇮🇳
+  Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇧🇲 Dara ALIZADEH\n🇸🇮 Isak Ivan
+  ZVEGELJ\n🇵🇾 Javier INSFRAN\n🇮🇩 MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳
+  Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿
+  Sid Ali BOUDINA\n🇿🇼 Stephen COX\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 男子单人双桨复活赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T084500Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-SWE-IND
+UID:20240728T084500Z-table-tennis-64-SWE-IND
 DTSTAMP:20240728T084500Z
 DTSTART:20240728T084500Z
 DTEND:20240728T093000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Christina KALLBERG 🇸🇪 - 🇮🇳 Sreeja AKULA
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T091500Z-shooting-10M-AIR-RIFLE-MENS-QUALIFICATION
+UID:20240728T091500Z-shooting-10
 DTSTAMP:20240728T091500Z
 DTSTART:20240728T091500Z
 DTEND:20240728T103000Z
-DESCRIPTION:Shooting - 10m Air Rifle Men's Qualification\n🇫🇮 Aleksi
-  LEPPA\n🇦🇹 Alexander SCHMIRL\n🇮🇳 Arjun BABUTA\n🇲🇳 Bayaraa
-  NYANTAI\n🇰🇷 CHOE Daehan\n🇲🇽 Carlos QUEZADA MARQUEZ\n🇦🇺 Dane
-  SAMPSON\n🇮🇹 Danilo Dennis SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo
-  BONAZZI\n🇲🇽 Edson Ismael RAMIREZ RAMOS\n🇮🇩 Fathur GUSTAFIAN\n🇨🇿
-  Frantisek SMETANA\n🇪🇬 Ibrahim Ahmad Mohammad KORAYIEM\n🇰🇿 Islam
-  SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺 Istvan PENI\n🇺🇸 Ivan ROE\n🇦🇺
-  Jack ROSSITER\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇩🇿 Koceila
-  ADOUL\n🇰🇿 Konstantin MALINOVSKIY\n🇷🇸 Lazar KOVACEVIC\n🇫🇷 Lucas
-  Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇦🇷 Marcelo Julian
-  GUTIERREZ\n🇸🇪 Marcus MADSEN\n🇦🇹 Martin STREMPFL\n🇩🇪 Maximilian
-  ULBRICH\n🇧🇩 Md Robiul Islam ROBIUL\n🇬🇧 Michael BARGERON\n🇭🇷 Miran
-  MARICIC\n🇪🇬 Mohamed HAMDY ABDELKADER\n🇯🇵 OKADA Naoya\n🇳🇴 Ole Martin
-  HALVORSEN\n🇰🇷 PARK Hajun\n🇸🇰 Patrik JANY\n🇭🇷 Petar GORSA\n🇫🇷
-  Romain AUFRERE\n🇺🇸 Rylan William KISSELL\n🇨🇳 SHENG Lihao\n🇮🇳
-  Sandeep SINGH\n🇮🇱 Sergey RICHTER\n🇺🇦 Serhiy KULISH\n🇵🇱 Tomasz
-  BARTNIK\n🇨🇦 Tye IKEDA\n🇸🇪 Victor LINDGREN\n🇭🇺 Zalan PEKLER
-SUMMARY:🔫 10m Air Rifle Men's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子10米气步枪资格赛\n🇫🇮 Aleksi LEPPA\n🇦🇹 Alexander
+  SCHMIRL\n🇮🇳 Arjun BABUTA\n🇲🇳 Bayaraa NYANTAI\n🇰🇷 CHOE Daehan\n🇲🇽
+  Carlos QUEZADA MARQUEZ\n🇦🇺 Dane SAMPSON\n🇮🇹 Danilo Dennis
+  SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo BONAZZI\n🇲🇽 Edson Ismael RAMIREZ
+  RAMOS\n🇮🇩 Fathur GUSTAFIAN\n🇨🇿 Frantisek SMETANA\n🇪🇬 Ibrahim Ahmad
+  Mohammad KORAYIEM\n🇰🇿 Islam SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺
+  Istvan PENI\n🇺🇸 Ivan ROE\n🇦🇺 Jack ROSSITER\n🇨🇿 Jiri
+  PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇩🇿 Koceila ADOUL\n🇰🇿 Konstantin
+  MALINOVSKIY\n🇷🇸 Lazar KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇵🇱
+  Maciej KOWALEWICZ\n🇦🇷 Marcelo Julian GUTIERREZ\n🇸🇪 Marcus
+  MADSEN\n🇦🇹 Martin STREMPFL\n🇩🇪 Maximilian ULBRICH\n🇧🇩 Md Robiul
+  Islam ROBIUL\n🇬🇧 Michael BARGERON\n🇭🇷 Miran MARICIC\n🇪🇬 Mohamed
+  HAMDY ABDELKADER\n🇯🇵 OKADA Naoya\n🇳🇴 Ole Martin HALVORSEN\n🇰🇷 PARK
+  Hajun\n🇸🇰 Patrik JANY\n🇭🇷 Petar GORSA\n🇫🇷 Romain AUFRERE\n🇺🇸
+  Rylan William KISSELL\n🇨🇳 SHENG Lihao\n🇮🇳 Sandeep SINGH\n🇮🇱 Sergey
+  RICHTER\n🇺🇦 Serhiy KULISH\n🇵🇱 Tomasz BARTNIK\n🇨🇦 Tye IKEDA\n🇸🇪
+  Victor LINDGREN\n🇭🇺 Zalan PEKLER
+SUMMARY:🔫 男子10米气步枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T093000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-IND-SLO
+UID:20240728T093000Z-table-tennis-64-IND-SLO
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T101500Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Sharath Kamal ACHANTA 🇮🇳 - 🇸🇮 Deni KOZUL
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T094300Z-swimming-MENS-100M-BACKSTROKE-HEATS
+UID:20240728T094300Z-swimming-100
 DTSTAMP:20240728T094300Z
 DTSTART:20240728T094300Z
 DTEND:20240728T095900Z
-DESCRIPTION:Swimming - Men's 100m Backstroke - Heats\n🇦🇷 ARG\n🇦🇺
-  AUS\n🇦🇹 AUT\n🇧🇯 BEN\n🇧🇲 BER\n🇧🇳 Brunei Darussalam\n🇨🇦 CAN\n🇨🇳
-  CHN\n🇨🇴 COL\n🇨🇿 CZE\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
-  GRE\n🇬🇩 GRN\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷
-  KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇸 PLE\n🇵🇱 POL\n🇵🇹 POR\n🇵🇷 PUR\n🇿🇦
-  RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇴 TGA\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇮
-  Virgin Islands, US
-SUMMARY:🏊 Men's 100m Backstroke - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子100米仰泳分组预赛\n🇭🇺 Adam JASZO\n🇮🇱 Adam MARAANA\n🇹🇴
+  Alan Koti Lopeti UHI\n🇧🇯 Alexis Michel Roger Dodji KPADE\n🇨🇴 Anthony
+  RINCON VELASCO\n🇬🇷 Apostolos CHRISTOU\n🇹🇷 Berke SAKA\n🇦🇹 Bernhard
+  REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley WOODWARD\n🇬🇷 Evangelos
+  MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸
+  Hunter ARMSTRONG\n🇦🇺 Isaac COOPER\n🇧🇲 Jack HARVEY\n🇨🇦 Javier
+  ACEVEDO\n🇵🇹 Joao COSTA\n🇬🇧 Jonny MARSHALL\n🇳🇱 Kai van
+  WESTERING\n🇳🇿 Kane FOLLOWS\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇯🇵
+  MATSUYAMA Riku\n🇩🇪 Marek ULRICH\n🇻🇮 Maximillian WILSON\n🇫🇷 Mewen
+  TOMAC\n🇮🇹 Michele LAMBERTI\n🇨🇿 Miroslav KNEDLA\n🇬🇪 Noe
+  PANSTKHAVA\n🇩🇪 Ole BRAUNSCHWEIG\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
+  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇮🇳
+  Srihari NATARAJ\n🇨🇭 Thierry BOLLIN\n🇮🇹 Thomas CECCON\n🇦🇷 Ulises
+  SARAVIA\n🇨🇳 XU Jiayu\n🇵🇸 Yazan AL BAWWAB\n🇵🇷 Yeziel MORALES\n🇫🇷
+  Yohann NDOYE-BROUARD\n🇬🇩 Zackary GRESHAM\n🇧🇳 Zeke CHAN
+SUMMARY:🏊 男子100米仰泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-shooting-10M-AIR-PISTOL-WOMENS-FINAL
+UID:20240728T100000Z-shooting-10
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T104500Z
-DESCRIPTION:Shooting - 10m Air Pistol Women's Final\n🇨🇳 JIANG
-  Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye
-  Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
-SUMMARY:🔫 10m Air Pistol Women's Final
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气手枪决赛\n🇨🇳 JIANG Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI
+  Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳
+  Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
+SUMMARY:🔫 女子10米气手枪决赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-swimming-WOMENS-200M-FREESTYLE-HEATS
+UID:20240728T100000Z-swimming-200
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T101600Z
-DESCRIPTION:Swimming - Women's 200m Freestyle - Heats\n🇦🇱 ALB\n🇦🇺
-  AUS\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇺 CUB\n🇨🇿 CZE\n🇪🇬
-  EGY\n🇩🇪 GER\n🇭🇳 HON\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇸 ISL\n🇮🇳
-  IND\n🇮🇱 ISR\n🇱🇦 Lao PDR\n🇲🇳 MGL\n🇳🇵 NEP\n🇳🇿 NZL\n🇵🇰 PAK\n🇷🇴
-  ROU\n🇸🇦 KSA\n🇿🇦 RSA\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇻🇪 VEN
-SUMMARY:🏊 Women's 200m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子200米自由泳分组预赛\n🇿🇦 Aimee CANNY\n🇨🇺 Andrea BECALI\n🇱🇦
+  Ariana Southa DIRKZWAGER\n🇦🇺 Ariarne TITMUS\n🇨🇿 Barbora
+  SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇮🇳 Dhinidhi DESINGHU\n🇳🇵 Duana
+  LAMA\n🇲🇳 Enkhkhuslen BATBAYAR\n🇳🇿 Erika FAIRWEATHER\n🇺🇸 Erin
+  GEMMELL\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇵🇰 Jehanara NABI\n🇩🇪 Julia
+  MROZINSKI\n🇭🇳 Julimar AVILA MANCIA\n🇦🇱 Kaltra MECA\n🇨🇳 LI
+  Bingjie\n🇮🇱 Lea POLONSKY\n🇭🇺 Lilla Minna ABRAHAM\n🇪🇬 Lojine ABDALLA
+  SALAH\n🇦🇪 Maha ALSHEHHI\n🇧🇷 Maria Fernanda COSTA\n🇻🇪 Maria Victoria
+  YEGRES COTTIN\n🇨🇦 Mary-Sophie HARVEY\n🇸🇦 Mashael Meshari A
+  ALAYED\n🇦🇺 Mollie O'CALLAGHAN\n🇭🇺 Nikolett PADAR\n🇷🇴 Rebecca-Aimee
+  DIACONESCU\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇧🇪 Valentine
+  DUMONT\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 女子200米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-IND-FRA
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T190000Z
-DESCRIPTION:Tennis - Men's Doubles First Round
-SUMMARY:🎾 BALAJI/BOPANNA 🇮🇳 - 🇫🇷 MONFILS/ROGER-VASSELI
-LOCATION:Roland-Garros Stadium
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-FRA-IND
+UID:20240728T100000Z-tennis-1-FRA-IND
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T113000Z
-DESCRIPTION:Tennis - Men's Singles First Round
+DESCRIPTION:网球 - 男子单打第1轮
 SUMMARY:🎾 Corentin MOUTET 🇫🇷 - 🇮🇳 Sumit NAGAL
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T102000Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-32-GER-IND
+UID:20240728T100000Z-tennis-1-IND-FRA
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T190000Z
+DESCRIPTION:网球 - 男子双打第1轮
+SUMMARY:🎾 BALAJI/BOPANNA 🇮🇳 - 🇫🇷 MONFILS/ROGER-VASSELI
+LOCATION:罗兰·加洛斯体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T102000Z-boxing-50-32-GER-IND
 DTSTAMP:20240728T102000Z
 DTSTART:20240728T102000Z
 DTEND:20240728T103100Z
-DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 女子50公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 Maxi Carina KLOETZER 🇩🇪 - 🇮🇳 Zareen NIKHAT
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T110000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-GBR-IND
+UID:20240728T110000Z-table-tennis-64-GBR-IND
 DTSTAMP:20240728T110000Z
 DTSTART:20240728T110000Z
 DTEND:20240728T120000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Anna HURSEY 🇬🇧 - 🇮🇳 Manika BATRA
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T121500Z-archery-WOMENS-TEAM-QUARTERFINAL-NED-IND
+UID:20240728T121500Z-archery-14-NED-IND
 DTSTAMP:20240728T121500Z
 DTSTART:20240728T121500Z
 DTEND:20240728T123800Z
-DESCRIPTION:Archery - Women's Team Quarterfinal
-SUMMARY:🏹 NED 🇳🇱 - 🇮🇳 IND
-LOCATION:Invalides
+DESCRIPTION:射箭 - 女子团体1/4决赛
+SUMMARY:🏹 荷兰 🇳🇱 - 🇮🇳 印度
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T143000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-K-IND-GE
+UID:20240728T143000Z-badminton--K-IND-GER
 DTSTAMP:20240728T143000Z
 DTSTART:20240728T143000Z
 DTEND:20240728T153000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group K
+DESCRIPTION:羽毛球 - 男子单打小组赛 - K组
 SUMMARY:🏸 H. S. PRANNOY 🇮🇳 - 🇩🇪 Fabian ROTH
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T180000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-FRA-IND
+UID:20240728T180000Z-table-tennis-64-FRA-IND
 DTSTAMP:20240728T180000Z
 DTSTART:20240728T180000Z
 DTEND:20240728T190000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Felix LEBRUN 🇫🇷 - 🇮🇳 Harmeet DESAI
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T063000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-C-IND-GE
+UID:20240729T063000Z-badminton--C-IND-GER
 DTSTAMP:20240729T063000Z
 DTSTART:20240729T063000Z
 DTEND:20240729T063000Z
-DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group C
+DESCRIPTION:羽毛球 - 男子双打小组赛 - C组
 SUMMARY:🏸 RANKIREDDY/SHETTY 🇮🇳 - 🇩🇪 LAMSFUSS/SEIDEL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T071500Z-shooting-10M-AIR-PISTOL-MIXED-TEAM-QUALIFICATION
+UID:20240729T071500Z-shooting-10
 DTSTAMP:20240729T071500Z
 DTSTART:20240729T071500Z
 DTEND:20240729T074500Z
-DESCRIPTION:Shooting - 10m Air Pistol Mixed Team Qualification\n🇧🇬
-  BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷 FRA\n🇩🇪 Germany 1\n🇩🇪 Germany
-  2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿 KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻
-  LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷 Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
-SUMMARY:🔫 10m Air Pistol Mixed Team Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 混合团体10米气手枪资格赛\n🇧🇬 BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷
+  FRA\n🇩🇪 Germany 1\n🇩🇪 Germany 2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿
+  KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻 LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷
+  Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
+SUMMARY:🔫 混合团体10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T072000Z-badminton-WOMENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-C-JPN-
+UID:20240729T072000Z-badminton--C-JPN-IND
 DTSTAMP:20240729T072000Z
 DTSTART:20240729T072000Z
 DTEND:20240729T080000Z
-DESCRIPTION:Badminton - Women's Doubles Group Play Stage - Group C
+DESCRIPTION:羽毛球 - 女子双打小组赛 - C组
 SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇮🇳 CRASTO/PONNAPPA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T073000Z-shooting-10M-AIR-RIFLE-WOMENS-FINAL
-DTSTAMP:20240729T073000Z
-DTSTART:20240729T073000Z
-DTEND:20240729T081500Z
-DESCRIPTION:Shooting - 10m Air Rifle Women's Final\n🇰🇿 Alexandra Le\n🇨🇭
-  Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
-  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 10m Air Rifle Women's Final
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T073000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
+UID:20240729T073000Z-shooting--1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
 DTEND:20240729T120000Z
-DESCRIPTION:Shooting - Trap Men's Qualification - Day 1\n🇪🇸 Alberto
-  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
-  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
-  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
-  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
-  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
-  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
-  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
-  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
-  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
-  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
-SUMMARY:🔫 Trap Men's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第1天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
+  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
+  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
+  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
+  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
+  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
+  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
+  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
+  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
+  Haicheng
+SUMMARY:🔫 男子多向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-shooting-10M-AIR-RIFLE-MENS-FINAL
+UID:20240729T073000Z-shooting-10
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:射击 - 女子10米气步枪决赛\n🇰🇿 Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷
+  BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne
+  MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 女子10米气步枪决赛
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-shooting-10
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T104500Z
-DESCRIPTION:Shooting - 10m Air Rifle Men's Final\n🇮🇳 Arjun BABUTA\n🇰🇷
-  CHOE Daehan\n🇮🇹 Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian
-  GUTIERREZ\n🇭🇷 Miran MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪
-  Victor LINDGREN
-SUMMARY:🔫 10m Air Rifle Men's Final
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子10米气步枪决赛\n🇮🇳 Arjun BABUTA\n🇰🇷 CHOE Daehan\n🇮🇹
+  Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian GUTIERREZ\n🇭🇷 Miran
+  MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪 Victor LINDGREN
+SUMMARY:🔫 男子10米气步枪决赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T104500Z-hockey-MENS-POOL-B-IND-ARG
+UID:20240729T104500Z-hockey-B-IND-ARG
 DTSTAMP:20240729T104500Z
 DTSTART:20240729T104500Z
 DTEND:20240729T121500Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 IND 🇮🇳 - 🇦🇷 ARG
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 印度 🇮🇳 - 🇦🇷 阿根廷
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-L-IND-BE
+UID:20240729T120000Z-badminton--L-IND-BEL
 DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
 DTEND:20240729T124000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group L
+DESCRIPTION:羽毛球 - 男子单打小组赛 - L组
 SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇧🇪 Julien CARRAGGI
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T130100Z-archery-MENS-TEAM-QUARTERFINAL-IND-TUR
+UID:20240729T130100Z-archery-14-IND-TUR
 DTSTAMP:20240729T130100Z
 DTSTART:20240729T130100Z
 DTEND:20240729T132400Z
-DESCRIPTION:Archery - Men's Team Quarterfinal
-SUMMARY:🏹 IND 🇮🇳 - 🇹🇷 TUR
-LOCATION:Invalides
+DESCRIPTION:射箭 - 男子团体1/4决赛
+SUMMARY:🏹 印度 🇮🇳 - 🇹🇷 土耳其
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T190000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-32-FRA-IND
+UID:20240729T190000Z-table-tennis-32-FRA-IND
 DTSTAMP:20240729T190000Z
 DTSTART:20240729T190000Z
 DTEND:20240729T200000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 32
+DESCRIPTION:乒乓球 - 女子单打32强赛
 SUMMARY:🏓 Prithika PAVADE 🇫🇷 - 🇮🇳 Manika BATRA
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T070000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-2
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T100000Z
-DESCRIPTION:Shooting - Trap Men's Qualification - Day 2\n🇪🇸 Alberto
-  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
-  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
-  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
-  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
-  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
-  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
-  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
-  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
-  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
-  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
-SUMMARY:🔫 Trap Men's Qualification - Day 2
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T070000Z-shooting-TRAP-WOMENS-QUALIFICATION-DAY-1
+UID:20240730T070000Z-shooting--1
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T120000Z
-DESCRIPTION:Shooting - Trap Women's Qualification - Day 1\n🇬🇹 Adriana
-  RUANO OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷
-  Carole CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹
-  Jessica ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo
-  Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬
-  Maggy ASHMAWY\n🇪🇸 Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de
-  BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora
-  ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳
-  Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann
-  Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU
-  Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK STEFECEKOVA
-SUMMARY:🔫 Trap Women's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子多向飞碟资格赛 - 第1天\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 女子多向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T073000Z-shooting-10M-AIR-PISTOL-MIXED-TEAM-BRONZE-MEDAL-MATCH-
+UID:20240730T070000Z-shooting--2
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T100000Z
+DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第2天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
+  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
+  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
+  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
+  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
+  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
+  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
+  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
+  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
+  Haicheng
+SUMMARY:🔫 男子多向飞碟资格赛 - 第2天
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T073000Z-shooting-10-IND-KOR
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T075000Z
-DESCRIPTION:Shooting - 10m Air Pistol Mixed Team Bronze Medal Match
+DESCRIPTION:射击 - 混合团体10米气手枪铜牌赛
 SUMMARY:🔫 India 1 🇮🇳 - 🇰🇷 Korea 1
-LOCATION:Chateauroux Shooting Ctr
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T081000Z-rowing-MENS-SINGLE-SCULLS-QUARTERFINALS
+UID:20240730T081000Z-rowing-14
 DTSTAMP:20240730T081000Z
 DTSTART:20240730T081000Z
 DTEND:20240730T084700Z
-DESCRIPTION:Rowing - Men's Single Sculls Quarterfinals\n🇩🇿 ALG\n🇧🇪
-  BEL\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬 EGY\n🇩🇪
-  GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇯🇵 JPN\n🇱🇹
-  LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇺🇸
-  USA\n🇺🇾 URU
-SUMMARY:🚣 Men's Single Sculls Quarterfinals
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 男子单人双桨1/4决赛\n🇯🇵 ARAKAWA Ryuta\n🇪🇬 Abdelkhalek
+  ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾
+  Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴
+  Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy
+  CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
+  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 男子单人双桨1/4决赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T111500Z-hockey-MENS-POOL-B-IRL-IND
+UID:20240730T111500Z-hockey-B-IRL-IND
 DTSTAMP:20240730T111500Z
 DTSTART:20240730T111500Z
 DTEND:20240730T124500Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 IRL 🇮🇪 - 🇮🇳 IND
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 爱尔兰 🇮🇪 - 🇮🇳 印度
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T114400Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-IND-PO
+UID:20240730T114400Z-archery-132-IND-POL
 DTSTAMP:20240730T114400Z
 DTSTART:20240730T114400Z
 DTEND:20240730T115700Z
-DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 女子个人1/32淘汰赛
 SUMMARY:🏹 Ankita BHAKAT 🇮🇳 - 🇵🇱 Wioleta MYSZOR
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T115700Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-INA-IN
+UID:20240730T115700Z-archery-132-INA-IND
 DTSTAMP:20240730T115700Z
 DTSTART:20240730T115700Z
 DTEND:20240730T121000Z
-DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 女子个人1/32淘汰赛
 SUMMARY:🏹 Syifa Nurafifah KAMAL 🇮🇩 - 🇮🇳 Bhajan KAUR
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T120000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-C-IND-IN
+UID:20240730T120000Z-badminton--C-IND-INA
 DTSTAMP:20240730T120000Z
 DTSTART:20240730T120000Z
 DTEND:20240730T124000Z
-DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group C
+DESCRIPTION:羽毛球 - 男子双打小组赛 - C组
 SUMMARY:🏸 RANKIREDDY/SHETTY 🇮🇳 - 🇮🇩 ALFIAN/ARDIANTO
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T125000Z-badminton-WOMENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-C-IND-
+UID:20240730T125000Z-badminton--C-IND-AUS
 DTSTAMP:20240730T125000Z
 DTSTART:20240730T125000Z
 DTEND:20240730T133000Z
-DESCRIPTION:Badminton - Women's Doubles Group Play Stage - Group C
+DESCRIPTION:羽毛球 - 女子双打小组赛 - C组
 SUMMARY:🏸 CRASTO/PONNAPPA 🇮🇳 - 🇦🇺 MAPASA/YU
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T134600Z-boxing-MENS-51KG-PRELIMINARIES-ROUND-OF-16-ZAM-IND
+UID:20240730T134600Z-boxing-51-16-ZAM-IND
 DTSTAMP:20240730T134600Z
 DTSTART:20240730T134600Z
 DTEND:20240730T135700Z
-DESCRIPTION:Boxing - Men's 51kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 男子51公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Patrick CHINYEMBA 🇿🇲 - 🇮🇳 Amit AMIT
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T155400Z-boxing-WOMENS-57KG-PRELIMINARIES-ROUND-OF-32-IND-PHI
+UID:20240730T155400Z-boxing-57-32-IND-PHI
 DTSTAMP:20240730T155400Z
 DTSTART:20240730T155400Z
 DTEND:20240730T160500Z
-DESCRIPTION:Boxing - Women's 57kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 女子57公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 JAISMINE 🇮🇳 - 🇵🇭 Nesthy PETECIO
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T171600Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-CZE-IND
+UID:20240730T171600Z-archery-132-CZE-IND
 DTSTAMP:20240730T171600Z
 DTSTART:20240730T171600Z
 DTEND:20240730T172900Z
-DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 男子个人1/32淘汰赛
 SUMMARY:🏹 Adam LI 🇨🇿 - 🇮🇳 Dhiraj BOMMADEVARA
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T195200Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-16-IND-COL
+UID:20240730T195200Z-boxing-54-16-IND-COL
 DTSTAMP:20240730T195200Z
 DTSTART:20240730T195200Z
 DTEND:20240730T200300Z
-DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 女子54公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 PREETI 🇮🇳 - 🇨🇴 Yeni Marcela ARIAS CASTANEDA
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T070000Z-shooting-50M-RIFLE-3-POSITIONS-MENS-QUALIFICATION
+UID:20240731T070000Z-shooting-50
 DTSTAMP:20240731T070000Z
 DTSTART:20240731T070000Z
 DTEND:20240731T083000Z
-DESCRIPTION:Shooting - 50m Rifle 3 Positions Men's Qualification\n🇮🇳
-  Aishwary Pratap Singh TOMAR\n🇫🇮 Aleksi LEPPA\n🇦🇹 Alexander
-  SCHMIRL\n🇦🇹 Andreas THUM\n🇲🇳 Bayaraa NYANTAI\n🇲🇽 Carlos QUEZADA
-  MARQUEZ\n🇨🇭 Christoph DUERR\n🇦🇺 Dane SAMPSON\n🇮🇹 Danilo Dennis
-  SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo BONAZZI\n🇮🇩 Fathur
-  GUSTAFIAN\n🇪🇬 Ibrahim Ahmad Mohammad KORAYIEM\n🇰🇿 Islam
-  SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺 Istvan PENI\n🇺🇸 Ivan ROE\n🇦🇺
-  Jack ROSSITER\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇰🇿
-  Konstantin MALINOVSKIY\n🇨🇳 LIU Yukun\n🇷🇸 Lazar KOVACEVIC\n🇫🇷 Lucas
-  Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇸🇪 Marcus MADSEN\n🇩🇪
-  Maximilian ULBRICH\n🇬🇧 Michael BARGERON\n🇭🇷 Miran MARICIC\n🇯🇵 OKADA
-  Naoya\n🇳🇴 Ole Martin HALVORSEN\n🇰🇷 PARK Hajun\n🇸🇰 Patrik JANY\n🇭🇷
-  Petar GORSA\n🇨🇿 Petr NYMBURSKY\n🇫🇷 Romain AUFRERE\n🇺🇸 Rylan William
-  KISSELL\n🇺🇦 Serhiy KULISH\n🇮🇳 Swapnil KUSALE\n🇹🇭 Thongphaphum
-  VONGSUKDEE\n🇵🇱 Tomasz BARTNIK\n🇨🇦 Tye IKEDA\n🇸🇪 Victor
-  LINDGREN\n🇭🇺 Zalan PEKLER
-SUMMARY:🔫 50m Rifle 3 Positions Men's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子50米步枪三姿资格赛\n🇮🇳 Aishwary Pratap Singh TOMAR\n🇫🇮
+  Aleksi LEPPA\n🇦🇹 Alexander SCHMIRL\n🇦🇹 Andreas THUM\n🇲🇳 Bayaraa
+  NYANTAI\n🇲🇽 Carlos QUEZADA MARQUEZ\n🇨🇭 Christoph DUERR\n🇦🇺 Dane
+  SAMPSON\n🇮🇹 Danilo Dennis SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo
+  BONAZZI\n🇮🇩 Fathur GUSTAFIAN\n🇪🇬 Ibrahim Ahmad Mohammad
+  KORAYIEM\n🇰🇿 Islam SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺 Istvan
+  PENI\n🇺🇸 Ivan ROE\n🇦🇺 Jack ROSSITER\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴
+  Jon-Hermann HEGG\n🇰🇿 Konstantin MALINOVSKIY\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
+  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇸🇪
+  Marcus MADSEN\n🇩🇪 Maximilian ULBRICH\n🇬🇧 Michael BARGERON\n🇭🇷 Miran
+  MARICIC\n🇯🇵 OKADA Naoya\n🇳🇴 Ole Martin HALVORSEN\n🇰🇷 PARK
+  Hajun\n🇸🇰 Patrik JANY\n🇭🇷 Petar GORSA\n🇨🇿 Petr NYMBURSKY\n🇫🇷
+  Romain AUFRERE\n🇺🇸 Rylan William KISSELL\n🇺🇦 Serhiy KULISH\n🇮🇳
+  Swapnil KUSALE\n🇹🇭 Thongphaphum VONGSUKDEE\n🇵🇱 Tomasz BARTNIK\n🇨🇦
+  Tye IKEDA\n🇸🇪 Victor LINDGREN\n🇭🇺 Zalan PEKLER
+SUMMARY:🔫 男子50米步枪三姿资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T072000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-M-IND-
+UID:20240731T072000Z-badminton--M-IND-EST
 DTSTAMP:20240731T072000Z
 DTSTART:20240731T072000Z
 DTEND:20240731T080000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group M
+DESCRIPTION:羽毛球 - 女子单打小组赛 - M组
 SUMMARY:🏸 V. Sindhu PUSARLA 🇮🇳 - 🇪🇪 Kristin KUUBA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T081000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-L-INA-IN
+UID:20240731T081000Z-badminton--L-INA-IND
 DTSTAMP:20240731T081000Z
 DTSTART:20240731T081000Z
 DTEND:20240731T085000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group L
+DESCRIPTION:羽毛球 - 男子单打小组赛 - L组
 SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇮🇳 Lakshya SEN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T090000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-32-SGP-IND
+UID:20240731T090000Z-table-tennis-32-SGP-IND
 DTSTAMP:20240731T090000Z
 DTSTART:20240731T090000Z
 DTEND:20240731T100000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 32
+DESCRIPTION:乒乓球 - 女子单打32强赛
 SUMMARY:🏓 ZENG Jian 🇸🇬 - 🇮🇳 Sreeja AKULA
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T102000Z-boxing-WOMENS-75KG-PRELIMINARIES-ROUND-OF-16-NOR-IND
+UID:20240731T102000Z-boxing-75-16-NOR-IND
 DTSTAMP:20240731T102000Z
 DTSTART:20240731T102000Z
 DTEND:20240731T103100Z
-DESCRIPTION:Boxing - Women's 75kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 女子75公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Sunniva HOFSTAD 🇳🇴 - 🇮🇳 Lovlina BORGOHAIN
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T102600Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-IND-ES
+UID:20240731T102600Z-archery-132-IND-EST
 DTSTAMP:20240731T102600Z
 DTSTART:20240731T102600Z
 DTEND:20240731T103900Z
-DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 女子个人1/32淘汰赛
 SUMMARY:🏹 Deepika KUMARI 🇮🇳 - 🇪🇪 Reena PARNAT
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T155800Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-GBR-IND
+UID:20240731T155800Z-archery-132-GBR-IND
 DTSTAMP:20240731T155800Z
 DTSTART:20240731T155800Z
 DTEND:20240731T161100Z
-DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 男子个人1/32淘汰赛
 SUMMARY:🏹 Tom HALL 🇬🇧 - 🇮🇳 Tarundeep RAI
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T173000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-K-IND-VI
+UID:20240731T173000Z-badminton--K-IND-VIE
 DTSTAMP:20240731T173000Z
 DTSTART:20240731T173000Z
 DTEND:20240731T181000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group K
+DESCRIPTION:羽毛球 - 男子单打小组赛 - K组
 SUMMARY:🏸 H. S. PRANNOY 🇮🇳 - 🇻🇳 Duc Phat LE
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T190400Z-boxing-MENS-71KG-PRELIMINARIES-ROUND-OF-16-ECU-IND
+UID:20240731T190400Z-boxing-71-16-ECU-IND
 DTSTAMP:20240731T190400Z
 DTSTART:20240731T190400Z
 DTEND:20240731T191500Z
-DESCRIPTION:Boxing - Men's 71kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 男子71公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Jose Gabriel RODRIGUEZ TENORIO 🇪🇨 - 🇮🇳 NISHANT DEV
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T080000Z-hockey-MENS-POOL-B-IND-BEL
+UID:20240801T080000Z-hockey-B-IND-BEL
 DTSTAMP:20240801T080000Z
 DTSTART:20240801T080000Z
 DTEND:20240801T093000Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 IND 🇮🇳 - 🇧🇪 BEL
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 印度 🇮🇳 - 🇧🇪 比利时
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T090000Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-16-CHN-IND
+UID:20240801T090000Z-boxing-50-16-CHN-IND
 DTSTAMP:20240801T090000Z
 DTSTART:20240801T090000Z
 DTEND:20240801T091100Z
-DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 女子50公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 WU Yu 🇨🇳 - 🇮🇳 Zareen NIKHAT
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T090100Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-IND-CHN
+UID:20240801T090100Z-archery-132-IND-CHN
 DTSTAMP:20240801T090100Z
 DTSTART:20240801T090100Z
 DTEND:20240801T091400Z
-DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 男子个人1/32淘汰赛
 SUMMARY:🏹 Pravin Ramesh JADHAV 🇮🇳 - 🇨🇳 KAO Wenchao
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T100000Z-shooting-50M-RIFLE-3-POSITIONS-WOMENS-QUALIFICATION
+UID:20240801T100000Z-shooting-50
 DTSTAMP:20240801T100000Z
 DTSTART:20240801T100000Z
 DTEND:20240801T113000Z
-DESCRIPTION:Shooting - 50m Rifle 3 Positions Women's Qualification\n🇵🇱
-  Aleksandra Anna PIETRUK\n🇰🇿 Alexandra Le\n🇮🇳 Anjum MOUDGIL\n🇩🇪 Anna
-  JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇮🇹 Barbara GAMBARO\n🇨🇭 Chiara
-  LEONE\n🇭🇺 Eszter MESZAROS\n🇧🇷 Geovana MEYER\n🇨🇳 HAN Jiayu\n🇰🇷 IM
-  Hana\n🇳🇴 Jeanette Hegg DUESTAD\n🇳🇴 Jenny STENE\n🇩🇪 Jolyn BEER\n🇫🇷
-  Judith GOMEZ\n🇰🇷 LEE Eunseo\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🇺🇸 Mary
-  Carolynn TUCKER\n🇦🇹 Nadine UNGERANK\n🇵🇱 Natalia KOCHANSKA\n🇨🇭 Nina
-  CHRISTEN\n🇩🇰 Rikke Maeng IBSEN\n🇺🇸 Sagen MADDALENA\n🇬🇧 Seonaid
-  McINTOSH\n🇨🇦 Shannon WESTLAKE\n🇮🇳 Sift Kaur SAMRA\n🇩🇰 Stephanie
-  Laura Scurrah GRUNDSOEE\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar MERCADO
-  MARTINEZ\n🇲🇳 Yesugen OYUNBAT\n🇨🇳 ZHANG Qiongyue
-SUMMARY:🔫 50m Rifle 3 Positions Women's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子50米步枪三姿资格赛\n🇵🇱 Aleksandra Anna PIETRUK\n🇰🇿 Alexandra
+  Le\n🇮🇳 Anjum MOUDGIL\n🇩🇪 Anna JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇮🇹
+  Barbara GAMBARO\n🇨🇭 Chiara LEONE\n🇭🇺 Eszter MESZAROS\n🇧🇷 Geovana
+  MEYER\n🇨🇳 HAN Jiayu\n🇰🇷 IM Hana\n🇳🇴 Jeanette Hegg DUESTAD\n🇳🇴
+  Jenny STENE\n🇩🇪 Jolyn BEER\n🇫🇷 Judith GOMEZ\n🇰🇷 LEE Eunseo\n🇨🇺
+  Lisbet HERNANDEZ HERNANDEZ\n🇺🇸 Mary Carolynn TUCKER\n🇦🇹 Nadine
+  UNGERANK\n🇵🇱 Natalia KOCHANSKA\n🇨🇭 Nina CHRISTEN\n🇩🇰 Rikke Maeng
+  IBSEN\n🇺🇸 Sagen MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇨🇦 Shannon
+  WESTLAKE\n🇮🇳 Sift Kaur SAMRA\n🇩🇰 Stephanie Laura Scurrah
+  GRUNDSOEE\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳
+  Yesugen OYUNBAT\n🇨🇳 ZHANG Qiongyue
+SUMMARY:🔫 女子50米步枪三姿资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T070000Z-shooting-25M-PISTOL-WOMENS-QUALIFICATION-PRECISION
+UID:20240802T070000Z-shooting-25
 DTSTAMP:20240802T070000Z
 DTSTART:20240802T070000Z
 DTEND:20240802T093000Z
-DESCRIPTION:Shooting - 25m Pistol Women's Qualification Precision\n🇺🇸 Ada
-  Claudia KORKHIN\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨
-  Andrea PEREZ PENA\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷
-  Camille JEDRZEJEWSKI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪 Doreen
-  VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh
-  ROSTAMIYAN\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸
-  Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG
-  Xiaoya\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷
-  Mathilde LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦
-  Olena KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
-  Simal YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia
-  Chen\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika
-  MAJOR\n🇹🇼 WU Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO
-  Nan
-SUMMARY:🔫 25m Pistol Women's Qualification Precision
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子25米手枪精准资格赛\n🇺🇸 Ada Claudia KORKHIN\n🇱🇻 Agate
+  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨 Andrea PEREZ PENA\n🇬🇷 Anna
+  KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇪🇨
+  Diana DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena
+  GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh ROSTAMIYAN\n🇩🇪 Josefin
+  EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan
+  ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG Xiaoya\n🇨🇺
+  Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷 Mathilde
+  LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦 Olena
+  KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷 Simal
+  YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia Chen\n🇹🇭
+  Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇹🇼 WU
+  Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO Nan
+SUMMARY:🔫 女子25米手枪精准资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T073000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-1
+UID:20240802T073000Z-shooting--1
 DTSTAMP:20240802T073000Z
 DTSTART:20240802T073000Z
 DTEND:20240802T120000Z
-DESCRIPTION:Shooting - Skeet Men's Qualification - Day 1\n🇮🇳 Anant Jeet
-  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
-  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
-  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
-  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
-  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
-  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
-  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
-  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
-  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
-  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
-SUMMARY:🔫 Skeet Men's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子双向飞碟资格赛 - 第1天\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+  MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
+  Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
+  DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
+  ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub TOMECEK\n🇩🇰 Jesper
+  HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua BELL\n🇰🇷 KIM Minsu\n🇹🇼
+  LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus SVENSSON\n🇰🇼 Mohammad
+  ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬 Omar IBRAHIM\n🇪🇪 Peeter
+  JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
+  LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
+  Vincent HANCOCK
+SUMMARY:🔫 男子双向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T074900Z-archery-MIXED-TEAM-18-ELIMINATION-ROUND-IND-INA
+UID:20240802T074900Z-archery-18-IND-INA
 DTSTAMP:20240802T074900Z
 DTSTART:20240802T074900Z
 DTEND:20240802T080800Z
-DESCRIPTION:Archery - Mixed Team 1/8 Elimination Round
-SUMMARY:🏹 IND 🇮🇳 - 🇮🇩 INA
-LOCATION:Invalides
+DESCRIPTION:射箭 - 混合团体1/8淘汰赛
+SUMMARY:🏹 印度 🇮🇳 - 🇮🇩 印度尼西亚
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T084200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-CUB-IND
+UID:20240802T084200Z-judo-7832-CUB-IND
 DTSTAMP:20240802T084200Z
 DTSTART:20240802T084200Z
 DTEND:20240802T084800Z
-DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤以上级32强淘汰赛
 SUMMARY:🥋 Idalys ORTIZ 🇨🇺 - 🇮🇳 Tulika MAAN
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T111500Z-hockey-MENS-POOL-B-AUS-IND
+UID:20240802T111500Z-hockey-B-AUS-IND
 DTSTAMP:20240802T111500Z
 DTSTART:20240802T111500Z
 DTEND:20240802T124500Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 AUS 🇦🇺 - 🇮🇳 IND
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 澳大利亚 🇦🇺 - 🇮🇳 印度
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+UID:20240803T070000Z-shooting--1
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z
 DTEND:20240803T123000Z
-DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
-  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
-  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
-  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
-  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
-  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
-  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
-  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
-  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
-  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
-  Victoria LARSSON\n🇨🇳 WEI Meng
-SUMMARY:🔫 Skeet Women's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子双向飞碟资格赛 - 第1天\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+  RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
+  SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
+  Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
+  Emmanouela KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇲🇽 Gabriela
+  RODRIGUEZ\n🇧🇷 Georgia FURQUIM BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG
+  Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾 Konstantia NIKOLAOU\n🇫🇷 Lucie
+  ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
+  Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
+  CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 女子双向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T070000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-QUALIFICATION-STAG
+UID:20240804T070000Z-shooting-251
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
 DTEND:20240804T103000Z
-DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Qualification - Stage
-  1\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷
-  Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪
-  Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry Turner
-  LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
+DESCRIPTION:射击 - 男子25米手枪速射资格赛第1轮\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪
+  Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪
+  Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry
+  Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
   SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦 Maksym
   HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej
   RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦
   Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
   LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei EVGLEVSKI\n🇮🇳 Vijayveer
   SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
-SUMMARY:🔫 25m Rapid Fire Pistol Men's Qualification - Stage 1
-LOCATION:Chateauroux Shooting Ctr
+SUMMARY:🔫 男子25米手枪速射资格赛第1轮
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T180000Z-table-tennis-WOMENS-TEAM-ROUND-OF-16-ROU-IND
+UID:20240805T180000Z-table-tennis-16-ROU-IND
 DTSTAMP:20240805T180000Z
 DTSTART:20240805T180000Z
 DTEND:20240805T210000Z
-DESCRIPTION:Table Tennis - Women's Team Round of 16
-SUMMARY:🏓 ROU 🇷🇴 - 🇮🇳 IND
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 女子团体16强赛
+SUMMARY:🏓 罗马尼亚 🇷🇴 - 🇮🇳 印度
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T080000Z-table-tennis-MENS-TEAM-ROUND-OF-16-CHN-IND
+UID:20240806T080000Z-table-tennis-16-CHN-IND
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
 DTEND:20240806T110000Z
-DESCRIPTION:Table Tennis - Men's Team Round of 16
-SUMMARY:🏓 CHN 🇨🇳 - 🇮🇳 IND
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 男子团体16强赛
+SUMMARY:🏓 中国 🇨🇳 - 🇮🇳 印度
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

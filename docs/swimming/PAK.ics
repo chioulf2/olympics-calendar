@@ -1,31 +1,43 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//swimming/PAK//EN
-X-WR-CALNAME:🇵🇰 Pakistan Swimming | Paris 2024
-NAME:🇵🇰 Pakistan Swimming | Paris 2024
+X-WR-CALNAME:🇵🇰 Pakistan 游泳 | Paris 2024
+NAME:🇵🇰 Pakistan 游泳 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T090000Z-swimming-MENS-200M-FREESTYLE-HEATS
+UID:20240728T090000Z-swimming-200
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T091400Z
-DESCRIPTION:Swimming - Men's 200m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇱
-  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇽 MEX\n🇵🇰 PAK\n🇷🇴
-  ROU\n🇷🇸 SRB\n🇸🇮 SLO\n🇨🇭 SUI\n🇸🇾 SYR\n🇺🇸 USA
-SUMMARY:🏊 Men's 200m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子200米自由泳分组预赛\n🇮🇹 Alessandro RAGAINI\n🇨🇭 Antonio
+  DJAKOVIC\n🇺🇸 Chris GUILIANO\n🇱🇹 Danas RAPSYS\n🇷🇴 David
+  POPOVICI\n🇮🇱 Denis LOKTEV\n🇬🇧 Duncan SCOTT\n🇦🇹 Felix AUBOECK\n🇮🇹
+  Filippo MEGLI\n🇧🇷 Guilherme COSTA\n🇰🇷 HWANG Sunwoo\n🇨🇳 JI
+  Xinjie\n🇲🇽 Jorge IGA\n🇰🇷 KIM Woomin\n🇧🇪 Lucas HENVEAUX\n🇩🇪 Lukas
+  MAERTENS\n🇺🇸 Luke HOBSON\n🇯🇵 MATSUMOTO Katsuhiro\n🇬🇧 Matthew
+  RICHARDS\n🇦🇺 Maximillian GIULIANI\n🇵🇰 Muhammad Ahmed DURRANI\n🇭🇺
+  Nandor NEMETH\n🇸🇾 Omar ABBAS\n🇨🇳 PAN Zhanle\n🇩🇪 Rafael
+  MIROSLAW\n🇸🇮 Saso BOSKAN\n🇦🇺 Thomas NEILL\n🇷🇸 Velimir STJEPANOVIC
+SUMMARY:🏊 男子200米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-swimming-WOMENS-200M-FREESTYLE-HEATS
+UID:20240728T100000Z-swimming-200
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T101600Z
-DESCRIPTION:Swimming - Women's 200m Freestyle - Heats\n🇦🇱 ALB\n🇦🇺
-  AUS\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇺 CUB\n🇨🇿 CZE\n🇪🇬
-  EGY\n🇩🇪 GER\n🇭🇳 HON\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇸 ISL\n🇮🇳
-  IND\n🇮🇱 ISR\n🇱🇦 Lao PDR\n🇲🇳 MGL\n🇳🇵 NEP\n🇳🇿 NZL\n🇵🇰 PAK\n🇷🇴
-  ROU\n🇸🇦 KSA\n🇿🇦 RSA\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇻🇪 VEN
-SUMMARY:🏊 Women's 200m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子200米自由泳分组预赛\n🇿🇦 Aimee CANNY\n🇨🇺 Andrea BECALI\n🇱🇦
+  Ariana Southa DIRKZWAGER\n🇦🇺 Ariarne TITMUS\n🇨🇿 Barbora
+  SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇮🇳 Dhinidhi DESINGHU\n🇳🇵 Duana
+  LAMA\n🇲🇳 Enkhkhuslen BATBAYAR\n🇳🇿 Erika FAIRWEATHER\n🇺🇸 Erin
+  GEMMELL\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇵🇰 Jehanara NABI\n🇩🇪 Julia
+  MROZINSKI\n🇭🇳 Julimar AVILA MANCIA\n🇦🇱 Kaltra MECA\n🇨🇳 LI
+  Bingjie\n🇮🇱 Lea POLONSKY\n🇭🇺 Lilla Minna ABRAHAM\n🇪🇬 Lojine ABDALLA
+  SALAH\n🇦🇪 Maha ALSHEHHI\n🇧🇷 Maria Fernanda COSTA\n🇻🇪 Maria Victoria
+  YEGRES COTTIN\n🇨🇦 Mary-Sophie HARVEY\n🇸🇦 Mashael Meshari A
+  ALAYED\n🇦🇺 Mollie O'CALLAGHAN\n🇭🇺 Nikolett PADAR\n🇷🇴 Rebecca-Aimee
+  DIACONESCU\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇧🇪 Valentine
+  DUMONT\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 女子200米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 END:VCALENDAR

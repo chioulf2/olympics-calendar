@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//basketball/BEL//EN
-X-WR-CALNAME:🇧🇪 Belgium Basketball | Paris 2024
-NAME:🇧🇪 Belgium Basketball | Paris 2024
+X-WR-CALNAME:🇧🇪 Belgium 篮球 | Paris 2024
+NAME:🇧🇪 Belgium 篮球 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T113000Z-basketball-WOMENS-GROUP-PHASE-GROUP-C-GER-BEL
+UID:20240729T113000Z-basketball--C-GER-BEL
 DTSTAMP:20240729T113000Z
 DTSTART:20240729T113000Z
 DTEND:20240729T131500Z
-DESCRIPTION:Basketball - Women's Group Phase - Group C
-SUMMARY:🏀 GER 🇩🇪 - 🇧🇪 BEL
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:篮球 - 女子小组赛 - C组
+SUMMARY:🏀 德国 🇩🇪 - 🇧🇪 比利时
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T190000Z-basketball-WOMENS-GROUP-PHASE-GROUP-C-BEL-USA
+UID:20240801T190000Z-basketball--C-BEL-USA
 DTSTAMP:20240801T190000Z
 DTSTART:20240801T190000Z
 DTEND:20240801T204500Z
-DESCRIPTION:Basketball - Women's Group Phase - Group C
-SUMMARY:🏀 BEL 🇧🇪 - 🇺🇸 USA
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:篮球 - 女子小组赛 - C组
+SUMMARY:🏀 比利时 🇧🇪 - 🇺🇸 美国
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T090000Z-basketball-WOMENS-GROUP-PHASE-GROUP-C-JPN-BEL
+UID:20240804T090000Z-basketball--C-JPN-BEL
 DTSTAMP:20240804T090000Z
 DTSTART:20240804T090000Z
 DTEND:20240804T104500Z
-DESCRIPTION:Basketball - Women's Group Phase - Group C
-SUMMARY:🏀 JPN 🇯🇵 - 🇧🇪 BEL
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:篮球 - 女子小组赛 - C组
+SUMMARY:🏀 日本 🇯🇵 - 🇧🇪 比利时
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 END:VCALENDAR

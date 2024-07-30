@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/TPE//EN
-X-WR-CALNAME:🇹🇼 Chinese Taipei Fencing | Paris 2024
-NAME:🇹🇼 Chinese Taipei Fencing | Paris 2024
+X-WR-CALNAME:🇹🇼 Chinese Taipei 击剑 | Paris 2024
+NAME:🇹🇼 Chinese Taipei 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T072500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-64-TPE-LBN
+UID:20240729T072500Z-fencing-64-TPE-LBN
 DTSTAMP:20240729T072500Z
 DTSTART:20240729T072500Z
 DTEND:20240729T075500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 64
+DESCRIPTION:击剑 - 男子个人花剑64强
 SUMMARY:🤺 CHEN Yi-Tung 🇹🇼 - 🇱🇧 Philippe WAKIM
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32-TPE-FRA
+UID:20240729T100500Z-fencing-32-TPE-FRA
 DTSTAMP:20240729T100500Z
 DTSTART:20240729T100500Z
 DTEND:20240729T103500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 32
+DESCRIPTION:击剑 - 男子个人花剑32强
 SUMMARY:🤺 CHEN Yi-Tung 🇹🇼 - 🇫🇷 Enzo LEFORT
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

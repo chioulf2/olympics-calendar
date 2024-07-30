@@ -4,63 +4,61 @@ PRODID:-//fabrice404//olympics-calendar//general/TUR//EN
 X-WR-CALNAME:🇹🇷 Türkiye | Paris 2024
 NAME:🇹🇷 Türkiye | Paris 2024
 BEGIN:VEVENT
-UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
+UID:20240725T073000Z-archery-
 DTSTAMP:20240725T073000Z
 DTSTART:20240725T073000Z
 DTEND:20240725T103000Z
-DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
-  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
-  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
-  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
-  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
-  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
-  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
-  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
-  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
-  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
-  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
-  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
-  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
-  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
-  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
-  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
-  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
-  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
-  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
-  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
-  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
-  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
-SUMMARY:🏹 Women's Individual Ranking Round
-LOCATION:Invalides
+DESCRIPTION:射箭 - 女子个人排名赛\n🇨🇳 AN Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩
+  Alexandra MIRCA\n🇵🇷 Alondra RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza
+  SLIACHTICAS CAETANO\n🇨🇴 Ana RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽
+  Angela RUIZ\n🇮🇳 Ankita BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD
+  ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧 Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷
+  Caroline LOPEZ\n🇺🇸 Casey KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪
+  Charline SCHWARZ\n🇮🇹 Chiara REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰
+  Denisa BARANKOVA\n🇮🇩 Diananda CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif
+  Berra GOKKIR\n🇦🇹 Elisabeth STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby
+  SCHLOESSER\n🇸🇲 Giorgia CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana
+  ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪 Katharina BAUER\n🇩🇰 Kirstine DANSTRUP
+  ANDERSEN\n🇹🇼 LEI Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM
+  Sihyeon\n🇦🇺 Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa
+  BARBELIN\n🇷🇴 Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs
+  HAVERS\n🇩🇪 Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina
+  FALLAH\n🇰🇷 NAM Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD
+  FAZIL\n🇬🇧 Penny HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩
+  Rezza OCTAVIA\n🇹🇳 Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa
+  Nurafifah KAMAL\n🇻🇳 Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦
+  Virginie CHENIER\n🇵🇱 Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul
+  RAMAZANOVA\n🇸🇮 Zana PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 女子个人排名赛
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T121500Z-archery-MENS-INDIVIDUAL-RANKING-ROUND
+UID:20240725T121500Z-archery-
 DTSTAMP:20240725T121500Z
 DTSTART:20240725T121500Z
 DTEND:20240725T151500Z
-DESCRIPTION:Archery - Men's Individual Ranking Round\n🇹🇷 Abdullah
-  YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹 Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿
-  Alexandr YEREMENKO\n🇺🇿 Amirkhon SADIKOV\n🇨🇱 Andres GALLARDO
-  FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮 Antti TEKONIEMI\n🇮🇩 Arif
-  PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim TUMER\n🇺🇸 Brady
-  ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos ROJAS\n🇬🇧 Conor
-  HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi ZHANGBYRBAY\n🇮🇳 Dhiraj
-  BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA Takaharu\n🇮🇹 Federico
-  MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩
-  Israel MADAYE\n🇫🇷 Jean-Charles VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO
-  Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷 KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI
-  Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹 Lam DORJI\n🇧🇷 Marcus
-  D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽 Matias GRANDE\n🇮🇹 Mauro
-  NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵
-  NAKANISHI Junya\n🇻🇮 Nicholas D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold
-  BAATARKHUYAG\n🇪🇸 Pablo ACHA GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit
-  KLEIN\n🇮🇳 Pravin Ramesh JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵
-  SAITO Fumiya\n🇨🇴 Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI
-  Yu-Hsuan\n🇹🇼 TANG Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas
-  CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳 WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof
-  TOLBA\n🇸🇮 Ziga RAVNIKAR
-SUMMARY:🏹 Men's Individual Ranking Round
-LOCATION:Invalides
+DESCRIPTION:射箭 - 男子个人排名赛\n🇹🇷 Abdullah YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹
+  Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿 Alexandr YEREMENKO\n🇺🇿 Amirkhon
+  SADIKOV\n🇨🇱 Andres GALLARDO FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮
+  Antti TEKONIEMI\n🇮🇩 Arif PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim
+  TUMER\n🇺🇸 Brady ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos
+  ROJAS\n🇬🇧 Conor HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi
+  ZHANGBYRBAY\n🇮🇳 Dhiraj BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA
+  Takaharu\n🇮🇹 Federico MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo
+  FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩 Israel MADAYE\n🇫🇷 Jean-Charles
+  VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷
+  KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹
+  Lam DORJI\n🇧🇷 Marcus D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽
+  Matias GRANDE\n🇮🇹 Mauro NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete
+  GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵 NAKANISHI Junya\n🇻🇮 Nicholas
+  D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold BAATARKHUYAG\n🇪🇸 Pablo ACHA
+  GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit KLEIN\n🇮🇳 Pravin Ramesh
+  JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵 SAITO Fumiya\n🇨🇴
+  Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI Yu-Hsuan\n🇹🇼 TANG
+  Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳
+  WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 男子个人排名赛
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
@@ -72,36 +70,43 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T081200Z-rowing-WOMENS-SINGLE-SCULLS-HEATS
+UID:20240727T081200Z-rowing-
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇩🇿 ALG\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇺 CUB\n🇩🇪 GER\n🇮🇷 IR Iran\n🇰🇼
-  KUW\n🇱🇹 LTU\n🇲🇽 MEX\n🇲🇦 MAR\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
-  PAR\n🇵🇪 PER\n🇵🇭 PHI\n🇷🇸 SRB\n🇸🇬 SGP\n🇸🇮 SLO\n🇿🇦 RSA\n🇪🇸
-  ESP\n🇨🇭 SUI\n🇹🇬 TOG\n🇹🇷 TUR\n🇺🇬 UGA\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇳 VIE
-SUMMARY:🚣 Women's Single Sculls Heats
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 女子单人双桨分组预赛\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪
+  Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina
+  JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿
+  Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇳🇮 Evidelia GONZALEZ
+  JARQUIN\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen
+  NOBLE\n🇲🇽 Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline
+  EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇰🇼 Soaad ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue
+  PHAM\n🇱🇹 Viktorija SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis
+  COBAS GARCIA
+SUMMARY:🚣 女子单人双桨分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T083000Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-FRA-TUR
+UID:20240727T083000Z-judo-4832-FRA-TUR
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T083600Z
-DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子48公斤级32强淘汰赛
 SUMMARY:🥋 Shirine BOUKLI 🇫🇷 - 🇹🇷 Tugce BEDER
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T083000Z-shooting-10M-AIR-PISTOL-MENS-QUALIFICATION
+UID:20240727T083000Z-shooting-10
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T094500Z
-DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
-  CHEEMA\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳
-  Davaakhuu ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️
-  Edilio Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
+DESCRIPTION:射击 - 男子10米气手枪资格赛\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️ Edilio
+  Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
   FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
   KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
   Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
@@ -110,943 +115,958 @@ DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
   CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
-SUMMARY:🔫 10m Air Pistol Men's Qualification
-LOCATION:Chateauroux Shooting Ctr
+SUMMARY:🔫 男子10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T092400Z-judo-MEN-60-KG-ELIMINATION-ROUND-OF-16-TUR-JAM
+UID:20240727T092400Z-judo-6016-TUR-JAM
 DTSTAMP:20240727T092400Z
 DTSTART:20240727T092400Z
 DTEND:20240727T093000Z
-DESCRIPTION:Judo - Men -60 kg Elimination Round of 16
+DESCRIPTION:柔道 - 男子60公斤级16强淘汰赛
 SUMMARY:🥋 Salih YILDIZ 🇹🇷 - 🇯🇲 Ashley McKENZIE
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T093000Z-swimming-MENS-100M-BREASTSTROKE-HEATS
+UID:20240727T093000Z-swimming-100
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T094400Z
-DESCRIPTION:Swimming - Men's 100m Breaststroke - Heats\n🇦🇸 ASA\n🇦🇬
-  ANT\n🇦🇺 AUS\n🇦🇹 AUT\n🇧🇼 BOT\n🇨🇳 CHN\n🇸🇿 SWZ\n🇩🇪 GER\n🇬🇧
-  GBR\n🇭🇹 HAI\n🇮🇸 ISL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇰🇬
-  KGZ\n🇱🇦 Lao PDR\n🇱🇹 LTU\n🇲🇬 MAD\n🇲🇽 MEX\n🇫🇲 Micronesia\n🇲🇿
-  MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇶🇦 QAT\n🇹🇷 TUR\n🇺🇸 USA
-SUMMARY:🏊 Men's 100m Breaststroke - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子100米蛙泳分组预赛\n🇶🇦 Abdulaziz AL-OBAIDLY\n🇬🇧 Adam
+  PEATY\n🇧🇼 Adrian ROBINSON\n🇭🇹 Alexandre GRAND'PIERRE\n🇱🇹 Andrius
+  SIDLAUSKAS\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇹🇷 Berkay
+  OGRETIR\n🇦🇹 Bernhard REITSHAMMER\n🇰🇷 CHOI Dongyeol\n🇳🇱 Caspar
+  CORBEAU\n🇸🇿 Chadd NG CHIU HING NING\n🇺🇸 Charlie SWANSON\n🇰🇬 Denis
+  PETRASHOV\n🇦🇬 Jadon WUILLIEZ\n🇬🇧 James WILBY\n🇵🇱 Jan
+  KALUSOWSKI\n🇲🇬 Jonathan RAHARVEL\n🇦🇺 Joshua YONG\n🇩🇪 Lucas
+  MATZERATH\n🇮🇹 Ludovico Blu Art VIBERTI\n🇲🇿 Matthew LAWRENCE\n🇩🇪
+  Melvin IMOUDU\n🇦🇸 Micah MASEI\n🇲🇽 Miguel Alejandro de LARA
+  OJEDA\n🇺🇸 Nic FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN Haiyang\n🇮🇱 Ron
+  POLONSKY\n🇨🇳 SUN Jiajun\n🇦🇺 Sam WILLIAMSON\n🇱🇦 Steven
+  INSIXIENGMAY\n🇯🇵 TANIGUCHI Taku\n🇫🇲 Tasi LIMTIACO
+SUMMARY:🏊 男子100米蛙泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T095400Z-judo-MEN-60-KG-QUARTERFINAL-GEO-TUR
+UID:20240727T095400Z-judo-6014-GEO-TUR
 DTSTAMP:20240727T095400Z
 DTSTART:20240727T095400Z
 DTEND:20240727T100000Z
-DESCRIPTION:Judo - Men -60 kg Quarterfinal
+DESCRIPTION:柔道 - 男子60公斤级1/4决赛
 SUMMARY:🥋 Giorgi SARDALASHVILI 🇬🇪 - 🇹🇷 Salih YILDIZ
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T103000Z-shooting-10M-AIR-PISTOL-WOMENS-QUALIFICATION
+UID:20240727T103000Z-shooting-10
 DTSTAMP:20240727T103000Z
 DTSTART:20240727T103000Z
 DTEND:20240727T114500Z
-DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
-  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea
-  PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta
-  KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana
-  DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲
-  Elmira KARAPETYAN\n🇪🇬 Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿
-  Irina YUNUSMETOVA\n🇨🇳 JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM
-  Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala
-  TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina
-  PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬
-  Nour Abbas MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa
-  CHARNI\n🇮🇳 Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda
-  TARHAN\n🇹🇷 Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn
-  PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong
-  TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
-SUMMARY:🔫 10m Air Pistol Women's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气手枪资格赛\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA
+  VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷
+  Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille
+  JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪
+  Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲 Elmira KARAPETYAN\n🇪🇬
+  Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿 Irina YUNUSMETOVA\n🇨🇳
+  JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak
+  SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia
+  BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola
+  KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas
+  MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa CHARNI\n🇮🇳
+  Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
+  Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu
+  Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong TEH\n🇹🇼 YU Ai Wen\n🇾🇪
+  Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 女子10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T105500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-32-ITA-TUR
+UID:20240727T105500Z-fencing-32-ITA-TUR
 DTSTAMP:20240727T105500Z
 DTSTART:20240727T105500Z
 DTEND:20240727T112000Z
-DESCRIPTION:Fencing - Men's Sabre Individual Table of 32
+DESCRIPTION:击剑 - 男子个人佩剑32强
 SUMMARY:🤺 Luca CURATOLI 🇮🇹 - 🇹🇷 Enver YILDIRIM
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T143600Z-judo-MEN-60-KG-SEMIFINAL-OF-TABLE-B-TUR-FRA
+UID:20240727T143600Z-judo-60B-TUR-FRA
 DTSTAMP:20240727T143600Z
 DTSTART:20240727T143600Z
 DTEND:20240727T144200Z
-DESCRIPTION:Judo - Men -60 kg Semifinal of Table B
+DESCRIPTION:柔道 - 男子60公斤级B表半决赛
 SUMMARY:🥋 Salih YILDIZ 🇹🇷 - 🇫🇷 Luka MKHEIDZE
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T150600Z-judo-MEN-60-KG-CONTEST-FOR-BRONZE-MEDAL-A-JPN-TUR
+UID:20240727T150600Z-judo-60A-JPN-TUR
 DTSTAMP:20240727T150600Z
 DTSTART:20240727T150600Z
 DTEND:20240727T151200Z
-DESCRIPTION:Judo - Men -60 kg Contest for Bronze Medal A
+DESCRIPTION:柔道 - 男子60公斤级铜牌争夺赛A
 SUMMARY:🥋 NAGAYAMA Ryuju 🇯🇵 - 🇹🇷 Salih YILDIZ
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T180000Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-32-GBR-TUR
+UID:20240727T180000Z-boxing-54-32-GBR-TUR
 DTSTAMP:20240727T180000Z
 DTSTART:20240727T180000Z
 DTEND:20240727T181100Z
-DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 女子54公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 Charley DAVISON 🇬🇧 - 🇹🇷 Hatice AKBAS
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T184800Z-boxing-WOMENS-60KG-PRELIMINARIES-ROUND-OF-32-ITA-TUR
+UID:20240727T184800Z-boxing-60-32-ITA-TUR
 DTSTAMP:20240727T184800Z
 DTSTART:20240727T184800Z
 DTEND:20240727T185900Z
-DESCRIPTION:Boxing - Women's 60kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 女子60公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 Alessia MESIANO 🇮🇹 - 🇹🇷 Gizem OZER
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T200800Z-boxing-MENS-80KG-PRELIMINARIES-ROUND-OF-32-TUR-ITA
+UID:20240727T200800Z-boxing-80-32-TUR-ITA
 DTSTAMP:20240727T200800Z
 DTSTART:20240727T200800Z
 DTEND:20240727T201900Z
-DESCRIPTION:Boxing - Men's 80kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 男子80公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 Kaan AYKUTSUN 🇹🇷 - 🇮🇹 Salvatore CAVALLARO
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T201500Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-TUR-LUX
+UID:20240727T201500Z-table-tennis-64-TUR-LUX
 DTSTAMP:20240727T201500Z
 DTSTART:20240727T201500Z
 DTEND:20240727T210000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Sibel ALTINKAYA 🇹🇷 - 🇱🇺 Xia Lian NI
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T070000Z-rowing-WOMENS-SINGLE-SCULLS-REPECHAGES
+UID:20240728T070000Z-rowing-
 DTSTAMP:20240728T070000Z
 DTSTART:20240728T070000Z
 DTEND:20240728T073100Z
-DESCRIPTION:Rowing - Women's Single Sculls Repechages\n🇩🇿 ALG\n🇨🇺
-  CUB\n🇮🇷 IR Iran\n🇰🇼 KUW\n🇲🇦 MAR\n🇳🇮 NCA\n🇵🇾 PAR\n🇵🇪 PER\n🇵🇭
-  PHI\n🇸🇬 SGP\n🇹🇬 TOG\n🇹🇷 TUR\n🇺🇬 UGA\n🇻🇳 VIE
-SUMMARY:🚣 Women's Single Sculls Repechages
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 女子单人双桨复活赛\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇹🇷 Elis
+  OZBAY\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷 Fatemeh
+  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇺🇬 Kathleen NOBLE\n🇲🇦
+  Majdouline EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad ALFAQAAN\n🇻🇳
+  Thi Hue PHAM\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 女子单人双桨复活赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T080000Z-judo-MEN-66-KG-ELIMINATION-ROUND-OF-32-TUR-FIN
+UID:20240728T080000Z-judo-6632-TUR-FIN
 DTSTAMP:20240728T080000Z
 DTSTART:20240728T080000Z
 DTEND:20240728T080600Z
-DESCRIPTION:Judo - Men -66 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子66公斤级32强淘汰赛
 SUMMARY:🥋 Muhammed DEMIREL 🇹🇷 - 🇫🇮 Luukas SAHA
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T090000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-J-JPN-
+UID:20240728T090000Z-badminton--J-JPN-TUR
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T100000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group J
+DESCRIPTION:羽毛球 - 女子单打小组赛 - J组
 SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇹🇷 Neslihan ARIN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T094300Z-swimming-MENS-100M-BACKSTROKE-HEATS
+UID:20240728T094300Z-swimming-100
 DTSTAMP:20240728T094300Z
 DTSTART:20240728T094300Z
 DTEND:20240728T095900Z
-DESCRIPTION:Swimming - Men's 100m Backstroke - Heats\n🇦🇷 ARG\n🇦🇺
-  AUS\n🇦🇹 AUT\n🇧🇯 BEN\n🇧🇲 BER\n🇧🇳 Brunei Darussalam\n🇨🇦 CAN\n🇨🇳
-  CHN\n🇨🇴 COL\n🇨🇿 CZE\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
-  GRE\n🇬🇩 GRN\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷
-  KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇸 PLE\n🇵🇱 POL\n🇵🇹 POR\n🇵🇷 PUR\n🇿🇦
-  RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇴 TGA\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇮
-  Virgin Islands, US
-SUMMARY:🏊 Men's 100m Backstroke - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子100米仰泳分组预赛\n🇭🇺 Adam JASZO\n🇮🇱 Adam MARAANA\n🇹🇴
+  Alan Koti Lopeti UHI\n🇧🇯 Alexis Michel Roger Dodji KPADE\n🇨🇴 Anthony
+  RINCON VELASCO\n🇬🇷 Apostolos CHRISTOU\n🇹🇷 Berke SAKA\n🇦🇹 Bernhard
+  REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley WOODWARD\n🇬🇷 Evangelos
+  MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸
+  Hunter ARMSTRONG\n🇦🇺 Isaac COOPER\n🇧🇲 Jack HARVEY\n🇨🇦 Javier
+  ACEVEDO\n🇵🇹 Joao COSTA\n🇬🇧 Jonny MARSHALL\n🇳🇱 Kai van
+  WESTERING\n🇳🇿 Kane FOLLOWS\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇯🇵
+  MATSUYAMA Riku\n🇩🇪 Marek ULRICH\n🇻🇮 Maximillian WILSON\n🇫🇷 Mewen
+  TOMAC\n🇮🇹 Michele LAMBERTI\n🇨🇿 Miroslav KNEDLA\n🇬🇪 Noe
+  PANSTKHAVA\n🇩🇪 Ole BRAUNSCHWEIG\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
+  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇮🇳
+  Srihari NATARAJ\n🇨🇭 Thierry BOLLIN\n🇮🇹 Thomas CECCON\n🇦🇷 Ulises
+  SARAVIA\n🇨🇳 XU Jiayu\n🇵🇸 Yazan AL BAWWAB\n🇵🇷 Yeziel MORALES\n🇫🇷
+  Yohann NDOYE-BROUARD\n🇬🇩 Zackary GRESHAM\n🇧🇳 Zeke CHAN
+SUMMARY:🏊 男子100米仰泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-shooting-10M-AIR-PISTOL-WOMENS-FINAL
+UID:20240728T100000Z-shooting-10
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T104500Z
-DESCRIPTION:Shooting - 10m Air Pistol Women's Final\n🇨🇳 JIANG
-  Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye
-  Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
-SUMMARY:🔫 10m Air Pistol Women's Final
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气手枪决赛\n🇨🇳 JIANG Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI
+  Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳
+  Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
+SUMMARY:🔫 女子10米气手枪决赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T070000Z-volleyball-WOMENS-PRELIMINARY-ROUND-POOL-C-TUR-NED
+UID:20240729T070000Z-volleyball--C-TUR-NED
 DTSTAMP:20240729T070000Z
 DTSTART:20240729T070000Z
 DTEND:20240729T091500Z
-DESCRIPTION:Volleyball - Women's Preliminary Round - Pool C
-SUMMARY:🏐 TUR 🇹🇷 - 🇳🇱 NED
-LOCATION:South Paris Arena 1
+DESCRIPTION:排球 - 女子预赛 - C组
+SUMMARY:🏐 土耳其 🇹🇷 - 🇳🇱 荷兰
+LOCATION:南巴黎竞技场1号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T071500Z-shooting-10M-AIR-PISTOL-MIXED-TEAM-QUALIFICATION
+UID:20240729T071500Z-shooting-10
 DTSTAMP:20240729T071500Z
 DTSTART:20240729T071500Z
 DTEND:20240729T074500Z
-DESCRIPTION:Shooting - 10m Air Pistol Mixed Team Qualification\n🇧🇬
-  BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷 FRA\n🇩🇪 Germany 1\n🇩🇪 Germany
-  2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿 KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻
-  LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷 Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
-SUMMARY:🔫 10m Air Pistol Mixed Team Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 混合团体10米气手枪资格赛\n🇧🇬 BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷
+  FRA\n🇩🇪 Germany 1\n🇩🇪 Germany 2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿
+  KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻 LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷
+  Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
+SUMMARY:🔫 混合团体10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T073000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
+UID:20240729T073000Z-shooting--1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
 DTEND:20240729T120000Z
-DESCRIPTION:Shooting - Trap Men's Qualification - Day 1\n🇪🇸 Alberto
-  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
-  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
-  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
-  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
-  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
-  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
-  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
-  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
-  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
-  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
-SUMMARY:🔫 Trap Men's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第1天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
+  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
+  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
+  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
+  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
+  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
+  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
+  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
+  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
+  Haicheng
+SUMMARY:🔫 男子多向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T083900Z-archery-MENS-TEAM-18-ELIMINATION-ROUND-COL-TUR
+UID:20240729T083900Z-archery-18-COL-TUR
 DTSTAMP:20240729T083900Z
 DTSTART:20240729T083900Z
 DTEND:20240729T090200Z
-DESCRIPTION:Archery - Men's Team 1/8 Elimination Round
-SUMMARY:🏹 COL 🇨🇴 - 🇹🇷 TUR
-LOCATION:Invalides
+DESCRIPTION:射箭 - 男子团体1/8淘汰赛
+SUMMARY:🏹 哥伦比亚 🇨🇴 - 🇹🇷 土耳其
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T085000Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32-USA-TUR
+UID:20240729T085000Z-fencing-32-USA-TUR
 DTSTAMP:20240729T085000Z
 DTSTART:20240729T085000Z
 DTEND:20240729T091500Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32
+DESCRIPTION:击剑 - 女子个人佩剑32强
 SUMMARY:🤺 Magda SKARBONKIEWICZ 🇺🇸 - 🇹🇷 Nisanur ERBIL
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T092800Z-swimming-MENS-800M-FREESTYLE-HEATS
+UID:20240729T092800Z-swimming-800
 DTSTAMP:20240729T092800Z
 DTSTART:20240729T092800Z
 DTEND:20240729T100700Z
-DESCRIPTION:Swimming - Men's 800m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇷
-  GRE\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇲🇨 MON\n🇳🇴 NOR\n🇷🇴 ROU\n🇪🇸
-  ESP\n🇸🇪 SWE\n🇹🇳 TUN\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪
-  VEN\n🇻🇳 VIE
-SUMMARY:🏊 Men's 800m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子800米自由泳分组预赛\n🇹🇳 Ahmed JAOUADI\n🇻🇪 Alfonso Enrique
+  MESTRE VIVAS\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
+  WIFFEN\n🇫🇷 David AUBRY\n🇬🇷 Dimitrios MARKOS\n🇦🇺 Elijah
+  WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇩🇪 Florian
+  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇳🇴 Henrik
+  CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇺🇿 Ilya SIBIRTSEV\n🇳🇴 Jon
+  JOENTVEDT\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇧🇪 Lucas
+  HENVEAUX\n🇺🇸 Luke WHITLOCK\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
+  ROMANCHUK\n🇫🇷 Pacome BRICOUT\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
+  SCHWARZ\n🇲🇨 Theo DRUENNE\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
+  STANCU\n🇨🇳 ZHANG Zhanshuo\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 男子800米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100300Z-sailing-WOMENS-WINDSURFING-RACE-1
+UID:20240729T100300Z-sailing-IQFOIL-01
 DTSTAMP:20240729T100300Z
 DTSTART:20240729T100300Z
 DTEND:20240729T101200Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 1\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 1
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛01\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛01
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T103700Z-sailing-WOMENS-WINDSURFING-RACE-2
+UID:20240729T103700Z-sailing-IQFOIL-02
 DTSTAMP:20240729T103700Z
 DTSTART:20240729T103700Z
 DTEND:20240729T104600Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 2\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 2
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛02\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛02
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-16-FRA-TUR
+UID:20240729T120500Z-fencing-16-FRA-TUR
 DTSTAMP:20240729T120500Z
 DTSTART:20240729T120500Z
 DTEND:20240729T123000Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 16
+DESCRIPTION:击剑 - 女子个人佩剑16强
 SUMMARY:🤺 Sara BALZER 🇫🇷 - 🇹🇷 Nisanur ERBIL
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T130100Z-archery-MENS-TEAM-QUARTERFINAL-IND-TUR
+UID:20240729T130100Z-archery-14-IND-TUR
 DTSTAMP:20240729T130100Z
 DTSTART:20240729T130100Z
 DTEND:20240729T132400Z
-DESCRIPTION:Archery - Men's Team Quarterfinal
-SUMMARY:🏹 IND 🇮🇳 - 🇹🇷 TUR
-LOCATION:Invalides
+DESCRIPTION:射箭 - 男子团体1/4决赛
+SUMMARY:🏹 印度 🇮🇳 - 🇹🇷 土耳其
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T141000Z-archery-MENS-TEAM-SEMIFINAL-TUR-FRA
+UID:20240729T141000Z-archery--TUR-FRA
 DTSTAMP:20240729T141000Z
 DTSTART:20240729T141000Z
 DTEND:20240729T143300Z
-DESCRIPTION:Archery - Men's Team Semifinal
-SUMMARY:🏹 TUR 🇹🇷 - 🇫🇷 FRA
-LOCATION:Invalides
+DESCRIPTION:射箭 - 男子团体半决赛
+SUMMARY:🏹 土耳其 🇹🇷 - 🇫🇷 法国
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T144800Z-archery-MENS-TEAM-BRONZE-MEDAL-MATCH-CHN-TUR
+UID:20240729T144800Z-archery--CHN-TUR
 DTSTAMP:20240729T144800Z
 DTSTART:20240729T144800Z
 DTEND:20240729T151100Z
-DESCRIPTION:Archery - Men's Team Bronze Medal Match
-SUMMARY:🏹 CHN 🇨🇳 - 🇹🇷 TUR
-LOCATION:Invalides
+DESCRIPTION:射箭 - 男子团体铜牌赛
+SUMMARY:🏹 中国 🇨🇳 - 🇹🇷 土耳其
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T070000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-2
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T100000Z
-DESCRIPTION:Shooting - Trap Men's Qualification - Day 2\n🇪🇸 Alberto
-  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
-  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
-  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
-  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
-  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
-  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
-  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
-  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
-  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
-  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
-SUMMARY:🔫 Trap Men's Qualification - Day 2
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T070000Z-shooting-TRAP-WOMENS-QUALIFICATION-DAY-1
+UID:20240730T070000Z-shooting--1
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T120000Z
-DESCRIPTION:Shooting - Trap Women's Qualification - Day 1\n🇬🇹 Adriana
-  RUANO OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷
-  Carole CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹
-  Jessica ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo
-  Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬
-  Maggy ASHMAWY\n🇪🇸 Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de
-  BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora
-  ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳
-  Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann
-  Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU
-  Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK STEFECEKOVA
-SUMMARY:🔫 Trap Women's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子多向飞碟资格赛 - 第1天\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 女子多向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T072000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-J-PER-
+UID:20240730T070000Z-shooting--2
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T100000Z
+DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第2天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
+  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
+  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
+  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
+  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
+  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
+  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
+  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
+  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
+  Haicheng
+SUMMARY:🔫 男子多向飞碟资格赛 - 第2天
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T072000Z-badminton--J-PER-TUR
 DTSTAMP:20240730T072000Z
 DTSTART:20240730T072000Z
 DTEND:20240730T080000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group J
+DESCRIPTION:羽毛球 - 女子单打小组赛 - J组
 SUMMARY:🏸 Ines Lucia CASTILLO 🇵🇪 - 🇹🇷 Neslihan ARIN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T073000Z-rowing-WOMENS-SINGLE-SCULLS-QUARTERFINALS
+UID:20240730T073000Z-rowing-14
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T080700Z
-DESCRIPTION:Rowing - Women's Single Sculls Quarterfinals\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇩🇪 GER\n🇮🇷 IR Iran\n🇱🇹 LTU\n🇲🇽
-  MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇾 PAR\n🇵🇪 PER\n🇵🇭 PHI\n🇷🇸 SRB\n🇸🇮
-  SLO\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇷 TUR\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇳 VIE
-SUMMARY:🚣 Women's Single Sculls Quarterfinals
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 女子单人双桨1/4决赛\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
+  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
+  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
+  TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
+SUMMARY:🚣 女子单人双桨1/4决赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T073000Z-shooting-10M-AIR-PISTOL-MIXED-TEAM-GOLD-MEDAL-MATCH-TU
+UID:20240730T073000Z-shooting-10-TUR-SRB
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T075000Z
-DESCRIPTION:Shooting - 10m Air Pistol Mixed Team Gold Medal Match
+DESCRIPTION:射击 - 混合团体10米气手枪金牌赛
 SUMMARY:🔫 Türkiye 2 🇹🇷 - 🇷🇸 Serbia
-LOCATION:Chateauroux Shooting Ctr
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T082400Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-BRN-TUR
+UID:20240730T082400Z-judo-8132-BRN-TUR
 DTSTAMP:20240730T082400Z
 DTSTART:20240730T082400Z
 DTEND:20240730T083000Z
-DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
 SUMMARY:🥋 Askerbii GERBEKOV 🇧🇭 - 🇹🇷 Vedat ALBAYRAK
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T103300Z-sailing-WOMENS-WINDSURFING-RACE-3
+UID:20240730T103300Z-sailing-IQFOIL-03
 DTSTAMP:20240730T103300Z
 DTSTART:20240730T103300Z
 DTEND:20240730T105400Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 3\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 3
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛03\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛03
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T110400Z-sailing-WOMENS-WINDSURFING-RACE-4
+UID:20240730T110400Z-sailing-IQFOIL-04
 DTSTAMP:20240730T110400Z
 DTSTART:20240730T110400Z
 DTEND:20240730T112500Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 4\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 4
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛04\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛04
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T112400Z-boxing-WOMENS-57KG-PRELIMINARIES-ROUND-OF-32-TUR-MLI
+UID:20240730T112400Z-boxing-57-32-TUR-MLI
 DTSTAMP:20240730T112400Z
 DTSTART:20240730T112400Z
 DTEND:20240730T113500Z
-DESCRIPTION:Boxing - Women's 57kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 女子57公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 Esra YILDIZ KAHRAMAN 🇹🇷 - 🇲🇱 Marine Fatoumatta Colette CAMAR
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T113500Z-sailing-WOMENS-WINDSURFING-RACE-5
+UID:20240730T113500Z-sailing-IQFOIL-05
 DTSTAMP:20240730T113500Z
 DTSTART:20240730T113500Z
 DTEND:20240730T115600Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 5\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 5
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛05\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛05
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T120600Z-sailing-WOMENS-WINDSURFING-RACE-6
+UID:20240730T120600Z-sailing-IQFOIL-06
 DTSTAMP:20240730T120600Z
 DTSTART:20240730T120600Z
 DTEND:20240730T122700Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 6\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 6
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛06\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛06
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T123700Z-sailing-WOMENS-WINDSURFING-RACE-7
+UID:20240730T123700Z-sailing-IQFOIL-07
 DTSTAMP:20240730T123700Z
 DTSTART:20240730T123700Z
 DTEND:20240730T125800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 7\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 7
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛07\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛07
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T150600Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-16-AUS-TUR
+UID:20240730T150600Z-boxing-54-16-AUS-TUR
 DTSTAMP:20240730T150600Z
 DTSTART:20240730T150600Z
 DTEND:20240730T151700Z
-DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 女子54公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Tiana ECHEGARAY 🇦🇺 - 🇹🇷 Hatice AKBAS
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T155800Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-CHI-TUR
+UID:20240730T155800Z-archery-132-CHI-TUR
 DTSTAMP:20240730T155800Z
 DTSTART:20240730T155800Z
 DTEND:20240730T161100Z
-DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 男子个人1/32淘汰赛
 SUMMARY:🏹 Andres GALLARDO FERRADA 🇨🇱 - 🇹🇷 Mete GAZOZ
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T180000Z-boxing-MENS-51KG-PRELIMINARIES-ROUND-OF-16-TUR-KAZ
+UID:20240730T180000Z-boxing-51-16-TUR-KAZ
 DTSTAMP:20240730T180000Z
 DTSTART:20240730T180000Z
 DTEND:20240730T181100Z
-DESCRIPTION:Boxing - Men's 51kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 男子51公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Samet GUMUS 🇹🇷 - 🇰🇿 Saken BIBOSSINOV
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T192000Z-boxing-MENS-80KG-PRELIMINARIES-ROUND-OF-16-TUR-CUB
+UID:20240730T192000Z-boxing-80-16-TUR-CUB
 DTSTAMP:20240730T192000Z
 DTSTART:20240730T192000Z
 DTEND:20240730T193100Z
-DESCRIPTION:Boxing - Men's 80kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 男子80公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Kaan AYKUTSUN 🇹🇷 - 🇨🇺 Arlen LOPEZ CARDONA
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T084200Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-32-ISR-TUR
+UID:20240731T084200Z-judo-7032-ISR-TUR
 DTSTAMP:20240731T084200Z
 DTSTART:20240731T084200Z
 DTEND:20240731T084800Z
-DESCRIPTION:Judo - Women -70 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子70公斤级32强淘汰赛
 SUMMARY:🥋 Maya GOSHEN 🇮🇱 - 🇹🇷 Fidan OGEL
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T084800Z-judo-MEN-90-KG-ELIMINATION-ROUND-OF-32-TUR-AZE
+UID:20240731T084800Z-judo-9032-TUR-AZE
 DTSTAMP:20240731T084800Z
 DTSTART:20240731T084800Z
 DTEND:20240731T085400Z
-DESCRIPTION:Judo - Men -90 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子90公斤级32强淘汰赛
 SUMMARY:🥋 Mihael ZGANK 🇹🇷 - 🇦🇿 Eljan HAJIYEV
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T144800Z-sailing-WOMENS-WINDSURFING-RACE-8
+UID:20240731T144800Z-sailing-IQFOIL-08
 DTSTAMP:20240731T144800Z
 DTSTART:20240731T144800Z
 DTEND:20240731T150900Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 8\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 8
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛08\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛08
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T151900Z-sailing-WOMENS-WINDSURFING-RACE-9
+UID:20240731T151900Z-sailing-IQFOIL-09
 DTSTAMP:20240731T151900Z
 DTSTART:20240731T151900Z
 DTEND:20240731T154000Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 9\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 9
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛09\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛09
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T155000Z-sailing-WOMENS-WINDSURFING-RACE-10
+UID:20240731T155000Z-sailing-IQFOIL-10
 DTSTAMP:20240731T155000Z
 DTSTART:20240731T155000Z
 DTEND:20240731T161100Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 10\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 10
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛10\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛10
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T162100Z-sailing-WOMENS-WINDSURFING-RACE-11
+UID:20240731T162100Z-sailing-IQFOIL-11
 DTSTAMP:20240731T162100Z
 DTSTART:20240731T162100Z
 DTEND:20240731T164200Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 11\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 11
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛11\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛11
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T165200Z-sailing-WOMENS-WINDSURFING-RACE-12
+UID:20240731T165200Z-sailing-IQFOIL-12
 DTSTAMP:20240731T165200Z
 DTSTART:20240731T165200Z
 DTEND:20240731T171300Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 12\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 12
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛12\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛12
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T172900Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-TUR-MA
+UID:20240731T172900Z-archery-132-TUR-MAS
 DTSTAMP:20240731T172900Z
 DTSTART:20240731T172900Z
 DTEND:20240731T174200Z
-DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 女子个人1/32淘汰赛
 SUMMARY:🏹 Elif Berra GOKKIR 🇹🇷 - 🇲🇾 Nurul Azreena MOHAMAD FAZIL
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T070000Z-volleyball-WOMENS-PRELIMINARY-ROUND-POOL-C-TUR-DOM
+UID:20240801T070000Z-volleyball--C-TUR-DOM
 DTSTAMP:20240801T070000Z
 DTSTART:20240801T070000Z
 DTEND:20240801T091500Z
-DESCRIPTION:Volleyball - Women's Preliminary Round - Pool C
-SUMMARY:🏐 TUR 🇹🇷 - 🇩🇴 DOM
-LOCATION:South Paris Arena 1
+DESCRIPTION:排球 - 女子预赛 - C组
+SUMMARY:🏐 土耳其 🇹🇷 - 🇩🇴 多米尼加
+LOCATION:南巴黎竞技场1号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T084800Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-USA-TUR
+UID:20240801T084800Z-archery-132-USA-TUR
 DTSTAMP:20240801T084800Z
 DTSTART:20240801T084800Z
 DTEND:20240801T090100Z
-DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 男子个人1/32淘汰赛
 SUMMARY:🏹 Brady ELLISON 🇺🇸 - 🇹🇷 Abdullah YILDIRMIS
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T094000Z-swimming-MENS-200M-INDIVIDUAL-MEDLEY-HEATS
+UID:20240801T094000Z-swimming-200
 DTSTAMP:20240801T094000Z
 DTSTART:20240801T094000Z
 DTEND:20240801T095500Z
-DESCRIPTION:Swimming - Men's 200m Individual Medley - Heats\n🇩🇿 ALG\n🇦🇺
-  AUS\n🇧🇴 BOL\n🇨🇦 CAN\n🇨🇳 CHN\n🇪🇨 ECU\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷
-  GRE\n🇬🇹 GUA\n🇭🇺 HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇿 NZL\n🇵🇾
-  PAR\n🇸🇨 SEY\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇷 TUR\n🇺🇸 USA
-SUMMARY:🏊 Men's 200m Individual Medley - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子200米个人混合泳分组预赛\n🇮🇹 Alberto RAZZETTI\n🇬🇷 Apostolos
+  PAPASTAMOS\n🇹🇷 Berke SAKA\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇬🇹
+  Erick GORDILLO\n🇧🇴 Esteban NUNEZ del PRADO\n🇨🇦 Finlay KNOX\n🇭🇺
+  Gabor ZOMBORI\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇩🇿 Jaouad SYOUD\n🇨🇭
+  Jeremy DESPLANCHES\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇵🇾 Matheo
+  MATEOS\n🇿🇦 Matthew SATES\n🇮🇱 Ron POLONSKY\n🇯🇵 SETO Daiya\n🇺🇸
+  Shaine CASAS\n🇸🇨 Simon BACHMANN\n🇦🇺 Thomas NEILL\n🇬🇧 Tom DEAN\n🇪🇨
+  Tomas PERIBONIO AVILA\n🇨🇳 WANG Shun\n🇦🇺 William Campbell PETRIC
+SUMMARY:🏊 男子200米个人混合泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T094800Z-boxing-WOMENS-66KG-PRELIMINARIES-ROUND-OF-16-TUR-POL
+UID:20240801T094800Z-boxing-66-16-TUR-POL
 DTSTAMP:20240801T094800Z
 DTSTART:20240801T094800Z
 DTEND:20240801T095900Z
-DESCRIPTION:Boxing - Women's 66kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 女子66公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Busenaz SURMENELI 🇹🇷 - 🇵🇱 Aneta RYGIELSKA
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T095600Z-swimming-WOMENS-4-X-200M-FREESTYLE-RELAY-HEATS
+UID:20240801T095600Z-swimming-4X200
 DTSTAMP:20240801T095600Z
 DTSTART:20240801T095600Z
 DTEND:20240801T101600Z
-DESCRIPTION:Swimming - Women's 4 x 200m Freestyle Relay - Heats\n🇦🇺
-  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺
-  HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇹🇷
-  TUR\n🇺🇸 USA
-SUMMARY:🏊 Women's 4 x 200m Freestyle Relay - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子4x200米自由泳接力分组预赛\n🇨🇳 中国\n🇮🇱 以色列\n🇨🇦 加拿大\n🇭🇺
+  匈牙利\n🇹🇷 土耳其\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿 新西兰\n🇯🇵 日本\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰\n🇪🇸 西班牙
+SUMMARY:🏊 女子4x200米自由泳接力分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T130300Z-sailing-WOMENS-WINDSURFING-RACE-13
+UID:20240801T130300Z-sailing-IQFOIL-13
 DTSTAMP:20240801T130300Z
 DTSTART:20240801T130300Z
 DTEND:20240801T132400Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 13\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 13
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛13\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛13
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T133400Z-sailing-WOMENS-WINDSURFING-RACE-14
+UID:20240801T133400Z-sailing-IQFOIL-14
 DTSTAMP:20240801T133400Z
 DTSTART:20240801T133400Z
 DTEND:20240801T135500Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 14\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 14
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛14\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛14
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T134300Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-MEX-TUR
+UID:20240801T134300Z-archery-132-MEX-TUR
 DTSTAMP:20240801T134300Z
 DTSTART:20240801T134300Z
 DTEND:20240801T135600Z
-DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 男子个人1/32淘汰赛
 SUMMARY:🏹 Carlos ROJAS 🇲🇽 - 🇹🇷 Berkim TUMER
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T134600Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-16-TUR-MEX
+UID:20240801T134600Z-boxing-50-16-TUR-MEX
 DTSTAMP:20240801T134600Z
 DTSTART:20240801T134600Z
 DTEND:20240801T135700Z
-DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 女子50公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Buse Naz CAKIROGLU 🇹🇷 - 🇲🇽 Fatima HERRERA
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T140500Z-sailing-WOMENS-WINDSURFING-RACE-15
+UID:20240801T140500Z-sailing-IQFOIL-15
 DTSTAMP:20240801T140500Z
 DTSTART:20240801T140500Z
 DTEND:20240801T142600Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 15\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 15
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛15\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛15
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T143600Z-sailing-WOMENS-WINDSURFING-RACE-16
+UID:20240801T143600Z-sailing-IQFOIL-16
 DTSTAMP:20240801T143600Z
 DTSTART:20240801T143600Z
 DTEND:20240801T145700Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 16\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 16
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛16\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛16
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T150700Z-sailing-WOMENS-WINDSURFING-RACE-17
+UID:20240801T150700Z-sailing-IQFOIL-17
 DTSTAMP:20240801T150700Z
 DTSTART:20240801T150700Z
 DTEND:20240801T152800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 17\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 17
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛17\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛17
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T153800Z-sailing-WOMENS-WINDSURFING-RACE-18
+UID:20240801T153800Z-sailing-IQFOIL-18
 DTSTAMP:20240801T153800Z
 DTSTART:20240801T153800Z
 DTEND:20240801T155900Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 18\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 18
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛18\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛18
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T160900Z-sailing-WOMENS-WINDSURFING-RACE-19
+UID:20240801T160900Z-sailing-IQFOIL-19
 DTSTAMP:20240801T160900Z
 DTSTART:20240801T160900Z
 DTEND:20240801T163000Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 19\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 19
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛19\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛19
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T164000Z-sailing-WOMENS-WINDSURFING-RACE-20
+UID:20240801T164000Z-sailing-IQFOIL-20
 DTSTAMP:20240801T164000Z
 DTSTART:20240801T164000Z
 DTEND:20240801T170100Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 20\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 20
-LOCATION:Marseille Marina
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛20\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛20
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T070000Z-shooting-25M-PISTOL-WOMENS-QUALIFICATION-PRECISION
+UID:20240802T070000Z-shooting-25
 DTSTAMP:20240802T070000Z
 DTSTART:20240802T070000Z
 DTEND:20240802T093000Z
-DESCRIPTION:Shooting - 25m Pistol Women's Qualification Precision\n🇺🇸 Ada
-  Claudia KORKHIN\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨
-  Andrea PEREZ PENA\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷
-  Camille JEDRZEJEWSKI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪 Doreen
-  VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh
-  ROSTAMIYAN\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸
-  Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG
-  Xiaoya\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷
-  Mathilde LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦
-  Olena KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
-  Simal YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia
-  Chen\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika
-  MAJOR\n🇹🇼 WU Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO
-  Nan
-SUMMARY:🔫 25m Pistol Women's Qualification Precision
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子25米手枪精准资格赛\n🇺🇸 Ada Claudia KORKHIN\n🇱🇻 Agate
+  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨 Andrea PEREZ PENA\n🇬🇷 Anna
+  KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇪🇨
+  Diana DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena
+  GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh ROSTAMIYAN\n🇩🇪 Josefin
+  EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan
+  ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG Xiaoya\n🇨🇺
+  Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷 Mathilde
+  LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦 Olena
+  KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷 Simal
+  YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia Chen\n🇹🇭
+  Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇹🇼 WU
+  Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO Nan
+SUMMARY:🔫 女子25米手枪精准资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T080000Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-TUR-SLO
+UID:20240802T080000Z-judo-10032-TUR-SLO
 DTSTAMP:20240802T080000Z
 DTSTART:20240802T080000Z
 DTEND:20240802T080600Z
-DESCRIPTION:Judo - Men +100 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子100公斤以上级32强淘汰赛
 SUMMARY:🥋 Ibrahim TATAROGLU 🇹🇷 - 🇸🇮 Enej MARINIC
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T090500Z-archery-MIXED-TEAM-18-ELIMINATION-ROUND-JPN-TUR
+UID:20240802T090500Z-archery-18-JPN-TUR
 DTSTAMP:20240802T090500Z
 DTSTART:20240802T090500Z
 DTEND:20240802T092400Z
-DESCRIPTION:Archery - Mixed Team 1/8 Elimination Round
-SUMMARY:🏹 JPN 🇯🇵 - 🇹🇷 TUR
-LOCATION:Invalides
+DESCRIPTION:射箭 - 混合团体1/8淘汰赛
+SUMMARY:🏹 日本 🇯🇵 - 🇹🇷 土耳其
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T093600Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-16
+UID:20240802T093600Z-judo-7816
 DTSTAMP:20240802T093600Z
 DTSTART:20240802T093600Z
 DTEND:20240802T094200Z
-DESCRIPTION:Judo - Women +78 kg Elimination Round of 16\n🇹🇷 Kayra OZDEMIR
-SUMMARY:🥋 Women +78 kg Elimination Round of 16
-LOCATION:Champ-de-Mars Arena
+DESCRIPTION:柔道 - 女子78公斤以上级16强淘汰赛\n🇹🇷 Kayra OZDEMIR
+SUMMARY:🥋 女子78公斤以上级16强淘汰赛
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+UID:20240803T070000Z-shooting--1
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z
 DTEND:20240803T123000Z
-DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
-  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
-  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
-  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
-  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
-  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
-  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
-  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
-  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
-  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
-  Victoria LARSSON\n🇨🇳 WEI Meng
-SUMMARY:🔫 Skeet Women's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子双向飞碟资格赛 - 第1天\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+  RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
+  SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
+  Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
+  Emmanouela KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇲🇽 Gabriela
+  RODRIGUEZ\n🇧🇷 Georgia FURQUIM BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG
+  Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾 Konstantia NIKOLAOU\n🇫🇷 Lucie
+  ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
+  Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
+  CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 女子双向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T080600Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-16-KOR-TUR
+UID:20240803T080600Z-judo-16-KOR-TUR
 DTSTAMP:20240803T080600Z
 DTSTART:20240803T080600Z
 DTEND:20240803T082800Z
-DESCRIPTION:Judo - Mixed Team Elimination Round of 16
-SUMMARY:🥋 KOR 🇰🇷 - 🇹🇷 TUR
-LOCATION:Champ-de-Mars Arena
+DESCRIPTION:柔道 - 混合团体16强淘汰赛
+SUMMARY:🥋 韩国 🇰🇷 - 🇹🇷 土耳其
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T092500Z-swimming-MENS-1500M-FREESTYLE-HEATS
+UID:20240803T092500Z-swimming-1500
 DTSTAMP:20240803T092500Z
 DTSTART:20240803T092500Z
 DTEND:20240803T103200Z
-DESCRIPTION:Swimming - Men's 1500m Freestyle - Heats\n🇦🇺 AUS\n🇨🇳
-  CHN\n🇨🇺 CUB\n🇪🇬 EGY\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺
-  HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇴 NOR\n🇵🇱 POL\n🇷🇴 ROU\n🇪🇸 ESP\n🇸🇪
-  SWE\n🇹🇳 TUN\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇳 VIE
-SUMMARY:🏊 Men's 1500m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子1500米自由泳分组预赛\n🇹🇳 Ahmed JAOUADI\n🇺🇸 Bobby FINKE\n🇪🇸
+  Carlos GARACH BENITO\n🇫🇷 Damien JOLY\n🇬🇧 Daniel JERVIS\n🇮🇪 Daniel
+  WIFFEN\n🇫🇷 David AUBRY\n🇭🇺 David BETLEHEM\n🇺🇸 David JOHNSTON\n🇬🇷
+  Dimitrios MARKOS\n🇹🇷 Emir Batur ALBAYRAK\n🇨🇳 FEI Liwei\n🇩🇪 Florian
+  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇳🇴 Henrik CHRISTIANSEN\n🇻🇳 Huy
+  Hoang NGUYEN\n🇵🇱 Krzysztof CHMIELEWSKI\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca
+  de TULLIO\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo ROMANCHUK\n🇨🇺 Rodolfo
+  FALCON JR\n🇦🇺 Samuel SHORT\n🇩🇪 Sven SCHWARZ\n🇸🇪 Victor
+  JOHANSSON\n🇷🇴 Vlad Stefan STANCU\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 男子1500米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T070000Z-volleyball-WOMENS-PRELIMINARY-ROUND-POOL-C-ITA-TUR
+UID:20240804T070000Z-volleyball--C-ITA-TUR
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
 DTEND:20240804T091500Z
-DESCRIPTION:Volleyball - Women's Preliminary Round - Pool C
-SUMMARY:🏐 ITA 🇮🇹 - 🇹🇷 TUR
-LOCATION:South Paris Arena 1
+DESCRIPTION:排球 - 女子预赛 - C组
+SUMMARY:🏐 意大利 🇮🇹 - 🇹🇷 土耳其
+LOCATION:南巴黎竞技场1号馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

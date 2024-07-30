@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/EST//EN
-X-WR-CALNAME:🇪🇪 Estonia Badminton | Paris 2024
-NAME:🇪🇪 Estonia Badminton | Paris 2024
+X-WR-CALNAME:🇪🇪 Estonia 羽毛球 | Paris 2024
+NAME:🇪🇪 Estonia 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T063000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-M-EST-
+UID:20240730T063000Z-badminton--M-EST-MDV
 DTSTAMP:20240730T063000Z
 DTSTART:20240730T063000Z
 DTEND:20240730T071000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group M
+DESCRIPTION:羽毛球 - 女子单打小组赛 - M组
 SUMMARY:🏸 Kristin KUUBA 🇪🇪 - 🇲🇻 Fathimath Nabaaha ABDUL RAZZAQ
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T072000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-M-IND-
+UID:20240731T072000Z-badminton--M-IND-EST
 DTSTAMP:20240731T072000Z
 DTSTART:20240731T072000Z
 DTEND:20240731T080000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group M
+DESCRIPTION:羽毛球 - 女子单打小组赛 - M组
 SUMMARY:🏸 V. Sindhu PUSARLA 🇮🇳 - 🇪🇪 Kristin KUUBA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

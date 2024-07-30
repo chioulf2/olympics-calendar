@@ -1,42 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/MRI//EN
-X-WR-CALNAME:🇲🇺 Mauritius Badminton | Paris 2024
-NAME:🇲🇺 Mauritius Badminton | Paris 2024
+X-WR-CALNAME:🇲🇺 Mauritius 羽毛球 | Paris 2024
+NAME:🇲🇺 Mauritius 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T090000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-C-THA-MR
+UID:20240727T090000Z-badminton--C-THA-MRI
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T100000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group C
+DESCRIPTION:羽毛球 - 男子单打小组赛 - C组
 SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇺 Georges Julien PAUL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T072000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-C-FIN-MR
+UID:20240729T072000Z-badminton--C-FIN-MRI
 DTSTAMP:20240729T072000Z
 DTSTART:20240729T072000Z
 DTEND:20240729T080000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group C
+DESCRIPTION:羽毛球 - 男子单打小组赛 - C组
 SUMMARY:🏸 Kalle KOLJONEN 🇫🇮 - 🇲🇺 Georges Julien PAUL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-I-MRI-
+UID:20240729T090000Z-badminton--I-MRI-EOR
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T100000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group I
+DESCRIPTION:羽毛球 - 女子单打小组赛 - I组
 SUMMARY:🏸 Kate FOO KUNE 🇲🇺 - 🏳️ Dorsa YAVARIVAFA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T182000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-I-SGP-
+UID:20240730T182000Z-badminton--I-SGP-MRI
 DTSTAMP:20240730T182000Z
 DTSTART:20240730T182000Z
 DTEND:20240730T190000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group I
+DESCRIPTION:羽毛球 - 女子单打小组赛 - I组
 SUMMARY:🏸 Jia Min YEO 🇸🇬 - 🇲🇺 Kate FOO KUNE
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

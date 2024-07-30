@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/SLE//EN
-X-WR-CALNAME:🇸🇱 Sierra Leone Judo | Paris 2024
-NAME:🇸🇱 Sierra Leone Judo | Paris 2024
+X-WR-CALNAME:🇸🇱 Sierra Leone 柔道 | Paris 2024
+NAME:🇸🇱 Sierra Leone 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T081200Z-judo-WOMEN-57-KG-ELIMINATION-ROUND-OF-32-SLE-TPE
+UID:20240729T081200Z-judo-5732-SLE-TPE
 DTSTAMP:20240729T081200Z
 DTSTART:20240729T081200Z
 DTEND:20240729T081800Z
-DESCRIPTION:Judo - Women -57 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子57公斤级32强淘汰赛
 SUMMARY:🥋 Mariama KOROMA 🇸🇱 - 🇹🇼 LIEN Chen-Ling
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

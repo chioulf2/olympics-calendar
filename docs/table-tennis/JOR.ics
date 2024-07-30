@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/JOR//EN
-X-WR-CALNAME:🇯🇴 Jordan Table Tennis | Paris 2024
-NAME:🇯🇴 Jordan Table Tennis | Paris 2024
+X-WR-CALNAME:🇯🇴 Jordan 乒乓球 | Paris 2024
+NAME:🇯🇴 Jordan 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T134500Z-table-tennis-MENS-SINGLES-PRELIMINARY-ROUND-IND-JOR
+UID:20240727T134500Z-table-tennis--IND-JOR
 DTSTAMP:20240727T134500Z
 DTSTART:20240727T134500Z
 DTEND:20240727T143000Z
-DESCRIPTION:Table Tennis - Men's Singles Preliminary Round
+DESCRIPTION:乒乓球 - 男子单打预赛
 SUMMARY:🏓 Harmeet DESAI 🇮🇳 - 🇯🇴 Zaid ABO YAMAN
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

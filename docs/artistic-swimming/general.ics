@@ -1,51 +1,51 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//artistic-swimming/general//EN
-X-WR-CALNAME:🏊 Artistic Swimming | Paris 2024
-NAME:🏊 Artistic Swimming | Paris 2024
+X-WR-CALNAME:🏊 花样游泳 | Paris 2024
+NAME:🏊 花样游泳 | Paris 2024
 BEGIN:VEVENT
-UID:20240805T173000Z-artistic-swimming-TEAM-TECHNICAL-ROUTINE
+UID:20240805T173000Z-artistic-swimming-
 DTSTAMP:20240805T173000Z
 DTSTART:20240805T173000Z
 DTEND:20240805T184300Z
-DESCRIPTION:Artistic Swimming - Team Technical Routine
-SUMMARY:🏊 Team Technical Routine
-LOCATION:Aquatics Centre
+DESCRIPTION:花样游泳 - 团体技术自选
+SUMMARY:🏊 团体技术自选
+LOCATION:水上运动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T173000Z-artistic-swimming-TEAM-FREE-ROUTINE
+UID:20240806T173000Z-artistic-swimming-
 DTSTAMP:20240806T173000Z
 DTSTART:20240806T173000Z
 DTEND:20240806T185000Z
-DESCRIPTION:Artistic Swimming - Team Free Routine
-SUMMARY:🏊 Team Free Routine
-LOCATION:Aquatics Centre
+DESCRIPTION:花样游泳 - 团体自由自选
+SUMMARY:🏊 团体自由自选
+LOCATION:水上运动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
+UID:20240807T173000Z-artistic-swimming-
 DTSTAMP:20240807T173000Z
 DTSTART:20240807T173000Z
 DTEND:20240807T182900Z
-DESCRIPTION:Artistic Swimming - Team Acrobatic Routine
-SUMMARY:🏊 Team Acrobatic Routine
-LOCATION:Aquatics Centre
+DESCRIPTION:花样游泳 - 集体技巧自选
+SUMMARY:🏊 集体技巧自选
+LOCATION:水上运动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T173000Z-artistic-swimming-DUET-TECHNICAL-ROUTINE
+UID:20240809T173000Z-artistic-swimming-
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
 DTEND:20240809T191300Z
-DESCRIPTION:Artistic Swimming - Duet Technical Routine
-SUMMARY:🏊 Duet Technical Routine
-LOCATION:Aquatics Centre
+DESCRIPTION:花样游泳 - 双人技术自选
+SUMMARY:🏊 双人技术自选
+LOCATION:水上运动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
+UID:20240810T173000Z-artistic-swimming-
 DTSTAMP:20240810T173000Z
 DTSTART:20240810T173000Z
 DTEND:20240810T192300Z
-DESCRIPTION:Artistic Swimming - Duet Free Routine
-SUMMARY:🏊 Duet Free Routine
-LOCATION:Aquatics Centre
+DESCRIPTION:花样游泳 - 双人自由自选
+SUMMARY:🏊 双人自由自选
+LOCATION:水上运动中心
 END:VEVENT
 END:VCALENDAR

@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/MKD//EN
-X-WR-CALNAME:🇲🇰 North Macedonia Judo | Paris 2024
-NAME:🇲🇰 North Macedonia Judo | Paris 2024
+X-WR-CALNAME:🇲🇰 North Macedonia 柔道 | Paris 2024
+NAME:🇲🇰 North Macedonia 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T083000Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-BRA-MKD
+UID:20240730T083000Z-judo-8132-BRA-MKD
 DTSTAMP:20240730T083000Z
 DTSTART:20240730T083000Z
 DTEND:20240730T083600Z
-DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
 SUMMARY:🥋 Guilherme SCHIMIDT 🇧🇷 - 🇲🇰 Edi SHERIFOVSKI
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/KIR//EN
-X-WR-CALNAME:🇰🇮 Kiribati Judo | Paris 2024
-NAME:🇰🇮 Kiribati Judo | Paris 2024
+X-WR-CALNAME:🇰🇮 Kiribati 柔道 | Paris 2024
+NAME:🇰🇮 Kiribati 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T083000Z-judo-WOMEN-57-KG-ELIMINATION-ROUND-OF-32-KIR-UKR
+UID:20240729T083000Z-judo-5732-KIR-UKR
 DTSTAMP:20240729T083000Z
 DTSTART:20240729T083000Z
 DTEND:20240729T083600Z
-DESCRIPTION:Judo - Women -57 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子57公斤级32强淘汰赛
 SUMMARY:🥋 Nera TIEBWA 🇰🇮 - 🇺🇦 Daria BILODID
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

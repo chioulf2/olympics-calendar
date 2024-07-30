@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//trampoline-gymnastics/medals//EN
-X-WR-CALNAME:🤸 Trampoline Gymnastics 🏅 | Paris 2024
-NAME:🤸 Trampoline Gymnastics 🏅 | Paris 2024
+X-WR-CALNAME:🤸 蹦床 🏅 | Paris 2024
+NAME:🤸 蹦床 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240802T115000Z-trampoline-gymnastics-WOMENS-FINAL
+UID:20240802T115000Z-trampoline-gymnastics-
 DTSTAMP:20240802T115000Z
 DTSTART:20240802T115000Z
 DTEND:20240802T122000Z
-DESCRIPTION:Trampoline Gymnastics - Women's Final
-SUMMARY:🤸 Women's Final
-LOCATION:Bercy Arena
+DESCRIPTION:蹦床 - 女子决赛
+SUMMARY:🤸 女子决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T175000Z-trampoline-gymnastics-MENS-FINAL
+UID:20240802T175000Z-trampoline-gymnastics-
 DTSTAMP:20240802T175000Z
 DTSTART:20240802T175000Z
 DTEND:20240802T182000Z
-DESCRIPTION:Trampoline Gymnastics - Men's Final
-SUMMARY:🤸 Men's Final
-LOCATION:Bercy Arena
+DESCRIPTION:蹦床 - 男子决赛
+SUMMARY:🤸 男子决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 END:VCALENDAR

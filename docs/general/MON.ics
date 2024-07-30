@@ -13,73 +13,89 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇩🇿 ALG\n🇦🇴 ANG\n🇧🇪
-  BEL\n🇧🇲 BER\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬
-  EGY\n🇩🇪 GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩
-  INA\n🇯🇵 JPN\n🇰🇿 KAZ\n🇱🇾 LBA\n🇱🇹 LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿
-  NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇺🇸
-  USA\n🇺🇾 URU\n🇿🇼 ZIM
-SUMMARY:🚣 Men's Single Sculls Heats
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 男子单人双桨分组预赛\n🇯🇵 ARAKAWA Ryuta\n🇸🇩 Abdalla AHMED\n🇪🇬
+  Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz
+  Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
+  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
+  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
+  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 男子单人双桨分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T073600Z-rowing-MENS-SINGLE-SCULLS-REPECHAGES
+UID:20240728T073600Z-rowing-
 DTSTAMP:20240728T073600Z
 DTSTART:20240728T073600Z
 DTEND:20240728T080700Z
-DESCRIPTION:Rowing - Men's Single Sculls Repechages\n🇩🇿 ALG\n🇦🇴
-  ANG\n🇧🇲 BER\n🇭🇰 Hong Kong, China\n🇮🇳 IND\n🇮🇩 INA\n🇰🇿 KAZ\n🇱🇾
-  LBA\n🇲🇨 MON\n🇵🇾 PAR\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇿🇼 ZIM
-SUMMARY:🚣 Men's Single Sculls Repechages
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 男子单人双桨复活赛\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇮🇳
+  Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇧🇲 Dara ALIZADEH\n🇸🇮 Isak Ivan
+  ZVEGELJ\n🇵🇾 Javier INSFRAN\n🇮🇩 MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳
+  Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿
+  Sid Ali BOUDINA\n🇿🇼 Stephen COX\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 男子单人双桨复活赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T190000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-MON-CZE
+UID:20240728T190000Z-table-tennis-64-MON-CZE
 DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
 DTEND:20240728T200000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Xiaoxin YANG 🇲🇨 - 🇨🇿 Hana MATELOVA
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T092800Z-swimming-MENS-800M-FREESTYLE-HEATS
+UID:20240729T092800Z-swimming-800
 DTSTAMP:20240729T092800Z
 DTSTART:20240729T092800Z
 DTEND:20240729T100700Z
-DESCRIPTION:Swimming - Men's 800m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇷
-  GRE\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇲🇨 MON\n🇳🇴 NOR\n🇷🇴 ROU\n🇪🇸
-  ESP\n🇸🇪 SWE\n🇹🇳 TUN\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪
-  VEN\n🇻🇳 VIE
-SUMMARY:🏊 Men's 800m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子800米自由泳分组预赛\n🇹🇳 Ahmed JAOUADI\n🇻🇪 Alfonso Enrique
+  MESTRE VIVAS\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
+  WIFFEN\n🇫🇷 David AUBRY\n🇬🇷 Dimitrios MARKOS\n🇦🇺 Elijah
+  WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇩🇪 Florian
+  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇳🇴 Henrik
+  CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇺🇿 Ilya SIBIRTSEV\n🇳🇴 Jon
+  JOENTVEDT\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇧🇪 Lucas
+  HENVEAUX\n🇺🇸 Luke WHITLOCK\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
+  ROMANCHUK\n🇫🇷 Pacome BRICOUT\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
+  SCHWARZ\n🇲🇨 Theo DRUENNE\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
+  STANCU\n🇨🇳 ZHANG Zhanshuo\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 男子800米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T081000Z-rowing-MENS-SINGLE-SCULLS-QUARTERFINALS
+UID:20240730T081000Z-rowing-14
 DTSTAMP:20240730T081000Z
 DTSTART:20240730T081000Z
 DTEND:20240730T084700Z
-DESCRIPTION:Rowing - Men's Single Sculls Quarterfinals\n🇩🇿 ALG\n🇧🇪
-  BEL\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬 EGY\n🇩🇪
-  GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇯🇵 JPN\n🇱🇹
-  LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇺🇸
-  USA\n🇺🇾 URU
-SUMMARY:🚣 Men's Single Sculls Quarterfinals
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 男子单人双桨1/4决赛\n🇯🇵 ARAKAWA Ryuta\n🇪🇬 Abdelkhalek
+  ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾
+  Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴
+  Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy
+  CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
+  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 男子单人双桨1/4决赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T085400Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-16-CUB-MON
+UID:20240802T085400Z-judo-10016-CUB-MON
 DTSTAMP:20240802T085400Z
 DTSTART:20240802T085400Z
 DTEND:20240802T090000Z
-DESCRIPTION:Judo - Men +100 kg Elimination Round of 16
+DESCRIPTION:柔道 - 男子100公斤以上级16强淘汰赛
 SUMMARY:🥋 Andy GRANDA 🇨🇺 - 🇲🇨 Marvin GADEAU
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

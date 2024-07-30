@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/COD//EN
-X-WR-CALNAME:🇨🇩 Democratic Republic of the Congo Judo | Paris 2024
-NAME:🇨🇩 Democratic Republic of the Congo Judo | Paris 2024
+X-WR-CALNAME:🇨🇩 Democratic Republic of the Congo 柔道 | Paris 2024
+NAME:🇨🇩 Democratic Republic of the Congo 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T083000Z-judo-MEN-60-KG-ELIMINATION-ROUND-OF-32-COD-ISR
+UID:20240727T083000Z-judo-6032-COD-ISR
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T083600Z
-DESCRIPTION:Judo - Men -60 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子60公斤级32强淘汰赛
 SUMMARY:🥋 Arnold KISOKA 🇨🇩 - 🇮🇱 Yam WOLCZAK
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

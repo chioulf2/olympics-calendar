@@ -1,25 +1,25 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//surfing/CRC//EN
-X-WR-CALNAME:🇨🇷 Costa Rica Surfing | Paris 2024
-NAME:🇨🇷 Costa Rica Surfing | Paris 2024
+X-WR-CALNAME:🇨🇷 Costa Rica 冲浪 | Paris 2024
+NAME:🇨🇷 Costa Rica 冲浪 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T001200Z-surfing-WOMENS-ROUND-1-HEAT-5
+UID:20240728T001200Z-surfing-1-5
 DTSTAMP:20240728T001200Z
 DTSTART:20240728T001200Z
 DTEND:20240728T004200Z
-DESCRIPTION:Surfing - Women's Round 1 - Heat 5\n🇨🇷 Brisa HENNESSY\n🇳🇮
-  Candelaria RESANO\n🇫🇷 Johanne DEFAY
-SUMMARY:🏄 Women's Round 1 - Heat 5
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 女子第1轮 - 第5组\n🇨🇷 Brisa HENNESSY\n🇳🇮 Candelaria
+  RESANO\n🇫🇷 Johanne DEFAY
+SUMMARY:🏄 女子第1轮 - 第5组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T020000Z-surfing-WOMENS-ROUND-3-HEAT-8-CRC-POR
+UID:20240730T020000Z-surfing-3-8-CRC-POR
 DTSTAMP:20240730T020000Z
 DTSTART:20240730T020000Z
 DTEND:20240730T023000Z
-DESCRIPTION:Surfing - Women's Round 3 - Heat 8
+DESCRIPTION:冲浪 - 女子第3轮 - 第8组
 SUMMARY:🏄 Brisa HENNESSY 🇨🇷 - 🇵🇹 Yolanda HOPKINS
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 END:VCALENDAR

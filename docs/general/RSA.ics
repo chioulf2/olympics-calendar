@@ -4,69 +4,68 @@ PRODID:-//fabrice404//olympics-calendar//general/RSA//EN
 X-WR-CALNAME:🇿🇦 South Africa | Paris 2024
 NAME:🇿🇦 South Africa | Paris 2024
 BEGIN:VEVENT
-UID:20240724T153000Z-rugby-sevens-MENS-POOL-A-IRL-RSA
+UID:20240724T153000Z-rugby-sevens-A-IRL-RSA
 DTSTAMP:20240724T153000Z
 DTSTART:20240724T153000Z
 DTEND:20240724T154600Z
-DESCRIPTION:Rugby Sevens - Men's Pool A
-SUMMARY:🏉 IRL 🇮🇪 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛A组
+SUMMARY:🏉 爱尔兰 🇮🇪 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240724T193000Z-rugby-sevens-MENS-POOL-A-NZL-RSA
+UID:20240724T193000Z-rugby-sevens-A-NZL-RSA
 DTSTAMP:20240724T193000Z
 DTSTART:20240724T193000Z
 DTEND:20240724T194600Z
-DESCRIPTION:Rugby Sevens - Men's Pool A
-SUMMARY:🏉 NZL 🇳🇿 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T121500Z-archery-MENS-INDIVIDUAL-RANKING-ROUND
+UID:20240725T121500Z-archery-
 DTSTAMP:20240725T121500Z
 DTSTART:20240725T121500Z
 DTEND:20240725T151500Z
-DESCRIPTION:Archery - Men's Individual Ranking Round\n🇹🇷 Abdullah
-  YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹 Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿
-  Alexandr YEREMENKO\n🇺🇿 Amirkhon SADIKOV\n🇨🇱 Andres GALLARDO
-  FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮 Antti TEKONIEMI\n🇮🇩 Arif
-  PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim TUMER\n🇺🇸 Brady
-  ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos ROJAS\n🇬🇧 Conor
-  HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi ZHANGBYRBAY\n🇮🇳 Dhiraj
-  BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA Takaharu\n🇮🇹 Federico
-  MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩
-  Israel MADAYE\n🇫🇷 Jean-Charles VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO
-  Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷 KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI
-  Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹 Lam DORJI\n🇧🇷 Marcus
-  D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽 Matias GRANDE\n🇮🇹 Mauro
-  NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵
-  NAKANISHI Junya\n🇻🇮 Nicholas D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold
-  BAATARKHUYAG\n🇪🇸 Pablo ACHA GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit
-  KLEIN\n🇮🇳 Pravin Ramesh JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵
-  SAITO Fumiya\n🇨🇴 Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI
-  Yu-Hsuan\n🇹🇼 TANG Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas
-  CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳 WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof
-  TOLBA\n🇸🇮 Ziga RAVNIKAR
-SUMMARY:🏹 Men's Individual Ranking Round
-LOCATION:Invalides
+DESCRIPTION:射箭 - 男子个人排名赛\n🇹🇷 Abdullah YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹
+  Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿 Alexandr YEREMENKO\n🇺🇿 Amirkhon
+  SADIKOV\n🇨🇱 Andres GALLARDO FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮
+  Antti TEKONIEMI\n🇮🇩 Arif PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim
+  TUMER\n🇺🇸 Brady ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos
+  ROJAS\n🇬🇧 Conor HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi
+  ZHANGBYRBAY\n🇮🇳 Dhiraj BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA
+  Takaharu\n🇮🇹 Federico MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo
+  FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩 Israel MADAYE\n🇫🇷 Jean-Charles
+  VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷
+  KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹
+  Lam DORJI\n🇧🇷 Marcus D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽
+  Matias GRANDE\n🇮🇹 Mauro NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete
+  GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵 NAKANISHI Junya\n🇻🇮 Nicholas
+  D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold BAATARKHUYAG\n🇪🇸 Pablo ACHA
+  GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit KLEIN\n🇮🇳 Pravin Ramesh
+  JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵 SAITO Fumiya\n🇨🇴
+  Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI Yu-Hsuan\n🇹🇼 TANG
+  Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳
+  WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 男子个人排名赛
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T140000Z-rugby-sevens-MENS-POOL-A-RSA-JPN
+UID:20240725T140000Z-rugby-sevens-A-RSA-JPN
 DTSTAMP:20240725T140000Z
 DTSTART:20240725T140000Z
 DTEND:20240725T141600Z
-DESCRIPTION:Rugby Sevens - Men's Pool A
-SUMMARY:🏉 RSA 🇿🇦 - 🇯🇵 JPN
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛A组
+SUMMARY:🏉 南非 🇿🇦 - 🇯🇵 日本
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T190000Z-rugby-sevens-MENS-QUARTER-FINAL-NZL-RSA
+UID:20240725T190000Z-rugby-sevens-14-NZL-RSA
 DTSTAMP:20240725T190000Z
 DTSTART:20240725T190000Z
 DTEND:20240725T191600Z
-DESCRIPTION:Rugby Sevens - Men's Quarter-final
-SUMMARY:🏉 NZL 🇳🇿 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子1/4决赛
+SUMMARY:🏉 新西兰 🇳🇿 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
@@ -78,178 +77,194 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T073000Z-equestrian-EVENTING-INDIVIDUAL-DRESSAGE
+UID:20240727T073000Z-equestrian-
 DTSTAMP:20240727T073000Z
 DTSTART:20240727T073000Z
 DTEND:20240727T163000Z
-DESCRIPTION:Equestrian - Eventing Individual Dressage\n🇿🇦 Alexander
-  PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
-  MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
-  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
-  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇮🇹 Emiliano PORTALE\n🇪🇸 Esteban
-  BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
-  ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald
-  AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica
-  PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia KRAJEWSKI\n🇯🇵 KITAJIMA
-  Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl
-  SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura
-  COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata KORYCKA\n🇵🇹 Manuel
-  GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody JOHNER\n🇩🇪 Michael
-  JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA JR\n🇨🇿 Miroslav
-  TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas WETTSTEIN\n🇲🇦 Noor
-  SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T. FLARUP\n🇳🇱 Raf
-  KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin
-  GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧 Rosalind CANTER\n🇨🇳 SUN
-  Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de JONG\n🇮🇪 Sarah
-  ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane LANDOIS\n🇮🇪
-  Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine
-  MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
-SUMMARY:🏇 Eventing Individual Dressage
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛个人盛装舞步\n🇿🇦 Alexander PETERNELL\n🇮🇪 Austin
+  O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd MARTIN\n🇪🇸 Carlos DIAZ
+  FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph
+  WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
+  HALLIDAY\n🇮🇹 Emiliano PORTALE\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹 Evelina
+  BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni
+  UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱
+  Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
+  KRAJEWSKI\n🇯🇵 KITAJIMA Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
+  DONCKERS\n🇨🇦 Karl SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE -
+  MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
+  KORYCKA\n🇵🇹 Manuel GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody
+  JOHNER\n🇩🇪 Michael JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA
+  JR\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas
+  WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T.
+  FLARUP\n🇳🇱 Raf KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert
+  POWALA\n🇨🇭 Robin GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧 Rosalind
+  CANTER\n🇨🇳 SUN Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de JONG\n🇮🇪
+  Sarah ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane
+  LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪
+  Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 三项赛个人盛装舞步
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T081200Z-rowing-WOMENS-SINGLE-SCULLS-HEATS
+UID:20240727T081200Z-rowing-
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇩🇿 ALG\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇺 CUB\n🇩🇪 GER\n🇮🇷 IR Iran\n🇰🇼
-  KUW\n🇱🇹 LTU\n🇲🇽 MEX\n🇲🇦 MAR\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
-  PAR\n🇵🇪 PER\n🇵🇭 PHI\n🇷🇸 SRB\n🇸🇬 SGP\n🇸🇮 SLO\n🇿🇦 RSA\n🇪🇸
-  ESP\n🇨🇭 SUI\n🇹🇬 TOG\n🇹🇷 TUR\n🇺🇬 UGA\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇳 VIE
-SUMMARY:🚣 Women's Single Sculls Heats
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 女子单人双桨分组预赛\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪
+  Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina
+  JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿
+  Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇳🇮 Evidelia GONZALEZ
+  JARQUIN\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen
+  NOBLE\n🇲🇽 Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline
+  EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇰🇼 Soaad ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue
+  PHAM\n🇱🇹 Viktorija SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis
+  COBAS GARCIA
+SUMMARY:🚣 女子单人双桨分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T082400Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-GUA-RSA
+UID:20240727T082400Z-judo-4832-GUA-RSA
 DTSTAMP:20240727T082400Z
 DTSTART:20240727T082400Z
 DTEND:20240727T083000Z
-DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子48公斤级32强淘汰赛
 SUMMARY:🥋 Jacqueline SOLIS 🇬🇹 - 🇿🇦 Geronay WHITEBOOI
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T090000Z-swimming-WOMENS-100M-BUTTERFLY-HEATS
+UID:20240727T090000Z-swimming-100
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T091100Z
-DESCRIPTION:Swimming - Women's 100m Butterfly - Heats\n🇦🇲 ARM\n🇦🇺
-  AUS\n🇧🇪 BEL\n🇧🇦 Bosnia & Herzegovina\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿
-  CZE\n🇩🇰 DEN\n🇸🇿 SWZ\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
-  GRE\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
-  PAR\n🇸🇳 SEN\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪 SWE\n🇺🇸 USA
-SUMMARY:🏊 Women's 100m Butterfly - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子100米蝶泳分组预赛\n🇦🇺 Alexandria PERKINS\n🇬🇪 Ana
+  NIZHARADZE\n🇩🇪 Angelina KOEHLER\n🇬🇷 Anna NTOUNTOUNAKI\n🇨🇿 Barbora
+  SEEMANOVA\n🇮🇹 Costanza COCCONCELLI\n🇮🇪 Ellen WALSHE\n🇦🇺 Emma
+  McKEON\n🇿🇦 Erin GALLAGHER\n🇬🇷 Georgia DAMASIOTI\n🇺🇸 Gretchen
+  WALSH\n🇯🇵 HIRAI Mizuki\n🇸🇿 Hayley HOY\n🇩🇰 Helena Rosendahl
+  BACH\n🇯🇵 IKEE Rikako\n🇬🇧 Keanna Louise MACINNES\n🇧🇦 Lana
+  PUDAR\n🇪🇸 Laura CABANES GARZAS\n🇸🇪 Louise HANSSON\n🇵🇾 Luana
+  ALONSO\n🇨🇦 Margaret MAC NEIL\n🇳🇮 Maria Victoria SCHUTZMEIER\n🇫🇷
+  Marie WATTEL\n🇸🇳 Oumy DIOP\n🇨🇦 Rebecca SMITH\n🇧🇪 Roos
+  VANOTTERDIJK\n🇳🇱 Tessa GIELE\n🇺🇸 Torri HUSKE\n🇳🇿 Vanessa Hazel
+  OUWEHAND\n🇦🇲 Varsenik MANUCHARYAN\n🇮🇹 Viola SCOTTO di CARLO\n🇨🇳
+  ZHANG Yufei
+SUMMARY:🏊 女子100米蝶泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T094200Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-16-JPN-RSA
+UID:20240727T094200Z-judo-4816-JPN-RSA
 DTSTAMP:20240727T094200Z
 DTSTART:20240727T094200Z
 DTEND:20240727T094800Z
-DESCRIPTION:Judo - Women -48 kg Elimination Round of 16
+DESCRIPTION:柔道 - 女子48公斤级16强淘汰赛
 SUMMARY:🥋 TSUNODA Natsumi 🇯🇵 - 🇿🇦 Geronay WHITEBOOI
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T104500Z-hockey-MENS-POOL-A-NED-RSA
+UID:20240727T104500Z-hockey-A-NED-RSA
 DTSTAMP:20240727T104500Z
 DTSTART:20240727T104500Z
 DTEND:20240727T121500Z
-DESCRIPTION:Hockey - Men's Pool A
-SUMMARY:🏑 NED 🇳🇱 - 🇿🇦 RSA
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛A组
+SUMMARY:🏑 荷兰 🇳🇱 - 🇿🇦 南非
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T125000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-H-KOR-
+UID:20240727T125000Z-badminton--H-KOR-RSA
 DTSTAMP:20240727T125000Z
 DTSTART:20240727T125000Z
 DTEND:20240727T133000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group H
+DESCRIPTION:羽毛球 - 女子单打小组赛 - H组
 SUMMARY:🏸 KIM Ga Eun 🇰🇷 - 🇿🇦 Johanita SCHOLTZ
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T133000Z-rugby-sevens-MENS-SEMI-FINAL-RSA-FRA
+UID:20240727T133000Z-rugby-sevens--RSA-FRA
 DTSTAMP:20240727T133000Z
 DTSTART:20240727T133000Z
 DTEND:20240727T134600Z
-DESCRIPTION:Rugby Sevens - Men's Semi-final
-SUMMARY:🏉 RSA 🇿🇦 - 🇫🇷 FRA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子半决赛
+SUMMARY:🏉 南非 🇿🇦 - 🇫🇷 法国
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T170000Z-rugby-sevens-MENS-BRONZE-MEDAL-MATCH-RSA-AUS
+UID:20240727T170000Z-rugby-sevens--RSA-AUS
 DTSTAMP:20240727T170000Z
 DTSTART:20240727T170000Z
 DTEND:20240727T171600Z
-DESCRIPTION:Rugby Sevens - Men's Bronze Medal Match
-SUMMARY:🏉 RSA 🇿🇦 - 🇦🇺 AUS
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子铜牌赛
+SUMMARY:🏉 南非 🇿🇦 - 🇦🇺 澳大利亚
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T170000Z-surfing-MENS-ROUND-1-HEAT-1
+UID:20240727T170000Z-surfing-1-1
 DTSTAMP:20240727T170000Z
 DTSTART:20240727T170000Z
 DTEND:20240727T173000Z
-DESCRIPTION:Surfing - Men's Round 1 - Heat 1\n🇦🇺 Ethan EWING\n🇿🇦 Jordy
-  SMITH\n🇩🇪 Tim ELTER
-SUMMARY:🏄 Men's Round 1 - Heat 1
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 男子第1轮 - 第1组\n🇦🇺 Ethan EWING\n🇿🇦 Jordy SMITH\n🇩🇪 Tim
+  ELTER
+SUMMARY:🏄 男子第1轮 - 第1组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T173600Z-surfing-MENS-ROUND-1-HEAT-2
+UID:20240727T173600Z-surfing-1-2
 DTSTAMP:20240727T173600Z
 DTSTART:20240727T173600Z
 DTEND:20240727T180600Z
-DESCRIPTION:Surfing - Men's Round 1 - Heat 2\n🇦🇺 Jack ROBINSON\n🇫🇷 Joan
-  DURU\n🇿🇦 Matthew McGILLIVRAY
-SUMMARY:🏄 Men's Round 1 - Heat 2
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 男子第1轮 - 第2组\n🇦🇺 Jack ROBINSON\n🇫🇷 Joan DURU\n🇿🇦
+  Matthew McGILLIVRAY
+SUMMARY:🏄 男子第1轮 - 第2组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T183000Z-swimming-WOMENS-100M-BUTTERFLY-SEMIFINALS
+UID:20240727T183000Z-swimming-100
 DTSTAMP:20240727T183000Z
 DTSTART:20240727T183000Z
 DTEND:20240727T184200Z
-DESCRIPTION:Swimming - Women's 100m Butterfly Semifinals\n🇦🇺 AUS\n🇧🇪
-  BEL\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇯🇵
-  JPN\n🇳🇱 NED\n🇿🇦 RSA\n🇸🇪 SWE\n🇺🇸 USA
-SUMMARY:🏊 Women's 100m Butterfly Semifinals
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子100米蝶泳半决赛\n🇦🇺 Alexandria PERKINS\n🇩🇪 Angelina
+  KOEHLER\n🇨🇿 Barbora SEEMANOVA\n🇦🇺 Emma McKEON\n🇿🇦 Erin
+  GALLAGHER\n🇺🇸 Gretchen WALSH\n🇯🇵 HIRAI Mizuki\n🇯🇵 IKEE Rikako\n🇬🇧
+  Keanna Louise MACINNES\n🇸🇪 Louise HANSSON\n🇨🇦 Margaret MAC NEIL\n🇫🇷
+  Marie WATTEL\n🇧🇪 Roos VANOTTERDIJK\n🇳🇱 Tessa GIELE\n🇺🇸 Torri
+  HUSKE\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 女子100米蝶泳半决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T214800Z-surfing-WOMENS-ROUND-1-HEAT-1
+UID:20240727T214800Z-surfing-1-1
 DTSTAMP:20240727T214800Z
 DTSTART:20240727T214800Z
 DTEND:20240727T221800Z
-DESCRIPTION:Surfing - Women's Round 1 - Heat 1\n🇺🇸 Caroline MARKS\n🇿🇦
-  Sarah BAUM\n🇵🇹 Yolanda HOPKINS
-SUMMARY:🏄 Women's Round 1 - Heat 1
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 女子第1轮 - 第1组\n🇺🇸 Caroline MARKS\n🇿🇦 Sarah BAUM\n🇵🇹
+  Yolanda HOPKINS
+SUMMARY:🏄 女子第1轮 - 第1组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T080000Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-64-KAZ-RSA
+UID:20240728T080000Z-fencing-64-KAZ-RSA
 DTSTAMP:20240728T080000Z
 DTSTART:20240728T080000Z
 DTEND:20240728T082500Z
-DESCRIPTION:Fencing - Men's Épée Individual Table of 64
+DESCRIPTION:击剑 - 男子个人重剑64强
 SUMMARY:🤺 Vadim SHARLAIMOV 🇰🇿 - 🇿🇦 Harry SANER
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T083000Z-equestrian-EVENTING-INDIVIDUAL-CROSS-COUNTRY
+UID:20240728T083000Z-equestrian--
 DTSTAMP:20240728T083000Z
 DTSTART:20240728T083000Z
 DTEND:20240728T133000Z
-DESCRIPTION:Equestrian - Eventing Individual Cross Country\n🇿🇦 Alexander
-  PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
-  MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
-  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
-  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹
-  Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni
-  UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱
-  Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
+DESCRIPTION:马术 - 三项赛 - 个人越野赛\n🇿🇦 Alexander PETERNELL\n🇮🇪 Austin
+  O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd MARTIN\n🇪🇸 Carlos DIAZ
+  FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph
+  WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
+  HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix
+  VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN
+  Alex\n🇦🇹 Harald AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱 Janneke
+  BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
   KRAJEWSKI\n🇯🇵 KITAJIMA Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
   DONCKERS\n🇨🇦 Karl SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE -
   MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
@@ -263,400 +278,442 @@ DESCRIPTION:Equestrian - Eventing Individual Cross Country\n🇿🇦 Alexander
   JONG\n🇮🇪 Sarah ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷
   Stephane LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim
   PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
-SUMMARY:🏇 Eventing Individual Cross Country
-LOCATION:Château de Versailles
+SUMMARY:🏇 三项赛 - 个人越野赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T090000Z-rowing-MENS-PAIR-HEATS
+UID:20240728T090000Z-rowing-
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T092700Z
-DESCRIPTION:Rowing - Men's Pair Heats\n🇦🇺 AUS\n🇭🇷 CRO\n🇩🇪 GER\n🇬🇧
-  GBR\n🇮🇪 IRL\n🇮🇹 ITA\n🇱🇹 LTU\n🇳🇿 NZL\n🇷🇴 ROU\n🇿🇦 RSA\n🇪🇸
-  ESP\n🇨🇭 SUI\n🇺🇸 USA
-SUMMARY:🚣 Men's Pair Heats
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 男子双人单桨分组预赛\n🇨🇭 Andrin GULICH\n🇺🇸 Billy BENDER\n🇿🇦
+  Christopher BAXTER\n🇳🇿 Daniel WILLIAMSON\n🇮🇹 Davide COMINI\n🇱🇹
+  Domantas STANKUNAS\n🇱🇹 Dovydas STANKUNAS\n🇷🇴 Florin ARTENI\n🇷🇴
+  Florin Sorin LEHACI\n🇮🇹 Giovanni CODATO\n🇪🇸 Jaime CANALEJO
+  PAZOS\n🇪🇸 Javier GARCIA ORDONEZ\n🇿🇦 John SMITH\n🇩🇪 Julius
+  CHRIST\n🇭🇷 Martin SINKOVIC\n🇮🇪 Nathan TIMONEY\n🇺🇸 Oliver BUB\n🇬🇧
+  Oliver WYNNE-GRIFFITH\n🇦🇺 Patrick HOLT\n🇳🇿 Phillip WILSON\n🇨🇭 Roman
+  ROEOESLI\n🇮🇪 Ross CORRIGAN\n🇦🇺 Simon KEENAN\n🇩🇪 Soenke KRUSE\n🇬🇧
+  Tom GEORGE\n🇭🇷 Valent SINKOVIC
+SUMMARY:🚣 男子双人单桨分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T092700Z-swimming-WOMENS-100M-BREASTSTROKE-HEATS
+UID:20240728T092700Z-swimming-100
 DTSTAMP:20240728T092700Z
 DTSTART:20240728T092700Z
 DTEND:20240728T094200Z
-DESCRIPTION:Swimming - Women's 100m Breaststroke - Heats\n🇦🇬 ANT\n🇦🇷
-  ARG\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇴 COL\n🇨🇰 COK\n🇨🇿 CZE\n🇪🇪
-  EST\n🇫🇮 FIN\n🇬🇲 GAM\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇼 KUW\n🇱🇧 LBN\n🇱🇹 LTU\n🇲🇾 MAS\n🇲🇦 MAR\n🇳🇱
-  NED\n🇵🇦 PAN\n🇵🇱 POL\n🇸🇬 SGP\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪 SWE\n🇨🇭
-  SUI\n🇺🇸 USA
-SUMMARY:🏊 Women's 100m Breaststroke - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子100米蛙泳分组预赛\n🇯🇵 AOKI Reona\n🇬🇲 Aminata Nia-Maria
+  BARROW\n🇮🇱 Anastasia GORBENKO\n🇬🇧 Angharad EVANS\n🇩🇪 Anna
+  ELENDT\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika SZTANDERA\n🇦🇬 Ellie
+  SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma WEBER\n🇸🇬 En Yi Letitia
+  SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦 Imane Houda EL
+  BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL MONTERO\n🇱🇹 Kotryna
+  TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei CONNOLLY\n🇰🇼 Lara
+  DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭 Lisa MAMIE\n🇱🇧 Lynn
+  EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇲🇾 Rouxin
+  TAN\n🇱🇹 Ruta MEILUTYTE\n🇯🇵 SUZUKI Satomi\n🇨🇦 Sophie ANGUS\n🇸🇪
+  Sophie HANSSON\n🇨🇴 Stefania GOMEZ HURTADO\n🇨🇳 TANG Qianting\n🇿🇦
+  Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
+SUMMARY:🏊 女子100米蛙泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T094300Z-swimming-MENS-100M-BACKSTROKE-HEATS
+UID:20240728T094300Z-swimming-100
 DTSTAMP:20240728T094300Z
 DTSTART:20240728T094300Z
 DTEND:20240728T095900Z
-DESCRIPTION:Swimming - Men's 100m Backstroke - Heats\n🇦🇷 ARG\n🇦🇺
-  AUS\n🇦🇹 AUT\n🇧🇯 BEN\n🇧🇲 BER\n🇧🇳 Brunei Darussalam\n🇨🇦 CAN\n🇨🇳
-  CHN\n🇨🇴 COL\n🇨🇿 CZE\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
-  GRE\n🇬🇩 GRN\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷
-  KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇸 PLE\n🇵🇱 POL\n🇵🇹 POR\n🇵🇷 PUR\n🇿🇦
-  RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇴 TGA\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇮
-  Virgin Islands, US
-SUMMARY:🏊 Men's 100m Backstroke - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子100米仰泳分组预赛\n🇭🇺 Adam JASZO\n🇮🇱 Adam MARAANA\n🇹🇴
+  Alan Koti Lopeti UHI\n🇧🇯 Alexis Michel Roger Dodji KPADE\n🇨🇴 Anthony
+  RINCON VELASCO\n🇬🇷 Apostolos CHRISTOU\n🇹🇷 Berke SAKA\n🇦🇹 Bernhard
+  REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley WOODWARD\n🇬🇷 Evangelos
+  MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸
+  Hunter ARMSTRONG\n🇦🇺 Isaac COOPER\n🇧🇲 Jack HARVEY\n🇨🇦 Javier
+  ACEVEDO\n🇵🇹 Joao COSTA\n🇬🇧 Jonny MARSHALL\n🇳🇱 Kai van
+  WESTERING\n🇳🇿 Kane FOLLOWS\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇯🇵
+  MATSUYAMA Riku\n🇩🇪 Marek ULRICH\n🇻🇮 Maximillian WILSON\n🇫🇷 Mewen
+  TOMAC\n🇮🇹 Michele LAMBERTI\n🇨🇿 Miroslav KNEDLA\n🇬🇪 Noe
+  PANSTKHAVA\n🇩🇪 Ole BRAUNSCHWEIG\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
+  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇮🇳
+  Srihari NATARAJ\n🇨🇭 Thierry BOLLIN\n🇮🇹 Thomas CECCON\n🇦🇷 Ulises
+  SARAVIA\n🇨🇳 XU Jiayu\n🇵🇸 Yazan AL BAWWAB\n🇵🇷 Yeziel MORALES\n🇫🇷
+  Yohann NDOYE-BROUARD\n🇬🇩 Zackary GRESHAM\n🇧🇳 Zeke CHAN
+SUMMARY:🏊 男子100米仰泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-skateboarding-WOMENS-STREET-PRELIMS
+UID:20240728T100000Z-skateboarding-
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T135000Z
-DESCRIPTION:Skateboarding - Women's Street Prelims\n🇯🇵 AKAMA Liz\n🇿🇦
-  Boipelo AWUAH\n🇨🇳 CUI Chenxi\n🇦🇺 Chloe COVELL\n🇪🇸 Daniela
-  TEROL\n🇧🇷 Gabi MAZETTO\n🇦🇺 Haylie POWELL\n🇳🇱 Keet
-  OLDENBEUVING\n🇦🇺 Liv LOVELACE\n🇫🇷 Lucie SCHOONHEERE\n🇺🇸 Mariah
-  DURAN\n🇯🇵 NAKAYAMA Funa\n🇪🇸 Natalia MUNOZ\n🇺🇸 Paige HEYN\n🇧🇷
-  Pamela ROSA\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa LEAL\n🇳🇱 Roos ZWETSLOOT\n🇹🇭
-  Vareeraya SUKASEM\n🇯🇵 YOSHIZAWA Coco\n🇨🇳 ZENG Wenhui\n🇨🇳 ZHU
-  Yuanling
-SUMMARY:🛹 Women's Street Prelims
-LOCATION:La Concorde 3
+DESCRIPTION:滑板 - 女子街式赛预赛\n🇯🇵 AKAMA Liz\n🇿🇦 Boipelo AWUAH\n🇨🇳 CUI
+  Chenxi\n🇦🇺 Chloe COVELL\n🇪🇸 Daniela TEROL\n🇧🇷 Gabi MAZETTO\n🇦🇺
+  Haylie POWELL\n🇳🇱 Keet OLDENBEUVING\n🇦🇺 Liv LOVELACE\n🇫🇷 Lucie
+  SCHOONHEERE\n🇺🇸 Mariah DURAN\n🇯🇵 NAKAYAMA Funa\n🇪🇸 Natalia
+  MUNOZ\n🇺🇸 Paige HEYN\n🇧🇷 Pamela ROSA\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa
+  LEAL\n🇳🇱 Roos ZWETSLOOT\n🇹🇭 Vareeraya SUKASEM\n🇯🇵 YOSHIZAWA
+  Coco\n🇨🇳 ZENG Wenhui\n🇨🇳 ZHU Yuanling
+SUMMARY:🛹 女子街式赛预赛
+LOCATION:协和广场3号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-swimming-WOMENS-200M-FREESTYLE-HEATS
+UID:20240728T100000Z-swimming-200
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T101600Z
-DESCRIPTION:Swimming - Women's 200m Freestyle - Heats\n🇦🇱 ALB\n🇦🇺
-  AUS\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇺 CUB\n🇨🇿 CZE\n🇪🇬
-  EGY\n🇩🇪 GER\n🇭🇳 HON\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇸 ISL\n🇮🇳
-  IND\n🇮🇱 ISR\n🇱🇦 Lao PDR\n🇲🇳 MGL\n🇳🇵 NEP\n🇳🇿 NZL\n🇵🇰 PAK\n🇷🇴
-  ROU\n🇸🇦 KSA\n🇿🇦 RSA\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇻🇪 VEN
-SUMMARY:🏊 Women's 200m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子200米自由泳分组预赛\n🇿🇦 Aimee CANNY\n🇨🇺 Andrea BECALI\n🇱🇦
+  Ariana Southa DIRKZWAGER\n🇦🇺 Ariarne TITMUS\n🇨🇿 Barbora
+  SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇮🇳 Dhinidhi DESINGHU\n🇳🇵 Duana
+  LAMA\n🇲🇳 Enkhkhuslen BATBAYAR\n🇳🇿 Erika FAIRWEATHER\n🇺🇸 Erin
+  GEMMELL\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇵🇰 Jehanara NABI\n🇩🇪 Julia
+  MROZINSKI\n🇭🇳 Julimar AVILA MANCIA\n🇦🇱 Kaltra MECA\n🇨🇳 LI
+  Bingjie\n🇮🇱 Lea POLONSKY\n🇭🇺 Lilla Minna ABRAHAM\n🇪🇬 Lojine ABDALLA
+  SALAH\n🇦🇪 Maha ALSHEHHI\n🇧🇷 Maria Fernanda COSTA\n🇻🇪 Maria Victoria
+  YEGRES COTTIN\n🇨🇦 Mary-Sophie HARVEY\n🇸🇦 Mashael Meshari A
+  ALAYED\n🇦🇺 Mollie O'CALLAGHAN\n🇭🇺 Nikolett PADAR\n🇷🇴 Rebecca-Aimee
+  DIACONESCU\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇧🇪 Valentine
+  DUMONT\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 女子200米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T104500Z-hockey-WOMENS-POOL-B-AUS-RSA
+UID:20240728T104500Z-hockey-B-AUS-RSA
 DTSTAMP:20240728T104500Z
 DTSTART:20240728T104500Z
 DTEND:20240728T121500Z
-DESCRIPTION:Hockey - Women's Pool B
-SUMMARY:🏑 AUS 🇦🇺 - 🇿🇦 RSA
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 女子分组循环赛B组
+SUMMARY:🏑 澳大利亚 🇦🇺 - 🇿🇦 南非
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T121000Z-cycling-mountain-bike-WOMENS-CROSS-COUNTRY
+UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
-DESCRIPTION:Cycling Mountain Bike - Women's Cross-country\n🇨🇿 Adela
-  HOLUBOVA\n🇨🇭 Alessandra KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie
-  HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹
-  Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽
-  Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley
-  BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla
-  MWAMIKAZI\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura
-  STIGGER\n🇫🇷 Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona
-  MITTERWALLNER\n🇩🇪 Nina BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND
-  PREVOT\n🇳🇱 Puck PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel
-  QUEIROS\n🇦🇺 Rebecca HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia
-  BLUNK\n🇨🇭 Sina FREI\n🇩🇰 Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳
-  WU Zhifan\n🇺🇦 Yana BELOMOINA
-SUMMARY:🚴 Women's Cross-country
-LOCATION:Elancourt Hill
+DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
+  KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
+  Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
+  MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
+  SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
+  HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla MWAMIKAZI\n🇸🇪 Jenny
+  RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana
+  LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
+  BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND PREVOT\n🇳🇱 Puck
+  PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel QUEIROS\n🇦🇺 Rebecca
+  HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
+  Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳 WU Zhifan\n🇺🇦 Yana
+  BELOMOINA
+SUMMARY:🚴 女子越野赛
+LOCATION:埃朗库尔山
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T140000Z-rugby-sevens-WOMENS-POOL-B-AUS-RSA
+UID:20240728T140000Z-rugby-sevens-B-AUS-RSA
 DTSTAMP:20240728T140000Z
 DTSTART:20240728T140000Z
 DTEND:20240728T141600Z
-DESCRIPTION:Rugby Sevens - Women's Pool B
-SUMMARY:🏉 AUS 🇦🇺 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛B组
+SUMMARY:🏉 澳大利亚 🇦🇺 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T170000Z-rugby-sevens-WOMENS-POOL-B-IRL-RSA
+UID:20240728T170000Z-rugby-sevens-B-IRL-RSA
 DTSTAMP:20240728T170000Z
 DTSTART:20240728T170000Z
 DTEND:20240728T171600Z
-DESCRIPTION:Rugby Sevens - Women's Pool B
-SUMMARY:🏉 IRL 🇮🇪 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛B组
+SUMMARY:🏉 爱尔兰 🇮🇪 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T173600Z-surfing-WOMENS-ROUND-2-HEAT-2-RSA-GER
+UID:20240728T173600Z-surfing-2-2-RSA-GER
 DTSTAMP:20240728T173600Z
 DTSTART:20240728T173600Z
 DTEND:20240728T180600Z
-DESCRIPTION:Surfing - Women's Round 2 - Heat 2
+DESCRIPTION:冲浪 - 女子第2轮 - 第2组
 SUMMARY:🏄 Sarah BAUM 🇿🇦 - 🇩🇪 Camilla KEMP
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T181500Z-hockey-MENS-POOL-A-RSA-GBR
+UID:20240728T181500Z-hockey-A-RSA-GBR
 DTSTAMP:20240728T181500Z
 DTSTART:20240728T181500Z
 DTEND:20240728T194500Z
-DESCRIPTION:Hockey - Men's Pool A
-SUMMARY:🏑 RSA 🇿🇦 - 🇬🇧 GBR
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛A组
+SUMMARY:🏑 南非 🇿🇦 - 🇬🇧 英国
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T191000Z-swimming-WOMENS-100M-BREASTSTROKE-SEMIFINALS
+UID:20240728T191000Z-swimming-100
 DTSTAMP:20240728T191000Z
 DTSTART:20240728T191000Z
 DTEND:20240728T192200Z
-DESCRIPTION:Swimming - Women's 100m Breaststroke Semifinals\n🇦🇷 ARG\n🇨🇳
-  CHN\n🇪🇪 EST\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇵 JPN\n🇱🇹 LTU\n🇳🇱
-  NED\n🇿🇦 RSA\n🇸🇪 SWE\n🇺🇸 USA
-SUMMARY:🏊 Women's 100m Breaststroke Semifinals
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子100米蛙泳半决赛\n🇬🇧 Angharad EVANS\n🇮🇹 Benedetta
+  PILATO\n🇪🇪 Eneli JEFIMOVA\n🇱🇹 Kotryna TETEREVKOVA\n🇺🇸 Lilly
+  KING\n🇮🇹 Lisa ANGIOLINI\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc
+  SHARRY\n🇱🇹 Ruta MEILUTYTE\n🇯🇵 SUZUKI Satomi\n🇸🇪 Sophie
+  HANSSON\n🇨🇳 TANG Qianting\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳
+  YANG Chang
+SUMMARY:🏊 女子100米蛙泳半决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T193200Z-swimming-MENS-100M-BACKSTROKE-SEMIFINALS
+UID:20240728T193200Z-swimming-100
 DTSTAMP:20240728T193200Z
 DTSTART:20240728T193200Z
 DTEND:20240728T194400Z
-DESCRIPTION:Swimming - Men's 100m Backstroke Semifinals\n🇨🇦 CAN\n🇨🇳
-  CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇮🇹 ITA\n🇵🇱
-  POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇺🇸 USA
-SUMMARY:🏊 Men's 100m Backstroke Semifinals
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子100米仰泳半决赛\n🇬🇷 Apostolos CHRISTOU\n🇨🇦 Blake
+  TIERNEY\n🇬🇷 Evangelos MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ
+  de OLIVEIRA\n🇺🇸 Hunter ARMSTRONG\n🇬🇧 Jonny MARSHALL\n🇵🇱 Ksawery
+  MASIUK\n🇫🇷 Mewen TOMAC\n🇨🇿 Miroslav KNEDLA\n🇬🇧 Oliver MORGAN\n🇿🇦
+  Pieter COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷
+  Yohann NDOYE-BROUARD
+SUMMARY:🏊 男子100米仰泳半决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T195000Z-swimming-WOMENS-200M-FREESTYLE-SEMIFINALS
+UID:20240728T195000Z-swimming-200
 DTSTAMP:20240728T195000Z
 DTSTART:20240728T195000Z
 DTEND:20240728T200400Z
-DESCRIPTION:Swimming - Women's 200m Freestyle Semifinals\n🇦🇺 AUS\n🇧🇪
-  BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿 CZE\n🇭🇰 Hong Kong, China\n🇭🇺
-  HUN\n🇮🇸 ISL\n🇳🇿 NZL\n🇷🇴 ROU\n🇿🇦 RSA\n🇺🇸 USA
-SUMMARY:🏊 Women's 200m Freestyle Semifinals
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子200米自由泳半决赛\n🇿🇦 Aimee CANNY\n🇦🇺 Ariarne TITMUS\n🇨🇿
+  Barbora SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇳🇿 Erika FAIRWEATHER\n🇺🇸
+  Erin GEMMELL\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇨🇳 LI Bingjie\n🇭🇺
+  Lilla Minna ABRAHAM\n🇧🇷 Maria Fernanda COSTA\n🇨🇦 Mary-Sophie
+  HARVEY\n🇦🇺 Mollie O'CALLAGHAN\n🇷🇴 Rebecca-Aimee DIACONESCU\n🇮🇸
+  Snaefridur Sol JORUNNARDOTTIR\n🇧🇪 Valentine DUMONT\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 女子200米自由泳半决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T231000Z-surfing-MENS-ROUND-2-HEAT-3-RSA-INA
+UID:20240728T231000Z-surfing-2-3-RSA-INA
 DTSTAMP:20240728T231000Z
 DTSTART:20240728T231000Z
 DTEND:20240728T234000Z
-DESCRIPTION:Surfing - Men's Round 2 - Heat 3
+DESCRIPTION:冲浪 - 男子第2轮 - 第3组
 SUMMARY:🏄 Jordy SMITH 🇿🇦 - 🇮🇩 Rio WAIDA
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T234600Z-surfing-MENS-ROUND-2-HEAT-4-FRA-RSA
+UID:20240728T234600Z-surfing-2-4-FRA-RSA
 DTSTAMP:20240728T234600Z
 DTSTART:20240728T234600Z
 DTEND:20240729T001600Z
-DESCRIPTION:Surfing - Men's Round 2 - Heat 4
+DESCRIPTION:冲浪 - 男子第2轮 - 第4组
 SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇿🇦 Matthew McGILLIVRAY
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-QUALIFIER
+UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
-DESCRIPTION:Equestrian - Eventing Individual Jumping Qualifier\n🇿🇦
-  Alexander PETERNELL\n🇮🇪 Aoife CLARK\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs
-  KAIZINGER\n🇺🇸 Boyd MARTIN\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph
-  WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
-  HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix
-  VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN
-  Alex\n🇦🇹 Harald AMBROS\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica
-  PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent
-  LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl SLEZAK\n🇧🇪 Lara de LIEDEKERKE
-  - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
-  KORYCKA\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody JOHNER\n🇩🇪 Michael
-  JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas
-  TOUZAINT\n🇪🇨 Nicolas WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA
-  Yoshiaki\n🇩🇰 Peter T. FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf
-  KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin
-  GODEL\n🇬🇧 Rosalind CANTER\n🇧🇷 Ruy FONSECA\n🇳🇱 Sanne de JONG\n🇦🇺
-  Shane ROSE\n🇦🇺 Shenae LOWINGS\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane
-  LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TANAKA Toshiyuki\n🇯🇵 TOMOTO
-  Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera
-  MANNINEN\n🇵🇱 Wiktoria KNAP
-SUMMARY:🏇 Eventing Individual Jumping Qualifier
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛 - 个人场地障碍预赛\n🇿🇦 Alexander PETERNELL\n🇮🇪 Aoife
+  CLARK\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
+  MARTIN\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher
+  BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇪🇸 Esteban
+  BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
+  ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald
+  AMBROS\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle
+  PRICE\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
+  DONCKERS\n🇨🇦 Karl SLEZAK\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura
+  COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata KORYCKA\n🇧🇷 Marcio
+  CARVALHO JORGE\n🇨🇭 Melody JOHNER\n🇩🇪 Michael JUNG\n🇨🇦 Michael
+  WINTER\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas
+  WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T.
+  FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf KOOREMANS\n🇧🇷 Rafael MAMPRIN
+  LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin GODEL\n🇬🇧 Rosalind CANTER\n🇧🇷
+  Ruy FONSECA\n🇳🇱 Sanne de JONG\n🇦🇺 Shane ROSE\n🇦🇺 Shenae
+  LOWINGS\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane LANDOIS\n🇮🇪 Susannah
+  BERRY\n🇯🇵 TANAKA Toshiyuki\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪
+  Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN\n🇵🇱 Wiktoria KNAP
+SUMMARY:🏇 三项赛 - 个人场地障碍预赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-skateboarding-MENS-STREET-PRELIMS
+UID:20240729T100000Z-skateboarding-
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T135000Z
-DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
-  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
-  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
-  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
-  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
-  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
-  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
-  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
-SUMMARY:🛹 Men's Street Prelims
-LOCATION:La Concorde 3
+DESCRIPTION:滑板 - 男子街式赛预赛\n🇫🇷 Aurelien GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸
+  Chris JOSLIN\n🇨🇦 Cordano RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni
+  VIANNA\n🇵🇹 Gustavo RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴
+  Jhancarlos GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷
+  Matias DELL OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah
+  HUSTON\n🇯🇵 ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵
+  SHIRAI Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
+SUMMARY:🛹 男子街式赛预赛
+LOCATION:协和广场3号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-H-MAS-
+UID:20240729T120000Z-badminton--H-MAS-RSA
 DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
 DTEND:20240729T124000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group H
+DESCRIPTION:羽毛球 - 女子单打小组赛 - H组
 SUMMARY:🏸 Jin Wei GOH 🇲🇾 - 🇿🇦 Johanita SCHOLTZ
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120000Z-rugby-sevens-WOMENS-POOL-B-GBR-RSA
+UID:20240729T120000Z-rugby-sevens-B-GBR-RSA
 DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
 DTEND:20240729T121600Z
-DESCRIPTION:Rugby Sevens - Women's Pool B
-SUMMARY:🏉 GBR 🇬🇧 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛B组
+SUMMARY:🏉 英国 🇬🇧 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY
+UID:20240729T121000Z-cycling-mountain-bike-
 DTSTAMP:20240729T121000Z
 DTSTART:20240729T121000Z
 DTEND:20240729T134000Z
-DESCRIPTION:Cycling Mountain Bike - Men's Cross-country\n🇲🇽 Adair Zabdiel
-  GUTIERREZ PRIETO\n🇿🇦 Alan HATHERLY\n🇳🇦 Alex MILLER\n🇬🇧 Charlie
-  ALDRIDGE\n🇺🇸 Christopher BLEVINS\n🇪🇸 David VALERO SERRANO\n🇨🇴 Diego
-  Alfonso ARIAS CUERVO\n🇷🇴 Ede-Karoly MOLNAR\n🇨🇦 Gunnar HOLMGREN\n🇧🇪
-  Jens SCHUERMANS\n🇪🇸 Jofre CULLELL ESTAPE\n🇫🇮 Joni SAVASTE\n🇫🇷
-  Jordan SARROU\n🇩🇪 Julian SCHELB\n🇳🇴 Knut ROEHME\n🇵🇱 Krzysztof
-  LUKASIK\n🇮🇹 Luca BRAIDOT\n🇩🇪 Luca SCHWARZBAUER\n🇨🇳 MI
-  Jiujiang\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻 Martins BLUMS\n🇨🇭 Mathias
-  FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇭 Nino SCHURTER\n🇺🇦 Oleksandr
-  HUDYMA\n🇨🇿 Ondrej CINK\n🇧🇪 Pierre de FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮
-  Romano PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰 Simon ANDREASSEN\n🇮🇹 Simone
-  AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer ZALTSMAN\n🇧🇷 Ulan BASTOS
-  GALINSKI\n🇫🇷 Victor KORETZKY
-SUMMARY:🚴 Men's Cross-country
-LOCATION:Elancourt Hill
+DESCRIPTION:山地自行车 - 男子越野赛\n🇲🇽 Adair Zabdiel GUTIERREZ PRIETO\n🇿🇦 Alan
+  HATHERLY\n🇳🇦 Alex MILLER\n🇬🇧 Charlie ALDRIDGE\n🇺🇸 Christopher
+  BLEVINS\n🇪🇸 David VALERO SERRANO\n🇨🇴 Diego Alfonso ARIAS CUERVO\n🇷🇴
+  Ede-Karoly MOLNAR\n🇨🇦 Gunnar HOLMGREN\n🇧🇪 Jens SCHUERMANS\n🇪🇸 Jofre
+  CULLELL ESTAPE\n🇫🇮 Joni SAVASTE\n🇫🇷 Jordan SARROU\n🇩🇪 Julian
+  SCHELB\n🇳🇴 Knut ROEHME\n🇵🇱 Krzysztof LUKASIK\n🇮🇹 Luca BRAIDOT\n🇩🇪
+  Luca SCHWARZBAUER\n🇨🇳 MI Jiujiang\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻
+  Martins BLUMS\n🇨🇭 Mathias FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇭 Nino
+  SCHURTER\n🇺🇦 Oleksandr HUDYMA\n🇨🇿 Ondrej CINK\n🇧🇪 Pierre de
+  FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮 Romano PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰
+  Simon ANDREASSEN\n🇮🇹 Simone AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer
+  ZALTSMAN\n🇧🇷 Ulan BASTOS GALINSKI\n🇫🇷 Victor KORETZKY
+SUMMARY:🚴 男子越野赛
+LOCATION:埃朗库尔山
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T153000Z-hockey-WOMENS-POOL-B-RSA-ARG
+UID:20240729T153000Z-hockey-B-RSA-ARG
 DTSTAMP:20240729T153000Z
 DTSTART:20240729T153000Z
 DTEND:20240729T170000Z
-DESCRIPTION:Hockey - Women's Pool B
-SUMMARY:🏑 RSA 🇿🇦 - 🇦🇷 ARG
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 女子分组循环赛B组
+SUMMARY:🏑 南非 🇿🇦 - 🇦🇷 阿根廷
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T170000Z-surfing-MENS-ROUND-3-HEAT-1-PER-RSA
+UID:20240729T170000Z-surfing-3-1-PER-RSA
 DTSTAMP:20240729T170000Z
 DTSTART:20240729T170000Z
 DTEND:20240729T173000Z
-DESCRIPTION:Surfing - Men's Round 3 - Heat 1
+DESCRIPTION:冲浪 - 男子第3轮 - 第1组
 SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇿🇦 Jordy SMITH
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T180000Z-rugby-sevens-WOMENS-PLACING-9-12-JPN-RSA
+UID:20240729T180000Z-rugby-sevens-9-12-JPN-RSA
 DTSTAMP:20240729T180000Z
 DTSTART:20240729T180000Z
 DTEND:20240729T181600Z
-DESCRIPTION:Rugby Sevens - Women's Placing 9-12
-SUMMARY:🏉 JPN 🇯🇵 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子9-12名排名赛
+SUMMARY:🏉 日本 🇯🇵 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T192700Z-swimming-MENS-100M-BACKSTROKE-FINAL
+UID:20240729T192700Z-swimming-100
 DTSTAMP:20240729T192700Z
 DTSTART:20240729T192700Z
 DTEND:20240729T193400Z
-DESCRIPTION:Swimming - Men's 100m Backstroke Final\n🇬🇷 Apostolos
-  CHRISTOU\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
-  COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
-  NDOYE-BROUARD
-SUMMARY:🏊 Men's 100m Backstroke Final
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子100米仰泳决赛\n🇬🇷 Apostolos CHRISTOU\n🇪🇸 Hugo GONZALEZ de
+  OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹
+  Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann NDOYE-BROUARD
+SUMMARY:🏊 男子100米仰泳决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T193400Z-swimming-WOMENS-100M-BREASTSTROKE-FINAL
+UID:20240729T193400Z-swimming-100
 DTSTAMP:20240729T193400Z
 DTSTART:20240729T193400Z
 DTEND:20240729T194100Z
-DESCRIPTION:Swimming - Women's 100m Breaststroke Final\n🇬🇧 Angharad
-  EVANS\n🇮🇹 Benedetta PILATO\n🇪🇪 Eneli JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪
-  Mona Mc SHARRY\n🇨🇳 TANG Qianting\n🇿🇦 Tatjana SMITH
-SUMMARY:🏊 Women's 100m Breaststroke Final
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子100米蛙泳决赛\n🇬🇧 Angharad EVANS\n🇮🇹 Benedetta
+  PILATO\n🇪🇪 Eneli JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪 Mona Mc SHARRY\n🇨🇳
+  TANG Qianting\n🇿🇦 Tatjana SMITH
+SUMMARY:🏊 女子100米蛙泳决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T233600Z-surfing-WOMENS-ROUND-3-HEAT-4-USA-RSA
+UID:20240729T233600Z-surfing-3-4-USA-RSA
 DTSTAMP:20240729T233600Z
 DTSTART:20240729T233600Z
 DTEND:20240730T000600Z
-DESCRIPTION:Surfing - Women's Round 3 - Heat 4
+DESCRIPTION:冲浪 - 女子第3轮 - 第4组
 SUMMARY:🏄 Carissa MOORE 🇺🇸 - 🇿🇦 Sarah BAUM
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T073000Z-rowing-WOMENS-SINGLE-SCULLS-QUARTERFINALS
+UID:20240730T073000Z-rowing-14
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T080700Z
-DESCRIPTION:Rowing - Women's Single Sculls Quarterfinals\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇩🇪 GER\n🇮🇷 IR Iran\n🇱🇹 LTU\n🇲🇽
-  MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇾 PAR\n🇵🇪 PER\n🇵🇭 PHI\n🇷🇸 SRB\n🇸🇮
-  SLO\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇷 TUR\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇳 VIE
-SUMMARY:🚣 Women's Single Sculls Quarterfinals
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 女子单人双桨1/4决赛\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
+  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
+  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
+  TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
+SUMMARY:🚣 女子单人双桨1/4决赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T083000Z-hockey-MENS-POOL-A-RSA-GER
+UID:20240730T083000Z-hockey-A-RSA-GER
 DTSTAMP:20240730T083000Z
 DTSTART:20240730T083000Z
 DTEND:20240730T100000Z
-DESCRIPTION:Hockey - Men's Pool A
-SUMMARY:🏑 RSA 🇿🇦 - 🇩🇪 GER
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛A组
+SUMMARY:🏑 南非 🇿🇦 - 🇩🇪 德国
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T090000Z-swimming-MENS-200M-BUTTERFLY-HEATS
+UID:20240730T090000Z-swimming-200
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T091751Z
-DESCRIPTION:Swimming - Men's 200m Butterfly - Heats\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇹🇼 TPE\n🏳️
-  EOR\n🇪🇪 EST\n🇫🇷 FRA\n🇭🇺 HUN\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇿
-  NZL\n🇳🇮 NCA\n🇵🇱 POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
-SUMMARY:🏊 Men's 200m Butterfly - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子200米蝶泳分组预赛\n🇮🇹 Alberto RAZZETTI\n🇪🇸 Arbidel GONZALEZ
+  ALVAREZ\n🇺🇦 Denys KESIL\n🇳🇮 Gerald HERNANDEZ\n🇮🇹 Giacomo
+  CARINI\n🇯🇵 HONDA Tomoru\n🇨🇦 Ilya KHARUN\n🇰🇷 KIM Minseop\n🇪🇪
+  Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱 Krzysztof CHMIELEWSKI\n🇫🇷 Leon
+  MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇺🇸 Luca URLANDO\n🇦🇹 Martin
+  ESPERNBERGER\n🏳️ Matin BALSINI\n🇿🇦 Matthew SATES\n🇦🇺 Matthew
+  TEMPLE\n🇵🇱 Michal CHMIELEWSKI\n🇨🇳 NIU Guangsheng\n🇧🇷 Nicolas
+  ALBIERO\n🇨🇭 Noe PONTI\n🇧🇬 Petar Petrov MITSIN\n🇦🇿 Ramil
+  VALIZADA\n🇭🇺 Richard MARTON\n🇯🇵 TERAKADO Genki\n🇺🇸 Thomas
+  HEILMAN\n🇹🇼 WANG Kuan-Hung
+SUMMARY:🏊 男子200米蝶泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T131145Z-cycling-bmx-freestyle-MENS-PARK-QUALIFICATION
+UID:20240730T131145Z-cycling-bmx-freestyle-
 DTSTAMP:20240730T131145Z
 DTSTART:20240730T131145Z
 DTEND:20240730T142845Z
-DESCRIPTION:Cycling BMX Freestyle - Men's Park Qualification\n🇫🇷 Anthony
-  JEANJEAN\n🇱🇻 Ernests ZEBOLDS\n🇧🇷 Gustavo BATISTA de OLIVEIRA\n🇨🇦
-  Jeffrey WHALEY\n🇦🇷 Jose TORRES GIL\n🇺🇸 Justin DOWELL\n🇬🇧 Kieran
-  Darren David REILLY\n🇦🇺 Logan MARTIN\n🇺🇸 Marcus CHRISTOPHER\n🇭🇷
-  Marin RANTES\n🇯🇵 NAKAMURA Rimu\n🇿🇦 Vincent LEYGONIE
-SUMMARY:🚴 Men's Park Qualification
-LOCATION:La Concorde 2
+DESCRIPTION:自由式小轮车 - 男子公园赛预赛\n🇫🇷 Anthony JEANJEAN\n🇱🇻 Ernests
+  ZEBOLDS\n🇧🇷 Gustavo BATISTA de OLIVEIRA\n🇨🇦 Jeffrey WHALEY\n🇦🇷 Jose
+  TORRES GIL\n🇺🇸 Justin DOWELL\n🇬🇧 Kieran Darren David REILLY\n🇦🇺
+  Logan MARTIN\n🇺🇸 Marcus CHRISTOPHER\n🇭🇷 Marin RANTES\n🇯🇵 NAKAMURA
+  Rimu\n🇿🇦 Vincent LEYGONIE
+SUMMARY:🚴 男子公园赛预赛
+LOCATION:协和广场2号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T143000Z-rugby-sevens-WOMENS-PLACING-11-12-RSA-FIJ
+UID:20240730T143000Z-rugby-sevens-11-12-RSA-FIJ
 DTSTAMP:20240730T143000Z
 DTSTART:20240730T143000Z
 DTEND:20240730T144600Z
-DESCRIPTION:Rugby Sevens - Women's Placing 11-12
-SUMMARY:🏉 RSA 🇿🇦 - 🇫🇯 FIJ
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子11-12名排名赛
+SUMMARY:🏉 南非 🇿🇦 - 🇫🇯 斐济
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T060000Z-triathlon-WOMENS-INDIVIDUAL
+UID:20240731T060000Z-triathlon-
 DTSTAMP:20240731T060000Z
 DTSTART:20240731T060000Z
 DTEND:20240731T080500Z
-DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
-  Alberte KJAER PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧
-  Beth POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
+  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
   SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
   HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
   LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
@@ -672,180 +729,205 @@ DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
   Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
   SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
   MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
-SUMMARY:🏊 Women's Individual
-LOCATION:Pont Alexandre III
+SUMMARY:🏊 女子个人赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T083000Z-hockey-WOMENS-POOL-B-RSA-GBR
+UID:20240731T083000Z-hockey-B-RSA-GBR
 DTSTAMP:20240731T083000Z
 DTSTART:20240731T083000Z
 DTEND:20240731T100000Z
-DESCRIPTION:Hockey - Women's Pool B
-SUMMARY:🏑 RSA 🇿🇦 - 🇬🇧 GBR
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 女子分组循环赛B组
+SUMMARY:🏑 南非 🇿🇦 - 🇬🇧 英国
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T083400Z-rowing-MENS-PAIR-SEMIFINAL-AB-1
+UID:20240731T083400Z-rowing--AB-1
 DTSTAMP:20240731T083400Z
 DTSTART:20240731T083400Z
 DTEND:20240731T084100Z
-DESCRIPTION:Rowing - Men's Pair Semifinal A/B 1\n🇭🇷 CRO\n🇱🇹 LTU\n🇿🇦
-  RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇸 USA
-SUMMARY:🚣 Men's Pair Semifinal A/B 1
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 男子双人单桨半决赛 A/B 1\n🇭🇷 克罗地亚\n🇿🇦 南非\n🇨🇭 瑞士\n🇱🇹
+  立陶宛\n🇺🇸 美国\n🇪🇸 西班牙
+SUMMARY:🚣 男子双人单桨半决赛 A/B 1
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T084500Z-triathlon-MENS-INDIVIDUAL
+UID:20240731T084500Z-triathlon-
 DTSTAMP:20240731T084500Z
 DTSTART:20240731T084500Z
 DTEND:20240731T104500Z
-DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
-  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
-  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
-  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
-  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
-  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
-  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
-  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
-  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
-  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
-  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
-  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
-  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
-  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
-  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
-  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
-  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
-  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
-  Bergsvik THORN
-SUMMARY:🏊 Men's Individual
-LOCATION:Pont Alexandre III
+DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
+  GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois KNABL\n🇪🇸
+  Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR MOYSEN\n🇭🇺 Bence
+  BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto GRAJALES\n🇭🇺 Csongor
+  LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿 Dylan McCULLOUGH\n🇹🇬
+  Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix DUCHAMPT\n🇨🇱 Gaspar
+  RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden WILDE\n🇿🇦 Henri
+  SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad ABDELMOULA\n🇲🇺 Jean Gael
+  Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas SCHOMBURG\n🇳🇴 Kristian
+  BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷
+  Manoel MESSIAS\n🇧🇪 Marten VAN RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew
+  WRIGHT\n🇨🇭 Max STUDER\n🇧🇷 Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸
+  Morgan PEARSON\n🇯🇵 NENER Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA
+  Makoto\n🇫🇷 Pierre le CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard
+  MURRAY\n🇪🇸 Roberto SANCHEZ MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧
+  Samuel DICKINSON\n🇺🇸 Seth RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim
+  HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦 Tyler MISLAWCHUK\n🇧🇲 Tyler
+  SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle Bergsvik THORN
+SUMMARY:🏊 男子个人赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T090000Z-swimming-WOMENS-200M-BREASTSTROKE-HEATS
+UID:20240731T090000Z-swimming-200
 DTSTAMP:20240731T090000Z
 DTSTART:20240731T090000Z
 DTEND:20240731T092100Z
-DESCRIPTION:Swimming - Women's 200m Breaststroke - Heats\n🇦🇷 ARG\n🇦🇺
-  AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿 CZE\n🇩🇰 DEN\n🇪🇪 EST\n🇮🇪 IRL\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇱🇹 LTU\n🇳🇱 NED\n🇸🇬 SGP\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪
-  SWE\n🇨🇭 SUI\n🇺🇸 USA
-SUMMARY:🏊 Women's 200m Breaststroke - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子200米蛙泳分组预赛\n🇦🇺 Ella RAMSAY\n🇸🇬 En Yi Letitia
+  SIM\n🇪🇪 Eneli JEFIMOVA\n🇮🇹 Francesca FANGIO\n🇦🇺 Jenna STRAUCH\n🇪🇸
+  Jessica VALL MONTERO\n🇺🇸 Kate DOUGLASS\n🇿🇦 Kaylene CORBETT\n🇨🇦
+  Kelsey WOG\n🇱🇹 Kotryna TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇺🇸 Lilly
+  KING\n🇨🇭 Lisa MAMIE\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇯🇵
+  SUZUKI Satomi\n🇸🇪 Sophie HANSSON\n🇨🇦 Sydney PICKREM\n🇿🇦 Tatjana
+  SMITH\n🇳🇱 Tes SCHOUTEN\n🇩🇰 Thea BLOMSTERBERG\n🇨🇳 YE Shiwen
+SUMMARY:🏊 女子200米蛙泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T092100Z-swimming-MENS-200M-BACKSTROKE-HEATS
+UID:20240731T092100Z-swimming-200
 DTSTAMP:20240731T092100Z
 DTSTART:20240731T092100Z
 DTEND:20240731T094600Z
-DESCRIPTION:Swimming - Men's 200m Backstroke - Heats\n🇦🇺 AUS\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇮🇱
-  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇵🇷
-  PUR\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇩 SUD\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA\n🇿🇼 ZIM
-SUMMARY:🏊 Men's 200m Backstroke - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子200米仰泳分组预赛\n🇭🇺 Adam TELEGDY\n🇬🇷 Apostolos
+  CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley
+  WOODWARD\n🇮🇱 David GERCHIK\n🇿🇼 Denilson CYPRIANOS\n🇭🇺 Hubert
+  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇳🇱 Kai van WESTERING\n🇳🇿 Kane
+  FOLLOWS\n🇺🇸 Keaton JONES\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
+  Lukas MAERTENS\n🇬🇧 Luke GREENBANK\n🇮🇹 Matteo RESTIVO\n🇫🇷 Mewen
+  TOMAC\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
+  COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇦🇺 Se-Bom LEE\n🇯🇵
+  TAKEHARA Hidekazu\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇵🇷 Yeziel
+  MORALES\n🇫🇷 Yohann NDOYE-BROUARD\n🇸🇩 Ziyad SALEEM
+SUMMARY:🏊 男子200米仰泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T171600Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-RSA-KOR
+UID:20240731T171600Z-archery-132-RSA-KOR
 DTSTAMP:20240731T171600Z
 DTSTART:20240731T171600Z
 DTEND:20240731T172900Z
-DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 男子个人1/32淘汰赛
 SUMMARY:🏹 Wian ROUX 🇿🇦 - 🇰🇷 KIM Je Deok
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T174500Z-hockey-MENS-POOL-A-ESP-RSA
+UID:20240731T174500Z-hockey-A-ESP-RSA
 DTSTAMP:20240731T174500Z
 DTSTART:20240731T174500Z
 DTEND:20240731T191500Z
-DESCRIPTION:Hockey - Men's Pool A
-SUMMARY:🏑 ESP 🇪🇸 - 🇿🇦 RSA
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛A组
+SUMMARY:🏑 西班牙 🇪🇸 - 🇿🇦 南非
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T094000Z-swimming-MENS-200M-INDIVIDUAL-MEDLEY-HEATS
+UID:20240801T094000Z-swimming-200
 DTSTAMP:20240801T094000Z
 DTSTART:20240801T094000Z
 DTEND:20240801T095500Z
-DESCRIPTION:Swimming - Men's 200m Individual Medley - Heats\n🇩🇿 ALG\n🇦🇺
-  AUS\n🇧🇴 BOL\n🇨🇦 CAN\n🇨🇳 CHN\n🇪🇨 ECU\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷
-  GRE\n🇬🇹 GUA\n🇭🇺 HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇿 NZL\n🇵🇾
-  PAR\n🇸🇨 SEY\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇷 TUR\n🇺🇸 USA
-SUMMARY:🏊 Men's 200m Individual Medley - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子200米个人混合泳分组预赛\n🇮🇹 Alberto RAZZETTI\n🇬🇷 Apostolos
+  PAPASTAMOS\n🇹🇷 Berke SAKA\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇬🇹
+  Erick GORDILLO\n🇧🇴 Esteban NUNEZ del PRADO\n🇨🇦 Finlay KNOX\n🇭🇺
+  Gabor ZOMBORI\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇩🇿 Jaouad SYOUD\n🇨🇭
+  Jeremy DESPLANCHES\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇵🇾 Matheo
+  MATEOS\n🇿🇦 Matthew SATES\n🇮🇱 Ron POLONSKY\n🇯🇵 SETO Daiya\n🇺🇸
+  Shaine CASAS\n🇸🇨 Simon BACHMANN\n🇦🇺 Thomas NEILL\n🇬🇧 Tom DEAN\n🇪🇨
+  Tomas PERIBONIO AVILA\n🇨🇳 WANG Shun\n🇦🇺 William Campbell PETRIC
+SUMMARY:🏊 男子200米个人混合泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T153000Z-hockey-WOMENS-POOL-B-ESP-RSA
+UID:20240801T153000Z-hockey-B-ESP-RSA
 DTSTAMP:20240801T153000Z
 DTSTART:20240801T153000Z
 DTEND:20240801T170000Z
-DESCRIPTION:Hockey - Women's Pool B
-SUMMARY:🏑 ESP 🇪🇸 - 🇿🇦 RSA
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 女子分组循环赛B组
+SUMMARY:🏑 西班牙 🇪🇸 - 🇿🇦 南非
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T090000Z-swimming-MENS-100M-BUTTERFLY-HEATS
+UID:20240802T090000Z-swimming-100
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
 DTEND:20240802T091300Z
-DESCRIPTION:Swimming - Men's 100m Butterfly - Heats\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇭🇷 CRO\n🇨🇿 CZE\n🇫🇷
-  FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇩 INA\n🇮🇶 IRQ\n🇮🇱 ISR\n🇯🇲
-  JAM\n🇯🇵 JPN\n🇰🇿 KAZ\n🇲🇪 MNE\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇭 PHI\n🇵🇱
-  POL\n🇵🇹 POR\n🇷🇼 RWA\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇬 UGA\n🇺🇸
-  USA\n🇾🇪 YEM
-SUMMARY:🏊 Men's 100m Butterfly - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子100米蝶泳分组预赛\n🇰🇿 Adilbek MUSSIN\n🇦🇺 Ben
+  ARMBRUSTER\n🇺🇸 Caeleb DRESSEL\n🇳🇿 Cameron GRAY\n🇿🇦 Chad le
+  CLOS\n🇫🇷 Clement SECCHI\n🇨🇿 Daniel GRACIK\n🇵🇹 Diogo MATOS
+  RIBEIRO\n🇮🇱 Gal COHEN GROUMI\n🇮🇶 Hasan Ali Khaleel AL-ZINKEE\n🇭🇺
+  Hubert KOS\n🇨🇦 Ilya KHARUN\n🇵🇱 Jakub MAJERSKI\n🇬🇧 James GUY\n🇵🇭
+  Jarod HATCH\n🇺🇬 Jesse Ssuubi SSENGONZI\n🇮🇩 Joe KURNIAWAN\n🇯🇲 Josh
+  KIRLEW\n🇨🇦 Josh LIENDO\n🇧🇬 Josif MILADINOV\n🇩🇪 Kaii WINKLER\n🇧🇷
+  Kayky MOTA\n🇭🇺 Kristof MILAK\n🇯🇵 MATSUMOTO Katsuhiro\n🇯🇵 MIZUNUMA
+  Naoki\n🇪🇸 Mario MOLLA YANES\n🇿🇦 Matthew SATES\n🇦🇺 Matthew
+  TEMPLE\n🇫🇷 Maxime GROUSSET\n🇲🇪 Milos MILENKOVIC\n🇭🇷 Nikola
+  MILJENIC\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE\n🇷🇼 Oscar Cyusa PEYRE
+  MITILLA\n🇨🇳 SUN Jiajun\n🇦🇹 Simon BUCHER\n🇺🇸 Thomas HEILMAN\n🇮🇱
+  Tomer FRANKEL\n🇨🇳 WANG Changhao\n🇾🇪 Yusuf Marwan Abdullah NASSER
+SUMMARY:🏊 男子100米蝶泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T091400Z-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-HEATS
+UID:20240802T091400Z-swimming-200
 DTSTAMP:20240802T091400Z
 DTSTART:20240802T091400Z
 DTEND:20240802T093400Z
-DESCRIPTION:Swimming - Women's 200m Individual Medley - Heats\n🇦🇺
-  AUS\n🇦🇹 AUT\n🇨🇻 CPV\n🇨🇦 CAN\n🇨🇳 CHN\n🇹🇼 TPE\n🇨🇿 CZE\n🇫🇷
-  FRA\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇩 INA\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵
-  JPN\n🇰🇷 KOR\n🇱🇻 LAT\n🇳🇱 NED\n🇵🇸 PLE\n🇵🇪 PER\n🇵🇷 PUR\n🇸🇰
-  SVK\n🇿🇦 RSA\n🇪🇸 ESP\n🇺🇸 USA\n🇺🇾 URU\n🇻🇳 VIE
-SUMMARY:🏊 Women's 200m Individual Medley - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子200米个人混合泳分组预赛\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
+  Anastasia GORBENKO\n🇮🇩 Azzahra PERMATAHANI\n🇨🇿 Barbora
+  SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma SEBESTYEN\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇬🇧 Freya
+  Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva MALUKA\n🇨🇻 Jayla
+  PINA\n🇰🇷 KIM Seoyeong\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇵🇷
+  Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena KREUNDL\n🇯🇵
+  MATSUMOTO Shiho\n🇳🇱 Marrit STEENBERGEN\n🇵🇪 McKenna de BEVER\n🇺🇾
+  Nicole FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara
+  FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara
+  POTOCKA\n🇻🇳 Thi My Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE
+  Shiwen\n🇨🇳 YU Yiting
+SUMMARY:🏊 女子200米个人混合泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T174500Z-hockey-MENS-POOL-A-FRA-RSA
+UID:20240802T174500Z-hockey-A-FRA-RSA
 DTSTAMP:20240802T174500Z
 DTSTART:20240802T174500Z
 DTEND:20240802T191500Z
-DESCRIPTION:Hockey - Men's Pool A
-SUMMARY:🏑 FRA 🇫🇷 - 🇿🇦 RSA
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛A组
+SUMMARY:🏑 法国 🇫🇷 - 🇿🇦 南非
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T111500Z-hockey-WOMENS-POOL-B-USA-RSA
+UID:20240803T111500Z-hockey-B-USA-RSA
 DTSTAMP:20240803T111500Z
 DTSTART:20240803T111500Z
 DTEND:20240803T124500Z
-DESCRIPTION:Hockey - Women's Pool B
-SUMMARY:🏑 USA 🇺🇸 - 🇿🇦 RSA
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 女子分组循环赛B组
+SUMMARY:🏑 美国 🇺🇸 - 🇿🇦 南非
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T130000Z-diving-WOMENS-3M-SPRINGBOARD-PRELIMINARY
+UID:20240807T130000Z-diving-3
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
 DTEND:20240807T145700Z
-DESCRIPTION:Diving - Women's 3m Springboard Preliminary\n🇲🇽 Alejandra
-  ESTUDILLO TORRES\n🇺🇸 Alison GIBSON\n🇦🇺 Alysha KOLOI\n🇨🇺 Anisley
-  GARCIA NAVARRO\n🇲🇽 Aranza VAZQUEZ MONTANO\n🇨🇳 CHANG Yani\n🇨🇳 CHEN
-  Yiwen\n🇮🇹 Chiara PELLACANI\n🇯🇵 ENOMOTO Haruka\n🇮🇹 Elena
-  BERTOCCHI\n🇸🇪 Emilia NILSSON GARIP\n🇬🇧 Grace REID\n🇳🇴 Helle
-  TUXEN\n🇩🇪 Jette MULLER\n🇿🇦 Julia VINCENT\n🇰🇷 KIM Suji\n🇳🇿 Lizzie
-  ROUSSEL\n🇯🇵 MIKAMI Sayaka\n🇦🇺 Maddison KEENEY\n🇪🇬 Maha AMER\n🇨🇦
-  Margo ERLAM\n🇲🇾 Nur Dhabitah SABRI\n🇨🇺 Prisis RUIZ\n🇺🇸 Sarah
-  BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇺🇦 Viktoriya
-  KESAR\n🇬🇧 Yasmin HARPER
-SUMMARY:🏊 Women's 3m Springboard Preliminary
-LOCATION:Aquatics Centre
+DESCRIPTION:跳水 - 女子3米跳板跳水预赛\n🇲🇽 Alejandra ESTUDILLO TORRES\n🇺🇸 Alison
+  GIBSON\n🇦🇺 Alysha KOLOI\n🇨🇺 Anisley GARCIA NAVARRO\n🇲🇽 Aranza
+  VAZQUEZ MONTANO\n🇨🇳 CHANG Yani\n🇨🇳 CHEN Yiwen\n🇮🇹 Chiara
+  PELLACANI\n🇯🇵 ENOMOTO Haruka\n🇮🇹 Elena BERTOCCHI\n🇸🇪 Emilia NILSSON
+  GARIP\n🇬🇧 Grace REID\n🇳🇴 Helle TUXEN\n🇩🇪 Jette MULLER\n🇿🇦 Julia
+  VINCENT\n🇰🇷 KIM Suji\n🇳🇿 Lizzie ROUSSEL\n🇯🇵 MIKAMI Sayaka\n🇦🇺
+  Maddison KEENEY\n🇪🇬 Maha AMER\n🇨🇦 Margo ERLAM\n🇲🇾 Nur Dhabitah
+  SABRI\n🇨🇺 Prisis RUIZ\n🇺🇸 Sarah BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸
+  Valeria ANTOLINO\n🇺🇦 Viktoriya KESAR\n🇬🇧 Yasmin HARPER
+SUMMARY:🏊 女子3米跳板跳水预赛
+LOCATION:水上运动中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

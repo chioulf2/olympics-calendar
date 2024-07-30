@@ -1,42 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/PUR//EN
-X-WR-CALNAME:🇵🇷 Puerto Rico Table Tennis | Paris 2024
-NAME:🇵🇷 Puerto Rico Table Tennis | Paris 2024
+X-WR-CALNAME:🇵🇷 Puerto Rico 乒乓球 | Paris 2024
+NAME:🇵🇷 Puerto Rico 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T184500Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-PUR-SRB
+UID:20240727T184500Z-table-tennis-64-PUR-SRB
 DTSTAMP:20240727T184500Z
 DTSTART:20240727T184500Z
 DTEND:20240727T193000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Adriana DIAZ 🇵🇷 - 🇷🇸 Izabela LUPULESKU
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T110000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-KOR-PUR
+UID:20240728T110000Z-table-tennis-64-KOR-PUR
 DTSTAMP:20240728T110000Z
 DTSTART:20240728T110000Z
 DTEND:20240728T120000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 JANG Woojin 🇰🇷 - 🇵🇷 Daniel GONZALEZ
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T180000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-PUR-TPE
+UID:20240728T180000Z-table-tennis-64-PUR-TPE
 DTSTAMP:20240728T180000Z
 DTSTART:20240728T180000Z
 DTEND:20240728T190000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Brian AFANADOR 🇵🇷 - 🇹🇼 LIN Yun-Ju
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T200000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-32-PUR-USA
+UID:20240729T200000Z-table-tennis-32-PUR-USA
 DTSTAMP:20240729T200000Z
 DTSTART:20240729T200000Z
 DTEND:20240729T210000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 32
+DESCRIPTION:乒乓球 - 女子单打32强赛
 SUMMARY:🏓 Adriana DIAZ 🇵🇷 - 🇺🇸 Amy WANG
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

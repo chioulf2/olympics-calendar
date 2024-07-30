@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/TAN//EN
-X-WR-CALNAME:🇹🇿 Tanzania Judo | Paris 2024
-NAME:🇹🇿 Tanzania Judo | Paris 2024
+X-WR-CALNAME:🇹🇿 Tanzania 柔道 | Paris 2024
+NAME:🇹🇿 Tanzania 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T085400Z-judo-MEN-73-KG-ELIMINATION-ROUND-OF-32-TAN-SAM
+UID:20240729T085400Z-judo-7332-TAN-SAM
 DTSTAMP:20240729T085400Z
 DTSTART:20240729T085400Z
 DTEND:20240729T090000Z
-DESCRIPTION:Judo - Men -73 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子73公斤级32强淘汰赛
 SUMMARY:🥋 Andrew Thomas MLUGU 🇹🇿 - 🇼🇸 William TAI TIN
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T095400Z-judo-MEN-73-KG-ELIMINATION-ROUND-OF-16-FRA-TAN
+UID:20240729T095400Z-judo-7316-FRA-TAN
 DTSTAMP:20240729T095400Z
 DTSTART:20240729T095400Z
 DTEND:20240729T100000Z
-DESCRIPTION:Judo - Men -73 kg Elimination Round of 16
+DESCRIPTION:柔道 - 男子73公斤级16强淘汰赛
 SUMMARY:🥋 Joan-Benjamin GABA 🇫🇷 - 🇹🇿 Andrew Thomas MLUGU
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

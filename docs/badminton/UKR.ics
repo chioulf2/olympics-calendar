@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/UKR//EN
-X-WR-CALNAME:🇺🇦 Ukraine Badminton | Paris 2024
-NAME:🇺🇦 Ukraine Badminton | Paris 2024
+X-WR-CALNAME:🇺🇦 Ukraine 羽毛球 | Paris 2024
+NAME:🇺🇦 Ukraine 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T125000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-G-INA-
+UID:20240728T125000Z-badminton--G-INA-UKR
 DTSTAMP:20240728T125000Z
 DTSTART:20240728T125000Z
 DTEND:20240728T133000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group G
+DESCRIPTION:羽毛球 - 女子单打小组赛 - G组
 SUMMARY:🏸 Gregoria Mariska TUNJUNG 🇮🇩 - 🇺🇦 Polina BUHROVA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T090000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-G-CZE-
+UID:20240730T090000Z-badminton--G-CZE-UKR
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T100000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group G
+DESCRIPTION:羽毛球 - 女子单打小组赛 - G组
 SUMMARY:🏸 Tereza SVABIKOVA 🇨🇿 - 🇺🇦 Polina BUHROVA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

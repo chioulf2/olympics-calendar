@@ -1,46 +1,46 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//skateboarding/medals//EN
-X-WR-CALNAME:🛹 Skateboarding 🏅 | Paris 2024
-NAME:🛹 Skateboarding 🏅 | Paris 2024
+X-WR-CALNAME:🛹 滑板 🏅 | Paris 2024
+NAME:🛹 滑板 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T150000Z-skateboarding-WOMENS-STREET-FINAL
+UID:20240728T150000Z-skateboarding-
 DTSTAMP:20240728T150000Z
 DTSTART:20240728T150000Z
 DTEND:20240728T163000Z
-DESCRIPTION:Skateboarding - Women's Street Final\n🇯🇵 AKAMA Liz\n🇨🇳 CUI
-  Chenxi\n🇦🇺 Chloe COVELL\n🇯🇵 NAKAYAMA Funa\n🇺🇸 Paige HEYN\n🇺🇸 Poe
-  PINSON\n🇧🇷 Rayssa LEAL\n🇯🇵 YOSHIZAWA Coco
-SUMMARY:🛹 Women's Street Final
-LOCATION:La Concorde 3
+DESCRIPTION:滑板 - 女子街式赛决赛\n🇯🇵 AKAMA Liz\n🇨🇳 CUI Chenxi\n🇦🇺 Chloe
+  COVELL\n🇯🇵 NAKAYAMA Funa\n🇺🇸 Paige HEYN\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa
+  LEAL\n🇯🇵 YOSHIZAWA Coco
+SUMMARY:🛹 女子街式赛决赛
+LOCATION:协和广场3号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T150000Z-skateboarding-MENS-STREET-FINAL
+UID:20240729T150000Z-skateboarding-
 DTSTAMP:20240729T150000Z
 DTSTART:20240729T150000Z
 DTEND:20240729T163000Z
-DESCRIPTION:Skateboarding - Men's Street Final\n🇨🇦 Cordano RUSSELL\n🇯🇵
-  HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
-  OLIO\n🇺🇸 Nyjah HUSTON\n🇸🇰 Richard TURY\n🇯🇵 SHIRAI Sora
-SUMMARY:🛹 Men's Street Final
-LOCATION:La Concorde 3
+DESCRIPTION:滑板 - 男子街式赛决赛\n🇨🇦 Cordano RUSSELL\n🇯🇵 HORIGOME Yuto\n🇺🇸
+  Jagger EATON\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL OLIO\n🇺🇸 Nyjah
+  HUSTON\n🇸🇰 Richard TURY\n🇯🇵 SHIRAI Sora
+SUMMARY:🛹 男子街式赛决赛
+LOCATION:协和广场3号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T153000Z-skateboarding-WOMENS-PARK-FINAL
+UID:20240806T153000Z-skateboarding-
 DTSTAMP:20240806T153000Z
 DTSTART:20240806T153000Z
 DTEND:20240806T161400Z
-DESCRIPTION:Skateboarding - Women's Park Final
-SUMMARY:🛹 Women's Park Final
-LOCATION:La Concorde 4
+DESCRIPTION:滑板 - 女子公园赛决赛
+SUMMARY:🛹 女子公园赛决赛
+LOCATION:协和广场4号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T153000Z-skateboarding-MENS-PARK-FINAL
+UID:20240807T153000Z-skateboarding-
 DTSTAMP:20240807T153000Z
 DTSTART:20240807T153000Z
 DTEND:20240807T161400Z
-DESCRIPTION:Skateboarding - Men's Park Final
-SUMMARY:🛹 Men's Park Final
-LOCATION:La Concorde 4
+DESCRIPTION:滑板 - 男子公园赛决赛
+SUMMARY:🛹 男子公园赛决赛
+LOCATION:协和广场4号场地
 END:VEVENT
 END:VCALENDAR

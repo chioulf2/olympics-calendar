@@ -1,42 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//sport-climbing/medals//EN
-X-WR-CALNAME:🧗 Sport Climbing 🏅 | Paris 2024
-NAME:🧗 Sport Climbing 🏅 | Paris 2024
+X-WR-CALNAME:🧗 运动攀岩 🏅 | Paris 2024
+NAME:🧗 运动攀岩 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240807T105430Z-sport-climbing-WOMENS-SPEED-FINAL
+UID:20240807T105430Z-sport-climbing-
 DTSTAMP:20240807T105430Z
 DTSTART:20240807T105430Z
 DTEND:20240807T105930Z
-DESCRIPTION:Sport Climbing - Women's Speed, Final
-SUMMARY:🧗 Women's Speed, Final
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子速度赛决赛
+SUMMARY:🧗 女子速度赛决赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T105430Z-sport-climbing-MENS-SPEED-FINAL
+UID:20240808T105430Z-sport-climbing-
 DTSTAMP:20240808T105430Z
 DTSTART:20240808T105430Z
 DTEND:20240808T105930Z
-DESCRIPTION:Sport Climbing - Men's Speed, Final
-SUMMARY:🧗 Men's Speed, Final
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子速度赛决赛
+SUMMARY:🧗 男子速度赛决赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T103500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-LEAD
+UID:20240809T103500Z-sport-climbing--
 DTSTAMP:20240809T103500Z
 DTSTART:20240809T103500Z
 DTEND:20240809T112000Z
-DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Lead
-SUMMARY:🧗 Men's Boulder & Lead, Final Lead
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子攀石和难度攀岩决赛 - 难度攀岩
+SUMMARY:🧗 男子攀石和难度攀岩决赛 - 难度攀岩
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T103500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-LEAD
+UID:20240810T103500Z-sport-climbing--
 DTSTAMP:20240810T103500Z
 DTSTART:20240810T103500Z
 DTEND:20240810T112000Z
-DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Lead
-SUMMARY:🧗 Women's Boulder & Lead, Final Lead
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子攀石和难度攀岩决赛 - 难度攀岩
+SUMMARY:🧗 女子攀石和难度攀岩决赛 - 难度攀岩
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 END:VCALENDAR

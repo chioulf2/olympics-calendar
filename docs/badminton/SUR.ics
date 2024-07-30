@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/SUR//EN
-X-WR-CALNAME:🇸🇷 Suriname Badminton | Paris 2024
-NAME:🇸🇷 Suriname Badminton | Paris 2024
+X-WR-CALNAME:🇸🇷 Suriname 羽毛球 | Paris 2024
+NAME:🇸🇷 Suriname 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T090000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-A-CHN-SU
+UID:20240727T090000Z-badminton--A-CHN-SUR
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T100000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group A
+DESCRIPTION:羽毛球 - 男子单打小组赛 - A组
 SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇸🇷 Soren OPTI
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T081000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-A-ITA-SU
+UID:20240729T081000Z-badminton--A-ITA-SUR
 DTSTAMP:20240729T081000Z
 DTSTART:20240729T081000Z
 DTEND:20240729T085000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group A
+DESCRIPTION:羽毛球 - 男子单打小组赛 - A组
 SUMMARY:🏸 Giovanni TOTI 🇮🇹 - 🇸🇷 Soren OPTI
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

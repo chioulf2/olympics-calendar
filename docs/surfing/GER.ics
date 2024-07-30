@@ -1,44 +1,44 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//surfing/GER//EN
-X-WR-CALNAME:🇩🇪 Germany Surfing | Paris 2024
-NAME:🇩🇪 Germany Surfing | Paris 2024
+X-WR-CALNAME:🇩🇪 Germany 冲浪 | Paris 2024
+NAME:🇩🇪 Germany 冲浪 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T170000Z-surfing-MENS-ROUND-1-HEAT-1
+UID:20240727T170000Z-surfing-1-1
 DTSTAMP:20240727T170000Z
 DTSTART:20240727T170000Z
 DTEND:20240727T173000Z
-DESCRIPTION:Surfing - Men's Round 1 - Heat 1\n🇦🇺 Ethan EWING\n🇿🇦 Jordy
-  SMITH\n🇩🇪 Tim ELTER
-SUMMARY:🏄 Men's Round 1 - Heat 1
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 男子第1轮 - 第1组\n🇦🇺 Ethan EWING\n🇿🇦 Jordy SMITH\n🇩🇪 Tim
+  ELTER
+SUMMARY:🏄 男子第1轮 - 第1组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T004800Z-surfing-WOMENS-ROUND-1-HEAT-6
+UID:20240728T004800Z-surfing-1-6
 DTSTAMP:20240728T004800Z
 DTSTART:20240728T004800Z
 DTEND:20240728T011800Z
-DESCRIPTION:Surfing - Women's Round 1 - Heat 6\n🇩🇪 Camilla KEMP\n🇧🇷
-  Luana SILVA\n🇧🇷 Taina HINCKEL
-SUMMARY:🏄 Women's Round 1 - Heat 6
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 女子第1轮 - 第6组\n🇩🇪 Camilla KEMP\n🇧🇷 Luana SILVA\n🇧🇷
+  Taina HINCKEL
+SUMMARY:🏄 女子第1轮 - 第6组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T173600Z-surfing-WOMENS-ROUND-2-HEAT-2-RSA-GER
+UID:20240728T173600Z-surfing-2-2-RSA-GER
 DTSTAMP:20240728T173600Z
 DTSTART:20240728T173600Z
 DTEND:20240728T180600Z
-DESCRIPTION:Surfing - Women's Round 2 - Heat 2
+DESCRIPTION:冲浪 - 女子第2轮 - 第2组
 SUMMARY:🏄 Sarah BAUM 🇿🇦 - 🇩🇪 Camilla KEMP
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T222400Z-surfing-MENS-ROUND-2-HEAT-2-JPN-GER
+UID:20240728T222400Z-surfing-2-2-JPN-GER
 DTSTAMP:20240728T222400Z
 DTSTART:20240728T222400Z
 DTEND:20240728T230400Z
-DESCRIPTION:Surfing - Men's Round 2 - Heat 2
+DESCRIPTION:冲浪 - 男子第2轮 - 第2组
 SUMMARY:🏄 O'LEARY Connor 🇯🇵 - 🇩🇪 Tim ELTER
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 END:VCALENDAR

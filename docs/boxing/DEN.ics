@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//boxing/DEN//EN
-X-WR-CALNAME:🇩🇰 Denmark Boxing | Paris 2024
-NAME:🇩🇰 Denmark Boxing | Paris 2024
+X-WR-CALNAME:🇩🇰 Denmark 拳击 | Paris 2024
+NAME:🇩🇰 Denmark 拳击 | Paris 2024
 BEGIN:VEVENT
-UID:20240731T143400Z-boxing-MENS-71KG-PRELIMINARIES-ROUND-OF-16-FRA-DEN
+UID:20240731T143400Z-boxing-71-16-FRA-DEN
 DTSTAMP:20240731T143400Z
 DTSTART:20240731T143400Z
 DTEND:20240731T144500Z
-DESCRIPTION:Boxing - Men's 71kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 男子71公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Makan TRAORE 🇫🇷 - 🇩🇰 Nikolai TERTERYAN
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 END:VCALENDAR

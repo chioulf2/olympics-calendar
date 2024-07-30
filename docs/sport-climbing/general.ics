@@ -1,168 +1,168 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//sport-climbing/general//EN
-X-WR-CALNAME:🧗 Sport Climbing | Paris 2024
-NAME:🧗 Sport Climbing | Paris 2024
+X-WR-CALNAME:🧗 运动攀岩 | Paris 2024
+NAME:🧗 运动攀岩 | Paris 2024
 BEGIN:VEVENT
-UID:20240805T080000Z-sport-climbing-MENS-BOULDER-LEAD-SEMIFINAL-BOULDER
+UID:20240805T080000Z-sport-climbing--
 DTSTAMP:20240805T080000Z
 DTSTART:20240805T080000Z
 DTEND:20240805T101700Z
-DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Semifinal Boulder
-SUMMARY:🧗 Men's Boulder & Lead, Semifinal Boulder
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子攀石和难度攀岩半决赛 - 攀石
+SUMMARY:🧗 男子攀石和难度攀岩半决赛 - 攀石
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T110000Z-sport-climbing-WOMENS-SPEED-QUALIFICATION-SEEDING-HEAT
+UID:20240805T110000Z-sport-climbing-
 DTSTAMP:20240805T110000Z
 DTSTART:20240805T110000Z
 DTEND:20240805T112500Z
-DESCRIPTION:Sport Climbing - Women's Speed, Qualification Seeding heats
-SUMMARY:🧗 Women's Speed, Qualification Seeding heats
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子速度赛资格赛种子排名
+SUMMARY:🧗 女子速度赛资格赛种子排名
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T113500Z-sport-climbing-WOMENS-SPEED-QUALIFICATION-ELIMINATION-
+UID:20240805T113500Z-sport-climbing-
 DTSTAMP:20240805T113500Z
 DTSTART:20240805T113500Z
 DTEND:20240805T115500Z
-DESCRIPTION:Sport Climbing - Women's Speed, Qualification Elimination heats
-SUMMARY:🧗 Women's Speed, Qualification Elimination heats
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子速度赛,资格淘汰赛
+SUMMARY:🧗 女子速度赛,资格淘汰赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T080000Z-sport-climbing-WOMENS-BOULDER-LEAD-SEMIFINAL-BOULDER
+UID:20240806T080000Z-sport-climbing--
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
 DTEND:20240806T101700Z
-DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Semifinal Boulder
-SUMMARY:🧗 Women's Boulder & Lead, Semifinal Boulder
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子攀石和难度攀岩半决赛 - 攀石
+SUMMARY:🧗 女子攀石和难度攀岩半决赛 - 攀石
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T110000Z-sport-climbing-MENS-SPEED-QUALIFICATION-SEEDING
+UID:20240806T110000Z-sport-climbing-
 DTSTAMP:20240806T110000Z
 DTSTART:20240806T110000Z
 DTEND:20240806T112500Z
-DESCRIPTION:Sport Climbing - Men's Speed, Qualification Seeding
-SUMMARY:🧗 Men's Speed, Qualification Seeding
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子速度赛资格赛种子排名
+SUMMARY:🧗 男子速度赛资格赛种子排名
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T113500Z-sport-climbing-MENS-SPEED-QUALIFICATION-ELIMINATION-HE
+UID:20240806T113500Z-sport-climbing--
 DTSTAMP:20240806T113500Z
 DTSTART:20240806T113500Z
 DTEND:20240806T115500Z
-DESCRIPTION:Sport Climbing - Men's Speed, Qualification Elimination heats
-SUMMARY:🧗 Men's Speed, Qualification Elimination heats
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子速度赛, 资格淘汰赛 
+SUMMARY:🧗 男子速度赛, 资格淘汰赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T080000Z-sport-climbing-MENS-BOULDER-LEAD-SEMIFINAL-LEAD
+UID:20240807T080000Z-sport-climbing--
 DTSTAMP:20240807T080000Z
 DTSTART:20240807T080000Z
 DTEND:20240807T100500Z
-DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Semifinal Lead
-SUMMARY:🧗 Men's Boulder & Lead, Semifinal Lead
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子攀石和难度攀岩半决赛 - 难度攀岩
+SUMMARY:🧗 男子攀石和难度攀岩半决赛 - 难度攀岩
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T103500Z-sport-climbing-WOMENS-SPEED-QUARTERFINALS
+UID:20240807T103500Z-sport-climbing-14
 DTSTAMP:20240807T103500Z
 DTSTART:20240807T103500Z
 DTEND:20240807T104300Z
-DESCRIPTION:Sport Climbing - Women's Speed, Quarterfinals
-SUMMARY:🧗 Women's Speed, Quarterfinals
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子速度赛1/4决赛
+SUMMARY:🧗 女子速度赛1/4决赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T104630Z-sport-climbing-WOMENS-SPEED-SEMIFINALS
+UID:20240807T104630Z-sport-climbing-
 DTSTAMP:20240807T104630Z
 DTSTART:20240807T104630Z
 DTEND:20240807T105030Z
-DESCRIPTION:Sport Climbing - Women's Speed, Semifinals
-SUMMARY:🧗 Women's Speed, Semifinals
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子速度赛半决赛
+SUMMARY:🧗 女子速度赛半决赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T105430Z-sport-climbing-WOMENS-SPEED-FINAL
+UID:20240807T105430Z-sport-climbing-
 DTSTAMP:20240807T105430Z
 DTSTART:20240807T105430Z
 DTEND:20240807T105930Z
-DESCRIPTION:Sport Climbing - Women's Speed, Final
-SUMMARY:🧗 Women's Speed, Final
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子速度赛决赛
+SUMMARY:🧗 女子速度赛决赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T080000Z-sport-climbing-WOMENS-BOULDER-LEAD-SEMIFINAL-LEAD
+UID:20240808T080000Z-sport-climbing--
 DTSTAMP:20240808T080000Z
 DTSTART:20240808T080000Z
 DTEND:20240808T100500Z
-DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Semifinal Lead
-SUMMARY:🧗 Women's Boulder & Lead, Semifinal Lead
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子攀石和难度攀岩半决赛 - 难度攀岩
+SUMMARY:🧗 女子攀石和难度攀岩半决赛 - 难度攀岩
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T103500Z-sport-climbing-MENS-SPEED-QUARTERFINALS
+UID:20240808T103500Z-sport-climbing-14
 DTSTAMP:20240808T103500Z
 DTSTART:20240808T103500Z
 DTEND:20240808T104300Z
-DESCRIPTION:Sport Climbing - Men's Speed, Quarterfinals
-SUMMARY:🧗 Men's Speed, Quarterfinals
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子速度赛1/4决赛
+SUMMARY:🧗 男子速度赛1/4决赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T104630Z-sport-climbing-MENS-SPEED-SEMIFINALS
+UID:20240808T104630Z-sport-climbing-
 DTSTAMP:20240808T104630Z
 DTSTART:20240808T104630Z
 DTEND:20240808T105030Z
-DESCRIPTION:Sport Climbing - Men's Speed, Semifinals
-SUMMARY:🧗 Men's Speed, Semifinals
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子速度赛半决赛
+SUMMARY:🧗 男子速度赛半决赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T105430Z-sport-climbing-MENS-SPEED-FINAL
+UID:20240808T105430Z-sport-climbing-
 DTSTAMP:20240808T105430Z
 DTSTART:20240808T105430Z
 DTEND:20240808T105930Z
-DESCRIPTION:Sport Climbing - Men's Speed, Final
-SUMMARY:🧗 Men's Speed, Final
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子速度赛决赛
+SUMMARY:🧗 男子速度赛决赛
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T081500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-BOULDER
+UID:20240809T081500Z-sport-climbing--
 DTSTAMP:20240809T081500Z
 DTSTART:20240809T081500Z
 DTEND:20240809T095200Z
-DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Boulder
-SUMMARY:🧗 Men's Boulder & Lead, Final Boulder
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子攀石和难度攀岩决赛 - 攀石
+SUMMARY:🧗 男子攀石和难度攀岩决赛 - 攀石
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T103500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-LEAD
+UID:20240809T103500Z-sport-climbing--
 DTSTAMP:20240809T103500Z
 DTSTART:20240809T103500Z
 DTEND:20240809T112000Z
-DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Lead
-SUMMARY:🧗 Men's Boulder & Lead, Final Lead
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 男子攀石和难度攀岩决赛 - 难度攀岩
+SUMMARY:🧗 男子攀石和难度攀岩决赛 - 难度攀岩
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T081500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-BOULDER
+UID:20240810T081500Z-sport-climbing--
 DTSTAMP:20240810T081500Z
 DTSTART:20240810T081500Z
 DTEND:20240810T095200Z
-DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Boulder
-SUMMARY:🧗 Women's Boulder & Lead, Final Boulder
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子攀石和难度攀岩决赛 - 攀石
+SUMMARY:🧗 女子攀石和难度攀岩决赛 - 攀石
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T103500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-LEAD
+UID:20240810T103500Z-sport-climbing--
 DTSTAMP:20240810T103500Z
 DTSTART:20240810T103500Z
 DTEND:20240810T112000Z
-DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Lead
-SUMMARY:🧗 Women's Boulder & Lead, Final Lead
-LOCATION:Le Bourget Climbing Venue
+DESCRIPTION:运动攀岩 - 女子攀石和难度攀岩决赛 - 难度攀岩
+SUMMARY:🧗 女子攀石和难度攀岩决赛 - 难度攀岩
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 END:VCALENDAR

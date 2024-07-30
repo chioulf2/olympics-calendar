@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/PLE//EN
-X-WR-CALNAME:🇵🇸 Palestine Judo | Paris 2024
-NAME:🇵🇸 Palestine Judo | Paris 2024
+X-WR-CALNAME:🇵🇸 Palestine 柔道 | Paris 2024
+NAME:🇵🇸 Palestine 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T090600Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-TJK-PLE
+UID:20240730T090600Z-judo-8132-TJK-PLE
 DTSTAMP:20240730T090600Z
 DTSTART:20240730T090600Z
 DTEND:20240730T091200Z
-DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
 SUMMARY:🥋 Somon MAKHMADBEKOV 🇹🇯 - 🇵🇸 Fares BADAWI
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

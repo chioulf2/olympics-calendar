@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//cycling-bmx-freestyle/medals//EN
-X-WR-CALNAME:🚴 Cycling BMX Freestyle 🏅 | Paris 2024
-NAME:🚴 Cycling BMX Freestyle 🏅 | Paris 2024
+X-WR-CALNAME:🚴 自由式小轮车 🏅 | Paris 2024
+NAME:🚴 自由式小轮车 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240731T111000Z-cycling-bmx-freestyle-WOMENS-PARK-FINAL
+UID:20240731T111000Z-cycling-bmx-freestyle-
 DTSTAMP:20240731T111000Z
 DTSTART:20240731T111000Z
 DTEND:20240731T120500Z
-DESCRIPTION:Cycling BMX Freestyle - Women's Park Final
-SUMMARY:🚴 Women's Park Final
-LOCATION:La Concorde 2
+DESCRIPTION:自由式小轮车 - 女子公园赛决赛
+SUMMARY:🚴 女子公园赛决赛
+LOCATION:协和广场2号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T124445Z-cycling-bmx-freestyle-MENS-PARK-FINAL
+UID:20240731T124445Z-cycling-bmx-freestyle-
 DTSTAMP:20240731T124445Z
 DTSTART:20240731T124445Z
 DTEND:20240731T133945Z
-DESCRIPTION:Cycling BMX Freestyle - Men's Park Final
-SUMMARY:🚴 Men's Park Final
-LOCATION:La Concorde 2
+DESCRIPTION:自由式小轮车 - 男子公园赛决赛
+SUMMARY:🚴 男子公园赛决赛
+LOCATION:协和广场2号场地
 END:VEVENT
 END:VCALENDAR
