@@ -17,13 +17,9 @@ UID:20240727T091200Z-swimming-400
 DTSTAMP:20240727T091200Z
 DTSTART:20240727T091200Z
 DTEND:20240727T093000Z
-DESCRIPTION:游泳 - 女子400米自由泳分組預賽\n🇦🇷 Agostina HEIN\n🇭🇺 Ajna KESELY\n🇫🇷
-  Anastasiia KIRPICHNIKOVA\n🇺🇿 Anastasiya ZELINSKAYA\n🇦🇺 Ariarne
-  TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇳🇿 Eve THOMAS\n🇧🇷 Gabrielle
-  RONCATTO\n🇩🇪 Isabel GOSE\n🇦🇺 Jamie PERKINS\n🇯🇴 Karin BELBEISI\n🇺🇸
-  Katie LEDECKY\n🇯🇵 KOBORI Waka\n🇩🇪 Leonie MAERTENS\n🇨🇳 LI
-  Bingjie\n🇨🇳 LIU Yaxin\n🇧🇷 Maria Fernanda COSTA\n🇻🇮 Natalia Jean
-  KUIPERS\n🇺🇸 Paige MADDEN\n🇨🇦 Summer McINTOSH\n🇧🇪 Valentine DUMONT
+DESCRIPTION:游泳 - 女子400米自由泳分組預賽\n🇨🇳 中國\n🇧🇷 巴西\n🇯🇵 日本\n🇧🇪 比利時\n🇨🇦
+  加拿大\n🇭🇺 匈牙利\n🇫🇷 法國\n🇦🇷 阿根廷\n🇯🇴 約旦\n🇺🇸 美國\n🇻🇮 美屬維爾京群島\n🇺🇿
+  烏茲別克斯坦\n🇳🇿 新西蘭\n🇩🇪 德國\n🇦🇺 澳大利亞
 SUMMARY:🏊 女子400米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -77,15 +73,10 @@ UID:20240730T110153Z-swimming-200
 DTSTAMP:20240730T110153Z
 DTSTART:20240730T110153Z
 DTEND:20240730T112042Z
-DESCRIPTION:游泳 - 男子200米蛙泳分組預賽\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro
-  AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler
-  CHRISTIANSON\n🇳🇱 Caspar CORBEAU\n🇰🇷 CHO Sung Jae\n🇱🇻 Daniils
-  BOBROVS\n🇰🇬 Denis PETRASHOV\n🇨🇳 DONG Zhihao\n🇸🇪 Erik PERSSON\n🇯🇵
-  HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺 Joshua
-  YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
-  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
-  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
-  Ippei\n🇦🇺 Zac STUBBLETY-COOK
+DESCRIPTION:游泳 - 男子200米蛙泳分組預賽\n🇨🇳 中國\n🇧🇭 巴林\n🇵🇦 巴拿馬\n🇯🇵 日本\n🇱🇹
+  立陶宛\n🇮🇸 冰島\n🇰🇬 吉爾吉斯斯坦\n🇱🇻 拉脫維亞\n🇫🇷 法國\n🇵🇱 波蘭\n🇫🇮 芬蘭\n🇧🇬
+  保加利亞\n🇭🇳 洪都拉斯\n🇯🇴 約旦\n🇺🇸 美國\n🇳🇱 荷蘭\n🇸🇪 瑞典\n🇲🇽 墨西哥\n🇦🇺
+  澳大利亞\n🇰🇷 韓國
 SUMMARY:🏊 男子200米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
