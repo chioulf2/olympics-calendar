@@ -74,11 +74,18 @@ UID:20240727T081200Z-rowing-
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:賽艇 - 女子單人雙槳分組預賽\n🇹🇷 TUR\n🇧🇷 BRA\n🇵🇾 PAR\n🇨🇺 CUB\n🇳🇮
-  NCA\n🇱🇹 LTU\n🇮🇷 IRI\n🇹🇬 TOG\n🇪🇸 ESP\n🇦🇿 AZE\n🇩🇿 ALG\n🇧🇬
-  BUL\n🇿🇦 RSA\n🇰🇼 KUW\n🇺🇸 USA\n🇺🇿 UZB\n🇺🇬 UGA\n🇵🇪 PER\n🇳🇱
-  NED\n🇸🇮 斯洛文尼亞\n🇵🇭 PHI\n🇻🇳 VIE\n🇷🇸 SRB\n🇦🇹 AUT\n🇸🇬 SGP\n🇳🇿
-  新西蘭\n🇨🇭 SUI\n🇩🇪 GER\n🇲🇦 MAR\n🇲🇽 MEX\n🇦🇺 AUS
+DESCRIPTION:賽艇 - 女子單人雙槳分組預賽\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪
+  Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina
+  JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿
+  Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇳🇮 Evidelia GONZALEZ
+  JARQUIN\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen
+  NOBLE\n🇲🇽 Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline
+  EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇰🇼 Soaad ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue
+  PHAM\n🇱🇹 Viktorija SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis
+  COBAS GARCIA
 SUMMARY:🚣 女子單人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -137,9 +144,12 @@ UID:20240728T070000Z-rowing-
 DTSTAMP:20240728T070000Z
 DTSTART:20240728T070000Z
 DTEND:20240728T073100Z
-DESCRIPTION:賽艇 - 女子單人雙槳復活賽\n🇹🇷 TUR\n🇵🇾 PAR\n🇨🇺 CUB\n🇳🇮 NCA\n🇮🇷
-  IRI\n🇹🇬 TOG\n🇩🇿 ALG\n🇰🇼 KUW\n🇺🇬 UGA\n🇵🇪 PER\n🇵🇭 PHI\n🇻🇳
-  VIE\n🇸🇬 SGP\n🇲🇦 MAR
+DESCRIPTION:賽艇 - 女子單人雙槳復活賽\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇹🇷 Elis
+  OZBAY\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷 Fatemeh
+  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇺🇬 Kathleen NOBLE\n🇲🇦
+  Majdouline EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad ALFAQAAN\n🇻🇳
+  Thi Hue PHAM\n🇨🇺 Yariulvis COBAS GARCIA
 SUMMARY:🚣 女子單人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -192,17 +202,10 @@ UID:20240729T092800Z-swimming-800
 DTSTAMP:20240729T092800Z
 DTSTART:20240729T092800Z
 DTEND:20240729T100700Z
-DESCRIPTION:游泳 - 男子800米自由泳分組預賽\n🇹🇳 Ahmed JAOUADI\n🇻🇪 Alfonso Enrique
-  MESTRE VIVAS\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
-  WIFFEN\n🇫🇷 David AUBRY\n🇬🇷 Dimitrios MARKOS\n🇦🇺 Elijah
-  WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇩🇪 Florian
-  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇳🇴 Henrik
-  CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇺🇿 Ilya SIBIRTSEV\n🇳🇴 Jon
-  JOENTVEDT\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇧🇪 Lucas
-  HENVEAUX\n🇺🇸 Luke WHITLOCK\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
-  ROMANCHUK\n🇫🇷 Pacome BRICOUT\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
-  SCHWARZ\n🇲🇨 Theo DRUENNE\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
-  STANCU\n🇭🇺 Zalan SARKANY\n🇨🇳 ZHANG Zhanshuo
+DESCRIPTION:游泳 - 男子800米自由泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇧🇷 BRA\n🇧🇪
+  BEL\n🇭🇺 HUN\n🇪🇸 ESP\n🇬🇷 GRE\n🇻🇪 VEN\n🇫🇷 FRA\n🇹🇳 TUN\n🇺🇸
+  USA\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇺🇿 UZB\n🇻🇳 VIE\n🇦🇹 AUT\n🇮🇹
+  ITA\n🇮🇪 IRL\n🇸🇪 SWE\n🇩🇪 GER\n🇲🇨 MON\n🇦🇺 AUS\n🇷🇴 ROU
 SUMMARY:🏊 男子800米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
