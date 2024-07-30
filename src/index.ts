@@ -300,10 +300,17 @@ const generateOutputPage = () => {
     todays.push(`<a href="./today.html?noc=${noc}" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
   });
 
+   // 新增的全部赛程链接部分
+   const alls: string[] = [];
+   NOCS.sort().forEach((noc) => {
+     alls.push(`<a href="./all.html?noc=${noc}" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
+   });
+
   const template = fs.readFileSync(`${__dirname}/index/template.html`, "utf-8");
   const output = template
     .replace("{{calendars}}", html.join("\r\n"))
-    .replace("{{todays}}", todays.join("\r\n"));
+    .replace("{{todays}}", todays.join("\r\n"))
+    .replace("{{alls}}", alls.join("\r\n"));  // 新增的替换
   fs.writeFileSync("docs/index.html", output);
 };
 
@@ -354,6 +361,56 @@ const generateTodayPage = () => {
     .replace("{{events}}", html.join("\r\n"));
   fs.writeFileSync("docs/today.html", output);
 };
+
+//新增的
+const generateAllPage = () => {
+  const html: string[] = [];
+
+  EVENTS.forEach((event) => {
+    let sport = SPORTS.find((sport) => sport.key === event._SPORT);
+    if (!sport) {
+      sport = {
+        name: convertToTraditional("儀式"),
+        key: "",
+        NOCS: [],
+      };
+    }
+    const summary = event.SUMMARY.match(/ceremony/gi) ? event.SUMMARY : event.SUMMARY.split(" ").slice(1).join(" ");
+
+    html.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.join(",")}">`);
+    html.push('<div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>');
+    html.push('<div class="w-3/5 align-top inline-block text-black pl-2">');
+    html.push('  <div class="text-2xl">');
+    html.push(`  ${event._MEDAL ? "🏅" : ""}`);
+    html.push(`  ${sport.name.toUpperCase()}`);
+    if (event._GENDER === "M") {
+      html.push('  <span class="text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl">男</span>');
+    } else if (event._GENDER === "W") {
+      html.push('  <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">女</span>');
+    }
+    html.push('  </div>');
+    if (event._UNITNAME.match(summary)) {
+      html.push(`  <div class="">${summary}`);
+    } else {
+      html.push(`  <div class="">${event._UNITNAME}`);
+      html.push(`  <div class="">${summary}</div>`);
+    }
+    if (event._COMPETITORS) {
+      event._COMPETITORS.forEach((competitor) => {
+        html.push(`<div class="competitor ${competitor.noc}">${competitor.name}</div>`);
+      });
+    }
+    html.push('  </div>');
+    html.push('</div>');
+    html.push('</div>');
+  });
+
+  const template = fs.readFileSync(`${__dirname}/all/template.html`, "utf-8");
+  const output = template
+    .replace("{{events}}", html.join("\r\n"));
+  fs.writeFileSync("docs/all.html", output);
+};
+
 
 const generateCSS = () => {
   postcss([autoprefixer, tailwindcss])
@@ -418,6 +475,8 @@ const main = async () => {
   generateCalendars();
   generateOutputPage();
   generateTodayPage();
+  //新增的
+  generateAllPage();
   generateCSS();
 };
 
