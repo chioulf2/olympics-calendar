@@ -16,7 +16,6 @@
   },
   "include": [
     "src/**/*",
-    "opencc-js.d.ts"
   ],
   "exclude": [
     "node_modules",
