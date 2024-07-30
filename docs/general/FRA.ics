@@ -275,15 +275,9 @@ UID:20240727T093000Z-rowing-
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T095700Z
-DESCRIPTION:賽艇 - 男子雙人雙槳分組預賽\n🇪🇸 Aleix GARCIA I PUJOLAR\n🇷🇴 Andrei
-  Sebastian CORNEA\n🇭🇷 Anton LONCARIC\n🇺🇸 Ben DAVISON\n🇮🇪 Daire
-  LYNCH\n🇫🇷 Hugo BOUCHERON\n🇩🇪 Jonas GELSEN\n🇳🇿 Jordan PARRY\n🇳🇴
-  Kjetil BORCH\n🇨🇳 LIU Zhiyu\n🇩🇪 Marc WEBER\n🇷🇴 Marian Florian
-  ENACHE\n🇳🇴 Martin HELSETH\n🇷🇸 Martin MACKOVIC\n🇮🇹 Matteo
-  SARTORI\n🇫🇷 Matthieu ANDRODIAS\n🇳🇱 Melvin TWELLAAR\n🇮🇹 Nicolo'
-  CARUCCI\n🇷🇸 Nikolaj PIMENOV\n🇭🇷 Patrik LONCARIC\n🇮🇪 Philip
-  DOYLE\n🇳🇿 Robbie MANSON\n🇪🇸 Rodrigo CONDE ROMERO\n🇺🇸 Sorin
-  KOSZYK\n🇳🇱 Stef BROENINK\n🇨🇳 SULITAN Adilijiang
+DESCRIPTION:賽艇 - 男子雙人雙槳分組預賽\n🇨🇳 CHN\n🇪🇸 ESP\n🇭🇷 CRO\n🇫🇷 FRA\n🇺🇸
+  USA\n🇳🇴 NOR\n🇳🇱 NED\n🇷🇸 SRB\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇩🇪
+  GER\n🇷🇴 ROU
 SUMMARY:🚣 男子雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -340,15 +334,9 @@ UID:20240727T100000Z-rowing-
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T102700Z
-DESCRIPTION:賽艇 - 女子雙人雙槳分組預賽\n🇮🇪 Alison BERGIN\n🇦🇺 Amanda BATEMAN\n🇷🇴
-  Ancuta BODNAR\n🇨🇿 Anna SANTRUCKOVA\n🇳🇿 Brooke FRANCIS\n🇮🇹 Clara
-  GUERRA\n🇱🇹 Donata KARALIENE\n🇱🇹 Dovile RIMKUTE\n🇫🇷 Elodie RAVERA
-  SCARAMOZZINO\n🇫🇷 Emma LUNATTI\n🇦🇺 Harriet HUDSON\n🇳🇴 Inger Seim
-  KAVLIE\n🇺🇸 Kristi WAGNER\n🇨🇿 Lenka LUKSOVA\n🇳🇱 Lisa
-  SCHEENAARD\n🇨🇳 LU Shiyu\n🇳🇿 Lucy SPOORS\n🇳🇱 Martine VELDHUIS\n🇬🇧
-  Mathilda HODGKINS BYRNE\n🇬🇧 Rebecca WILDE\n🇨🇳 SHEN Shuangmei\n🇷🇴
-  Simona RADIS\n🇺🇸 Sophia VITAS\n🇮🇹 Stefania GOBBI\n🇳🇴 Thea
-  HELSETH\n🇮🇪 Zoe HYDE
+DESCRIPTION:賽艇 - 女子雙人雙槳分組預賽\n🇨🇳 CHN\n🇱🇹 LTU\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
+  GBR\n🇳🇴 NOR\n🇨🇿 CZE\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇦🇺
+  AUS\n🇷🇴 ROU
 SUMMARY:🚣 女子雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1074,17 +1062,9 @@ UID:20240728T093000Z-rowing-
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T095700Z
-DESCRIPTION:賽艇 - 女子輕量級雙人雙槳分組預賽\n🇵🇪 Alessia PALACIOS\n🇮🇪 Aoife
-  CASEY\n🇫🇷 Claire BOVE\n🇬🇷 Dimitra KONTOU\n🇬🇧 Emily CRAIG\n🇦🇷
-  Evelyn SILVESTRO\n🇷🇴 Gianina Elena van GRONINGEN\n🇯🇵 HIROUCHI
-  Emi\n🇬🇧 Imogen GRANT\n🇷🇴 Ionela Livia COZMIUC\n🇳🇿 Jackie
-  KIDDLE\n🇨🇦 Jenny CASSON\n🇨🇦 Jill MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳
-  Khadija KRIMI\n🇦🇹 Lara TIEFENTHALER\n🇫🇷 Laura TARANTOLA\n🇦🇹 Louisa
-  ALTENHUBER\n🇮🇷 Mahsa JAVER\n🇮🇪 Margaret CREMEN\n🇵🇱 Martyna
-  RADOSZ\n🇺🇸 Michelle SECHSER\n🇺🇸 Molly RECKFORD\n🇯🇵 OISHI
-  Ayami\n🇨🇳 QIU Xiuping\n🇹🇳 Selma DHAOUADI\n🇳🇿 Shannon COX\n🇦🇷
-  Sonia BALUZZO CHIARUZZO\n🇵🇪 Valeria PALACIOS\n🇮🇷 Zeinab NOROUZI TAZEH
-  KAND\n🇬🇷 Zoi FITSIOU\n🇨🇳 ZOU Jiaqi
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳分組預賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇮🇷
+  IRI\n🇬🇷 GRE\n🇫🇷 FRA\n🇵🇱 POL\n🇦🇷 ARG\n🇹🇳 TUN\n🇺🇸 USA\n🇬🇧
+  GBR\n🇵🇪 PER\n🇦🇹 AUT\n🇮🇪 IRL\n🇳🇿 新西蘭\n🇷🇴 ROU
 SUMMARY:🚣 女子輕量級雙人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1143,17 +1123,9 @@ UID:20240728T100000Z-rowing-
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T102700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
-  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇳🇴
-  Ask Jarl TJOEM\n🇪🇸 Caetano Xose HORTA POMBO\n🇨🇱 Cesar ABAROA\n🇪🇸
-  Dennis CARRACEDO FERRERO\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇮🇪
-  Fintan Mc CARTHY\n🇯🇵 FURUTA Naoki\n🇮🇹 Gabriel SOARES\n🇫🇷 Hugo
-  BEUREY\n🇺🇦 Igor KHMARA\n🇨🇭 Jan SCHAEUBLE\n🇨🇿 Jiri SIMANEK\n🇳🇴
-  Lars Martin BENSKE\n🇲🇽 Miguel CARBALLO NIETO\n🇨🇿 Miroslav
-  VRASTIL\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
-  ZANDWEGHE\n🇮🇪 Paul O DONOVAN\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros
-  GKAIDATZIS\n🇨🇭 Raphael AHUMADA\n🇺🇿 Shakhzod NURMATOV\n🇺🇿 Sobirjon
-  SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇮🇹 Stefano OPPO\n🇧🇪 Tibo VYVEY
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷
+  FRA\n🇦🇷 ARG\n🇪🇬 EGY\n🇳🇴 NOR\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇿 CZE\n🇨🇱
+  CHI\n🇮🇹 ITA\n🇮🇪 IRL\n🇨🇭 SUI\n🇲🇽 MEX
 SUMMARY:🚣 男子輕量級雙人雙槳預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1292,17 +1264,8 @@ UID:20240728T105000Z-rowing-
 DTSTAMP:20240728T105000Z
 DTSTART:20240728T105000Z
 DTEND:20240728T110700Z
-DESCRIPTION:賽艇 - 男子四人單槳分組預賽\n🇦🇺 Alex HILL\n🇷🇴 Andrei MANDRILA\n🇫🇷
-  Benoit BRUNET\n🇷🇴 Ciprian TUDOSA\n🇬🇧 David AMBLER\n🇳🇱 Eli
-  BROUWER\n🇦🇺 Fergus HAMILTON\n🇬🇧 Freddie DAVIDSON\n🇮🇹 Giovanni
-  ABAGNALE\n🇮🇹 Giuseppe VICINO\n🇫🇷 Guillaume TURLAN\n🇳🇱 Guus
-  MOLLEE\n🇦🇺 Jack ROBERTSON\n🇨🇭 Joel SCHUERCH\n🇺🇸 Justin BEST\n🇨🇭
-  Kai SCHAETZLE\n🇺🇸 Liam CORRIGAN\n🇳🇿 Logan ULLRICH\n🇬🇧 Matt
-  ALDRIDGE\n🇳🇿 Matt MACDONALD\n🇮🇹 Matteo LODO\n🇺🇸 Michael GRADY\n🇳🇱
-  Nelson RITSEMA\n🇮🇹 Nicholas KOHL\n🇺🇸 Nick MEAD\n🇬🇧 Oliver
-  WILKES\n🇳🇿 Ollie MACLEAN\n🇨🇭 Patrick BRUNNER\n🇳🇱 Rik RIENKS\n🇷🇴
-  Sergiu Vasile BEJAN\n🇷🇴 Stefan Constantin BERARIU\n🇫🇷 Teo RAYET\n🇫🇷
-  Thibaud TURLAN\n🇨🇭 Tim ROTH\n🇦🇺 Timothy MASTERS\n🇳🇿 Tom MURRAY
+DESCRIPTION:賽艇 - 男子四人單槳分組預賽\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹
+  ITA\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇦🇺 AUS\n🇷🇴 ROU
 SUMMARY:🚣 男子四人單槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -1765,14 +1728,8 @@ UID:20240729T084000Z-rowing-
 DTSTAMP:20240729T084000Z
 DTSTART:20240729T084000Z
 DTEND:20240729T085700Z
-DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
-  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇨🇱
-  Cesar ABAROA\n🇨🇱 Eber SANHUEZA\n🇫🇷 Ferdinand LUDWIG\n🇯🇵 FURUTA
-  Naoki\n🇫🇷 Hugo BEUREY\n🇺🇦 Igor KHMARA\n🇲🇽 Miguel CARBALLO
-  NIETO\n🇯🇵 MIYAURA Masayuki\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
-  ZANDWEGHE\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇺🇿 Shakhzod
-  NURMATOV\n🇺🇿 Sobirjon SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇧🇪 Tibo
-  VYVEY
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳復活賽\n🇯🇵 JPN\n🇧🇪 BEL\n🇬🇷 GRE\n🇫🇷 FRA\n🇦🇷
+  ARG\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇨🇱 CHI\n🇲🇽 MEX
 SUMMARY:🚣 男子輕量級雙人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -2772,13 +2729,8 @@ UID:20240730T094000Z-rowing-
 DTSTAMP:20240730T094000Z
 DTSTART:20240730T094000Z
 DTEND:20240730T094700Z
-DESCRIPTION:賽艇 - 男子四人單槳復活賽\n🇷🇴 Andrei MANDRILA\n🇫🇷 Benoit BRUNET\n🇷🇴
-  Ciprian TUDOSA\n🇳🇱 Eli BROUWER\n🇮🇹 Giovanni ABAGNALE\n🇮🇹 Giuseppe
-  VICINO\n🇫🇷 Guillaume TURLAN\n🇳🇱 Guus MOLLEE\n🇨🇭 Joel SCHUERCH\n🇨🇭
-  Kai SCHAETZLE\n🇮🇹 Matteo LODO\n🇳🇱 Nelson RITSEMA\n🇮🇹 Nicholas
-  KOHL\n🇨🇭 Patrick BRUNNER\n🇳🇱 Rik RIENKS\n🇷🇴 Sergiu Vasile
-  BEJAN\n🇷🇴 Stefan Constantin BERARIU\n🇫🇷 Teo RAYET\n🇫🇷 Thibaud
-  TURLAN\n🇨🇭 Tim ROTH
+DESCRIPTION:賽艇 - 男子四人單槳復活賽\n🇫🇷 FRA\n🇳🇱 NED\n🇮🇹 ITA\n🇨🇭 SUI\n🇷🇴
+  ROU
 SUMMARY:🚣 男子四人單槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -2804,6 +2756,15 @@ DTEND:20240730T101300Z
 DESCRIPTION:射箭 - 男子個人1/32淘汰賽
 SUMMARY:🏹 Thomas CHIRAULT 🇫🇷 - 🇨🇴 Andres HERNANDEZ VERA
 LOCATION:榮軍院
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T100000Z-judo-6316-FRA-BRA
+DTSTAMP:20240730T100000Z
+DTSTART:20240730T100000Z
+DTEND:20240730T100600Z
+DESCRIPTION:柔道 - 女子63公斤級16強淘汰賽
+SUMMARY:🥋 Clarisse AGBEGNENOU 🇫🇷 - 🇧🇷 Ketleyn QUADROS
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T100000Z-tennis-2-GER-FRA
@@ -4679,12 +4640,12 @@ SUMMARY:🏐 KROU/GAUTHIER-RAT 🇫🇷 - 🇳🇱 BOERMANS/DE GROOT
 LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T143400Z-boxing-51-14
+UID:20240802T143400Z-boxing-51-14-FRA-CUB
 DTSTAMP:20240802T143400Z
 DTSTART:20240802T143400Z
 DTEND:20240802T144500Z
-DESCRIPTION:拳擊 - 男子51公斤級 - 1/4決賽\n🇫🇷 Billal BENNAMA
-SUMMARY:🥊 男子51公斤級 - 1/4決賽
+DESCRIPTION:拳擊 - 男子51公斤級 - 1/4決賽
+SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇨🇺 Alejandro CLARO FIZ
 LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
