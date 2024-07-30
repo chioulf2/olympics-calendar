@@ -39,4 +39,13 @@ DESCRIPTION:拳擊 - 男子51公斤級 - 預賽 - 16強賽
 SUMMARY:🥊 Nijat HUSEYNOV 🇦🇿 - 🇩🇴 Yunior ALCANTARA REYES
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T150600Z-boxing-80-14
+DTSTAMP:20240802T150600Z
+DTSTART:20240802T150600Z
+DTEND:20240802T151700Z
+DESCRIPTION:拳擊 - 男子80公斤級 - 1/4決賽\n🇩🇴 Cristian Javier PINALES
+SUMMARY:🥊 男子80公斤級 - 1/4決賽
+LOCATION:北巴黎競技場
+END:VEVENT
 END:VCALENDAR
