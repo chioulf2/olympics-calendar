@@ -8,9 +8,13 @@ UID:20240727T091200Z-swimming-400
 DTSTAMP:20240727T091200Z
 DTSTART:20240727T091200Z
 DTEND:20240727T093000Z
-DESCRIPTION:游泳 - 女子400米自由泳分組預賽\n🇨🇳 CHN\n🇧🇷 BRA\n🇯🇵 JPN\n🇧🇪
-  BEL\n🇨🇦 CAN\n🇭🇺 HUN\n🇫🇷 FRA\n🇦🇷 ARG\n🇯🇴 JOR\n🇺🇸 USA\n🇻🇮
-  ISV\n🇺🇿 UZB\n🇳🇿 新西蘭\n🇩🇪 GER\n🇦🇺 AUS
+DESCRIPTION:游泳 - 女子400米自由泳分組預賽\n🇦🇷 Agostina HEIN\n🇭🇺 Ajna KESELY\n🇫🇷
+  Anastasiia KIRPICHNIKOVA\n🇺🇿 Anastasiya ZELINSKAYA\n🇦🇺 Ariarne
+  TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇳🇿 Eve THOMAS\n🇧🇷 Gabrielle
+  RONCATTO\n🇩🇪 Isabel GOSE\n🇦🇺 Jamie PERKINS\n🇯🇴 Karin BELBEISI\n🇺🇸
+  Katie LEDECKY\n🇯🇵 KOBORI Waka\n🇩🇪 Leonie MAERTENS\n🇨🇳 LI
+  Bingjie\n🇨🇳 LIU Yaxin\n🇧🇷 Maria Fernanda COSTA\n🇻🇮 Natalia Jean
+  KUIPERS\n🇺🇸 Paige MADDEN\n🇨🇦 Summer McINTOSH\n🇧🇪 Valentine DUMONT
 SUMMARY:🏊 女子400米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -19,10 +23,15 @@ UID:20240730T110153Z-swimming-200
 DTSTAMP:20240730T110153Z
 DTSTART:20240730T110153Z
 DTEND:20240730T112042Z
-DESCRIPTION:游泳 - 男子200米蛙泳分組預賽\n🇨🇳 CHN\n🇧🇭 BRN\n🇵🇦 PAN\n🇯🇵 JPN\n🇱🇹
-  LTU\n🇮🇸 ISL\n🇰🇬 KGZ\n🇱🇻 LAT\n🇫🇷 FRA\n🇵🇱 POL\n🇫🇮 FIN\n🇧🇬
-  BUL\n🇭🇳 HON\n🇯🇴 JOR\n🇺🇸 USA\n🇳🇱 NED\n🇸🇪 SWE\n🇲🇽 MEX\n🇦🇺
-  AUS\n🇰🇷 KOR
+DESCRIPTION:游泳 - 男子200米蛙泳分組預賽\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro
+  AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler
+  CHRISTIANSON\n🇳🇱 Caspar CORBEAU\n🇰🇷 CHO Sung Jae\n🇱🇻 Daniils
+  BOBROVS\n🇰🇬 Denis PETRASHOV\n🇨🇳 DONG Zhihao\n🇸🇪 Erik PERSSON\n🇯🇵
+  HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺 Joshua
+  YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
+  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
+  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
+  Ippei\n🇦🇺 Zac STUBBLETY-COOK
 SUMMARY:🏊 男子200米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
