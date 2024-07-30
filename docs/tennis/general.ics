@@ -1507,42 +1507,6 @@ SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇩🇪 Dominik KOEPFER
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T100000Z-tennis-314
-DTSTAMP:20240731T100000Z
-DTSTART:20240731T100000Z
-DTEND:20240731T200000Z
-DESCRIPTION:網球 - 男單第3輪/女單1/4決賽
-SUMMARY:🎾 男單第3輪/女單1/4決賽
-LOCATION:羅蘭·加洛斯體育場
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T100000Z-tennis-31414
-DTSTAMP:20240731T100000Z
-DTSTART:20240731T100000Z
-DTEND:20240731T200000Z
-DESCRIPTION:網球 - 男單第3輪/男雙半決賽/女雙1/4決賽/混雙1/4決賽
-SUMMARY:🎾 男單第3輪/男雙半決賽/女雙1/4決賽/混雙1/4決賽
-LOCATION:羅蘭·加洛斯體育場
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T100000Z-tennis-31414
-DTSTAMP:20240731T100000Z
-DTSTART:20240731T100000Z
-DTEND:20240731T200000Z
-DESCRIPTION:網球 - 男單第3輪/女雙1/4決賽/混雙1/4決賽
-SUMMARY:🎾 男單第3輪/女雙1/4決賽/混雙1/4決賽
-LOCATION:羅蘭·加洛斯體育場
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T100000Z-tennis-3141414
-DTSTAMP:20240731T100000Z
-DTSTART:20240731T100000Z
-DTEND:20240731T200000Z
-DESCRIPTION:網球 - 男單第3輪/女單1/4決賽/男雙半決賽/女雙1/4決賽/混雙1/4決賽
-SUMMARY:🎾 男單第3輪/女單1/4決賽/男雙半決賽/女雙1/4決賽/混雙1/4決賽
-LOCATION:羅蘭·加洛斯體育場
-END:VEVENT
-BEGIN:VEVENT
 UID:20240731T110000Z-tennis-14-CHN-AUS
 DTSTAMP:20240731T110000Z
 DTSTART:20240731T110000Z
@@ -1657,15 +1621,6 @@ DTSTART:20240731T170000Z
 DTEND:20240731T200000Z
 DESCRIPTION:網球 - 女子單打1/4決賽
 SUMMARY:🎾 Marta KOSTYUK 🇺🇦 - 🇭🇷 Donna VEKIC
-LOCATION:羅蘭·加洛斯體育場
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T170000Z-tennis-314
-DTSTAMP:20240731T170000Z
-DTSTART:20240731T170000Z
-DTEND:20240801T030000Z
-DESCRIPTION:網球 - 男單第3輪/女單1/4決賽
-SUMMARY:🎾 男單第3輪/女單1/4決賽
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT

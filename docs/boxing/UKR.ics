@@ -30,4 +30,13 @@ DESCRIPTION:拳擊 - 男子57公斤級 - 預賽 - 16強賽
 SUMMARY:🥊 Aider ABDURAIMOV 🇺🇦 - 🇧🇬 Javier IBANEZ DIAZ
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T193600Z-boxing-80-14
+DTSTAMP:20240802T193600Z
+DTSTART:20240802T193600Z
+DTEND:20240802T194700Z
+DESCRIPTION:拳擊 - 男子80公斤級 - 1/4決賽\n🇺🇦 Oleksandr KHYZHNIAK
+SUMMARY:🥊 男子80公斤級 - 1/4決賽
+LOCATION:北巴黎競技場
+END:VEVENT
 END:VCALENDAR
