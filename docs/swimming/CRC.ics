@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/CRC//EN
+X-WR-CALNAME:🇨🇷 Costa Rica Swimming | Paris 2024
+NAME:🇨🇷 Costa Rica Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming-MENS-400M-FREESTYLE-HEATS
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:Swimming - Men's 400m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇧🇦 Bosnia & Herzegovina\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇱
+  CHI\n🇨🇳 CHN\n🇨🇷 CRC\n🇪🇪 EST\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇾
+  GUY\n🇭🇺 HUN\n🇮🇹 ITA\n🇰🇪 KEN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇾 MAS\n🇲🇦
+  MAR\n🇲🇰 MKD\n🇵🇪 PER\n🇲🇩 Republic of Moldova\n🇸🇲 SMR\n🇸🇪
+  SWE\n🇨🇭 SUI\n🇹🇳 TUN\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪 VEN
+SUMMARY:🏊 Men's 400m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T094600Z-swimming-WOMENS-200M-BUTTERFLY-HEATS
+DTSTAMP:20240731T094600Z
+DTSTART:20240731T094600Z
+DTEND:20240731T100600Z
+DESCRIPTION:Swimming - Women's 200m Butterfly - Heats\n🇦🇴 ANG\n🇦🇺
+  AUS\n🇧🇦 Bosnia & Herzegovina\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇷 CRC\n🇩🇰
+  DEN\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇯🇵 JPN\n🇷🇸 SRB\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Women's 200m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

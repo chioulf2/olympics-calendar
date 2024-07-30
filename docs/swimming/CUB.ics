@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/CUB//EN
+X-WR-CALNAME:🇨🇺 Cuba Swimming | Paris 2024
+NAME:🇨🇺 Cuba Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240728T100000Z-swimming-WOMENS-200M-FREESTYLE-HEATS
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T101600Z
+DESCRIPTION:Swimming - Women's 200m Freestyle - Heats\n🇦🇱 ALB\n🇦🇺
+  AUS\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇺 CUB\n🇨🇿 CZE\n🇪🇬
+  EGY\n🇩🇪 GER\n🇭🇳 HON\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇸 ISL\n🇮🇳
+  IND\n🇮🇱 ISR\n🇱🇦 Lao PDR\n🇲🇳 MGL\n🇳🇵 NEP\n🇳🇿 NZL\n🇵🇰 PAK\n🇷🇴
+  ROU\n🇸🇦 KSA\n🇿🇦 RSA\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇻🇪 VEN
+SUMMARY:🏊 Women's 200m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T092500Z-swimming-MENS-1500M-FREESTYLE-HEATS
+DTSTAMP:20240803T092500Z
+DTSTART:20240803T092500Z
+DTEND:20240803T103200Z
+DESCRIPTION:Swimming - Men's 1500m Freestyle - Heats\n🇦🇺 AUS\n🇨🇳
+  CHN\n🇨🇺 CUB\n🇪🇬 EGY\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺
+  HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇴 NOR\n🇵🇱 POL\n🇷🇴 ROU\n🇪🇸 ESP\n🇸🇪
+  SWE\n🇹🇳 TUN\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇳 VIE
+SUMMARY:🏊 Men's 1500m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

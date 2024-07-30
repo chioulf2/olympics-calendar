@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/MOZ//EN
+X-WR-CALNAME:🇲🇿 Mozambique Swimming | Paris 2024
+NAME:🇲🇿 Mozambique Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240727T093000Z-swimming-MENS-100M-BREASTSTROKE-HEATS
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:Swimming - Men's 100m Breaststroke - Heats\n🇦🇸 ASA\n🇦🇬
+  ANT\n🇦🇺 AUS\n🇦🇹 AUT\n🇧🇼 BOT\n🇨🇳 CHN\n🇸🇿 SWZ\n🇩🇪 GER\n🇬🇧
+  GBR\n🇭🇹 HAI\n🇮🇸 ISL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇰🇬
+  KGZ\n🇱🇦 Lao PDR\n🇱🇹 LTU\n🇲🇬 MAD\n🇲🇽 MEX\n🇫🇲 Micronesia\n🇲🇿
+  MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇶🇦 QAT\n🇹🇷 TUR\n🇺🇸 USA
+SUMMARY:🏊 Men's 100m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T091300Z-swimming-WOMENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:Swimming - Women's 100m Backstroke - Heats\n🇦🇺 AUS\n🇧🇭
+  BRN\n🇧🇪 BEL\n🇧🇲 BER\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇩🇴 DOM\n🇸🇻
+  ESA\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇹 GUA\n🇭🇰 Hong Kong, China\n🇮🇪 IRL\n🇮🇱
+  ISR\n🇰🇿 KAZ\n🇱🇾 LBA\n🇲🇽 MEX\n🇲🇿 MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇪🇸
+  ESP\n🇱🇰 SRI\n🇸🇪 SWE\n🇹🇹 TTO\n🇹🇲 TKM\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/NCA//EN
+X-WR-CALNAME:🇳🇮 Nicaragua Swimming | Paris 2024
+NAME:🇳🇮 Nicaragua Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240727T090000Z-swimming-WOMENS-100M-BUTTERFLY-HEATS
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T091100Z
+DESCRIPTION:Swimming - Women's 100m Butterfly - Heats\n🇦🇲 ARM\n🇦🇺
+  AUS\n🇧🇪 BEL\n🇧🇦 Bosnia & Herzegovina\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿
+  CZE\n🇩🇰 DEN\n🇸🇿 SWZ\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
+  PAR\n🇸🇳 SEN\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090000Z-swimming-MENS-200M-BUTTERFLY-HEATS
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T091751Z
+DESCRIPTION:Swimming - Men's 200m Butterfly - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇹🇼 TPE\n🏳️
+  EOR\n🇪🇪 EST\n🇫🇷 FRA\n🇭🇺 HUN\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇿
+  NZL\n🇳🇮 NCA\n🇵🇱 POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

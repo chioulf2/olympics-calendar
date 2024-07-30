@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/TUN//EN
+X-WR-CALNAME:🇹🇳 Tunisia Swimming | Paris 2024
+NAME:🇹🇳 Tunisia Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming-MENS-400M-FREESTYLE-HEATS
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:Swimming - Men's 400m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇧🇦 Bosnia & Herzegovina\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇱
+  CHI\n🇨🇳 CHN\n🇨🇷 CRC\n🇪🇪 EST\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇾
+  GUY\n🇭🇺 HUN\n🇮🇹 ITA\n🇰🇪 KEN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇾 MAS\n🇲🇦
+  MAR\n🇲🇰 MKD\n🇵🇪 PER\n🇲🇩 Republic of Moldova\n🇸🇲 SMR\n🇸🇪
+  SWE\n🇨🇭 SUI\n🇹🇳 TUN\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪 VEN
+SUMMARY:🏊 Men's 400m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T092800Z-swimming-MENS-800M-FREESTYLE-HEATS
+DTSTAMP:20240729T092800Z
+DTSTART:20240729T092800Z
+DTEND:20240729T100700Z
+DESCRIPTION:Swimming - Men's 800m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇷
+  GRE\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇲🇨 MON\n🇳🇴 NOR\n🇷🇴 ROU\n🇪🇸
+  ESP\n🇸🇪 SWE\n🇹🇳 TUN\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪
+  VEN\n🇻🇳 VIE
+SUMMARY:🏊 Men's 800m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T190200Z-swimming-MENS-800M-FREESTYLE-FINAL
+DTSTAMP:20240730T190200Z
+DTSTART:20240730T190200Z
+DTEND:20240730T191500Z
+DESCRIPTION:Swimming - Men's 800m Freestyle Final\n🇹🇳 Ahmed JAOUADI\n🇺🇸
+  Bobby FINKE\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇦🇺 Elijah
+  WINNINGTON\n🇮🇹 Gregorio PALTRINIERI\n🇮🇹 Luca de TULLIO\n🇩🇪 Sven
+  SCHWARZ
+SUMMARY:🏊 Men's 800m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093500Z-swimming-WOMENS-800M-FREESTYLE-HEATS
+DTSTAMP:20240802T093500Z
+DTSTART:20240802T093500Z
+DTEND:20240802T095700Z
+DESCRIPTION:Swimming - Women's 800m Freestyle - Heats\n🇦🇷 ARG\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇱 CHI\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇭🇺 HUN\n🇮🇹
+  ITA\n🇳🇿 NZL\n🇸🇬 SGP\n🇹🇳 TUN\n🇺🇸 USA
+SUMMARY:🏊 Women's 800m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T092500Z-swimming-MENS-1500M-FREESTYLE-HEATS
+DTSTAMP:20240803T092500Z
+DTSTART:20240803T092500Z
+DTEND:20240803T103200Z
+DESCRIPTION:Swimming - Men's 1500m Freestyle - Heats\n🇦🇺 AUS\n🇨🇳
+  CHN\n🇨🇺 CUB\n🇪🇬 EGY\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺
+  HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇴 NOR\n🇵🇱 POL\n🇷🇴 ROU\n🇪🇸 ESP\n🇸🇪
+  SWE\n🇹🇳 TUN\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇳 VIE
+SUMMARY:🏊 Men's 1500m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

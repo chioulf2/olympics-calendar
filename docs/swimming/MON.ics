@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/MON//EN
+X-WR-CALNAME:🇲🇨 Monaco Swimming | Paris 2024
+NAME:🇲🇨 Monaco Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240729T092800Z-swimming-MENS-800M-FREESTYLE-HEATS
+DTSTAMP:20240729T092800Z
+DTSTART:20240729T092800Z
+DTEND:20240729T100700Z
+DESCRIPTION:Swimming - Men's 800m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇷
+  GRE\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇲🇨 MON\n🇳🇴 NOR\n🇷🇴 ROU\n🇪🇸
+  ESP\n🇸🇪 SWE\n🇹🇳 TUN\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪
+  VEN\n🇻🇳 VIE
+SUMMARY:🏊 Men's 800m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/BOT//EN
+X-WR-CALNAME:🇧🇼 Botswana Swimming | Paris 2024
+NAME:🇧🇼 Botswana Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240727T093000Z-swimming-MENS-100M-BREASTSTROKE-HEATS
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:Swimming - Men's 100m Breaststroke - Heats\n🇦🇸 ASA\n🇦🇬
+  ANT\n🇦🇺 AUS\n🇦🇹 AUT\n🇧🇼 BOT\n🇨🇳 CHN\n🇸🇿 SWZ\n🇩🇪 GER\n🇬🇧
+  GBR\n🇭🇹 HAI\n🇮🇸 ISL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇰🇬
+  KGZ\n🇱🇦 Lao PDR\n🇱🇹 LTU\n🇲🇬 MAD\n🇲🇽 MEX\n🇫🇲 Micronesia\n🇲🇿
+  MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇶🇦 QAT\n🇹🇷 TUR\n🇺🇸 USA
+SUMMARY:🏊 Men's 100m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104759Z-swimming-WOMENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T104759Z
+DTSTART:20240730T104759Z
+DTEND:20240730T110153Z
+DESCRIPTION:Swimming - Women's 100m Freestyle - Heats\n🇩🇿 ALG\n🇦🇺
+  AUS\n🇧🇼 BOT\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿
+  CZE\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇩 GRN\n🇬🇾 GUY\n🇭🇰 Hong Kong, China\n🇮🇸
+  ISL\n🇳🇱 NED\n🇵🇭 PHI\n🇵🇱 POL\n🇸🇮 SLO\n🇸🇩 SUD\n🇸🇪 SWE\n🇺🇬
+  UGA\n🇺🇸 USA\n🇿🇼 ZIM
+SUMMARY:🏊 Women's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

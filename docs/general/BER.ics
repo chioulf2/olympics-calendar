@@ -10,7 +10,47 @@ DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - Opening ceremony
 SUMMARY:Paris 2024 - Opening ceremony
-Location:Paris
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇩🇿 ALG\n🇦🇴 ANG\n🇧🇪
+  BEL\n🇧🇲 BER\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬
+  EGY\n🇩🇪 GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩
+  INA\n🇯🇵 JPN\n🇰🇿 KAZ\n🇱🇾 LBA\n🇱🇹 LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿
+  NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇺🇸
+  USA\n🇺🇾 URU\n🇿🇼 ZIM
+SUMMARY:🚣 Men's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing-MENS-SINGLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Repechages\n🇩🇿 ALG\n🇦🇴
+  ANG\n🇧🇲 BER\n🇭🇰 Hong Kong, China\n🇮🇳 IND\n🇮🇩 INA\n🇰🇿 KAZ\n🇱🇾
+  LBA\n🇲🇨 MON\n🇵🇾 PAR\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇿🇼 ZIM
+SUMMARY:🚣 Men's Single Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T094300Z-swimming-MENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240728T094300Z
+DTSTART:20240728T094300Z
+DTEND:20240728T095900Z
+DESCRIPTION:Swimming - Men's 100m Backstroke - Heats\n🇦🇷 ARG\n🇦🇺
+  AUS\n🇦🇹 AUT\n🇧🇯 BEN\n🇧🇲 BER\n🇧🇳 Brunei Darussalam\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇨🇴 COL\n🇨🇿 CZE\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇬🇩 GRN\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷
+  KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇸 PLE\n🇵🇱 POL\n🇵🇹 POR\n🇵🇷 PUR\n🇿🇦
+  RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇴 TGA\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇮
+  Virgin Islands, US
+SUMMARY:🏊 Men's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T074200Z-rowing-MENS-SINGLE-SCULLS-SEMIFINAL-EF-2
@@ -22,6 +62,19 @@ DESCRIPTION:Rowing - Men's Single Sculls Semifinal E/F 2\n🇸🇩 Abdalla
   WATTANANUSITH\n🇿🇼 Stephen COX
 SUMMARY:🚣 Men's Single Sculls Semifinal E/F 2
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T091300Z-swimming-WOMENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:Swimming - Women's 100m Backstroke - Heats\n🇦🇺 AUS\n🇧🇭
+  BRN\n🇧🇪 BEL\n🇧🇲 BER\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇩🇴 DOM\n🇸🇻
+  ESA\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇹 GUA\n🇭🇰 Hong Kong, China\n🇮🇪 IRL\n🇮🇱
+  ISR\n🇰🇿 KAZ\n🇱🇾 LBA\n🇲🇽 MEX\n🇲🇿 MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇪🇸
+  ESP\n🇱🇰 SRI\n🇸🇪 SWE\n🇹🇹 TTO\n🇹🇲 TKM\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T060000Z-triathlon-MENS-INDIVIDUAL
@@ -51,6 +104,32 @@ SUMMARY:🏊 Men's Individual
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T060000Z-triathlon-WOMENS-INDIVIDUAL
+DTSTAMP:20240731T060000Z
+DTSTART:20240731T060000Z
+DTEND:20240731T080500Z
+DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
+  Alberte KJAER PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧
+  Beth POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+  SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
+  HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
+  LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
+  Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
+  Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
+  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
+  Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
+  MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
+  Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
+  GARCIA\n🇦🇺 Natalie van COEVORDEN\n🇳🇿 Nicole van der KAAY\n🇩🇪 Nina
+  EIM\n🇨🇿 Petra KURIKOVA\n🇳🇱 Rachel KLAMER\n🇵🇱 Roksana SLUPEK\n🇦🇷
+  Romina BIAGIOLI\n🇲🇽 Rosa Maria TAPIA VIDAL\n🇳🇴 Solveig LOVSETH\n🇦🇺
+  Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
+  SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
+  MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
+SUMMARY:🏊 Women's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T075400Z-rowing-MENS-SINGLE-SCULLS-FINAL-E
 DTSTAMP:20240802T075400Z
 DTSTART:20240802T075400Z
@@ -68,6 +147,6 @@ DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
 DESCRIPTION:Paris 2024 - Closing ceremony
 SUMMARY:Paris 2024 - Closing ceremony
-Location:Stade de France, Saint-Denis
+LOCATION:Stade de France, Saint-Denis
 END:VEVENT
 END:VCALENDAR

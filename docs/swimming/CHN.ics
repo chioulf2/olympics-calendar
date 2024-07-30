@@ -4,6 +4,93 @@ PRODID:-//fabrice404//olympics-calendar//swimming/CHN//EN
 X-WR-CALNAME:🇨🇳 China Swimming | Paris 2024
 NAME:🇨🇳 China Swimming | Paris 2024
 BEGIN:VEVENT
+UID:20240727T090000Z-swimming-WOMENS-100M-BUTTERFLY-HEATS
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T091100Z
+DESCRIPTION:Swimming - Women's 100m Butterfly - Heats\n🇦🇲 ARM\n🇦🇺
+  AUS\n🇧🇪 BEL\n🇧🇦 Bosnia & Herzegovina\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿
+  CZE\n🇩🇰 DEN\n🇸🇿 SWZ\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
+  PAR\n🇸🇳 SEN\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T091200Z-swimming-WOMENS-400M-FREESTYLE-HEATS
+DTSTAMP:20240727T091200Z
+DTSTART:20240727T091200Z
+DTEND:20240727T093000Z
+DESCRIPTION:Swimming - Women's 400m Freestyle - Heats\n🇦🇷 ARG\n🇦🇺
+  AUS\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇭🇺
+  HUN\n🇯🇵 JPN\n🇯🇴 JOR\n🇳🇿 NZL\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇮 Virgin
+  Islands, US
+SUMMARY:🏊 Women's 400m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T093000Z-swimming-MENS-100M-BREASTSTROKE-HEATS
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:Swimming - Men's 100m Breaststroke - Heats\n🇦🇸 ASA\n🇦🇬
+  ANT\n🇦🇺 AUS\n🇦🇹 AUT\n🇧🇼 BOT\n🇨🇳 CHN\n🇸🇿 SWZ\n🇩🇪 GER\n🇬🇧
+  GBR\n🇭🇹 HAI\n🇮🇸 ISL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇰🇬
+  KGZ\n🇱🇦 Lao PDR\n🇱🇹 LTU\n🇲🇬 MAD\n🇲🇽 MEX\n🇫🇲 Micronesia\n🇲🇿
+  MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇶🇦 QAT\n🇹🇷 TUR\n🇺🇸 USA
+SUMMARY:🏊 Men's 100m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming-MENS-400M-FREESTYLE-HEATS
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:Swimming - Men's 400m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇧🇦 Bosnia & Herzegovina\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇱
+  CHI\n🇨🇳 CHN\n🇨🇷 CRC\n🇪🇪 EST\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇾
+  GUY\n🇭🇺 HUN\n🇮🇹 ITA\n🇰🇪 KEN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇾 MAS\n🇲🇦
+  MAR\n🇲🇰 MKD\n🇵🇪 PER\n🇲🇩 Republic of Moldova\n🇸🇲 SMR\n🇸🇪
+  SWE\n🇨🇭 SUI\n🇹🇳 TUN\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪 VEN
+SUMMARY:🏊 Men's 400m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T101500Z-swimming-WOMENS-4-X-100M-FREESTYLE-RELAY-HEATS
+DTSTAMP:20240727T101500Z
+DTSTART:20240727T101500Z
+DTEND:20240727T102600Z
+DESCRIPTION:Swimming - Women's 4 x 100m Freestyle Relay - Heats\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇩🇰 DEN\n🇫🇷 FRA\n🇬🇧 GBR\n🇭🇰
+  Hong Kong, China\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇱 NED\n🇵🇱 POL\n🇸🇮
+  SLO\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 4 x 100m Freestyle Relay - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T102600Z-swimming-MENS-4-X-100M-FREESTYLE-RELAY-HEATS
+DTSTAMP:20240727T102600Z
+DTSTART:20240727T102600Z
+DTEND:20240727T103600Z
+DESCRIPTION:Swimming - Men's 4 x 100m Freestyle Relay - Heats\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇭🇺 HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇵🇱 POL\n🇷🇸 SRB\n🇪🇸 ESP\n🇸🇪
+  SWE\n🇺🇸 USA
+SUMMARY:🏊 Men's 4 x 100m Freestyle Relay - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T183000Z-swimming-WOMENS-100M-BUTTERFLY-SEMIFINALS
+DTSTAMP:20240727T183000Z
+DTSTART:20240727T183000Z
+DTEND:20240727T184200Z
+DESCRIPTION:Swimming - Women's 100m Butterfly Semifinals\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇯🇵
+  JPN\n🇳🇱 NED\n🇿🇦 RSA\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Butterfly Semifinals
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T184200Z-swimming-MENS-400M-FREESTYLE-FINAL
 DTSTAMP:20240727T184200Z
 DTSTART:20240727T184200Z
@@ -13,6 +100,16 @@ DESCRIPTION:Swimming - Men's 400m Freestyle Final\n🇺🇸 Aaron
   COSTA\n🇰🇷 KIM Woomin\n🇩🇪 Lukas MAERTENS\n🇩🇪 Oliver KLEMET\n🇦🇺
   Samuel SHORT
 SUMMARY:🏊 Men's 400m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T191200Z-swimming-MENS-100M-BREASTSTROKE-SEMIFINALS
+DTSTAMP:20240727T191200Z
+DTSTART:20240727T191200Z
+DTEND:20240727T202600Z
+DESCRIPTION:Swimming - Men's 100m Breaststroke Semifinals\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇨🇳 CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇱 ISR\n🇮🇹 ITA\n🇳🇱 NED\n🇺🇸 USA
+SUMMARY:🏊 Men's 100m Breaststroke Semifinals
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -36,6 +133,71 @@ SUMMARY:🏊 Men's 4 x 100m Freestyle Relay Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T090000Z-swimming-MENS-200M-FREESTYLE-HEATS
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T091400Z
+DESCRIPTION:Swimming - Men's 200m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇽 MEX\n🇵🇰 PAK\n🇷🇴
+  ROU\n🇷🇸 SRB\n🇸🇮 SLO\n🇨🇭 SUI\n🇸🇾 SYR\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T091500Z-swimming-MENS-400M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240728T091500Z
+DTSTART:20240728T091500Z
+DTEND:20240728T092700Z
+DESCRIPTION:Swimming - Men's 400m Individual Medley - Heats\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇳🇿 NZL\n🇺🇸 USA
+SUMMARY:🏊 Men's 400m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T092700Z-swimming-WOMENS-100M-BREASTSTROKE-HEATS
+DTSTAMP:20240728T092700Z
+DTSTART:20240728T092700Z
+DTEND:20240728T094200Z
+DESCRIPTION:Swimming - Women's 100m Breaststroke - Heats\n🇦🇬 ANT\n🇦🇷
+  ARG\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇴 COL\n🇨🇰 COK\n🇨🇿 CZE\n🇪🇪
+  EST\n🇫🇮 FIN\n🇬🇲 GAM\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇼 KUW\n🇱🇧 LBN\n🇱🇹 LTU\n🇲🇾 MAS\n🇲🇦 MAR\n🇳🇱
+  NED\n🇵🇦 PAN\n🇵🇱 POL\n🇸🇬 SGP\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪 SWE\n🇨🇭
+  SUI\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T094300Z-swimming-MENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240728T094300Z
+DTSTART:20240728T094300Z
+DTEND:20240728T095900Z
+DESCRIPTION:Swimming - Men's 100m Backstroke - Heats\n🇦🇷 ARG\n🇦🇺
+  AUS\n🇦🇹 AUT\n🇧🇯 BEN\n🇧🇲 BER\n🇧🇳 Brunei Darussalam\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇨🇴 COL\n🇨🇿 CZE\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇬🇩 GRN\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷
+  KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇸 PLE\n🇵🇱 POL\n🇵🇹 POR\n🇵🇷 PUR\n🇿🇦
+  RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇴 TGA\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇮
+  Virgin Islands, US
+SUMMARY:🏊 Men's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-swimming-WOMENS-200M-FREESTYLE-HEATS
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T101600Z
+DESCRIPTION:Swimming - Women's 200m Freestyle - Heats\n🇦🇱 ALB\n🇦🇺
+  AUS\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇺 CUB\n🇨🇿 CZE\n🇪🇬
+  EGY\n🇩🇪 GER\n🇭🇳 HON\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇸 ISL\n🇮🇳
+  IND\n🇮🇱 ISR\n🇱🇦 Lao PDR\n🇲🇳 MGL\n🇳🇵 NEP\n🇳🇿 NZL\n🇵🇰 PAK\n🇷🇴
+  ROU\n🇸🇦 KSA\n🇿🇦 RSA\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇻🇪 VEN
+SUMMARY:🏊 Women's 200m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T184000Z-swimming-WOMENS-100M-BUTTERFLY-FINAL
 DTSTAMP:20240728T184000Z
 DTSTART:20240728T184000Z
@@ -45,6 +207,28 @@ DESCRIPTION:Swimming - Women's 100m Butterfly Final\n🇩🇪 Angelina
   Louise HANSSON\n🇨🇦 Margaret MAC NEIL\n🇺🇸 Torri HUSKE\n🇨🇳 ZHANG
   Yufei
 SUMMARY:🏊 Women's 100m Butterfly Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T191000Z-swimming-WOMENS-100M-BREASTSTROKE-SEMIFINALS
+DTSTAMP:20240728T191000Z
+DTSTART:20240728T191000Z
+DTEND:20240728T192200Z
+DESCRIPTION:Swimming - Women's 100m Breaststroke Semifinals\n🇦🇷 ARG\n🇨🇳
+  CHN\n🇪🇪 EST\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇵 JPN\n🇱🇹 LTU\n🇳🇱
+  NED\n🇿🇦 RSA\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Breaststroke Semifinals
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T193200Z-swimming-MENS-100M-BACKSTROKE-SEMIFINALS
+DTSTAMP:20240728T193200Z
+DTSTART:20240728T193200Z
+DTEND:20240728T194400Z
+DESCRIPTION:Swimming - Men's 100m Backstroke Semifinals\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇮🇹 ITA\n🇵🇱
+  POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Men's 100m Backstroke Semifinals
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -59,10 +243,58 @@ SUMMARY:🏊 Men's 100m Breaststroke Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T191900Z-swimming-MENS-100M-BACKSTROKE-FINAL
-DTSTAMP:20240729T191900Z
-DTSTART:20240729T191900Z
-DTEND:20240729T192500Z
+UID:20240728T195000Z-swimming-WOMENS-200M-FREESTYLE-SEMIFINALS
+DTSTAMP:20240728T195000Z
+DTSTART:20240728T195000Z
+DTEND:20240728T200400Z
+DESCRIPTION:Swimming - Women's 200m Freestyle Semifinals\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿 CZE\n🇭🇰 Hong Kong, China\n🇭🇺
+  HUN\n🇮🇸 ISL\n🇳🇿 NZL\n🇷🇴 ROU\n🇿🇦 RSA\n🇺🇸 USA
+SUMMARY:🏊 Women's 200m Freestyle Semifinals
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T091300Z-swimming-WOMENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:Swimming - Women's 100m Backstroke - Heats\n🇦🇺 AUS\n🇧🇭
+  BRN\n🇧🇪 BEL\n🇧🇲 BER\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇩🇴 DOM\n🇸🇻
+  ESA\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇹 GUA\n🇭🇰 Hong Kong, China\n🇮🇪 IRL\n🇮🇱
+  ISR\n🇰🇿 KAZ\n🇱🇾 LBA\n🇲🇽 MEX\n🇲🇿 MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇪🇸
+  ESP\n🇱🇰 SRI\n🇸🇪 SWE\n🇹🇹 TTO\n🇹🇲 TKM\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T092800Z-swimming-MENS-800M-FREESTYLE-HEATS
+DTSTAMP:20240729T092800Z
+DTSTART:20240729T092800Z
+DTEND:20240729T100700Z
+DESCRIPTION:Swimming - Men's 800m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇷
+  GRE\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇲🇨 MON\n🇳🇴 NOR\n🇷🇴 ROU\n🇪🇸
+  ESP\n🇸🇪 SWE\n🇹🇳 TUN\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪
+  VEN\n🇻🇳 VIE
+SUMMARY:🏊 Men's 800m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T190100Z-swimming-WOMENS-100M-BACKSTROKE-SEMIFINALS
+DTSTAMP:20240729T190100Z
+DTSTART:20240729T190100Z
+DTEND:20240729T191500Z
+DESCRIPTION:Swimming - Women's 100m Backstroke Semifinals\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇮🇪 IRL\n🇳🇱 NED\n🇪🇸 ESP\n🇸🇪
+  SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Backstroke Semifinals
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T192700Z-swimming-MENS-100M-BACKSTROKE-FINAL
+DTSTAMP:20240729T192700Z
+DTSTART:20240729T192700Z
+DTEND:20240729T193400Z
 DESCRIPTION:Swimming - Men's 100m Backstroke Final\n🇬🇷 Apostolos
   CHRISTOU\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
   COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
@@ -71,10 +303,10 @@ SUMMARY:🏊 Men's 100m Backstroke Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T192500Z-swimming-WOMENS-100M-BREASTSTROKE-FINAL
-DTSTAMP:20240729T192500Z
-DTSTART:20240729T192500Z
-DTEND:20240729T193100Z
+UID:20240729T193400Z-swimming-WOMENS-100M-BREASTSTROKE-FINAL
+DTSTAMP:20240729T193400Z
+DTSTART:20240729T193400Z
+DTEND:20240729T194100Z
 DESCRIPTION:Swimming - Women's 100m Breaststroke Final\n🇬🇧 Angharad
   EVANS\n🇮🇹 Benedetta PILATO\n🇪🇪 Eneli JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪
   Mona Mc SHARRY\n🇨🇳 TANG Qianting\n🇿🇦 Tatjana SMITH
@@ -82,15 +314,270 @@ SUMMARY:🏊 Women's 100m Breaststroke Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T194100Z-swimming-WOMENS-200M-FREESTYLE-FINAL
-DTSTAMP:20240729T194100Z
-DTSTART:20240729T194100Z
-DTEND:20240729T194800Z
+UID:20240729T195300Z-swimming-WOMENS-200M-FREESTYLE-FINAL
+DTSTAMP:20240729T195300Z
+DTSTART:20240729T195300Z
+DTEND:20240729T200100Z
 DESCRIPTION:Swimming - Women's 200m Freestyle Final\n🇦🇺 Ariarne
   TITMUS\n🇨🇿 Barbora SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇳🇿 Erika
   FAIRWEATHER\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇨🇦 Mary-Sophie
   HARVEY\n🇦🇺 Mollie O'CALLAGHAN\n🇨🇳 YANG Junxuan
 SUMMARY:🏊 Women's 200m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090000Z-swimming-MENS-200M-BUTTERFLY-HEATS
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T091751Z
+DESCRIPTION:Swimming - Men's 200m Butterfly - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇹🇼 TPE\n🏳️
+  EOR\n🇪🇪 EST\n🇫🇷 FRA\n🇭🇺 HUN\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇿
+  NZL\n🇳🇮 NCA\n🇵🇱 POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091751Z-swimming-MENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T091751Z
+DTSTART:20240730T091751Z
+DTEND:20240730T095131Z
+DESCRIPTION:Swimming - Men's 100m Freestyle - Heats\n🇦🇱 ALB\n🇦🇴
+  ANG\n🇦🇲 ARM\n🇦🇼 ARU\n🇦🇺 AUS\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇧 BAR\n🇧🇹
+  BHU\n🇧🇷 BRA\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇰🇲
+  COM\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿 CZE\n🇩🇴 DOM\n🇸🇻 ESA\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇭 GHA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇷 IR
+  Iran\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇿 KAZ\n🇰🇷 KOR\n🇽🇰 KOS\n🇰🇼 KUW\n🇱🇧
+  LBN\n🇱🇾 LBA\n🇱🇹 LTU\n🇱🇺 LUX\n🇲🇱 MLI\n🇲🇺 MRI\n🇲🇽 MEX\n🇲🇳
+  MGL\n🇲🇲 MYA\n🇳🇵 NEP\n🇳🇱 NED\n🇳🇿 NZL\n🇴🇲 OMA\n🇵🇬 PNG\n🇵🇱
+  POL\n🇵🇹 POR\n🇷🇴 ROU\n🇱🇨 LCA\n🇼🇸 SAM\n🇸🇦 KSA\n🇸🇳 SEN\n🇷🇸
+  SRB\n🇸🇬 SGP\n🇪🇸 ESP\n🇱🇰 SRI\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇿 TAN\n🇹🇭
+  THA\n🇹🇹 TTO\n🇹🇲 TKM\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇺🇾 URU\n🇻🇺
+  VAN\n🇻🇪 VEN
+SUMMARY:🏊 Men's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T095131Z-swimming-WOMENS-1500M-FREESTYLE-HEATS
+DTSTAMP:20240730T095131Z
+DTSTART:20240730T095131Z
+DTEND:20240730T104759Z
+DESCRIPTION:Swimming - Women's 1500m Freestyle - Heats\n🇦🇺 AUS\n🇧🇷
+  BRA\n🇨🇱 CHI\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇭🇺 HUN\n🇮🇹 ITA\n🇲🇹
+  MLT\n🇳🇿 NZL\n🇸🇬 SGP\n🇺🇸 USA
+SUMMARY:🏊 Women's 1500m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104759Z-swimming-WOMENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T104759Z
+DTSTART:20240730T104759Z
+DTEND:20240730T110153Z
+DESCRIPTION:Swimming - Women's 100m Freestyle - Heats\n🇩🇿 ALG\n🇦🇺
+  AUS\n🇧🇼 BOT\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿
+  CZE\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇩 GRN\n🇬🇾 GUY\n🇭🇰 Hong Kong, China\n🇮🇸
+  ISL\n🇳🇱 NED\n🇵🇭 PHI\n🇵🇱 POL\n🇸🇮 SLO\n🇸🇩 SUD\n🇸🇪 SWE\n🇺🇬
+  UGA\n🇺🇸 USA\n🇿🇼 ZIM
+SUMMARY:🏊 Women's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110153Z-swimming-MENS-200M-BREASTSTROKE-HEATS
+DTSTAMP:20240730T110153Z
+DTSTART:20240730T110153Z
+DTEND:20240730T112042Z
+DESCRIPTION:Swimming - Men's 200m Breaststroke - Heats\n🇦🇺 AUS\n🇧🇭
+  BRN\n🇧🇬 BUL\n🇨🇳 CHN\n🇫🇮 FIN\n🇫🇷 FRA\n🇭🇳 HON\n🇮🇸 ISL\n🇯🇵
+  JPN\n🇯🇴 JOR\n🇰🇷 KOR\n🇰🇬 KGZ\n🇱🇻 LAT\n🇱🇹 LTU\n🇲🇽 MEX\n🇳🇱
+  NED\n🇵🇦 PAN\n🇵🇱 POL\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T112042Z-swimming-MENS-4-X-200M-FREESTYLE-RELAY-HEATS
+DTSTAMP:20240730T112042Z
+DTSTART:20240730T112042Z
+DTEND:20240730T114006Z
+DESCRIPTION:Swimming - Men's 4 x 200m Freestyle Relay - Heats\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇱🇹 LTU\n🇪🇸 ESP\n🇨🇭
+  SUI\n🇺🇸 USA
+SUMMARY:🏊 Men's 4 x 200m Freestyle Relay - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-swimming-WOMENS-200M-BREASTSTROKE-HEATS
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T092100Z
+DESCRIPTION:Swimming - Women's 200m Breaststroke - Heats\n🇦🇷 ARG\n🇦🇺
+  AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿 CZE\n🇩🇰 DEN\n🇪🇪 EST\n🇮🇪 IRL\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇱🇹 LTU\n🇳🇱 NED\n🇸🇬 SGP\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪
+  SWE\n🇨🇭 SUI\n🇺🇸 USA
+SUMMARY:🏊 Women's 200m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T092100Z-swimming-MENS-200M-BACKSTROKE-HEATS
+DTSTAMP:20240731T092100Z
+DTSTART:20240731T092100Z
+DTEND:20240731T094600Z
+DESCRIPTION:Swimming - Men's 200m Backstroke - Heats\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇵🇷
+  PUR\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇩 SUD\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA\n🇿🇼 ZIM
+SUMMARY:🏊 Men's 200m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T094600Z-swimming-WOMENS-200M-BUTTERFLY-HEATS
+DTSTAMP:20240731T094600Z
+DTSTART:20240731T094600Z
+DTEND:20240731T100600Z
+DESCRIPTION:Swimming - Women's 200m Butterfly - Heats\n🇦🇴 ANG\n🇦🇺
+  AUS\n🇧🇦 Bosnia & Herzegovina\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇷 CRC\n🇩🇰
+  DEN\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇯🇵 JPN\n🇷🇸 SRB\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Women's 200m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T090000Z-swimming-WOMENS-200M-BACKSTROKE-HEATS
+DTSTAMP:20240801T090000Z
+DTSTART:20240801T090000Z
+DTEND:20240801T091500Z
+DESCRIPTION:Swimming - Women's 200m Backstroke - Heats\n🇦🇺 AUS\n🇧🇬
+  BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇭🇺
+  HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇷 KOR\n🇲🇺 MRI\n🇵🇱 POL\n🇵🇹 POR\n🇲🇩
+  Republic of Moldova\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Women's 200m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T094000Z-swimming-MENS-200M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240801T094000Z
+DTSTART:20240801T094000Z
+DTEND:20240801T095500Z
+DESCRIPTION:Swimming - Men's 200m Individual Medley - Heats\n🇩🇿 ALG\n🇦🇺
+  AUS\n🇧🇴 BOL\n🇨🇦 CAN\n🇨🇳 CHN\n🇪🇨 ECU\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇬🇹 GUA\n🇭🇺 HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇿 NZL\n🇵🇾
+  PAR\n🇸🇨 SEY\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇷 TUR\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T095600Z-swimming-WOMENS-4-X-200M-FREESTYLE-RELAY-HEATS
+DTSTAMP:20240801T095600Z
+DTSTART:20240801T095600Z
+DTEND:20240801T101600Z
+DESCRIPTION:Swimming - Women's 4 x 200m Freestyle Relay - Heats\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺
+  HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇹🇷
+  TUR\n🇺🇸 USA
+SUMMARY:🏊 Women's 4 x 200m Freestyle Relay - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T090000Z-swimming-MENS-100M-BUTTERFLY-HEATS
+DTSTAMP:20240802T090000Z
+DTSTART:20240802T090000Z
+DTEND:20240802T091300Z
+DESCRIPTION:Swimming - Men's 100m Butterfly - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇭🇷 CRO\n🇨🇿 CZE\n🇫🇷
+  FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇩 INA\n🇮🇶 IRQ\n🇮🇱 ISR\n🇯🇲
+  JAM\n🇯🇵 JPN\n🇰🇿 KAZ\n🇲🇪 MNE\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇭 PHI\n🇵🇱
+  POL\n🇵🇹 POR\n🇷🇼 RWA\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇬 UGA\n🇺🇸
+  USA\n🇾🇪 YEM
+SUMMARY:🏊 Men's 100m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091400Z-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240802T091400Z
+DTSTART:20240802T091400Z
+DTEND:20240802T093400Z
+DESCRIPTION:Swimming - Women's 200m Individual Medley - Heats\n🇦🇺
+  AUS\n🇦🇹 AUT\n🇨🇻 CPV\n🇨🇦 CAN\n🇨🇳 CHN\n🇹🇼 TPE\n🇨🇿 CZE\n🇫🇷
+  FRA\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇩 INA\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵
+  JPN\n🇰🇷 KOR\n🇱🇻 LAT\n🇳🇱 NED\n🇵🇸 PLE\n🇵🇪 PER\n🇵🇷 PUR\n🇸🇰
+  SVK\n🇿🇦 RSA\n🇪🇸 ESP\n🇺🇸 USA\n🇺🇾 URU\n🇻🇳 VIE
+SUMMARY:🏊 Women's 200m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093500Z-swimming-WOMENS-800M-FREESTYLE-HEATS
+DTSTAMP:20240802T093500Z
+DTSTART:20240802T093500Z
+DTEND:20240802T095700Z
+DESCRIPTION:Swimming - Women's 800m Freestyle - Heats\n🇦🇷 ARG\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇱 CHI\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇭🇺 HUN\n🇮🇹
+  ITA\n🇳🇿 NZL\n🇸🇬 SGP\n🇹🇳 TUN\n🇺🇸 USA
+SUMMARY:🏊 Women's 800m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T095700Z-swimming-MIXED-4-X-100M-MEDLEY-RELAY-HEATS
+DTSTAMP:20240802T095700Z
+DTSTART:20240802T095700Z
+DTEND:20240802T100800Z
+DESCRIPTION:Swimming - Mixed 4 x 100m Medley Relay - Heats\n🇦🇺 AUS\n🇧🇷
+  BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇵🇱 POL\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Mixed 4 x 100m Medley Relay - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T092200Z
+DESCRIPTION:Swimming - Women's 50m Freestyle - Heats\n🇦🇼 ARU\n🇦🇺
+  AUS\n🇦🇿 AZE\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇪 BEL\n🇧🇯 BEN\n🇧🇴 BOL\n🇧🇳
+  Brunei Darussalam\n🇧🇫 BUR\n🇧🇮 BDI\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇨🇫
+  Centr Afric Rep\n🇨🇳 CHN\n🇰🇲 COM\n🇨🇬 CGO\n🇭🇷 CRO\n🇨🇩 DR
+  Congo\n🇩🇰 DEN\n🇩🇯 DJI\n🇩🇲 DMA\n🇪🇨 ECU\n🇪🇷 ERI\n🇪🇹 ETH\n🇫🇯
+  FIJ\n🇫🇷 FRA\n🇬🇦 GAB\n🇬🇭 GHA\n🇬🇧 GBR\n🇬🇷 GRE\n🇬🇳 GUI\n🇭🇹
+  HAI\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇲 JAM\n🇰🇪 KEN\n🇽🇰 KOS\n🇰🇬
+  KGZ\n🇲🇬 MAD\n🇲🇼 MAW\n🇲🇻 MDV\n🇲🇱 MLI\n🇲🇭 MHL\n🇫🇲
+  Micronesia\n🇲🇪 MNE\n🇳🇱 NED\n🇳🇪 NIG\n🇳🇬 NGR\n🇵🇼 PLW\n🇵🇬
+  PNG\n🇵🇱 POL\n🇷🇼 RWA\n🇼🇸 SAM\n🇸🇨 SEY\n🇸🇱 SLE\n🇸🇮 SLO\n🇸🇧
+  SOL\n🇻🇨 StVincent&Grenadines\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇯 TJK\n🇹🇿
+  TAN\n🇹🇭 THA\n🇹🇱 TLS\n🇹🇬 TOG\n🇹🇴 TGA\n🇺🇸 USA\n🇻🇺 VAN\n🇿🇲 ZAM
+SUMMARY:🏊 Women's 50m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T092500Z-swimming-MENS-1500M-FREESTYLE-HEATS
+DTSTAMP:20240803T092500Z
+DTSTART:20240803T092500Z
+DTEND:20240803T103200Z
+DESCRIPTION:Swimming - Men's 1500m Freestyle - Heats\n🇦🇺 AUS\n🇨🇳
+  CHN\n🇨🇺 CUB\n🇪🇬 EGY\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺
+  HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇴 NOR\n🇵🇱 POL\n🇷🇴 ROU\n🇪🇸 ESP\n🇸🇪
+  SWE\n🇹🇳 TUN\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇳 VIE
+SUMMARY:🏊 Men's 1500m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T103300Z-swimming-MENS-4-X-100M-MEDLEY-RELAY-HEATS
+DTSTAMP:20240803T103300Z
+DTSTART:20240803T103300Z
+DTEND:20240803T104400Z
+DESCRIPTION:Swimming - Men's 4 x 100m Medley Relay - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇵🇱 POL\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇸 USA
+SUMMARY:🏊 Men's 4 x 100m Medley Relay - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T104400Z-swimming-WOMENS-4-X-100M-MEDLEY-RELAY-HEATS
+DTSTAMP:20240803T104400Z
+DTSTART:20240803T104400Z
+DTEND:20240803T105600Z
+DESCRIPTION:Swimming - Women's 4 x 100m Medley Relay - Heats\n🇦🇺
+  AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇩🇰 DEN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇰
+  Hong Kong, China\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇵🇱 POL\n🇸🇬
+  SGP\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 4 x 100m Medley Relay - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 END:VCALENDAR

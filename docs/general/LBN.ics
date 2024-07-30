@@ -10,7 +10,7 @@ DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - Opening ceremony
 SUMMARY:Paris 2024 - Opening ceremony
-Location:Paris
+LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-LBN-ESP
@@ -29,6 +29,20 @@ DTEND:20240727T143000Z
 DESCRIPTION:Table Tennis - Women's Singles Preliminary Round
 SUMMARY:🏓 Zhiying ZENG 🇨🇱 - 🇱🇧 Mariana SAHAKIAN
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T092700Z-swimming-WOMENS-100M-BREASTSTROKE-HEATS
+DTSTAMP:20240728T092700Z
+DTSTART:20240728T092700Z
+DTEND:20240728T094200Z
+DESCRIPTION:Swimming - Women's 100m Breaststroke - Heats\n🇦🇬 ANT\n🇦🇷
+  ARG\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇴 COL\n🇨🇰 COK\n🇨🇿 CZE\n🇪🇪
+  EST\n🇫🇮 FIN\n🇬🇲 GAM\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇼 KUW\n🇱🇧 LBN\n🇱🇹 LTU\n🇲🇾 MAS\n🇲🇦 MAR\n🇳🇱
+  NED\n🇵🇦 PAN\n🇵🇱 POL\n🇸🇬 SGP\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪 SWE\n🇨🇭
+  SUI\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-LBN-AUS
@@ -95,6 +109,26 @@ SUMMARY:🔫 Trap Women's Qualification - Day 1
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T091751Z-swimming-MENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T091751Z
+DTSTART:20240730T091751Z
+DTEND:20240730T095131Z
+DESCRIPTION:Swimming - Men's 100m Freestyle - Heats\n🇦🇱 ALB\n🇦🇴
+  ANG\n🇦🇲 ARM\n🇦🇼 ARU\n🇦🇺 AUS\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇧 BAR\n🇧🇹
+  BHU\n🇧🇷 BRA\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇰🇲
+  COM\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿 CZE\n🇩🇴 DOM\n🇸🇻 ESA\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇭 GHA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇷 IR
+  Iran\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇿 KAZ\n🇰🇷 KOR\n🇽🇰 KOS\n🇰🇼 KUW\n🇱🇧
+  LBN\n🇱🇾 LBA\n🇱🇹 LTU\n🇱🇺 LUX\n🇲🇱 MLI\n🇲🇺 MRI\n🇲🇽 MEX\n🇲🇳
+  MGL\n🇲🇲 MYA\n🇳🇵 NEP\n🇳🇱 NED\n🇳🇿 NZL\n🇴🇲 OMA\n🇵🇬 PNG\n🇵🇱
+  POL\n🇵🇹 POR\n🇷🇴 ROU\n🇱🇨 LCA\n🇼🇸 SAM\n🇸🇦 KSA\n🇸🇳 SEN\n🇷🇸
+  SRB\n🇸🇬 SGP\n🇪🇸 ESP\n🇱🇰 SRI\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇿 TAN\n🇹🇭
+  THA\n🇹🇹 TTO\n🇹🇲 TKM\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇺🇾 URU\n🇻🇺
+  VAN\n🇻🇪 VEN
+SUMMARY:🏊 Men's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T080000Z-judo-MEN-90-KG-ELIMINATION-ROUND-OF-32-BUL-LBN
 DTSTAMP:20240731T080000Z
 DTSTART:20240731T080000Z
@@ -110,6 +144,6 @@ DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
 DESCRIPTION:Paris 2024 - Closing ceremony
 SUMMARY:Paris 2024 - Closing ceremony
-Location:Stade de France, Saint-Denis
+LOCATION:Stade de France, Saint-Denis
 END:VEVENT
 END:VCALENDAR

@@ -4,6 +4,44 @@ PRODID:-//fabrice404//olympics-calendar//rowing/CUB//EN
 X-WR-CALNAME:🇨🇺 Cuba Rowing | Paris 2024
 NAME:🇨🇺 Cuba Rowing | Paris 2024
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇩🇿 ALG\n🇦🇴 ANG\n🇧🇪
+  BEL\n🇧🇲 BER\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬
+  EGY\n🇩🇪 GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩
+  INA\n🇯🇵 JPN\n🇰🇿 KAZ\n🇱🇾 LBA\n🇱🇹 LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿
+  NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇺🇸
+  USA\n🇺🇾 URU\n🇿🇼 ZIM
+SUMMARY:🚣 Men's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T081200Z-rowing-WOMENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇩🇿 ALG\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇺 CUB\n🇩🇪 GER\n🇮🇷 IR Iran\n🇰🇼
+  KUW\n🇱🇹 LTU\n🇲🇽 MEX\n🇲🇦 MAR\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
+  PAR\n🇵🇪 PER\n🇵🇭 PHI\n🇷🇸 SRB\n🇸🇬 SGP\n🇸🇮 SLO\n🇿🇦 RSA\n🇪🇸
+  ESP\n🇨🇭 SUI\n🇹🇬 TOG\n🇹🇷 TUR\n🇺🇬 UGA\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇳 VIE
+SUMMARY:🚣 Women's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T070000Z-rowing-WOMENS-SINGLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T073100Z
+DESCRIPTION:Rowing - Women's Single Sculls Repechages\n🇩🇿 ALG\n🇨🇺
+  CUB\n🇮🇷 IR Iran\n🇰🇼 KUW\n🇲🇦 MAR\n🇳🇮 NCA\n🇵🇾 PAR\n🇵🇪 PER\n🇵🇭
+  PHI\n🇸🇬 SGP\n🇹🇬 TOG\n🇹🇷 TUR\n🇺🇬 UGA\n🇻🇳 VIE
+SUMMARY:🚣 Women's Single Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T075400Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-EF-1
 DTSTAMP:20240729T075400Z
 DTSTART:20240729T075400Z
@@ -12,6 +50,19 @@ DESCRIPTION:Rowing - Women's Single Sculls Semifinal E/F 1\n🇸🇬 Aisyah
   RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇰🇼 Soaad ALFAQAAN\n🇨🇺 Yariulvis COBAS
   GARCIA
 SUMMARY:🚣 Women's Single Sculls Semifinal E/F 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-rowing-MENS-SINGLE-SCULLS-QUARTERFINALS
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:Rowing - Men's Single Sculls Quarterfinals\n🇩🇿 ALG\n🇧🇪
+  BEL\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬 EGY\n🇩🇪
+  GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇯🇵 JPN\n🇱🇹
+  LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇺🇸
+  USA\n🇺🇾 URU
+SUMMARY:🚣 Men's Single Sculls Quarterfinals
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT

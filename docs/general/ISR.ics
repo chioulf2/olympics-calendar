@@ -78,7 +78,7 @@ DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - Opening ceremony
 SUMMARY:Paris 2024 - Opening ceremony
-Location:Paris
+LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T083000Z-judo-MEN-60-KG-ELIMINATION-ROUND-OF-32-COD-ISR
@@ -108,6 +108,31 @@ SUMMARY:🥋 Giorgi SARDALASHVILI 🇬🇪 - 🇮🇱 Yam WOLCZAK
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T093000Z-swimming-MENS-100M-BREASTSTROKE-HEATS
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:Swimming - Men's 100m Breaststroke - Heats\n🇦🇸 ASA\n🇦🇬
+  ANT\n🇦🇺 AUS\n🇦🇹 AUT\n🇧🇼 BOT\n🇨🇳 CHN\n🇸🇿 SWZ\n🇩🇪 GER\n🇬🇧
+  GBR\n🇭🇹 HAI\n🇮🇸 ISL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇰🇬
+  KGZ\n🇱🇦 Lao PDR\n🇱🇹 LTU\n🇲🇬 MAD\n🇲🇽 MEX\n🇫🇲 Micronesia\n🇲🇿
+  MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇶🇦 QAT\n🇹🇷 TUR\n🇺🇸 USA
+SUMMARY:🏊 Men's 100m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T102600Z-swimming-MENS-4-X-100M-FREESTYLE-RELAY-HEATS
+DTSTAMP:20240727T102600Z
+DTSTART:20240727T102600Z
+DTEND:20240727T103600Z
+DESCRIPTION:Swimming - Men's 4 x 100m Freestyle Relay - Heats\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇭🇺 HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇵🇱 POL\n🇷🇸 SRB\n🇪🇸 ESP\n🇸🇪
+  SWE\n🇺🇸 USA
+SUMMARY:🏊 Men's 4 x 100m Freestyle Relay - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T170000Z-football-MENS-GROUP-D-ISR-PAR
 DTSTAMP:20240727T170000Z
 DTSTART:20240727T170000Z
@@ -124,6 +149,16 @@ DTEND:20240727T195000Z
 DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
 SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇮🇱 Misha ZILBERMAN
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T191200Z-swimming-MENS-100M-BREASTSTROKE-SEMIFINALS
+DTSTAMP:20240727T191200Z
+DTSTART:20240727T191200Z
+DTEND:20240727T202600Z
+DESCRIPTION:Swimming - Men's 100m Breaststroke Semifinals\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇨🇳 CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇱 ISR\n🇮🇹 ITA\n🇳🇱 NED\n🇺🇸 USA
+SUMMARY:🏊 Men's 100m Breaststroke Semifinals
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T230000Z-surfing-WOMENS-ROUND-1-HEAT-3
@@ -152,6 +187,18 @@ DTEND:20240728T084200Z
 DESCRIPTION:Judo - Women -52 kg Elimination Round of 32
 SUMMARY:🥋 Gefen PRIMO 🇮🇱 - 🇰🇷 JUNG Yerin
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-swimming-MENS-200M-FREESTYLE-HEATS
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T091400Z
+DESCRIPTION:Swimming - Men's 200m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇽 MEX\n🇵🇰 PAK\n🇷🇴
+  ROU\n🇷🇸 SRB\n🇸🇮 SLO\n🇨🇭 SUI\n🇸🇾 SYR\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T091500Z-shooting-10M-AIR-RIFLE-MENS-QUALIFICATION
@@ -188,6 +235,20 @@ SUMMARY:🥋 Nurali EMOMALI 🇹🇯 - 🇮🇱 Baruch SHMAILOV
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T092700Z-swimming-WOMENS-100M-BREASTSTROKE-HEATS
+DTSTAMP:20240728T092700Z
+DTSTART:20240728T092700Z
+DTEND:20240728T094200Z
+DESCRIPTION:Swimming - Women's 100m Breaststroke - Heats\n🇦🇬 ANT\n🇦🇷
+  ARG\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇴 COL\n🇨🇰 COK\n🇨🇿 CZE\n🇪🇪
+  EST\n🇫🇮 FIN\n🇬🇲 GAM\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇼 KUW\n🇱🇧 LBN\n🇱🇹 LTU\n🇲🇾 MAS\n🇲🇦 MAR\n🇳🇱
+  NED\n🇵🇦 PAN\n🇵🇱 POL\n🇸🇬 SGP\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪 SWE\n🇨🇭
+  SUI\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T093000Z-judo-WOMEN-52-KG-ELIMINATION-ROUND-OF-16-ISR-SUI
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
@@ -197,6 +258,21 @@ SUMMARY:🥋 Gefen PRIMO 🇮🇱 - 🇨🇭 Binta NDIAYE
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T094300Z-swimming-MENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240728T094300Z
+DTSTART:20240728T094300Z
+DTEND:20240728T095900Z
+DESCRIPTION:Swimming - Men's 100m Backstroke - Heats\n🇦🇷 ARG\n🇦🇺
+  AUS\n🇦🇹 AUT\n🇧🇯 BEN\n🇧🇲 BER\n🇧🇳 Brunei Darussalam\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇨🇴 COL\n🇨🇿 CZE\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇬🇩 GRN\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷
+  KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇸 PLE\n🇵🇱 POL\n🇵🇹 POR\n🇵🇷 PUR\n🇿🇦
+  RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇴 TGA\n🇹🇷 TUR\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇮
+  Virgin Islands, US
+SUMMARY:🏊 Men's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T100000Z-judo-WOMEN-52-KG-QUARTERFINAL-KOS-ISR
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -204,6 +280,19 @@ DTEND:20240728T100600Z
 DESCRIPTION:Judo - Women -52 kg Quarterfinal
 SUMMARY:🥋 Distria KRASNIQI 🇽🇰 - 🇮🇱 Gefen PRIMO
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-swimming-WOMENS-200M-FREESTYLE-HEATS
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T101600Z
+DESCRIPTION:Swimming - Women's 200m Freestyle - Heats\n🇦🇱 ALB\n🇦🇺
+  AUS\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇺 CUB\n🇨🇿 CZE\n🇪🇬
+  EGY\n🇩🇪 GER\n🇭🇳 HON\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇸 ISL\n🇮🇳
+  IND\n🇮🇱 ISR\n🇱🇦 Lao PDR\n🇲🇳 MGL\n🇳🇵 NEP\n🇳🇿 NZL\n🇵🇰 PAK\n🇷🇴
+  ROU\n🇸🇦 KSA\n🇿🇦 RSA\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇻🇪 VEN
+SUMMARY:🏊 Women's 200m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T102500Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32-ISR-ITA
@@ -222,6 +311,17 @@ DTEND:20240728T143600Z
 DESCRIPTION:Judo - Women -52 kg Repechage contest
 SUMMARY:🥋 Gefen PRIMO 🇮🇱 - 🇭🇺 Reka PUPP
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T184600Z-swimming-MENS-200M-FREESTYLE-SEMIFINALS
+DTSTAMP:20240728T184600Z
+DTSTART:20240728T184600Z
+DTEND:20240728T190000Z
+DESCRIPTION:Swimming - Men's 200m Freestyle Semifinals\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇱🇹
+  LTU\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Freestyle Semifinals
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T211200Z-surfing-WOMENS-ROUND-2-HEAT-8-ISR-ESP
@@ -249,6 +349,30 @@ DTEND:20240729T084200Z
 DESCRIPTION:Judo - Women -57 kg Elimination Round of 32
 SUMMARY:🥋 Timna NELSON LEVY 🇮🇱 - 🇸🇮 Kaja KAJZER
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-swimming-WOMENS-400M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091200Z
+DESCRIPTION:Swimming - Women's 400m Individual Medley - Heats\n🇦🇺
+  AUS\n🇨🇦 CAN\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵
+  JPN\n🇷🇸 SRB\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Women's 400m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T091300Z-swimming-WOMENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:Swimming - Women's 100m Backstroke - Heats\n🇦🇺 AUS\n🇧🇭
+  BRN\n🇧🇪 BEL\n🇧🇲 BER\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇩🇴 DOM\n🇸🇻
+  ESA\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇹 GUA\n🇭🇰 Hong Kong, China\n🇮🇪 IRL\n🇮🇱
+  ISR\n🇰🇿 KAZ\n🇱🇾 LBA\n🇲🇽 MEX\n🇲🇿 MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇪🇸
+  ESP\n🇱🇰 SRI\n🇸🇪 SWE\n🇹🇹 TTO\n🇹🇲 TKM\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T092400Z-judo-MEN-73-KG-ELIMINATION-ROUND-OF-16-AZE-ISR
@@ -319,88 +443,6 @@ SUMMARY:⛵ Women's Windsurfing - Race 2
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T105700Z-sailing-MENS-WINDSURFING-RACE-2
-DTSTAMP:20240729T105700Z
-DTSTART:20240729T105700Z
-DTEND:20240729T110600Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 2\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 2
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T111100Z-sailing-WOMENS-WINDSURFING-RACE-3
-DTSTAMP:20240729T111100Z
-DTSTART:20240729T111100Z
-DTEND:20240729T112000Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 3\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 3
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T113100Z-sailing-MENS-WINDSURFING-RACE-3
-DTSTAMP:20240729T113100Z
-DTSTART:20240729T113100Z
-DTEND:20240729T114000Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 3\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 3
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T114500Z-sailing-WOMENS-WINDSURFING-RACE-4
-DTSTAMP:20240729T114500Z
-DTSTART:20240729T114500Z
-DTEND:20240729T115400Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 4\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 4
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T120500Z-sailing-MENS-WINDSURFING-RACE-4
-DTSTAMP:20240729T120500Z
-DTSTART:20240729T120500Z
-DTEND:20240729T121400Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 4\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 4
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY
 DTSTAMP:20240729T121000Z
 DTSTART:20240729T121000Z
@@ -420,39 +462,6 @@ DESCRIPTION:Cycling Mountain Bike - Men's Cross-country\n🇲🇽 Adair Zabdiel
   GALINSKI\n🇫🇷 Victor KORETZKY
 SUMMARY:🚴 Men's Cross-country
 LOCATION:Elancourt Hill
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T121900Z-sailing-WOMENS-WINDSURFING-RACE-5
-DTSTAMP:20240729T121900Z
-DTSTART:20240729T121900Z
-DTEND:20240729T122800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 5\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 5
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T123900Z-sailing-MENS-WINDSURFING-RACE-5
-DTSTAMP:20240729T123900Z
-DTSTART:20240729T123900Z
-DTEND:20240729T124800Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 5\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 5
-LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T200000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-DEN-IS
@@ -509,6 +518,26 @@ SUMMARY:🥋 Clarisse AGBEGNENOU 🇫🇷 - 🇮🇱 Gili SHARIR
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T091751Z-swimming-MENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T091751Z
+DTSTART:20240730T091751Z
+DTEND:20240730T095131Z
+DESCRIPTION:Swimming - Men's 100m Freestyle - Heats\n🇦🇱 ALB\n🇦🇴
+  ANG\n🇦🇲 ARM\n🇦🇼 ARU\n🇦🇺 AUS\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇧 BAR\n🇧🇹
+  BHU\n🇧🇷 BRA\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇰🇲
+  COM\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿 CZE\n🇩🇴 DOM\n🇸🇻 ESA\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇭 GHA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇷 IR
+  Iran\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇿 KAZ\n🇰🇷 KOR\n🇽🇰 KOS\n🇰🇼 KUW\n🇱🇧
+  LBN\n🇱🇾 LBA\n🇱🇹 LTU\n🇱🇺 LUX\n🇲🇱 MLI\n🇲🇺 MRI\n🇲🇽 MEX\n🇲🇳
+  MGL\n🇲🇲 MYA\n🇳🇵 NEP\n🇳🇱 NED\n🇳🇿 NZL\n🇴🇲 OMA\n🇵🇬 PNG\n🇵🇱
+  POL\n🇵🇹 POR\n🇷🇴 ROU\n🇱🇨 LCA\n🇼🇸 SAM\n🇸🇦 KSA\n🇸🇳 SEN\n🇷🇸
+  SRB\n🇸🇬 SGP\n🇪🇸 ESP\n🇱🇰 SRI\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇿 TAN\n🇹🇭
+  THA\n🇹🇹 TTO\n🇹🇲 TKM\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇺🇾 URU\n🇻🇺
+  VAN\n🇻🇪 VEN
+SUMMARY:🏊 Men's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T092400Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-GER-ISR
 DTSTAMP:20240730T092400Z
 DTSTART:20240730T092400Z
@@ -518,10 +547,137 @@ SUMMARY:🥋 Timo CAVELIUS 🇩🇪 - 🇮🇱 Sagi MUKI
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T101300Z-sailing-WOMENS-WINDSURFING-RACE-6
+UID:20240730T101300Z-sailing-MENS-WINDSURFING-RACE-2
 DTSTAMP:20240730T101300Z
 DTSTART:20240730T101300Z
 DTEND:20240730T103400Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 2\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 2
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T103300Z-sailing-WOMENS-WINDSURFING-RACE-3
+DTSTAMP:20240730T103300Z
+DTSTART:20240730T103300Z
+DTEND:20240730T105400Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 3\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 3
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104400Z-sailing-MENS-WINDSURFING-RACE-3
+DTSTAMP:20240730T104400Z
+DTSTART:20240730T104400Z
+DTEND:20240730T110500Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 3\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 3
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110400Z-sailing-WOMENS-WINDSURFING-RACE-4
+DTSTAMP:20240730T110400Z
+DTSTART:20240730T110400Z
+DTEND:20240730T112500Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 4\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 4
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T111500Z-sailing-MENS-WINDSURFING-RACE-4
+DTSTAMP:20240730T111500Z
+DTSTART:20240730T111500Z
+DTEND:20240730T113600Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 4\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 4
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T112042Z-swimming-MENS-4-X-200M-FREESTYLE-RELAY-HEATS
+DTSTAMP:20240730T112042Z
+DTSTART:20240730T112042Z
+DTEND:20240730T114006Z
+DESCRIPTION:Swimming - Men's 4 x 200m Freestyle Relay - Heats\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇱🇹 LTU\n🇪🇸 ESP\n🇨🇭
+  SUI\n🇺🇸 USA
+SUMMARY:🏊 Men's 4 x 200m Freestyle Relay - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T113500Z-sailing-WOMENS-WINDSURFING-RACE-5
+DTSTAMP:20240730T113500Z
+DTSTART:20240730T113500Z
+DTEND:20240730T115600Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 5\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T114600Z-sailing-MENS-WINDSURFING-RACE-5
+DTSTAMP:20240730T114600Z
+DTSTART:20240730T114600Z
+DTEND:20240730T120700Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 5\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T120600Z-sailing-WOMENS-WINDSURFING-RACE-6
+DTSTAMP:20240730T120600Z
+DTSTART:20240730T120600Z
+DTEND:20240730T122700Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 6\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -532,57 +688,6 @@ DESCRIPTION:Sailing - Women's Windsurfing - Race 6\n🇦🇷 Chiara
   TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
   STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
 SUMMARY:⛵ Women's Windsurfing - Race 6
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T104400Z-sailing-WOMENS-WINDSURFING-RACE-7
-DTSTAMP:20240730T104400Z
-DTSTART:20240730T104400Z
-DTEND:20240730T110500Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 7\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 7
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T111500Z-sailing-WOMENS-WINDSURFING-RACE-8
-DTSTAMP:20240730T111500Z
-DTSTART:20240730T111500Z
-DTEND:20240730T113600Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 8\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 8
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T114600Z-sailing-WOMENS-WINDSURFING-RACE-9
-DTSTAMP:20240730T114600Z
-DTSTART:20240730T114600Z
-DTEND:20240730T120700Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 9\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 9
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -602,11 +707,11 @@ SUMMARY:⛵ Men's Windsurfing - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T121700Z-sailing-WOMENS-WINDSURFING-RACE-10
-DTSTAMP:20240730T121700Z
-DTSTART:20240730T121700Z
-DTEND:20240730T123800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 10\n🇦🇷 Chiara
+UID:20240730T123700Z-sailing-WOMENS-WINDSURFING-RACE-7
+DTSTAMP:20240730T123700Z
+DTSTART:20240730T123700Z
+DTEND:20240730T125800Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 7\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
   SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
@@ -615,71 +720,7 @@ DESCRIPTION:Sailing - Women's Windsurfing - Race 10\n🇦🇷 Chiara
   MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
   TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
   STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 10
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T124800Z-sailing-MENS-WINDSURFING-RACE-7
-DTSTAMP:20240730T124800Z
-DTSTART:20240730T124800Z
-DTEND:20240730T130900Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 7\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 7
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T131900Z-sailing-MENS-WINDSURFING-RACE-8
-DTSTAMP:20240730T131900Z
-DTSTART:20240730T131900Z
-DTEND:20240730T134000Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 8\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 8
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T135000Z-sailing-MENS-WINDSURFING-RACE-9
-DTSTAMP:20240730T135000Z
-DTSTART:20240730T135000Z
-DTEND:20240730T141100Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 9\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 9
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T142100Z-sailing-MENS-WINDSURFING-RACE-10
-DTSTAMP:20240730T142100Z
-DTSTART:20240730T142100Z
-DTEND:20240730T144200Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 10\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 10
+SUMMARY:⛵ Women's Windsurfing - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -710,6 +751,18 @@ SUMMARY:🥋 Maya GOSHEN 🇮🇱 - 🇹🇷 Fidan OGEL
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T092100Z-swimming-MENS-200M-BACKSTROKE-HEATS
+DTSTAMP:20240731T092100Z
+DTSTART:20240731T092100Z
+DTEND:20240731T094600Z
+DESCRIPTION:Swimming - Men's 200m Backstroke - Heats\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇵🇷
+  PUR\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇩 SUD\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA\n🇿🇼 ZIM
+SUMMARY:🏊 Men's 200m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T115700Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-ROU-IS
 DTSTAMP:20240731T115700Z
 DTSTART:20240731T115700Z
@@ -719,10 +772,74 @@ SUMMARY:🏹 Madalina AMAISTROAIE 🇷🇴 - 🇮🇱 Mikaella MOSHE
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T120300Z-sailing-MENS-WINDSURFING-RACE-11
+UID:20240731T120300Z-sailing-MENS-WINDSURFING-RACE-7
 DTSTAMP:20240731T120300Z
 DTSTART:20240731T120300Z
 DTEND:20240731T122400Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 7\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 7
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T123400Z-sailing-MENS-WINDSURFING-RACE-8
+DTSTAMP:20240731T123400Z
+DTSTART:20240731T123400Z
+DTEND:20240731T125500Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 8\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 8
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T130500Z-sailing-MENS-WINDSURFING-RACE-9
+DTSTAMP:20240731T130500Z
+DTSTART:20240731T130500Z
+DTEND:20240731T132600Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 9\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T133600Z-sailing-MENS-WINDSURFING-RACE-10
+DTSTAMP:20240731T133600Z
+DTSTART:20240731T133600Z
+DTEND:20240731T135700Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 10\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 10
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T140700Z-sailing-MENS-WINDSURFING-RACE-11
+DTSTAMP:20240731T140700Z
+DTSTART:20240731T140700Z
+DTEND:20240731T142800Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 11\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -735,74 +852,61 @@ SUMMARY:⛵ Men's Windsurfing - Race 11
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T123400Z-sailing-MENS-WINDSURFING-RACE-12
-DTSTAMP:20240731T123400Z
-DTSTART:20240731T123400Z
-DTEND:20240731T125500Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 12\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 12
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T130500Z-sailing-MENS-WINDSURFING-RACE-13
-DTSTAMP:20240731T130500Z
-DTSTART:20240731T130500Z
-DTEND:20240731T132600Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 13\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 13
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T133600Z-sailing-MENS-WINDSURFING-RACE-14
-DTSTAMP:20240731T133600Z
-DTSTART:20240731T133600Z
-DTEND:20240731T135700Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 14\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 14
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T140700Z-sailing-MENS-WINDSURFING-RACE-15
-DTSTAMP:20240731T140700Z
-DTSTART:20240731T140700Z
-DTEND:20240731T142800Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 15\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 15
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T144800Z-sailing-WOMENS-WINDSURFING-RACE-11
+UID:20240731T144800Z-sailing-WOMENS-WINDSURFING-RACE-8
 DTSTAMP:20240731T144800Z
 DTSTART:20240731T144800Z
 DTEND:20240731T150900Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 8\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 8
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T151900Z-sailing-WOMENS-WINDSURFING-RACE-9
+DTSTAMP:20240731T151900Z
+DTSTART:20240731T151900Z
+DTEND:20240731T154000Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 9\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T155000Z-sailing-WOMENS-WINDSURFING-RACE-10
+DTSTAMP:20240731T155000Z
+DTSTART:20240731T155000Z
+DTEND:20240731T161100Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 10\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 10
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T162100Z-sailing-WOMENS-WINDSURFING-RACE-11
+DTSTAMP:20240731T162100Z
+DTSTART:20240731T162100Z
+DTEND:20240731T164200Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 11\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -816,10 +920,10 @@ SUMMARY:⛵ Women's Windsurfing - Race 11
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T151900Z-sailing-WOMENS-WINDSURFING-RACE-12
-DTSTAMP:20240731T151900Z
-DTSTART:20240731T151900Z
-DTEND:20240731T154000Z
+UID:20240731T165200Z-sailing-WOMENS-WINDSURFING-RACE-12
+DTSTAMP:20240731T165200Z
+DTSTART:20240731T165200Z
+DTEND:20240731T171300Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 12\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -833,10 +937,83 @@ SUMMARY:⛵ Women's Windsurfing - Race 12
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T155000Z-sailing-WOMENS-WINDSURFING-RACE-13
-DTSTAMP:20240731T155000Z
-DTSTART:20240731T155000Z
-DTEND:20240731T161100Z
+UID:20240801T080600Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-MGL-ISR
+DTSTAMP:20240801T080600Z
+DTSTART:20240801T080600Z
+DTEND:20240801T081200Z
+DESCRIPTION:Judo - Men -100 kg Elimination Round of 32
+SUMMARY:🥋 Gonchigsuren BATKHUYAG 🇲🇳 - 🇮🇱 Peter PALTCHIK
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T090000Z-swimming-WOMENS-200M-BACKSTROKE-HEATS
+DTSTAMP:20240801T090000Z
+DTSTART:20240801T090000Z
+DTEND:20240801T091500Z
+DESCRIPTION:Swimming - Women's 200m Backstroke - Heats\n🇦🇺 AUS\n🇧🇬
+  BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇭🇺
+  HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇷 KOR\n🇲🇺 MRI\n🇵🇱 POL\n🇵🇹 POR\n🇲🇩
+  Republic of Moldova\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Women's 200m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T091200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-16
+DTSTAMP:20240801T091200Z
+DTSTART:20240801T091200Z
+DTEND:20240801T091800Z
+DESCRIPTION:Judo - Women -78 kg Elimination Round of 16\n🇮🇱 Inbar LANIR
+SUMMARY:🥋 Women -78 kg Elimination Round of 16
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T091600Z-swimming-MENS-50M-FREESTYLE-HEATS
+DTSTAMP:20240801T091600Z
+DTSTART:20240801T091600Z
+DTEND:20240801T093800Z
+DESCRIPTION:Swimming - Men's 50m Freestyle - Heats\n🇦🇫 AFG\n🇦🇼
+  ARU\n🇦🇺 AUS\n🇧🇷 BRA\n🇧🇫 BUR\n🇧🇮 BDI\n🇨🇻 CPV\n🇨🇦 CAN\n🇰🇾
+  CAY\n🇨🇫 Centr Afric Rep\n🇨🇬 CGO\n🇭🇷 CRO\n🇨🇩 DR Congo\n🇩🇯
+  DJI\n🇩🇲 DMA\n🏳️ EOR\n🇬🇶 GEQ\n🇪🇷 ERI\n🇫🇯 FIJ\n🇫🇷 FRA\n🇬🇦
+  GAB\n🇬🇲 GAM\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇬🇳 GUI\n🇬🇼 GBS\n🇭🇰
+  Hong Kong, China\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇷 KOR\n🇲🇼
+  MAW\n🇲🇻 MDV\n🇲🇹 MLT\n🇲🇭 MHL\n🇲🇷 MTN\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿
+  NZL\n🇳🇪 NIG\n🇳🇬 NGR\n🇳🇴 NOR\n🇵🇼 PLW\n🇵🇱 POL\n🇵🇹 POR\n🇷🇸
+  SRB\n🇸🇱 SLE\n🇸🇬 SGP\n🇸🇰 SVK\n🇰🇳 St Kitts and Nevis\n🇻🇨
+  StVincent&Grenadines\n🇸🇪 SWE\n🇨🇭 SUI\n🇹🇯 TJK\n🇹🇱 TLS\n🇹🇬
+  TOG\n🇹🇹 TTO\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇪 VEN\n🇿🇲 ZAM
+SUMMARY:🏊 Men's 50m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T094000Z-swimming-MENS-200M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240801T094000Z
+DTSTART:20240801T094000Z
+DTEND:20240801T095500Z
+DESCRIPTION:Swimming - Men's 200m Individual Medley - Heats\n🇩🇿 ALG\n🇦🇺
+  AUS\n🇧🇴 BOL\n🇨🇦 CAN\n🇨🇳 CHN\n🇪🇨 ECU\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇬🇹 GUA\n🇭🇺 HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇿 NZL\n🇵🇾
+  PAR\n🇸🇨 SEY\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇷 TUR\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T095600Z-swimming-WOMENS-4-X-200M-FREESTYLE-RELAY-HEATS
+DTSTAMP:20240801T095600Z
+DTSTART:20240801T095600Z
+DTEND:20240801T101600Z
+DESCRIPTION:Swimming - Women's 4 x 200m Freestyle Relay - Heats\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺
+  HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇹🇷
+  TUR\n🇺🇸 USA
+SUMMARY:🏊 Women's 4 x 200m Freestyle Relay - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T130300Z-sailing-WOMENS-WINDSURFING-RACE-13
+DTSTAMP:20240801T130300Z
+DTSTART:20240801T130300Z
+DTEND:20240801T132400Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 13\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -850,10 +1027,19 @@ SUMMARY:⛵ Women's Windsurfing - Race 13
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T162100Z-sailing-WOMENS-WINDSURFING-RACE-14
-DTSTAMP:20240731T162100Z
-DTSTART:20240731T162100Z
-DTEND:20240731T164200Z
+UID:20240801T133000Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-NED-ISR
+DTSTAMP:20240801T133000Z
+DTSTART:20240801T133000Z
+DTEND:20240801T134300Z
+DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
+SUMMARY:🏹 Steve WIJLER 🇳🇱 - 🇮🇱 Roy DROR
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T133400Z-sailing-WOMENS-WINDSURFING-RACE-14
+DTSTAMP:20240801T133400Z
+DTSTART:20240801T133400Z
+DTEND:20240801T135500Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 14\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -867,10 +1053,26 @@ SUMMARY:⛵ Women's Windsurfing - Race 14
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T165200Z-sailing-WOMENS-WINDSURFING-RACE-15
-DTSTAMP:20240731T165200Z
-DTSTART:20240731T165200Z
-DTEND:20240731T171300Z
+UID:20240801T135300Z-sailing-MENS-WINDSURFING-RACE-12
+DTSTAMP:20240801T135300Z
+DTSTART:20240801T135300Z
+DTEND:20240801T141400Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 12\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 12
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T140500Z-sailing-WOMENS-WINDSURFING-RACE-15
+DTSTAMP:20240801T140500Z
+DTSTART:20240801T140500Z
+DTEND:20240801T142600Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 15\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -884,28 +1086,26 @@ SUMMARY:⛵ Women's Windsurfing - Race 15
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T080600Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-MGL-ISR
-DTSTAMP:20240801T080600Z
-DTSTART:20240801T080600Z
-DTEND:20240801T081200Z
-DESCRIPTION:Judo - Men -100 kg Elimination Round of 32
-SUMMARY:🥋 Gonchigsuren BATKHUYAG 🇲🇳 - 🇮🇱 Peter PALTCHIK
-LOCATION:Champ-de-Mars Arena
+UID:20240801T142400Z-sailing-MENS-WINDSURFING-RACE-13
+DTSTAMP:20240801T142400Z
+DTSTART:20240801T142400Z
+DTEND:20240801T144500Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 13\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 13
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T091200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-16
-DTSTAMP:20240801T091200Z
-DTSTART:20240801T091200Z
-DTEND:20240801T091800Z
-DESCRIPTION:Judo - Women -78 kg Elimination Round of 16\n🇮🇱 Inbar LANIR
-SUMMARY:🥋 Women -78 kg Elimination Round of 16
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T130300Z-sailing-WOMENS-WINDSURFING-RACE-16
-DTSTAMP:20240801T130300Z
-DTSTART:20240801T130300Z
-DTEND:20240801T132400Z
+UID:20240801T143600Z-sailing-WOMENS-WINDSURFING-RACE-16
+DTSTAMP:20240801T143600Z
+DTSTART:20240801T143600Z
+DTEND:20240801T145700Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 16\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -919,19 +1119,26 @@ SUMMARY:⛵ Women's Windsurfing - Race 16
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T133000Z-archery-MENS-INDIVIDUAL-132-ELIMINATION-ROUND-NED-ISR
-DTSTAMP:20240801T133000Z
-DTSTART:20240801T133000Z
-DTEND:20240801T134300Z
-DESCRIPTION:Archery - Men's Individual 1/32 Elimination Round
-SUMMARY:🏹 Steve WIJLER 🇳🇱 - 🇮🇱 Roy DROR
-LOCATION:Invalides
+UID:20240801T145500Z-sailing-MENS-WINDSURFING-RACE-14
+DTSTAMP:20240801T145500Z
+DTSTART:20240801T145500Z
+DTEND:20240801T151600Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 14\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 14
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T133400Z-sailing-WOMENS-WINDSURFING-RACE-17
-DTSTAMP:20240801T133400Z
-DTSTART:20240801T133400Z
-DTEND:20240801T135500Z
+UID:20240801T150700Z-sailing-WOMENS-WINDSURFING-RACE-17
+DTSTAMP:20240801T150700Z
+DTSTART:20240801T150700Z
+DTEND:20240801T152800Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 17\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -945,11 +1152,11 @@ SUMMARY:⛵ Women's Windsurfing - Race 17
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T135300Z-sailing-MENS-WINDSURFING-RACE-16
-DTSTAMP:20240801T135300Z
-DTSTART:20240801T135300Z
-DTEND:20240801T141400Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 16\n🇭🇰 CHENG Ching
+UID:20240801T152600Z-sailing-MENS-WINDSURFING-RACE-15
+DTSTAMP:20240801T152600Z
+DTSTART:20240801T152600Z
+DTEND:20240801T154700Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 15\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
   Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
@@ -957,14 +1164,14 @@ DESCRIPTION:Sailing - Men's Windsurfing - Race 16\n🇭🇰 CHENG Ching
   RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
   Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
   KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 16
+SUMMARY:⛵ Men's Windsurfing - Race 15
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T140500Z-sailing-WOMENS-WINDSURFING-RACE-18
-DTSTAMP:20240801T140500Z
-DTSTART:20240801T140500Z
-DTEND:20240801T142600Z
+UID:20240801T153800Z-sailing-WOMENS-WINDSURFING-RACE-18
+DTSTAMP:20240801T153800Z
+DTSTART:20240801T153800Z
+DTEND:20240801T155900Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 18\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -978,11 +1185,11 @@ SUMMARY:⛵ Women's Windsurfing - Race 18
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T142400Z-sailing-MENS-WINDSURFING-RACE-17
-DTSTAMP:20240801T142400Z
-DTSTART:20240801T142400Z
-DTEND:20240801T144500Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 17\n🇭🇰 CHENG Ching
+UID:20240801T155700Z-sailing-MENS-WINDSURFING-RACE-16
+DTSTAMP:20240801T155700Z
+DTSTART:20240801T155700Z
+DTEND:20240801T161800Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 16\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
   Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
@@ -990,14 +1197,14 @@ DESCRIPTION:Sailing - Men's Windsurfing - Race 17\n🇭🇰 CHENG Ching
   RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
   Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
   KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 17
+SUMMARY:⛵ Men's Windsurfing - Race 16
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T143600Z-sailing-WOMENS-WINDSURFING-RACE-19
-DTSTAMP:20240801T143600Z
-DTSTART:20240801T143600Z
-DTEND:20240801T145700Z
+UID:20240801T160900Z-sailing-WOMENS-WINDSURFING-RACE-19
+DTSTAMP:20240801T160900Z
+DTSTART:20240801T160900Z
+DTEND:20240801T163000Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 19\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -1011,11 +1218,11 @@ SUMMARY:⛵ Women's Windsurfing - Race 19
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T145500Z-sailing-MENS-WINDSURFING-RACE-18
-DTSTAMP:20240801T145500Z
-DTSTART:20240801T145500Z
-DTEND:20240801T151600Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 18\n🇭🇰 CHENG Ching
+UID:20240801T162800Z-sailing-MENS-WINDSURFING-RACE-17
+DTSTAMP:20240801T162800Z
+DTSTART:20240801T162800Z
+DTEND:20240801T164900Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 17\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
   Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
@@ -1023,14 +1230,14 @@ DESCRIPTION:Sailing - Men's Windsurfing - Race 18\n🇭🇰 CHENG Ching
   RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
   Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
   KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 18
+SUMMARY:⛵ Men's Windsurfing - Race 17
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T150700Z-sailing-WOMENS-WINDSURFING-RACE-20
-DTSTAMP:20240801T150700Z
-DTSTART:20240801T150700Z
-DTEND:20240801T152800Z
+UID:20240801T164000Z-sailing-WOMENS-WINDSURFING-RACE-20
+DTSTAMP:20240801T164000Z
+DTSTART:20240801T164000Z
+DTEND:20240801T170100Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 20\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -1044,10 +1251,26 @@ SUMMARY:⛵ Women's Windsurfing - Race 20
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T152600Z-sailing-MENS-WINDSURFING-RACE-19
-DTSTAMP:20240801T152600Z
-DTSTART:20240801T152600Z
-DTEND:20240801T154700Z
+UID:20240801T165900Z-sailing-MENS-WINDSURFING-RACE-18
+DTSTAMP:20240801T165900Z
+DTSTART:20240801T165900Z
+DTEND:20240801T172000Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 18\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 18
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T173000Z-sailing-MENS-WINDSURFING-RACE-19
+DTSTAMP:20240801T173000Z
+DTSTART:20240801T173000Z
+DTEND:20240801T175100Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 19\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -1060,10 +1283,10 @@ SUMMARY:⛵ Men's Windsurfing - Race 19
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T155700Z-sailing-MENS-WINDSURFING-RACE-20
-DTSTAMP:20240801T155700Z
-DTSTART:20240801T155700Z
-DTEND:20240801T161800Z
+UID:20240801T180100Z-sailing-MENS-WINDSURFING-RACE-20
+DTSTAMP:20240801T180100Z
+DTSTART:20240801T180100Z
+DTEND:20240801T182200Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 20\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -1076,6 +1299,33 @@ SUMMARY:⛵ Men's Windsurfing - Race 20
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T090000Z-swimming-MENS-100M-BUTTERFLY-HEATS
+DTSTAMP:20240802T090000Z
+DTSTART:20240802T090000Z
+DTEND:20240802T091300Z
+DESCRIPTION:Swimming - Men's 100m Butterfly - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇭🇷 CRO\n🇨🇿 CZE\n🇫🇷
+  FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇩 INA\n🇮🇶 IRQ\n🇮🇱 ISR\n🇯🇲
+  JAM\n🇯🇵 JPN\n🇰🇿 KAZ\n🇲🇪 MNE\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇭 PHI\n🇵🇱
+  POL\n🇵🇹 POR\n🇷🇼 RWA\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇬 UGA\n🇺🇸
+  USA\n🇾🇪 YEM
+SUMMARY:🏊 Men's 100m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091400Z-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240802T091400Z
+DTSTART:20240802T091400Z
+DTEND:20240802T093400Z
+DESCRIPTION:Swimming - Women's 200m Individual Medley - Heats\n🇦🇺
+  AUS\n🇦🇹 AUT\n🇨🇻 CPV\n🇨🇦 CAN\n🇨🇳 CHN\n🇹🇼 TPE\n🇨🇿 CZE\n🇫🇷
+  FRA\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇩 INA\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵
+  JPN\n🇰🇷 KOR\n🇱🇻 LAT\n🇳🇱 NED\n🇵🇸 PLE\n🇵🇪 PER\n🇵🇷 PUR\n🇸🇰
+  SVK\n🇿🇦 RSA\n🇪🇸 ESP\n🇺🇸 USA\n🇺🇾 URU\n🇻🇳 VIE
+SUMMARY:🏊 Women's 200m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T092400Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-16
 DTSTAMP:20240802T092400Z
 DTSTART:20240802T092400Z
@@ -1083,6 +1333,17 @@ DTEND:20240802T093000Z
 DESCRIPTION:Judo - Women +78 kg Elimination Round of 16\n🇮🇱 Raz HERSHKO
 SUMMARY:🥋 Women +78 kg Elimination Round of 16
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T095700Z-swimming-MIXED-4-X-100M-MEDLEY-RELAY-HEATS
+DTSTAMP:20240802T095700Z
+DTSTART:20240802T095700Z
+DTEND:20240802T100800Z
+DESCRIPTION:Swimming - Mixed 4 x 100m Medley Relay - Heats\n🇦🇺 AUS\n🇧🇷
+  BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇵🇱 POL\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Mixed 4 x 100m Medley Relay - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T060000Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-32-MGL-ISR
@@ -1100,6 +1361,6 @@ DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
 DESCRIPTION:Paris 2024 - Closing ceremony
 SUMMARY:Paris 2024 - Closing ceremony
-Location:Stade de France, Saint-Denis
+LOCATION:Stade de France, Saint-Denis
 END:VEVENT
 END:VCALENDAR

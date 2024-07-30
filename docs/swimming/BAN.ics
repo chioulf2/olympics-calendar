@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/BAN//EN
+X-WR-CALNAME:🇧🇩 Bangladesh Swimming | Paris 2024
+NAME:🇧🇩 Bangladesh Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240730T091751Z-swimming-MENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T091751Z
+DTSTART:20240730T091751Z
+DTEND:20240730T095131Z
+DESCRIPTION:Swimming - Men's 100m Freestyle - Heats\n🇦🇱 ALB\n🇦🇴
+  ANG\n🇦🇲 ARM\n🇦🇼 ARU\n🇦🇺 AUS\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇧 BAR\n🇧🇹
+  BHU\n🇧🇷 BRA\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇰🇲
+  COM\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿 CZE\n🇩🇴 DOM\n🇸🇻 ESA\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇭 GHA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇷 IR
+  Iran\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇿 KAZ\n🇰🇷 KOR\n🇽🇰 KOS\n🇰🇼 KUW\n🇱🇧
+  LBN\n🇱🇾 LBA\n🇱🇹 LTU\n🇱🇺 LUX\n🇲🇱 MLI\n🇲🇺 MRI\n🇲🇽 MEX\n🇲🇳
+  MGL\n🇲🇲 MYA\n🇳🇵 NEP\n🇳🇱 NED\n🇳🇿 NZL\n🇴🇲 OMA\n🇵🇬 PNG\n🇵🇱
+  POL\n🇵🇹 POR\n🇷🇴 ROU\n🇱🇨 LCA\n🇼🇸 SAM\n🇸🇦 KSA\n🇸🇳 SEN\n🇷🇸
+  SRB\n🇸🇬 SGP\n🇪🇸 ESP\n🇱🇰 SRI\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇿 TAN\n🇹🇭
+  THA\n🇹🇹 TTO\n🇹🇲 TKM\n🇦🇪 UA Emirates\n🇺🇸 USA\n🇺🇾 URU\n🇻🇺
+  VAN\n🇻🇪 VEN
+SUMMARY:🏊 Men's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T092200Z
+DESCRIPTION:Swimming - Women's 50m Freestyle - Heats\n🇦🇼 ARU\n🇦🇺
+  AUS\n🇦🇿 AZE\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇪 BEL\n🇧🇯 BEN\n🇧🇴 BOL\n🇧🇳
+  Brunei Darussalam\n🇧🇫 BUR\n🇧🇮 BDI\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇨🇫
+  Centr Afric Rep\n🇨🇳 CHN\n🇰🇲 COM\n🇨🇬 CGO\n🇭🇷 CRO\n🇨🇩 DR
+  Congo\n🇩🇰 DEN\n🇩🇯 DJI\n🇩🇲 DMA\n🇪🇨 ECU\n🇪🇷 ERI\n🇪🇹 ETH\n🇫🇯
+  FIJ\n🇫🇷 FRA\n🇬🇦 GAB\n🇬🇭 GHA\n🇬🇧 GBR\n🇬🇷 GRE\n🇬🇳 GUI\n🇭🇹
+  HAI\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇲 JAM\n🇰🇪 KEN\n🇽🇰 KOS\n🇰🇬
+  KGZ\n🇲🇬 MAD\n🇲🇼 MAW\n🇲🇻 MDV\n🇲🇱 MLI\n🇲🇭 MHL\n🇫🇲
+  Micronesia\n🇲🇪 MNE\n🇳🇱 NED\n🇳🇪 NIG\n🇳🇬 NGR\n🇵🇼 PLW\n🇵🇬
+  PNG\n🇵🇱 POL\n🇷🇼 RWA\n🇼🇸 SAM\n🇸🇨 SEY\n🇸🇱 SLE\n🇸🇮 SLO\n🇸🇧
+  SOL\n🇻🇨 StVincent&Grenadines\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇯 TJK\n🇹🇿
+  TAN\n🇹🇭 THA\n🇹🇱 TLS\n🇹🇬 TOG\n🇹🇴 TGA\n🇺🇸 USA\n🇻🇺 VAN\n🇿🇲 ZAM
+SUMMARY:🏊 Women's 50m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

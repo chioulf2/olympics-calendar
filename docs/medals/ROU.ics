@@ -25,10 +25,10 @@ SUMMARY:🚴 Men's Cross-country
 LOCATION:Elancourt Hill
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T184000Z-swimming-MENS-200M-FREESTYLE-FINAL
-DTSTAMP:20240729T184000Z
-DTSTART:20240729T184000Z
-DTEND:20240729T184700Z
+UID:20240729T184100Z-swimming-MENS-200M-FREESTYLE-FINAL
+DTSTAMP:20240729T184100Z
+DTSTART:20240729T184100Z
+DTEND:20240729T184900Z
 DESCRIPTION:Swimming - Men's 200m Freestyle Final\n🇱🇹 Danas RAPSYS\n🇷🇴
   David POPOVICI\n🇬🇧 Duncan SCOTT\n🇩🇪 Lukas MAERTENS\n🇺🇸 Luke
   HOBSON\n🇯🇵 MATSUMOTO Katsuhiro\n🇬🇧 Matthew RICHARDS\n🇦🇺 Maximillian
@@ -62,5 +62,15 @@ DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Albe
   Bergsvik THORN
 SUMMARY:🏊 Men's Individual
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T161500Z-artistic-gymnastics-WOMENS-TEAM-FINAL
+DTSTAMP:20240730T161500Z
+DTSTART:20240730T161500Z
+DTEND:20240730T181000Z
+DESCRIPTION:Artistic Gymnastics - Women's Team Final\n🇧🇷 BRA\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🤸 Women's Team Final
+LOCATION:Bercy Arena
 END:VEVENT
 END:VCALENDAR

@@ -4,6 +4,31 @@ PRODID:-//fabrice404//olympics-calendar//rowing/INA//EN
 X-WR-CALNAME:🇮🇩 Indonesia Rowing | Paris 2024
 NAME:🇮🇩 Indonesia Rowing | Paris 2024
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇩🇿 ALG\n🇦🇴 ANG\n🇧🇪
+  BEL\n🇧🇲 BER\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬
+  EGY\n🇩🇪 GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩
+  INA\n🇯🇵 JPN\n🇰🇿 KAZ\n🇱🇾 LBA\n🇱🇹 LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿
+  NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇺🇸
+  USA\n🇺🇾 URU\n🇿🇼 ZIM
+SUMMARY:🚣 Men's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing-MENS-SINGLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Repechages\n🇩🇿 ALG\n🇦🇴
+  ANG\n🇧🇲 BER\n🇭🇰 Hong Kong, China\n🇮🇳 IND\n🇮🇩 INA\n🇰🇿 KAZ\n🇱🇾
+  LBA\n🇲🇨 MON\n🇵🇾 PAR\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇿🇼 ZIM
+SUMMARY:🚣 Men's Single Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T073000Z-rowing-MENS-SINGLE-SCULLS-SEMIFINAL-EF-1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z

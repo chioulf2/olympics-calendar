@@ -78,7 +78,7 @@ DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - Opening ceremony
 SUMMARY:Paris 2024 - Opening ceremony
-Location:Paris
+LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T070000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-A-ESP-SLO
@@ -90,6 +90,33 @@ SUMMARY:🤾 ESP 🇪🇸 - 🇸🇮 SLO
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇩🇿 ALG\n🇦🇴 ANG\n🇧🇪
+  BEL\n🇧🇲 BER\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬
+  EGY\n🇩🇪 GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩
+  INA\n🇯🇵 JPN\n🇰🇿 KAZ\n🇱🇾 LBA\n🇱🇹 LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿
+  NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇺🇸
+  USA\n🇺🇾 URU\n🇿🇼 ZIM
+SUMMARY:🚣 Men's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T081200Z-rowing-WOMENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇩🇿 ALG\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇺 CUB\n🇩🇪 GER\n🇮🇷 IR Iran\n🇰🇼
+  KUW\n🇱🇹 LTU\n🇲🇽 MEX\n🇲🇦 MAR\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
+  PAR\n🇵🇪 PER\n🇵🇭 PHI\n🇷🇸 SRB\n🇸🇬 SGP\n🇸🇮 SLO\n🇿🇦 RSA\n🇪🇸
+  ESP\n🇨🇭 SUI\n🇹🇬 TOG\n🇹🇷 TUR\n🇺🇬 UGA\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇳 VIE
+SUMMARY:🚣 Women's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T091800Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-SRB-SLO
 DTSTAMP:20240727T091800Z
 DTSTART:20240727T091800Z
@@ -97,6 +124,18 @@ DTEND:20240727T092400Z
 DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
 SUMMARY:🥋 Milica NIKOLIC 🇷🇸 - 🇸🇮 Marusa STANGAR
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T101500Z-swimming-WOMENS-4-X-100M-FREESTYLE-RELAY-HEATS
+DTSTAMP:20240727T101500Z
+DTSTART:20240727T101500Z
+DTEND:20240727T102600Z
+DESCRIPTION:Swimming - Women's 4 x 100m Freestyle Relay - Heats\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇩🇰 DEN\n🇫🇷 FRA\n🇬🇧 GBR\n🇭🇰
+  Hong Kong, China\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇱 NED\n🇵🇱 POL\n🇸🇮
+  SLO\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 4 x 100m Freestyle Relay - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
@@ -203,6 +242,17 @@ SUMMARY:🛶 Women's Kayak Single Heats 2nd Run
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T073600Z-rowing-MENS-SINGLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Repechages\n🇩🇿 ALG\n🇦🇴
+  ANG\n🇧🇲 BER\n🇭🇰 Hong Kong, China\n🇮🇳 IND\n🇮🇩 INA\n🇰🇿 KAZ\n🇱🇾
+  LBA\n🇲🇨 MON\n🇵🇾 PAR\n🇸🇮 SLO\n🇸🇩 SUD\n🇹🇭 THA\n🇹🇳 TUN\n🇿🇼 ZIM
+SUMMARY:🚣 Men's Single Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T090000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-KOR-SLO
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
@@ -210,6 +260,18 @@ DTEND:20240728T103000Z
 DESCRIPTION:Handball - Women's Preliminary Round Group A
 SUMMARY:🤾 KOR 🇰🇷 - 🇸🇮 SLO
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-swimming-MENS-200M-FREESTYLE-HEATS
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T091400Z
+DESCRIPTION:Swimming - Men's 200m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇽 MEX\n🇵🇰 PAK\n🇷🇴
+  ROU\n🇷🇸 SRB\n🇸🇮 SLO\n🇨🇭 SUI\n🇸🇾 SYR\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T093000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-IND-SLO
@@ -341,10 +403,98 @@ SUMMARY:⛵ Women's Windsurfing - Race 2
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T111100Z-sailing-WOMENS-WINDSURFING-RACE-3
-DTSTAMP:20240729T111100Z
-DTSTART:20240729T111100Z
-DTEND:20240729T112000Z
+UID:20240729T133000Z-canoe-slalom-MENS-CANOE-SINGLE-SEMIFINAL
+DTSTAMP:20240729T133000Z
+DTSTART:20240729T133000Z
+DTEND:20240729T142400Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Semifinal\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🇸🇮 Benjamin SAVSEK\n🇺🇸 Casey
+  EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA Takuya\n🇮🇪 Liam JEGOU\n🇨🇿
+  Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel
+  TRAVE\n🇫🇷 Nicolas GESTIN\n🇮🇹 Raffaello IVALDI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Semifinal
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T152000Z-canoe-slalom-MENS-CANOE-SINGLE-FINAL
+DTSTAMP:20240729T152000Z
+DTSTART:20240729T152000Z
+DTEND:20240729T160400Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Final\n🇬🇧 Adam
+  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
+  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
+  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
+  CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Final
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-GER-SLO
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T083000Z
+DESCRIPTION:Handball - Women's Preliminary Round Group A
+SUMMARY:🤾 GER 🇩🇪 - 🇸🇮 SLO
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T073000Z-rowing-WOMENS-SINGLE-SCULLS-QUARTERFINALS
+DTSTAMP:20240730T073000Z
+DTSTART:20240730T073000Z
+DTEND:20240730T080700Z
+DESCRIPTION:Rowing - Women's Single Sculls Quarterfinals\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇩🇪 GER\n🇮🇷 IR Iran\n🇱🇹 LTU\n🇲🇽
+  MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇾 PAR\n🇵🇪 PER\n🇵🇭 PHI\n🇷🇸 SRB\n🇸🇮
+  SLO\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇷 TUR\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇳 VIE
+SUMMARY:🚣 Women's Single Sculls Quarterfinals
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T080000Z-table-tennis-MENS-SINGLES-ROUND-OF-32-SLO-JPN
+DTSTAMP:20240730T080000Z
+DTSTART:20240730T080000Z
+DTEND:20240730T090000Z
+DESCRIPTION:Table Tennis - Men's Singles Round of 32
+SUMMARY:🏓 Deni KOZUL 🇸🇮 - 🇯🇵 Shunsuke TOGAMI
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-rowing-MENS-SINGLE-SCULLS-QUARTERFINALS
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:Rowing - Men's Single Sculls Quarterfinals\n🇩🇿 ALG\n🇧🇪
+  BEL\n🇧🇷 BRA\n🇧🇬 BUL\n🇭🇷 CRO\n🇨🇺 CUB\n🇩🇰 DEN\n🇪🇬 EGY\n🇩🇪
+  GER\n🇬🇷 GRE\n🇭🇰 Hong Kong, China\n🇭🇺 HUN\n🇮🇳 IND\n🇯🇵 JPN\n🇱🇹
+  LTU\n🇲🇨 MON\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇾 PAR\n🇷🇴 ROU\n🇸🇮 SLO\n🇺🇸
+  USA\n🇺🇾 URU
+SUMMARY:🚣 Men's Single Sculls Quarterfinals
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T084800Z-judo-WOMEN-63-KG-ELIMINATION-ROUND-OF-32-SLO-GEO
+DTSTAMP:20240730T084800Z
+DTSTART:20240730T084800Z
+DTEND:20240730T085400Z
+DESCRIPTION:Judo - Women -63 kg Elimination Round of 32
+SUMMARY:🥋 Andreja LESKI 🇸🇮 - 🇬🇪 Eter ASKILASHVILI
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T102600Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-BRA-SL
+DTSTAMP:20240730T102600Z
+DTSTART:20240730T102600Z
+DTEND:20240730T103900Z
+DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+SUMMARY:🏹 Ana Luiza SLIACHTICAS CAETANO 🇧🇷 - 🇸🇮 Zana PINTARIC
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T103300Z-sailing-WOMENS-WINDSURFING-RACE-3
+DTSTAMP:20240730T103300Z
+DTSTART:20240730T103300Z
+DTEND:20240730T105400Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 3\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -358,10 +508,23 @@ SUMMARY:⛵ Women's Windsurfing - Race 3
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T114500Z-sailing-WOMENS-WINDSURFING-RACE-4
-DTSTAMP:20240729T114500Z
-DTSTART:20240729T114500Z
-DTEND:20240729T115400Z
+UID:20240730T104759Z-swimming-WOMENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T104759Z
+DTSTART:20240730T104759Z
+DTEND:20240730T110153Z
+DESCRIPTION:Swimming - Women's 100m Freestyle - Heats\n🇩🇿 ALG\n🇦🇺
+  AUS\n🇧🇼 BOT\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿
+  CZE\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇩 GRN\n🇬🇾 GUY\n🇭🇰 Hong Kong, China\n🇮🇸
+  ISL\n🇳🇱 NED\n🇵🇭 PHI\n🇵🇱 POL\n🇸🇮 SLO\n🇸🇩 SUD\n🇸🇪 SWE\n🇺🇬
+  UGA\n🇺🇸 USA\n🇿🇼 ZIM
+SUMMARY:🏊 Women's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110400Z-sailing-WOMENS-WINDSURFING-RACE-4
+DTSTAMP:20240730T110400Z
+DTSTART:20240730T110400Z
+DTEND:20240730T112500Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 4\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -375,10 +538,10 @@ SUMMARY:⛵ Women's Windsurfing - Race 4
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T121900Z-sailing-WOMENS-WINDSURFING-RACE-5
-DTSTAMP:20240729T121900Z
-DTSTART:20240729T121900Z
-DTEND:20240729T122800Z
+UID:20240730T113500Z-sailing-WOMENS-WINDSURFING-RACE-5
+DTSTAMP:20240730T113500Z
+DTSTART:20240730T113500Z
+DTEND:20240730T115600Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 5\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -392,42 +555,10 @@ SUMMARY:⛵ Women's Windsurfing - Race 5
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T133000Z-canoe-slalom-MENS-CANOE-SINGLE-SEMIFINAL
-DTSTAMP:20240729T133000Z
-DTSTART:20240729T133000Z
-DTEND:20240729T141800Z
-DESCRIPTION:Canoe Slalom - Men's Canoe Single Semifinal\n🇬🇧 Adam
-  BURGESS\n🇨🇦 Alex BALDONI\n🇸🇮 Benjamin SAVSEK\n🇺🇸 Casey
-  EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA Takuya\n🇮🇪 Liam JEGOU\n🇨🇿
-  Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel
-  TRAVE\n🇫🇷 Nicolas GESTIN\n🇮🇹 Raffaello IVALDI\n🇩🇪 Sideris
-  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Men's Canoe Single Semifinal
-LOCATION:Nautical St - White water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T070000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-GER-SLO
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T083000Z
-DESCRIPTION:Handball - Women's Preliminary Round Group A
-SUMMARY:🤾 GER 🇩🇪 - 🇸🇮 SLO
-LOCATION:South Paris Arena 6
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T084800Z-judo-WOMEN-63-KG-ELIMINATION-ROUND-OF-32-SLO-GEO
-DTSTAMP:20240730T084800Z
-DTSTART:20240730T084800Z
-DTEND:20240730T085400Z
-DESCRIPTION:Judo - Women -63 kg Elimination Round of 32
-SUMMARY:🥋 Andreja LESKI 🇸🇮 - 🇬🇪 Eter ASKILASHVILI
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T101300Z-sailing-WOMENS-WINDSURFING-RACE-6
-DTSTAMP:20240730T101300Z
-DTSTART:20240730T101300Z
-DTEND:20240730T103400Z
+UID:20240730T120600Z-sailing-WOMENS-WINDSURFING-RACE-6
+DTSTAMP:20240730T120600Z
+DTSTART:20240730T120600Z
+DTEND:20240730T122700Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 6\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -441,19 +572,10 @@ SUMMARY:⛵ Women's Windsurfing - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T102600Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-BRA-SL
-DTSTAMP:20240730T102600Z
-DTSTART:20240730T102600Z
-DTEND:20240730T103900Z
-DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
-SUMMARY:🏹 Ana Luiza SLIACHTICAS CAETANO 🇧🇷 - 🇸🇮 Zana PINTARIC
-LOCATION:Invalides
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T104400Z-sailing-WOMENS-WINDSURFING-RACE-7
-DTSTAMP:20240730T104400Z
-DTSTART:20240730T104400Z
-DTEND:20240730T110500Z
+UID:20240730T123700Z-sailing-WOMENS-WINDSURFING-RACE-7
+DTSTAMP:20240730T123700Z
+DTSTART:20240730T123700Z
+DTEND:20240730T125800Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 7\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -464,57 +586,6 @@ DESCRIPTION:Sailing - Women's Windsurfing - Race 7\n🇦🇷 Chiara
   TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
   STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
 SUMMARY:⛵ Women's Windsurfing - Race 7
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T111500Z-sailing-WOMENS-WINDSURFING-RACE-8
-DTSTAMP:20240730T111500Z
-DTSTART:20240730T111500Z
-DTEND:20240730T113600Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 8\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 8
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T114600Z-sailing-WOMENS-WINDSURFING-RACE-9
-DTSTAMP:20240730T114600Z
-DTSTART:20240730T114600Z
-DTEND:20240730T120700Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 9\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 9
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T121700Z-sailing-WOMENS-WINDSURFING-RACE-10
-DTSTAMP:20240730T121700Z
-DTSTART:20240730T121700Z
-DTEND:20240730T123800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 10\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -591,6 +662,15 @@ SUMMARY:🛶 Men's Kayak Single Heats 2nd Run
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T080000Z-table-tennis-MENS-SINGLES-ROUND-OF-32
+DTSTAMP:20240731T080000Z
+DTSTART:20240731T080000Z
+DTEND:20240731T090000Z
+DESCRIPTION:Table Tennis - Men's Singles Round of 32\n🇸🇮 Darko JORGIC
+SUMMARY:🏓 Men's Singles Round of 32
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T080600Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-32-SLO-CHA
 DTSTAMP:20240731T080600Z
 DTSTART:20240731T080600Z
@@ -609,10 +689,61 @@ SUMMARY:🤾 SLO 🇸🇮 - 🇸🇪 SWE
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T144800Z-sailing-WOMENS-WINDSURFING-RACE-11
+UID:20240731T144800Z-sailing-WOMENS-WINDSURFING-RACE-8
 DTSTAMP:20240731T144800Z
 DTSTART:20240731T144800Z
 DTEND:20240731T150900Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 8\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 8
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T151900Z-sailing-WOMENS-WINDSURFING-RACE-9
+DTSTAMP:20240731T151900Z
+DTSTART:20240731T151900Z
+DTEND:20240731T154000Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 9\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T155000Z-sailing-WOMENS-WINDSURFING-RACE-10
+DTSTAMP:20240731T155000Z
+DTSTART:20240731T155000Z
+DTEND:20240731T161100Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 10\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 10
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T162100Z-sailing-WOMENS-WINDSURFING-RACE-11
+DTSTAMP:20240731T162100Z
+DTSTART:20240731T162100Z
+DTEND:20240731T164200Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 11\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -626,10 +757,10 @@ SUMMARY:⛵ Women's Windsurfing - Race 11
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T151900Z-sailing-WOMENS-WINDSURFING-RACE-12
-DTSTAMP:20240731T151900Z
-DTSTART:20240731T151900Z
-DTEND:20240731T154000Z
+UID:20240731T165200Z-sailing-WOMENS-WINDSURFING-RACE-12
+DTSTAMP:20240731T165200Z
+DTSTART:20240731T165200Z
+DTEND:20240731T171300Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 12\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -640,57 +771,6 @@ DESCRIPTION:Sailing - Women's Windsurfing - Race 12\n🇦🇷 Chiara
   TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
   STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
 SUMMARY:⛵ Women's Windsurfing - Race 12
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T155000Z-sailing-WOMENS-WINDSURFING-RACE-13
-DTSTAMP:20240731T155000Z
-DTSTART:20240731T155000Z
-DTEND:20240731T161100Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 13\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 13
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T162100Z-sailing-WOMENS-WINDSURFING-RACE-14
-DTSTAMP:20240731T162100Z
-DTSTART:20240731T162100Z
-DTEND:20240731T164200Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 14\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 14
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T165200Z-sailing-WOMENS-WINDSURFING-RACE-15
-DTSTAMP:20240731T165200Z
-DTSTART:20240731T165200Z
-DTEND:20240731T171300Z
-DESCRIPTION:Sailing - Women's Windsurfing - Race 15\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Women's Windsurfing - Race 15
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -712,10 +792,61 @@ SUMMARY:🥋 Metka LOBNIK 🇸🇮 - 🇽🇰 Loriana KUKA
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T130300Z-sailing-WOMENS-WINDSURFING-RACE-16
+UID:20240801T130300Z-sailing-WOMENS-WINDSURFING-RACE-13
 DTSTAMP:20240801T130300Z
 DTSTART:20240801T130300Z
 DTEND:20240801T132400Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 13\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 13
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T133400Z-sailing-WOMENS-WINDSURFING-RACE-14
+DTSTAMP:20240801T133400Z
+DTSTART:20240801T133400Z
+DTEND:20240801T135500Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 14\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 14
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T140500Z-sailing-WOMENS-WINDSURFING-RACE-15
+DTSTAMP:20240801T140500Z
+DTSTART:20240801T140500Z
+DTEND:20240801T142600Z
+DESCRIPTION:Sailing - Women's Windsurfing - Race 15\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Women's Windsurfing - Race 15
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T143600Z-sailing-WOMENS-WINDSURFING-RACE-16
+DTSTAMP:20240801T143600Z
+DTSTART:20240801T143600Z
+DTEND:20240801T145700Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 16\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -729,10 +860,10 @@ SUMMARY:⛵ Women's Windsurfing - Race 16
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T133400Z-sailing-WOMENS-WINDSURFING-RACE-17
-DTSTAMP:20240801T133400Z
-DTSTART:20240801T133400Z
-DTEND:20240801T135500Z
+UID:20240801T150700Z-sailing-WOMENS-WINDSURFING-RACE-17
+DTSTAMP:20240801T150700Z
+DTSTART:20240801T150700Z
+DTEND:20240801T152800Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 17\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -746,10 +877,10 @@ SUMMARY:⛵ Women's Windsurfing - Race 17
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T140500Z-sailing-WOMENS-WINDSURFING-RACE-18
-DTSTAMP:20240801T140500Z
-DTSTART:20240801T140500Z
-DTEND:20240801T142600Z
+UID:20240801T153800Z-sailing-WOMENS-WINDSURFING-RACE-18
+DTSTAMP:20240801T153800Z
+DTSTART:20240801T153800Z
+DTEND:20240801T155900Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 18\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -763,10 +894,10 @@ SUMMARY:⛵ Women's Windsurfing - Race 18
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T143600Z-sailing-WOMENS-WINDSURFING-RACE-19
-DTSTAMP:20240801T143600Z
-DTSTART:20240801T143600Z
-DTEND:20240801T145700Z
+UID:20240801T160900Z-sailing-WOMENS-WINDSURFING-RACE-19
+DTSTAMP:20240801T160900Z
+DTSTART:20240801T160900Z
+DTEND:20240801T163000Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 19\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -780,10 +911,10 @@ SUMMARY:⛵ Women's Windsurfing - Race 19
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T150700Z-sailing-WOMENS-WINDSURFING-RACE-20
-DTSTAMP:20240801T150700Z
-DTSTART:20240801T150700Z
-DTEND:20240801T152800Z
+UID:20240801T164000Z-sailing-WOMENS-WINDSURFING-RACE-20
+DTSTAMP:20240801T164000Z
+DTSTART:20240801T164000Z
+DTEND:20240801T170100Z
 DESCRIPTION:Sailing - Women's Windsurfing - Race 20\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -873,6 +1004,26 @@ SUMMARY:🤾 JPN 🇯🇵 - 🇸🇮 SLO
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T092200Z
+DESCRIPTION:Swimming - Women's 50m Freestyle - Heats\n🇦🇼 ARU\n🇦🇺
+  AUS\n🇦🇿 AZE\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇪 BEL\n🇧🇯 BEN\n🇧🇴 BOL\n🇧🇳
+  Brunei Darussalam\n🇧🇫 BUR\n🇧🇮 BDI\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇨🇫
+  Centr Afric Rep\n🇨🇳 CHN\n🇰🇲 COM\n🇨🇬 CGO\n🇭🇷 CRO\n🇨🇩 DR
+  Congo\n🇩🇰 DEN\n🇩🇯 DJI\n🇩🇲 DMA\n🇪🇨 ECU\n🇪🇷 ERI\n🇪🇹 ETH\n🇫🇯
+  FIJ\n🇫🇷 FRA\n🇬🇦 GAB\n🇬🇭 GHA\n🇬🇧 GBR\n🇬🇷 GRE\n🇬🇳 GUI\n🇭🇹
+  HAI\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇲 JAM\n🇰🇪 KEN\n🇽🇰 KOS\n🇰🇬
+  KGZ\n🇲🇬 MAD\n🇲🇼 MAW\n🇲🇻 MDV\n🇲🇱 MLI\n🇲🇭 MHL\n🇫🇲
+  Micronesia\n🇲🇪 MNE\n🇳🇱 NED\n🇳🇪 NIG\n🇳🇬 NGR\n🇵🇼 PLW\n🇵🇬
+  PNG\n🇵🇱 POL\n🇷🇼 RWA\n🇼🇸 SAM\n🇸🇨 SEY\n🇸🇱 SLE\n🇸🇮 SLO\n🇸🇧
+  SOL\n🇻🇨 StVincent&Grenadines\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇯 TJK\n🇹🇿
+  TAN\n🇹🇭 THA\n🇹🇱 TLS\n🇹🇬 TOG\n🇹🇴 TGA\n🇺🇸 USA\n🇻🇺 VAN\n🇿🇲 ZAM
+SUMMARY:🏊 Women's 50m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T140000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-SLO-SWE
 DTSTAMP:20240803T140000Z
 DTSTART:20240803T140000Z
@@ -906,6 +1057,6 @@ DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
 DESCRIPTION:Paris 2024 - Closing ceremony
 SUMMARY:Paris 2024 - Closing ceremony
-Location:Stade de France, Saint-Denis
+LOCATION:Stade de France, Saint-Denis
 END:VEVENT
 END:VCALENDAR

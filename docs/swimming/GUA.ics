@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/GUA//EN
+X-WR-CALNAME:🇬🇹 Guatemala Swimming | Paris 2024
+NAME:🇬🇹 Guatemala Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240729T091300Z-swimming-WOMENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:Swimming - Women's 100m Backstroke - Heats\n🇦🇺 AUS\n🇧🇭
+  BRN\n🇧🇪 BEL\n🇧🇲 BER\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇩🇴 DOM\n🇸🇻
+  ESA\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇹 GUA\n🇭🇰 Hong Kong, China\n🇮🇪 IRL\n🇮🇱
+  ISR\n🇰🇿 KAZ\n🇱🇾 LBA\n🇲🇽 MEX\n🇲🇿 MOZ\n🇳🇱 NED\n🇵🇱 POL\n🇪🇸
+  ESP\n🇱🇰 SRI\n🇸🇪 SWE\n🇹🇹 TTO\n🇹🇲 TKM\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Women's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T094000Z-swimming-MENS-200M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240801T094000Z
+DTSTART:20240801T094000Z
+DTEND:20240801T095500Z
+DESCRIPTION:Swimming - Men's 200m Individual Medley - Heats\n🇩🇿 ALG\n🇦🇺
+  AUS\n🇧🇴 BOL\n🇨🇦 CAN\n🇨🇳 CHN\n🇪🇨 ECU\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷
+  GRE\n🇬🇹 GUA\n🇭🇺 HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇿 NZL\n🇵🇾
+  PAR\n🇸🇨 SEY\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇷 TUR\n🇺🇸 USA
+SUMMARY:🏊 Men's 200m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

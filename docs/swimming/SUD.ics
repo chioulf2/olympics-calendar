@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/SUD//EN
+X-WR-CALNAME:🇸🇩 Sudan Swimming | Paris 2024
+NAME:🇸🇩 Sudan Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240730T104759Z-swimming-WOMENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T104759Z
+DTSTART:20240730T104759Z
+DTEND:20240730T110153Z
+DESCRIPTION:Swimming - Women's 100m Freestyle - Heats\n🇩🇿 ALG\n🇦🇺
+  AUS\n🇧🇼 BOT\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿
+  CZE\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇩 GRN\n🇬🇾 GUY\n🇭🇰 Hong Kong, China\n🇮🇸
+  ISL\n🇳🇱 NED\n🇵🇭 PHI\n🇵🇱 POL\n🇸🇮 SLO\n🇸🇩 SUD\n🇸🇪 SWE\n🇺🇬
+  UGA\n🇺🇸 USA\n🇿🇼 ZIM
+SUMMARY:🏊 Women's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T092100Z-swimming-MENS-200M-BACKSTROKE-HEATS
+DTSTAMP:20240731T092100Z
+DTSTART:20240731T092100Z
+DTEND:20240731T094600Z
+DESCRIPTION:Swimming - Men's 200m Backstroke - Heats\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇵🇷
+  PUR\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇩 SUD\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA\n🇿🇼 ZIM
+SUMMARY:🏊 Men's 200m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR
