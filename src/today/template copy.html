@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>2024巴黎奧運-今日賽程 Paris 2024 Summer Olympic Games - Today's events</title>
+  <link href="./style.css?refresh=20240827" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="2024巴黎奧運-今日賽程 Paris 2024 Summer Olympic Games - Today's events">
+  <meta name="keywords" content="2024巴黎奧運-今日賽程 Paris 2024, Summer Olympic Games - Today's events">
+  <meta name="author" content="Fabrice LAMANT">
+  <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js"></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Share+Tech+Mono&display=swap"
+    rel="stylesheet">
+
+  <meta http-equiv="refresh" content="900">
+
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "nfb8spjyqy");
+  </script>
+</head>
+
+<body>
+  <div class="p-4">
+    <div class="border-b pb-4 border-slate-900/10">
+      <h1 class="text-4xl text-center">2024巴黎奧運-今日賽程 Paris 2024 - Today's events</h1>
+    </div>
+
+    <div>
+      {{events}}
+    </div>
+    <div class="no-event my-10 text-center text-2xl hidden">
+      今天該國沒有比賽 No event today, come back tomorrow! :)
+    </div>
+
+    <div class="text-sm my-10 text-center">
+      This webiste is not affiliated with the International Olympic Committee.
+      All trademarks, logos and brand names are the property of their respective owners.
+    </div>
+  </div>
+  <script type="text/javascript">
+    const DateTime = luxon.DateTime;
+    const now = DateTime.now();
+    const noc = new URLSearchParams(window.location.search).get('noc');
+
+
+    // 動態更新
+    // Define a function to update the page based on noc
+    const updatePageContent = (noc) => {
+      // Update title
+      const title = document.querySelector('title');
+      if (noc) {
+        title.textContent = `2024巴黎奧運-今日賽程 Paris 2024 - ${noc} - Today's events`;
+      }
+
+      // Update meta description
+      const descriptionMeta = document.querySelector('meta[name="description"]');
+      if (noc) {
+        descriptionMeta.setAttribute('content', `2024巴黎奧運-今日賽程 Paris 2024 - ${noc} - Today's events`);
+      }
+
+      // Update h1
+      const h1 = document.querySelector('h1');
+      if (noc) {
+        h1.textContent = `2024巴黎奧運-今日賽程 Paris 2024 - ${noc}`;
+      }
+    };
+
+    // Call the function to update the content
+    updatePageContent(noc);
+
+
+
+    let color = 0;
+    const cycleColor = () => {
+      color++
+      color = color % 5
+      console.log(color);
+      switch (color) {
+        case 0: return "blue";
+        case 1: return "yellow";
+        case 2: return "black";
+        case 3: return "green";
+        case 4: return "red";
+      }
+    };
+
+    document.querySelectorAll('.event').forEach((element) => {
+      const start = DateTime.fromISO(element.getAttribute('data-start'));
+      const end = DateTime.fromISO(element.getAttribute('data-end'));
+      const nocs = element.getAttribute('data-noc').split(",");
+
+      if (nocs.includes(noc)) {
+        if (now.day === start.day) {
+          element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
+          if (end < now) {
+            element.remove();
+          } else {
+            element.classList.add(cycleColor());
+          }
+        } else {
+          element.remove();
+        }
+      } else {
+        element.remove();
+      }
+    });
+    document.querySelectorAll(`.competitor:not(.${noc})`).forEach((element) => {
+      element.remove();
+    });
+    if (document.querySelectorAll('.event').length === 0) {
+      document.querySelector('.no-event').classList.remove('hidden');
+    }
+  </script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TMKRPDKYK7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-TMKRPDKYK7');
+  </script>
+</body>
