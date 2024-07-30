@@ -48,7 +48,9 @@
   <script type="text/javascript">
     const DateTime = luxon.DateTime;
     const now = DateTime.now();
-    const noc = new URLSearchParams(window.location.search).get('noc');
+    const urlParams = new URLSearchParams(window.location.search);
+    const noc = new urlParams.get('noc');
+    const countryName = urlParams.get('country');
 
     // Update page content based on NOC
     const updatePageContent = (noc) => {
@@ -57,9 +59,9 @@
       const h1 = document.querySelector('h1');
 
       if (noc) {
-        title.textContent = `2024巴黎奧運-全部賽程 Paris 2024 - ${noc} - All Events`;
-        descriptionMeta.setAttribute('content', `2024巴黎奧運-全部賽程 Paris 2024 - ${noc} - All Events`);
-        h1.textContent = `2024巴黎奧運-全部賽程 Paris 2024 - ${noc}`;
+        title.textContent = `2024巴黎奧運-${countryName}全部賽程 Paris 2024-${noc}-All Events`;
+        descriptionMeta.setAttribute('content', `2024巴黎奧運-${countryName}全部賽程 Paris 2024-${noc}-All Events`);
+        h1.textContent = `2024巴黎奧運-${countryName}全部賽程  Paris 2024-${noc}`;
       }
     };
 

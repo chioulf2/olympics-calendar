@@ -297,13 +297,13 @@ const generateOutputPage = () => {
 
   const todays: string[] = [];
   NOCS.sort().forEach((noc) => {
-    todays.push(`<a href="./today.html?noc=${noc}" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
+    todays.push(`<a href="./today.html?noc=${noc}&country=${getNOCName(noc)}" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
   });
 
    // 新增的全部赛程链接部分
    const alls: string[] = [];
    NOCS.sort().forEach((noc) => {
-     alls.push(`<a href="./all.html?noc=${noc}" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
+     alls.push(`<a href="./all.html?noc=${noc}&country=${getNOCName(noc)}" class="${linkClass}">${getNOCFlag(noc)} ${noc} ${getNOCName(noc)}</a>`);
    });
 
   const template = fs.readFileSync(`${__dirname}/index/template.html`, "utf-8");
