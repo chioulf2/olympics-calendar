@@ -17,18 +17,11 @@ UID:20240727T093000Z-swimming-100
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T094400Z
-DESCRIPTION:游泳 - 男子100米蛙泳分組預賽\n🇶🇦 Abdulaziz AL-OBAIDLY\n🇬🇧 Adam
-  PEATY\n🇧🇼 Adrian ROBINSON\n🇭🇹 Alexandre GRAND'PIERRE\n🇱🇹 Andrius
-  SIDLAUSKAS\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇹🇷 Berkay
-  OGRETIR\n🇦🇹 Bernhard REITSHAMMER\n🇳🇱 Caspar CORBEAU\n🇸🇿 Chadd NG
-  CHIU HING NING\n🇺🇸 Charlie SWANSON\n🇰🇷 CHOI Dongyeol\n🇰🇬 Denis
-  PETRASHOV\n🇦🇬 Jadon WUILLIEZ\n🇬🇧 James WILBY\n🇵🇱 Jan
-  KALUSOWSKI\n🇲🇬 Jonathan RAHARVEL\n🇦🇺 Joshua YONG\n🇩🇪 Lucas
-  MATZERATH\n🇮🇹 Ludovico Blu Art VIBERTI\n🇲🇿 Matthew LAWRENCE\n🇩🇪
-  Melvin IMOUDU\n🇦🇸 Micah MASEI\n🇲🇽 Miguel Alejandro de LARA
-  OJEDA\n🇺🇸 Nic FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN Haiyang\n🇮🇱 Ron
-  POLONSKY\n🇦🇺 Sam WILLIAMSON\n🇱🇦 Steven INSIXIENGMAY\n🇨🇳 SUN
-  Jiajun\n🇯🇵 TANIGUCHI Taku\n🇫🇲 Tasi LIMTIACO
+DESCRIPTION:游泳 - 男子100米蛙泳分組預賽\n🇹🇷 TUR\n🇨🇳 CHN\n🇯🇵 JPN\n🇮🇱 ISR\n🇶🇦
+  QAT\n🇱🇹 LTU\n🇮🇸 ISL\n🇰🇬 KGZ\n🇦🇬 ANT\n🇱🇦 LAO\n🇵🇱 POL\n🇺🇸
+  USA\n🇦🇸 ASA\n🇬🇧 GBR\n🇭🇹 HAI\n🇲🇬 MAD\n🇫🇲 密克羅尼西亞\n🇳🇱 NED\n🇲🇿
+  MOZ\n🇧🇼 BOT\n🇸🇿 斯威士蘭\n🇦🇹 AUT\n🇮🇹 ITA\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺
+  AUS\n🇰🇷 KOR
 SUMMARY:🏊 男子100米蛙泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -37,16 +30,10 @@ UID:20240730T104759Z-swimming-100
 DTSTAMP:20240730T104759Z
 DTSTART:20240730T104759Z
 DTEND:20240730T110153Z
-DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
-  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
-  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
-  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
-  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
-  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
-  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
-  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
-  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
-  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇨🇳 CHN\n🇭🇰 中國香港\n🇨🇦 CAN\n🇮🇸
+  ISL\n🇬🇾 GUY\n🇭🇷 CRO\n🇫🇷 FRA\n🇵🇱 POL\n🇩🇿 ALG\n🇿🇼 津巴布韋\n🇺🇸
+  USA\n🇬🇧 GBR\n🇬🇩 GRN\n🇺🇬 UGA\n🇨🇿 CZE\n🇳🇱 NED\n🇧🇼 BOT\n🇸🇮
+  斯洛文尼亞\n🇵🇭 PHI\n🇰🇾 CAY\n🇨🇾 CYP\n🇸🇪 SWE\n🇦🇺 AUS\n🇸🇩 SUD
 SUMMARY:🏊 女子100米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT

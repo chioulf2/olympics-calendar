@@ -8,16 +8,10 @@ UID:20240730T104759Z-swimming-100
 DTSTAMP:20240730T104759Z
 DTSTART:20240730T104759Z
 DTEND:20240730T110153Z
-DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
-  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
-  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
-  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
-  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
-  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
-  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
-  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
-  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
-  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇨🇳 CHN\n🇭🇰 中國香港\n🇨🇦 CAN\n🇮🇸
+  ISL\n🇬🇾 GUY\n🇭🇷 CRO\n🇫🇷 FRA\n🇵🇱 POL\n🇩🇿 ALG\n🇿🇼 津巴布韋\n🇺🇸
+  USA\n🇬🇧 GBR\n🇬🇩 GRN\n🇺🇬 UGA\n🇨🇿 CZE\n🇳🇱 NED\n🇧🇼 BOT\n🇸🇮
+  斯洛文尼亞\n🇵🇭 PHI\n🇰🇾 CAY\n🇨🇾 CYP\n🇸🇪 SWE\n🇦🇺 AUS\n🇸🇩 SUD
 SUMMARY:🏊 女子100米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -26,16 +20,10 @@ UID:20240731T092100Z-swimming-200
 DTSTAMP:20240731T092100Z
 DTSTART:20240731T092100Z
 DTEND:20240731T094600Z
-DESCRIPTION:游泳 - 男子200米仰泳分組預賽\n🇭🇺 Adam TELEGDY\n🇬🇷 Apostolos
-  CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley
-  WOODWARD\n🇮🇱 David GERCHIK\n🇿🇼 Denilson CYPRIANOS\n🇭🇺 Hubert
-  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇳🇱 Kai van WESTERING\n🇳🇿 Kane
-  FOLLOWS\n🇺🇸 Keaton JONES\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
-  Lukas MAERTENS\n🇬🇧 Luke GREENBANK\n🇮🇹 Matteo RESTIVO\n🇫🇷 Mewen
-  TOMAC\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
-  COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇦🇺 Se-Bom LEE\n🇯🇵
-  TAKEHARA Hidekazu\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇵🇷 Yeziel
-  MORALES\n🇫🇷 Yohann NDOYE-BROUARD\n🇸🇩 Ziyad SALEEM
+DESCRIPTION:游泳 - 男子200米仰泳分組預賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇮🇱 ISR\n🇨🇦 CAN\n🇭🇺
+  HUN\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷 FRA\n🇵🇷 PUR\n🇵🇱 POL\n🇿🇦 RSA\n🇿🇼
+  津巴布韋\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇦 UKR\n🇳🇱 NED\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭
+  SUI\n🇩🇪 GER\n🇦🇺 AUS\n🇰🇷 KOR\n🇸🇩 SUD
 SUMMARY:🏊 男子200米仰泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
