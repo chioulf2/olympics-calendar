@@ -17,11 +17,17 @@ UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇭🇰 中國香港\n🇩🇰 DEN\n🇧🇷 BRA\n🇵🇾 PAR\n🇯🇵
-  JPN\n🇧🇪 BEL\n🇨🇺 CUB\n🇱🇹 LTU\n🇭🇺 HUN\n🇮🇳 IND\n🇮🇩 INA\n🇦🇴
-  ANG\n🇧🇲 BER\n🇭🇷 CRO\n🇱🇾 LBA\n🇬🇷 GRE\n🇩🇿 ALG\n🇧🇬 BUL\n🇰🇿
-  KAZ\n🇿🇼 津巴布韋\n🇹🇳 TUN\n🇺🇸 USA\n🇪🇬 EGY\n🇹🇭 THA\n🇺🇾 URU\n🇳🇱
-  NED\n🇸🇮 斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 GER\n🇲🇨 MON\n🇷🇴 ROU\n🇸🇩 SUD
+DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇸🇩 Abdalla AHMED\n🇪🇬 Abdelkhalek
+  ELBANNA\n🇦🇴 Andre MATIAS\n🇯🇵 ARAKAWA Ryuta\n🇮🇳 Balraj PANWAR\n🇭🇺
+  Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
+  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
+  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
+  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
 SUMMARY:🚣 男子單人雙槳分組預賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -30,9 +36,11 @@ UID:20240728T073600Z-rowing-
 DTSTAMP:20240728T073600Z
 DTSTART:20240728T073600Z
 DTEND:20240728T080700Z
-DESCRIPTION:賽艇 - 男子單人雙槳復活賽\n🇭🇰 中國香港\n🇵🇾 PAR\n🇮🇳 IND\n🇮🇩 INA\n🇦🇴
-  ANG\n🇧🇲 BER\n🇱🇾 LBA\n🇩🇿 ALG\n🇰🇿 KAZ\n🇿🇼 津巴布韋\n🇹🇳 TUN\n🇹🇭
-  THA\n🇸🇮 斯洛文尼亞\n🇲🇨 MON\n🇸🇩 SUD
+DESCRIPTION:賽艇 - 男子單人雙槳復活賽\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇮🇳
+  Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇧🇲 Dara ALIZADEH\n🇸🇮 Isak Ivan
+  ZVEGELJ\n🇵🇾 Javier INSFRAN\n🇮🇩 MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳
+  Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿
+  Sid Ali BOUDINA\n🇿🇼 Stephen COX\n🇰🇿 Vladislav YAKOVLEV
 SUMMARY:🚣 男子單人雙槳復活賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -52,10 +60,16 @@ UID:20240730T104759Z-swimming-100
 DTSTAMP:20240730T104759Z
 DTSTART:20240730T104759Z
 DTEND:20240730T110153Z
-DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇨🇳 CHN\n🇭🇰 中國香港\n🇨🇦 CAN\n🇮🇸
-  ISL\n🇬🇾 GUY\n🇭🇷 CRO\n🇫🇷 FRA\n🇵🇱 POL\n🇩🇿 ALG\n🇿🇼 津巴布韋\n🇺🇸
-  USA\n🇬🇧 GBR\n🇬🇩 GRN\n🇺🇬 UGA\n🇨🇿 CZE\n🇳🇱 NED\n🇧🇼 BOT\n🇸🇮
-  斯洛文尼亞\n🇵🇭 PHI\n🇰🇾 CAY\n🇨🇾 CYP\n🇸🇪 SWE\n🇦🇺 AUS\n🇸🇩 SUD
+DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
+  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
+  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
+  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
+  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
+  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
+  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
+  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
+  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
 SUMMARY:🏊 女子100米自由泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
@@ -64,10 +78,16 @@ UID:20240731T092100Z-swimming-200
 DTSTAMP:20240731T092100Z
 DTSTART:20240731T092100Z
 DTEND:20240731T094600Z
-DESCRIPTION:游泳 - 男子200米仰泳分組預賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇮🇱 ISR\n🇨🇦 CAN\n🇭🇺
-  HUN\n🇪🇸 ESP\n🇬🇷 GRE\n🇫🇷 FRA\n🇵🇷 PUR\n🇵🇱 POL\n🇿🇦 RSA\n🇿🇼
-  津巴布韋\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇦 UKR\n🇳🇱 NED\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭
-  SUI\n🇩🇪 GER\n🇦🇺 AUS\n🇰🇷 KOR\n🇸🇩 SUD
+DESCRIPTION:游泳 - 男子200米仰泳分組預賽\n🇭🇺 Adam TELEGDY\n🇬🇷 Apostolos
+  CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley
+  WOODWARD\n🇮🇱 David GERCHIK\n🇿🇼 Denilson CYPRIANOS\n🇭🇺 Hubert
+  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇳🇱 Kai van WESTERING\n🇳🇿 Kane
+  FOLLOWS\n🇺🇸 Keaton JONES\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
+  Lukas MAERTENS\n🇬🇧 Luke GREENBANK\n🇮🇹 Matteo RESTIVO\n🇫🇷 Mewen
+  TOMAC\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
+  COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇦🇺 Se-Bom LEE\n🇯🇵
+  TAKEHARA Hidekazu\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇵🇷 Yeziel
+  MORALES\n🇫🇷 Yohann NDOYE-BROUARD\n🇸🇩 Ziyad SALEEM
 SUMMARY:🏊 男子200米仰泳分組預賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
