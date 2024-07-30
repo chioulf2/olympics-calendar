@@ -1,42 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//3x3-basketball/medals//EN
-X-WR-CALNAME:🏀 3x3 Basketball 🏅 | Paris 2024
-NAME:🏀 3x3 Basketball 🏅 | Paris 2024
+X-WR-CALNAME:🏀 三人篮球 🏅 | Paris 2024
+NAME:🏀 三人篮球 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240805T190000Z-3x3-basketball-WOMENS-BRONZE-MEDAL-GAME
+UID:20240805T190000Z-3x3-basketball-
 DTSTAMP:20240805T190000Z
 DTSTART:20240805T190000Z
 DTEND:20240805T192500Z
-DESCRIPTION:3x3 Basketball - Women's Bronze Medal Game
-SUMMARY:🏀 Women's Bronze Medal Game
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 女子铜牌赛
+SUMMARY:🏀 女子铜牌赛
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T193000Z-3x3-basketball-MENS-BRONZE-MEDAL-GAME
+UID:20240805T193000Z-3x3-basketball-
 DTSTAMP:20240805T193000Z
 DTSTART:20240805T193000Z
 DTEND:20240805T195500Z
-DESCRIPTION:3x3 Basketball - Men's Bronze Medal Game
-SUMMARY:🏀 Men's Bronze Medal Game
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 男子铜牌赛
+SUMMARY:🏀 男子铜牌赛
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T200000Z-3x3-basketball-WOMENS-GOLD-MEDAL-GAME
+UID:20240805T200000Z-3x3-basketball-
 DTSTAMP:20240805T200000Z
 DTSTART:20240805T200000Z
 DTEND:20240805T202500Z
-DESCRIPTION:3x3 Basketball - Women's Gold Medal Game
-SUMMARY:🏀 Women's Gold Medal Game
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 女子金牌赛
+SUMMARY:🏀 女子金牌赛
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T203000Z-3x3-basketball-MENS-GOLD-MEDAL-GAME
+UID:20240805T203000Z-3x3-basketball-
 DTSTAMP:20240805T203000Z
 DTSTART:20240805T203000Z
 DTEND:20240805T205500Z
-DESCRIPTION:3x3 Basketball - Men's Gold Medal Game
-SUMMARY:🏀 Men's Gold Medal Game
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 男子金牌赛
+SUMMARY:🏀 男子金牌赛
+LOCATION:协和广场1号场地
 END:VEVENT
 END:VCALENDAR

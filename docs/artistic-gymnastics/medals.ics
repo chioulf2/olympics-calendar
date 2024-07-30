@@ -1,134 +1,134 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/medals//EN
-X-WR-CALNAME:🤸 Artistic Gymnastics 🏅 | Paris 2024
-NAME:🤸 Artistic Gymnastics 🏅 | Paris 2024
+X-WR-CALNAME:🤸 竞技体操 🏅 | Paris 2024
+NAME:🤸 竞技体操 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T153000Z-artistic-gymnastics-MENS-TEAM-FINAL
+UID:20240729T153000Z-artistic-gymnastics-
 DTSTAMP:20240729T153000Z
 DTSTART:20240729T153000Z
 DTEND:20240729T180000Z
-DESCRIPTION:Artistic Gymnastics - Men's Team Final\n🇨🇦 CAN\n🇨🇳
-  CHN\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
-SUMMARY:🤸 Men's Team Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 男子团体决赛\n🇨🇳 中国\n🇺🇦 乌克兰\n🇨🇦 加拿大\n🇮🇹 意大利\n🇯🇵
+  日本\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国
+SUMMARY:🤸 男子团体决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T161500Z-artistic-gymnastics-WOMENS-TEAM-FINAL
+UID:20240730T161500Z-artistic-gymnastics-
 DTSTAMP:20240730T161500Z
 DTSTART:20240730T161500Z
 DTEND:20240730T181000Z
-DESCRIPTION:Artistic Gymnastics - Women's Team Final\n🇧🇷 BRA\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇷🇴 ROU\n🇺🇸 USA
-SUMMARY:🤸 Women's Team Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 女子团体决赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇧🇷 巴西\n🇮🇹 意大利\n🇯🇵
+  日本\n🇷🇴 罗马尼亚\n🇺🇸 美国\n🇬🇧 英国
+SUMMARY:🤸 女子团体决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T153000Z-artistic-gymnastics-MENS-ALL-AROUND-FINAL
+UID:20240731T153000Z-artistic-gymnastics-
 DTSTAMP:20240731T153000Z
 DTSTART:20240731T153000Z
 DTEND:20240731T180000Z
-DESCRIPTION:Artistic Gymnastics - Men's All-Around Final
-SUMMARY:🤸 Men's All-Around Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 男子全能决赛
+SUMMARY:🤸 男子全能决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T161500Z-artistic-gymnastics-WOMENS-ALL-AROUND-FINAL
+UID:20240801T161500Z-artistic-gymnastics-
 DTSTAMP:20240801T161500Z
 DTSTART:20240801T161500Z
 DTEND:20240801T181000Z
-DESCRIPTION:Artistic Gymnastics - Women's All-Around Final
-SUMMARY:🤸 Women's All-Around Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 女子全能决赛
+SUMMARY:🤸 女子全能决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
+UID:20240803T133000Z-artistic-gymnastics-
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z
 DTEND:20240803T140500Z
-DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final
-SUMMARY:🤸 Men's Floor Exercise Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 男子自由体操决赛
+SUMMARY:🤸 男子自由体操决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL
+UID:20240803T142000Z-artistic-gymnastics-
 DTSTAMP:20240803T142000Z
 DTSTART:20240803T142000Z
 DTEND:20240803T150200Z
-DESCRIPTION:Artistic Gymnastics - Women's Vault Final
-SUMMARY:🤸 Women's Vault Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 女子跳马决赛
+SUMMARY:🤸 女子跳马决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T151600Z-artistic-gymnastics-MENS-POMMEL-HORSE-FINAL
+UID:20240803T151600Z-artistic-gymnastics-
 DTSTAMP:20240803T151600Z
 DTSTART:20240803T151600Z
 DTEND:20240803T155200Z
-DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final
-SUMMARY:🤸 Men's Pommel Horse Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 男子鞍马决赛
+SUMMARY:🤸 男子鞍马决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T130000Z-artistic-gymnastics-MENS-RINGS-FINAL
+UID:20240804T130000Z-artistic-gymnastics-
 DTSTAMP:20240804T130000Z
 DTSTART:20240804T130000Z
 DTEND:20240804T133700Z
-DESCRIPTION:Artistic Gymnastics - Men's Rings Final
-SUMMARY:🤸 Men's Rings Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 男子吊环决赛
+SUMMARY:🤸 男子吊环决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T134000Z-artistic-gymnastics-WOMENS-UNEVEN-BARS-FINAL
+UID:20240804T134000Z-artistic-gymnastics-
 DTSTAMP:20240804T134000Z
 DTSTART:20240804T134000Z
 DTEND:20240804T142100Z
-DESCRIPTION:Artistic Gymnastics - Women's Uneven Bars Final
-SUMMARY:🤸 Women's Uneven Bars Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 女子高低杠决赛
+SUMMARY:🤸 女子高低杠决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
+UID:20240804T142400Z-artistic-gymnastics-
 DTSTAMP:20240804T142400Z
 DTSTART:20240804T142400Z
 DTEND:20240804T150700Z
-DESCRIPTION:Artistic Gymnastics - Men's Vault Final
-SUMMARY:🤸 Men's Vault Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 男子跳马决赛
+SUMMARY:🤸 男子跳马决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T094500Z-artistic-gymnastics-MENS-PARALLEL-BARS-FINAL
+UID:20240805T094500Z-artistic-gymnastics-
 DTSTAMP:20240805T094500Z
 DTSTART:20240805T094500Z
 DTEND:20240805T102400Z
-DESCRIPTION:Artistic Gymnastics - Men's Parallel Bars Final
-SUMMARY:🤸 Men's Parallel Bars Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 男子双杠决赛
+SUMMARY:🤸 男子双杠决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T103800Z-artistic-gymnastics-WOMENS-BALANCE-BEAM-FINAL
+UID:20240805T103800Z-artistic-gymnastics-
 DTSTAMP:20240805T103800Z
 DTSTART:20240805T103800Z
 DTEND:20240805T111900Z
-DESCRIPTION:Artistic Gymnastics - Women's Balance Beam Final
-SUMMARY:🤸 Women's Balance Beam Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 女子平衡木决赛
+SUMMARY:🤸 女子平衡木决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T113300Z-artistic-gymnastics-MENS-HORIZONTAL-BAR-FINAL
+UID:20240805T113300Z-artistic-gymnastics-
 DTSTAMP:20240805T113300Z
 DTSTART:20240805T113300Z
 DTEND:20240805T120800Z
-DESCRIPTION:Artistic Gymnastics - Men's Horizontal Bar Final
-SUMMARY:🤸 Men's Horizontal Bar Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 男子单杠决赛
+SUMMARY:🤸 男子单杠决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T122300Z-artistic-gymnastics-WOMENS-FLOOR-EXERCISE-FINAL
+UID:20240805T122300Z-artistic-gymnastics-
 DTSTAMP:20240805T122300Z
 DTSTART:20240805T122300Z
 DTEND:20240805T130300Z
-DESCRIPTION:Artistic Gymnastics - Women's Floor Exercise Final
-SUMMARY:🤸 Women's Floor Exercise Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 女子自由体操决赛
+SUMMARY:🤸 女子自由体操决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 END:VCALENDAR

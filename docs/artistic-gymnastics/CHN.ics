@@ -1,26 +1,26 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/CHN//EN
-X-WR-CALNAME:🇨🇳 China Artistic Gymnastics | Paris 2024
-NAME:🇨🇳 China Artistic Gymnastics | Paris 2024
+X-WR-CALNAME:🇨🇳 China 竞技体操 | Paris 2024
+NAME:🇨🇳 China 竞技体操 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T153000Z-artistic-gymnastics-MENS-TEAM-FINAL
+UID:20240729T153000Z-artistic-gymnastics-
 DTSTAMP:20240729T153000Z
 DTSTART:20240729T153000Z
 DTEND:20240729T180000Z
-DESCRIPTION:Artistic Gymnastics - Men's Team Final\n🇨🇦 CAN\n🇨🇳
-  CHN\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
-SUMMARY:🤸 Men's Team Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 男子团体决赛\n🇨🇳 中国\n🇺🇦 乌克兰\n🇨🇦 加拿大\n🇮🇹 意大利\n🇯🇵
+  日本\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国
+SUMMARY:🤸 男子团体决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T161500Z-artistic-gymnastics-WOMENS-TEAM-FINAL
+UID:20240730T161500Z-artistic-gymnastics-
 DTSTAMP:20240730T161500Z
 DTSTART:20240730T161500Z
 DTEND:20240730T181000Z
-DESCRIPTION:Artistic Gymnastics - Women's Team Final\n🇧🇷 BRA\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇷🇴 ROU\n🇺🇸 USA
-SUMMARY:🤸 Women's Team Final
-LOCATION:Bercy Arena
+DESCRIPTION:竞技体操 - 女子团体决赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇧🇷 巴西\n🇮🇹 意大利\n🇯🇵
+  日本\n🇷🇴 罗马尼亚\n🇺🇸 美国\n🇬🇧 英国
+SUMMARY:🤸 女子团体决赛
+LOCATION:贝尔西体育馆
 END:VEVENT
 END:VCALENDAR

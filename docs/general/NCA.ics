@@ -13,127 +13,149 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T081200Z-rowing-WOMENS-SINGLE-SCULLS-HEATS
+UID:20240727T081200Z-rowing-
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇩🇿 ALG\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇺 CUB\n🇩🇪 GER\n🇮🇷 IR Iran\n🇰🇼
-  KUW\n🇱🇹 LTU\n🇲🇽 MEX\n🇲🇦 MAR\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
-  PAR\n🇵🇪 PER\n🇵🇭 PHI\n🇷🇸 SRB\n🇸🇬 SGP\n🇸🇮 SLO\n🇿🇦 RSA\n🇪🇸
-  ESP\n🇨🇭 SUI\n🇹🇬 TOG\n🇹🇷 TUR\n🇺🇬 UGA\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇳 VIE
-SUMMARY:🚣 Women's Single Sculls Heats
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 女子单人双桨分组预赛\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪
+  Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina
+  JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿
+  Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇳🇮 Evidelia GONZALEZ
+  JARQUIN\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen
+  NOBLE\n🇲🇽 Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline
+  EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇰🇼 Soaad ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue
+  PHAM\n🇱🇹 Viktorija SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis
+  COBAS GARCIA
+SUMMARY:🚣 女子单人双桨分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T090000Z-swimming-WOMENS-100M-BUTTERFLY-HEATS
+UID:20240727T090000Z-swimming-100
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T091100Z
-DESCRIPTION:Swimming - Women's 100m Butterfly - Heats\n🇦🇲 ARM\n🇦🇺
-  AUS\n🇧🇪 BEL\n🇧🇦 Bosnia & Herzegovina\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿
-  CZE\n🇩🇰 DEN\n🇸🇿 SWZ\n🇫🇷 FRA\n🇬🇪 GEO\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷
-  GRE\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
-  PAR\n🇸🇳 SEN\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇪 SWE\n🇺🇸 USA
-SUMMARY:🏊 Women's 100m Butterfly - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子100米蝶泳分组预赛\n🇦🇺 Alexandria PERKINS\n🇬🇪 Ana
+  NIZHARADZE\n🇩🇪 Angelina KOEHLER\n🇬🇷 Anna NTOUNTOUNAKI\n🇨🇿 Barbora
+  SEEMANOVA\n🇮🇹 Costanza COCCONCELLI\n🇮🇪 Ellen WALSHE\n🇦🇺 Emma
+  McKEON\n🇿🇦 Erin GALLAGHER\n🇬🇷 Georgia DAMASIOTI\n🇺🇸 Gretchen
+  WALSH\n🇯🇵 HIRAI Mizuki\n🇸🇿 Hayley HOY\n🇩🇰 Helena Rosendahl
+  BACH\n🇯🇵 IKEE Rikako\n🇬🇧 Keanna Louise MACINNES\n🇧🇦 Lana
+  PUDAR\n🇪🇸 Laura CABANES GARZAS\n🇸🇪 Louise HANSSON\n🇵🇾 Luana
+  ALONSO\n🇨🇦 Margaret MAC NEIL\n🇳🇮 Maria Victoria SCHUTZMEIER\n🇫🇷
+  Marie WATTEL\n🇸🇳 Oumy DIOP\n🇨🇦 Rebecca SMITH\n🇧🇪 Roos
+  VANOTTERDIJK\n🇳🇱 Tessa GIELE\n🇺🇸 Torri HUSKE\n🇳🇿 Vanessa Hazel
+  OUWEHAND\n🇦🇲 Varsenik MANUCHARYAN\n🇮🇹 Viola SCOTTO di CARLO\n🇨🇳
+  ZHANG Yufei
+SUMMARY:🏊 女子100米蝶泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T001200Z-surfing-WOMENS-ROUND-1-HEAT-5
+UID:20240728T001200Z-surfing-1-5
 DTSTAMP:20240728T001200Z
 DTSTART:20240728T001200Z
 DTEND:20240728T004200Z
-DESCRIPTION:Surfing - Women's Round 1 - Heat 5\n🇨🇷 Brisa HENNESSY\n🇳🇮
-  Candelaria RESANO\n🇫🇷 Johanne DEFAY
-SUMMARY:🏄 Women's Round 1 - Heat 5
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 女子第1轮 - 第5组\n🇨🇷 Brisa HENNESSY\n🇳🇮 Candelaria
+  RESANO\n🇫🇷 Johanne DEFAY
+SUMMARY:🏄 女子第1轮 - 第5组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T070000Z-rowing-WOMENS-SINGLE-SCULLS-REPECHAGES
+UID:20240728T070000Z-rowing-
 DTSTAMP:20240728T070000Z
 DTSTART:20240728T070000Z
 DTEND:20240728T073100Z
-DESCRIPTION:Rowing - Women's Single Sculls Repechages\n🇩🇿 ALG\n🇨🇺
-  CUB\n🇮🇷 IR Iran\n🇰🇼 KUW\n🇲🇦 MAR\n🇳🇮 NCA\n🇵🇾 PAR\n🇵🇪 PER\n🇵🇭
-  PHI\n🇸🇬 SGP\n🇹🇬 TOG\n🇹🇷 TUR\n🇺🇬 UGA\n🇻🇳 VIE
-SUMMARY:🚣 Women's Single Sculls Repechages
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 女子单人双桨复活赛\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇹🇷 Elis
+  OZBAY\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷 Fatemeh
+  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇺🇬 Kathleen NOBLE\n🇲🇦
+  Majdouline EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad ALFAQAAN\n🇻🇳
+  Thi Hue PHAM\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 女子单人双桨复活赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T071500Z-shooting-10M-AIR-RIFLE-WOMENS-QUALIFICATION
+UID:20240728T071500Z-shooting-10
 DTSTAMP:20240728T071500Z
 DTSTART:20240728T071500Z
 DTEND:20240728T083000Z
-DESCRIPTION:Shooting - 10m Air Rifle Women's Qualification\n🇰🇿 Alexandra
-  Le\n🇲🇰 Anastasija MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna
-  JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹
-  Barbara GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷
-  Fatemeh AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽
-  Goretti Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿
-  Houda CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷
-  KEUM Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️
-  Luna SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮
-  Mariel Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA
-  Misaki\n🇦🇹 Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne
-  MULLER\n🇮🇳 Ramita RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng
-  IBSEN\n🇺🇸 Sagen MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL
-  AMIRANI\n🇩🇰 Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita
-  NEPAL\n🇳🇴 Synnoeve BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika
-  BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
-SUMMARY:🔫 10m Air Rifle Women's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气步枪资格赛\n🇰🇿 Alexandra Le\n🇲🇰 Anastasija
+  MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna JANSSEN\n🇰🇿 Arina
+  ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹 Barbara
+  GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷 Fatemeh
+  AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽 Goretti
+  Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿 Houda
+  CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷 KEUM
+  Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️ Luna
+  SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮 Mariel
+  Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA Misaki\n🇦🇹
+  Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
+  RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng IBSEN\n🇺🇸 Sagen
+  MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL AMIRANI\n🇩🇰
+  Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita NEPAL\n🇳🇴 Synnoeve
+  BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar
+  MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
+SUMMARY:🔫 女子10米气步枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T192400Z-surfing-WOMENS-ROUND-2-HEAT-5-BRA-NCA
+UID:20240728T192400Z-surfing-2-5-BRA-NCA
 DTSTAMP:20240728T192400Z
 DTSTART:20240728T192400Z
 DTEND:20240728T195400Z
-DESCRIPTION:Surfing - Women's Round 2 - Heat 5
+DESCRIPTION:冲浪 - 女子第2轮 - 第5组
 SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇳🇮 Candelaria RESANO
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T080600Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-EF-2
+UID:20240729T080600Z-rowing--EF-2
 DTSTAMP:20240729T080600Z
 DTSTART:20240729T080600Z
 DTEND:20240729T081300Z
-DESCRIPTION:Rowing - Women's Single Sculls Semifinal E/F 2\n🇳🇮 Evidelia
-  GONZALEZ JARQUIN\n🇺🇬 Kathleen NOBLE\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿
-  Nihed BENCHADLI
-SUMMARY:🚣 Women's Single Sculls Semifinal E/F 2
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 女子单人双桨半决赛 E/F 2\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇺🇬
+  Kathleen NOBLE\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿 Nihed BENCHADLI
+SUMMARY:🚣 女子单人双桨半决赛 E/F 2
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T090000Z-swimming-MENS-200M-BUTTERFLY-HEATS
+UID:20240730T090000Z-swimming-200
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T091751Z
-DESCRIPTION:Swimming - Men's 200m Butterfly - Heats\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇹🇼 TPE\n🏳️
-  EOR\n🇪🇪 EST\n🇫🇷 FRA\n🇭🇺 HUN\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇿
-  NZL\n🇳🇮 NCA\n🇵🇱 POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
-SUMMARY:🏊 Men's 200m Butterfly - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子200米蝶泳分组预赛\n🇮🇹 Alberto RAZZETTI\n🇪🇸 Arbidel GONZALEZ
+  ALVAREZ\n🇺🇦 Denys KESIL\n🇳🇮 Gerald HERNANDEZ\n🇮🇹 Giacomo
+  CARINI\n🇯🇵 HONDA Tomoru\n🇨🇦 Ilya KHARUN\n🇰🇷 KIM Minseop\n🇪🇪
+  Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱 Krzysztof CHMIELEWSKI\n🇫🇷 Leon
+  MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇺🇸 Luca URLANDO\n🇦🇹 Martin
+  ESPERNBERGER\n🏳️ Matin BALSINI\n🇿🇦 Matthew SATES\n🇦🇺 Matthew
+  TEMPLE\n🇵🇱 Michal CHMIELEWSKI\n🇨🇳 NIU Guangsheng\n🇧🇷 Nicolas
+  ALBIERO\n🇨🇭 Noe PONTI\n🇧🇬 Petar Petrov MITSIN\n🇦🇿 Ramil
+  VALIZADA\n🇭🇺 Richard MARTON\n🇯🇵 TERAKADO Genki\n🇺🇸 Thomas
+  HEILMAN\n🇹🇼 WANG Kuan-Hung
+SUMMARY:🏊 男子200米蝶泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T080600Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-E
+UID:20240802T080600Z-rowing-E
 DTSTAMP:20240802T080600Z
 DTSTART:20240802T080600Z
 DTEND:20240802T081300Z
-DESCRIPTION:Rowing - Women's Single Sculls Final E\n🇸🇬 Aisyah
-  RAFAEE\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇺🇬 Kathleen NOBLE\n🇩🇿 Nihed
-  BENCHADLI\n🇰🇼 Soaad ALFAQAAN\n🇨🇺 Yariulvis COBAS GARCIA
-SUMMARY:🚣 Women's Single Sculls Final E
-LOCATION:Nautical St - Flat water
+DESCRIPTION:赛艇 - 女子单人双桨决赛E\n🇸🇬 Aisyah RAFAEE\n🇳🇮 Evidelia GONZALEZ
+  JARQUIN\n🇺🇬 Kathleen NOBLE\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad
+  ALFAQAAN\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 女子单人双桨决赛E
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T082400Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-CAN-NCA
+UID:20240802T082400Z-judo-7832-CAN-NCA
 DTSTAMP:20240802T082400Z
 DTSTART:20240802T082400Z
 DTEND:20240802T083000Z
-DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤以上级32强淘汰赛
 SUMMARY:🥋 Ana Laura PORTUONDO ISASI 🇨🇦 - 🇳🇮 Izayana MARENCO
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/SVK//EN
-X-WR-CALNAME:🇸🇰 Slovakia Judo | Paris 2024
-NAME:🇸🇰 Slovakia Judo | Paris 2024
+X-WR-CALNAME:🇸🇰 Slovakia 柔道 | Paris 2024
+NAME:🇸🇰 Slovakia 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240802T082400Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-FIJ-SVK
+UID:20240802T082400Z-judo-10032-FIJ-SVK
 DTSTAMP:20240802T082400Z
 DTSTART:20240802T082400Z
 DTEND:20240802T083000Z
-DESCRIPTION:Judo - Men +100 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子100公斤以上级32强淘汰赛
 SUMMARY:🥋 Gerard TAKAYAWA 🇫🇯 - 🇸🇰 Marius FIZEL
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

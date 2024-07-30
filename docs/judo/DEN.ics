@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/DEN//EN
-X-WR-CALNAME:🇩🇰 Denmark Judo | Paris 2024
-NAME:🇩🇰 Denmark Judo | Paris 2024
+X-WR-CALNAME:🇩🇰 Denmark 柔道 | Paris 2024
+NAME:🇩🇰 Denmark 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240731T081200Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-32-BIH-DEN
+UID:20240731T081200Z-judo-7032-BIH-DEN
 DTSTAMP:20240731T081200Z
 DTSTART:20240731T081200Z
 DTEND:20240731T081800Z
-DESCRIPTION:Judo - Women -70 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子70公斤级32强淘汰赛
 SUMMARY:🥋 Aleksandra SAMARDZIC 🇧🇦 - 🇩🇰 Laerke OLSEN
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

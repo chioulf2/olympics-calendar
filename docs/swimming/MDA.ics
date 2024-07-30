@@ -1,32 +1,44 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//swimming/MDA//EN
-X-WR-CALNAME:🇲🇩 Moldova Swimming | Paris 2024
-NAME:🇲🇩 Moldova Swimming | Paris 2024
+X-WR-CALNAME:🇲🇩 Moldova 游泳 | Paris 2024
+NAME:🇲🇩 Moldova 游泳 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T094500Z-swimming-MENS-400M-FREESTYLE-HEATS
+UID:20240727T094500Z-swimming-400
 DTSTAMP:20240727T094500Z
 DTSTART:20240727T094500Z
 DTEND:20240727T101400Z
-DESCRIPTION:Swimming - Men's 400m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇧🇪 BEL\n🇧🇦 Bosnia & Herzegovina\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇱
-  CHI\n🇨🇳 CHN\n🇨🇷 CRC\n🇪🇪 EST\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇾
-  GUY\n🇭🇺 HUN\n🇮🇹 ITA\n🇰🇪 KEN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇾 MAS\n🇲🇦
-  MAR\n🇲🇰 MKD\n🇵🇪 PER\n🇲🇩 Republic of Moldova\n🇸🇲 SMR\n🇸🇪
-  SWE\n🇨🇭 SUI\n🇹🇳 TUN\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇪 VEN
-SUMMARY:🏊 Men's 400m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子400米自由泳分组预赛\n🇺🇸 Aaron SHACKELL\n🇹🇳 Ahmed
+  JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇨🇭
+  Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David AUBRY\n🇨🇱 Eduardo
+  CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺 Elijah WINNINGTON\n🇨🇳
+  FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme COSTA\n🇲🇾 Hoe Yean
+  KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya SIBIRTSEV\n🇵🇪 Joaquin
+  VARGAS\n🇧🇦 Jovan LEKIC\n🇰🇷 KIM Woomin\n🇬🇧 Kieran BIRD\n🇺🇸 Kieran
+  SMITH\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪
+  Lukas MAERTENS\n🇮🇹 Marco de TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola
+  GJURETANOVIKJ\n🇩🇪 Oliver KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov
+  MITSIN\n🇬🇾 Raekwon Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana
+  MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪 Victor JOHANSSON\n🇨🇳 ZHANG
+  Zhanshuo\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 男子400米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T090000Z-swimming-WOMENS-200M-BACKSTROKE-HEATS
+UID:20240801T090000Z-swimming-200
 DTSTAMP:20240801T090000Z
 DTSTART:20240801T090000Z
 DTEND:20240801T091500Z
-DESCRIPTION:Swimming - Women's 200m Backstroke - Heats\n🇦🇺 AUS\n🇧🇬
-  BUL\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇭🇺
-  HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇷 KOR\n🇲🇺 MRI\n🇵🇱 POL\n🇵🇹 POR\n🇲🇩
-  Republic of Moldova\n🇪🇸 ESP\n🇺🇸 USA
-SUMMARY:🏊 Women's 200m Backstroke - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子200米仰泳分组预赛\n🇵🇱 Adela PISKORSKA\n🇪🇸 Africa ZAMORANO
+  SANZ\n🇮🇱 Anastasia GORBENKO\n🇲🇺 Anishta TEELUCK\n🇮🇱 Aviv
+  BARZELAY\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇵🇹 Camila REBELO\n🇪🇸 Carmen
+  WEILER SASTRE\n🇭🇺 Dora MOLNAR\n🇫🇷 Emma TEREBO\n🇭🇺 Eszter
+  SZABO-FELTOTHY\n🇧🇬 Gabriela GEORGIEVA\n🇬🇧 Honey OSRIN\n🇦🇺 Jaclyn
+  BARCLAY\n🇬🇧 Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇰🇷
+  LEE Eunji\n🇵🇱 Laura BERNAT\n🇮🇹 Margherita PANZIERA\n🇨🇳 PENG
+  Xuwei\n🇫🇷 Pauline MAHIEU\n🇺🇸 Phoebe BACON\n🇨🇦 Regan RATHWELL\n🇺🇸
+  Regan SMITH\n🇲🇩 Tatiana SALCUTAN
+SUMMARY:🏊 女子200米仰泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 END:VCALENDAR

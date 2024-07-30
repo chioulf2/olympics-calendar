@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/NCA//EN
-X-WR-CALNAME:🇳🇮 Nicaragua Judo | Paris 2024
-NAME:🇳🇮 Nicaragua Judo | Paris 2024
+X-WR-CALNAME:🇳🇮 Nicaragua 柔道 | Paris 2024
+NAME:🇳🇮 Nicaragua 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240802T082400Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-CAN-NCA
+UID:20240802T082400Z-judo-7832-CAN-NCA
 DTSTAMP:20240802T082400Z
 DTSTART:20240802T082400Z
 DTEND:20240802T083000Z
-DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤以上级32强淘汰赛
 SUMMARY:🥋 Ana Laura PORTUONDO ISASI 🇨🇦 - 🇳🇮 Izayana MARENCO
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

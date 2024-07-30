@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/GBS//EN
-X-WR-CALNAME:🇬🇼 Guinea-Bissau Judo | Paris 2024
-NAME:🇬🇼 Guinea-Bissau Judo | Paris 2024
+X-WR-CALNAME:🇬🇼 Guinea-Bissau 柔道 | Paris 2024
+NAME:🇬🇼 Guinea-Bissau 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240802T083000Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-SEN-GBS
+UID:20240802T083000Z-judo-10032-SEN-GBS
 DTSTAMP:20240802T083000Z
 DTSTART:20240802T083000Z
 DTEND:20240802T083600Z
-DESCRIPTION:Judo - Men +100 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子100公斤以上级32强淘汰赛
 SUMMARY:🥋 Mbagnick NDIAYE 🇸🇳 - 🇬🇼 Bubacar MANE
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

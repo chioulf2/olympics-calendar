@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/MAD//EN
-X-WR-CALNAME:🇲🇬 Madagascar Judo | Paris 2024
-NAME:🇲🇬 Madagascar Judo | Paris 2024
+X-WR-CALNAME:🇲🇬 Madagascar 柔道 | Paris 2024
+NAME:🇲🇬 Madagascar 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240731T083600Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-32-MAD-GBR
+UID:20240731T083600Z-judo-7032-MAD-GBR
 DTSTAMP:20240731T083600Z
 DTSTART:20240731T083600Z
 DTEND:20240731T084200Z
-DESCRIPTION:Judo - Women -70 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子70公斤级32强淘汰赛
 SUMMARY:🥋 Aina Laura RASOANAIVO RAZAFY 🇲🇬 - 🇬🇧 Katie-Jemima YEATS-BROW
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

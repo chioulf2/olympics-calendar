@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/NIG//EN
-X-WR-CALNAME:🇳🇪 Niger Fencing | Paris 2024
-NAME:🇳🇪 Niger Fencing | Paris 2024
+X-WR-CALNAME:🇳🇪 Niger 击剑 | Paris 2024
+NAME:🇳🇪 Niger 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T103000Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-32-NIG-KOR
+UID:20240727T103000Z-fencing-32-NIG-KOR
 DTSTAMP:20240727T103000Z
 DTSTART:20240727T103000Z
 DTEND:20240727T105500Z
-DESCRIPTION:Fencing - Men's Sabre Individual Table of 32
+DESCRIPTION:击剑 - 男子个人佩剑32强
 SUMMARY:🤺 Evann Jean Abba GIRAULT 🇳🇪 - 🇰🇷 OH Sanguk
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

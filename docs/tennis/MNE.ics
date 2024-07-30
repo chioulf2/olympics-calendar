@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/MNE//EN
-X-WR-CALNAME:🇲🇪 Montenegro Tennis | Paris 2024
-NAME:🇲🇪 Montenegro Tennis | Paris 2024
+X-WR-CALNAME:🇲🇪 Montenegro 网球 | Paris 2024
+NAME:🇲🇪 Montenegro 网球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-GRE-MNE
+UID:20240728T100000Z-tennis-1-GRE-MNE
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T113000Z
-DESCRIPTION:Tennis - Women's Singles First Round
+DESCRIPTION:网球 - 女子单打第1轮
 SUMMARY:🎾 Maria SAKKARI 🇬🇷 - 🇲🇪 Danka KOVINIC
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 END:VCALENDAR

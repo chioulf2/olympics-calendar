@@ -1,96 +1,96 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/medals//EN
-X-WR-CALNAME:🏓 Table Tennis 🏅 | Paris 2024
-NAME:🏓 Table Tennis 🏅 | Paris 2024
+X-WR-CALNAME:🏓 乒乓球 🏅 | Paris 2024
+NAME:🏓 乒乓球 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T113000Z-table-tennis-MIXED-DOUBLES-BRONZE-MEDAL-MATCH-KOR-HKG
+UID:20240730T113000Z-table-tennis--KOR-HKG
 DTSTAMP:20240730T113000Z
 DTSTART:20240730T113000Z
 DTEND:20240730T123000Z
-DESCRIPTION:Table Tennis - Mixed Doubles Bronze Medal Match
+DESCRIPTION:乒乓球 - 混合双打铜牌赛
 SUMMARY:🏓 LIM/SHIN 🇰🇷 - 🇭🇰 WONG/DOO
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T123000Z-table-tennis-MIXED-DOUBLES-GOLD-MEDAL-MATCH-CHN-PRK
+UID:20240730T123000Z-table-tennis--CHN-PRK
 DTSTAMP:20240730T123000Z
 DTSTART:20240730T123000Z
 DTEND:20240730T133000Z
-DESCRIPTION:Table Tennis - Mixed Doubles Gold Medal Match
+DESCRIPTION:乒乓球 - 混合双打金牌赛
 SUMMARY:🏓 WANG/SUN 🇨🇳 - 🇰🇵 RI/KIM
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T113000Z-table-tennis-WOMENS-SINGLES-BRONZE-MEDAL-MATCH
+UID:20240803T113000Z-table-tennis-
 DTSTAMP:20240803T113000Z
 DTSTART:20240803T113000Z
 DTEND:20240803T123000Z
-DESCRIPTION:Table Tennis - Women's Singles Bronze Medal Match
-SUMMARY:🏓 Women's Singles Bronze Medal Match
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 女子单打铜牌赛
+SUMMARY:🏓 女子单打铜牌赛
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T123000Z-table-tennis-WOMENS-SINGLES-GOLD-MEDAL-MATCH
+UID:20240803T123000Z-table-tennis-
 DTSTAMP:20240803T123000Z
 DTSTART:20240803T123000Z
 DTEND:20240803T133000Z
-DESCRIPTION:Table Tennis - Women's Singles Gold Medal Match
-SUMMARY:🏓 Women's Singles Gold Medal Match
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 女子单打金牌赛
+SUMMARY:🏓 女子单打金牌赛
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T113000Z-table-tennis-MENS-SINGLES-BRONZE-MEDAL-MATCH
+UID:20240804T113000Z-table-tennis-
 DTSTAMP:20240804T113000Z
 DTSTART:20240804T113000Z
 DTEND:20240804T123000Z
-DESCRIPTION:Table Tennis - Men's Singles Bronze Medal Match
-SUMMARY:🏓 Men's Singles Bronze Medal Match
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 男子单打铜牌赛
+SUMMARY:🏓 男子单打铜牌赛
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T123000Z-table-tennis-MENS-SINGLES-GOLD-MEDAL-MATCH
+UID:20240804T123000Z-table-tennis-
 DTSTAMP:20240804T123000Z
 DTSTART:20240804T123000Z
 DTEND:20240804T133000Z
-DESCRIPTION:Table Tennis - Men's Singles Gold Medal Match
-SUMMARY:🏓 Men's Singles Gold Medal Match
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 男子单打金牌赛
+SUMMARY:🏓 男子单打金牌赛
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T080000Z-table-tennis-MENS-TEAM-BRONZE-MEDAL-TEAM-MATCH
+UID:20240809T080000Z-table-tennis-
 DTSTAMP:20240809T080000Z
 DTSTART:20240809T080000Z
 DTEND:20240809T110000Z
-DESCRIPTION:Table Tennis - Men's Team Bronze Medal Team Match
-SUMMARY:🏓 Men's Team Bronze Medal Team Match
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 男子团体铜牌赛
+SUMMARY:🏓 男子团体铜牌赛
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T130000Z-table-tennis-MENS-TEAM-GOLD-MEDAL-TEAM-MATCH
+UID:20240809T130000Z-table-tennis-
 DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
 DTEND:20240809T160000Z
-DESCRIPTION:Table Tennis - Men's Team Gold Medal Team Match
-SUMMARY:🏓 Men's Team Gold Medal Team Match
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 男子团体金牌赛
+SUMMARY:🏓 男子团体金牌赛
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T080000Z-table-tennis-WOMENS-TEAM-BRONZE-MEDAL-TEAM-MATCH
+UID:20240810T080000Z-table-tennis-
 DTSTAMP:20240810T080000Z
 DTSTART:20240810T080000Z
 DTEND:20240810T110000Z
-DESCRIPTION:Table Tennis - Women's Team Bronze Medal Team Match
-SUMMARY:🏓 Women's Team Bronze Medal Team Match
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 女子团体铜牌赛
+SUMMARY:🏓 女子团体铜牌赛
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T130000Z-table-tennis-WOMENS-TEAM-GOLD-MEDAL-TEAM-MATCH
+UID:20240810T130000Z-table-tennis-
 DTSTAMP:20240810T130000Z
 DTSTART:20240810T130000Z
 DTEND:20240810T160000Z
-DESCRIPTION:Table Tennis - Women's Team Gold Medal Team Match
-SUMMARY:🏓 Women's Team Gold Medal Team Match
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 女子团体金牌赛
+SUMMARY:🏓 女子团体金牌赛
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

@@ -1,18 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//swimming/SYR//EN
-X-WR-CALNAME:🇸🇾 Syria Swimming | Paris 2024
-NAME:🇸🇾 Syria Swimming | Paris 2024
+X-WR-CALNAME:🇸🇾 Syria 游泳 | Paris 2024
+NAME:🇸🇾 Syria 游泳 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T090000Z-swimming-MENS-200M-FREESTYLE-HEATS
+UID:20240728T090000Z-swimming-200
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T091400Z
-DESCRIPTION:Swimming - Men's 200m Freestyle - Heats\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇧🇪 BEL\n🇧🇷 BRA\n🇨🇳 CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇱
-  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇱🇹 LTU\n🇲🇽 MEX\n🇵🇰 PAK\n🇷🇴
-  ROU\n🇷🇸 SRB\n🇸🇮 SLO\n🇨🇭 SUI\n🇸🇾 SYR\n🇺🇸 USA
-SUMMARY:🏊 Men's 200m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子200米自由泳分组预赛\n🇮🇹 Alessandro RAGAINI\n🇨🇭 Antonio
+  DJAKOVIC\n🇺🇸 Chris GUILIANO\n🇱🇹 Danas RAPSYS\n🇷🇴 David
+  POPOVICI\n🇮🇱 Denis LOKTEV\n🇬🇧 Duncan SCOTT\n🇦🇹 Felix AUBOECK\n🇮🇹
+  Filippo MEGLI\n🇧🇷 Guilherme COSTA\n🇰🇷 HWANG Sunwoo\n🇨🇳 JI
+  Xinjie\n🇲🇽 Jorge IGA\n🇰🇷 KIM Woomin\n🇧🇪 Lucas HENVEAUX\n🇩🇪 Lukas
+  MAERTENS\n🇺🇸 Luke HOBSON\n🇯🇵 MATSUMOTO Katsuhiro\n🇬🇧 Matthew
+  RICHARDS\n🇦🇺 Maximillian GIULIANI\n🇵🇰 Muhammad Ahmed DURRANI\n🇭🇺
+  Nandor NEMETH\n🇸🇾 Omar ABBAS\n🇨🇳 PAN Zhanle\n🇩🇪 Rafael
+  MIROSLAW\n🇸🇮 Saso BOSKAN\n🇦🇺 Thomas NEILL\n🇷🇸 Velimir STJEPANOVIC
+SUMMARY:🏊 男子200米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 END:VCALENDAR

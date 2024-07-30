@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/ESA//EN
-X-WR-CALNAME:🇸🇻 El Salvador Judo | Paris 2024
-NAME:🇸🇻 El Salvador Judo | Paris 2024
+X-WR-CALNAME:🇸🇻 El Salvador 柔道 | Paris 2024
+NAME:🇸🇻 El Salvador 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T081800Z-judo-MEN-60-KG-ELIMINATION-ROUND-OF-32-ESA-BEL
+UID:20240727T081800Z-judo-6032-ESA-BEL
 DTSTAMP:20240727T081800Z
 DTSTART:20240727T081800Z
 DTEND:20240727T082400Z
-DESCRIPTION:Judo - Men -60 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子60公斤级32强淘汰赛
 SUMMARY:🥋 Jairo MORENO 🇸🇻 - 🇧🇪 Jorre VERSTRAETEN
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

@@ -1,25 +1,25 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//surfing/ESA//EN
-X-WR-CALNAME:🇸🇻 El Salvador Surfing | Paris 2024
-NAME:🇸🇻 El Salvador Surfing | Paris 2024
+X-WR-CALNAME:🇸🇻 El Salvador 冲浪 | Paris 2024
+NAME:🇸🇻 El Salvador 冲浪 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T184800Z-surfing-MENS-ROUND-1-HEAT-4
+UID:20240727T184800Z-surfing-1-4
 DTSTAMP:20240727T184800Z
 DTSTART:20240727T184800Z
 DTEND:20240727T191800Z
-DESCRIPTION:Surfing - Men's Round 1 - Heat 4\n🇸🇻 Bryan PEREZ\n🇧🇷
-  Gabriel MEDINA\n🇯🇵 O'LEARY Connor
-SUMMARY:🏄 Men's Round 1 - Heat 4
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 男子第1轮 - 第4组\n🇸🇻 Bryan PEREZ\n🇧🇷 Gabriel MEDINA\n🇯🇵
+  O'LEARY Connor
+SUMMARY:🏄 男子第1轮 - 第4组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T002200Z-surfing-MENS-ROUND-2-HEAT-5-MAR-ESA
+UID:20240729T002200Z-surfing-2-5-MAR-ESA
 DTSTAMP:20240729T002200Z
 DTSTART:20240729T002200Z
 DTEND:20240729T005200Z
-DESCRIPTION:Surfing - Men's Round 2 - Heat 5
+DESCRIPTION:冲浪 - 男子第2轮 - 第5组
 SUMMARY:🏄 Ramzi BOUKHIAM 🇲🇦 - 🇸🇻 Bryan PEREZ
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 END:VCALENDAR

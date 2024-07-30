@@ -4,12 +4,12 @@ PRODID:-//fabrice404//olympics-calendar//medals/FIJ//EN
 X-WR-CALNAME:🇫🇯 Fiji 🏅 | Paris 2024
 NAME:🇫🇯 Fiji 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T174500Z-rugby-sevens-MENS-GOLD-MEDAL-MATCH-FRA-FIJ
+UID:20240727T174500Z-rugby-sevens--FRA-FIJ
 DTSTAMP:20240727T174500Z
 DTSTART:20240727T174500Z
 DTEND:20240727T180100Z
-DESCRIPTION:Rugby Sevens - Men's Gold Medal Match
-SUMMARY:🏉 FRA 🇫🇷 - 🇫🇯 FIJ
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子金牌赛
+SUMMARY:🏉 法国 🇫🇷 - 🇫🇯 斐济
+LOCATION:法兰西体育场
 END:VEVENT
 END:VCALENDAR

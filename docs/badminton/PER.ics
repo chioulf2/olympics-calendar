@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/PER//EN
-X-WR-CALNAME:🇵🇪 Peru Badminton | Paris 2024
-NAME:🇵🇪 Peru Badminton | Paris 2024
+X-WR-CALNAME:🇵🇪 Peru 羽毛球 | Paris 2024
+NAME:🇵🇪 Peru 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T072000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-J-PER-
+UID:20240730T072000Z-badminton--J-PER-TUR
 DTSTAMP:20240730T072000Z
 DTSTART:20240730T072000Z
 DTEND:20240730T080000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group J
+DESCRIPTION:羽毛球 - 女子单打小组赛 - J组
 SUMMARY:🏸 Ines Lucia CASTILLO 🇵🇪 - 🇹🇷 Neslihan ARIN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T134000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-J-JPN-
+UID:20240731T134000Z-badminton--J-JPN-PER
 DTSTAMP:20240731T134000Z
 DTSTART:20240731T134000Z
 DTEND:20240731T142000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group J
+DESCRIPTION:羽毛球 - 女子单打小组赛 - J组
 SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇵🇪 Ines Lucia CASTILLO
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

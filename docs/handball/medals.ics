@@ -1,42 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//handball/medals//EN
-X-WR-CALNAME:🤾 Handball 🏅 | Paris 2024
-NAME:🤾 Handball 🏅 | Paris 2024
+X-WR-CALNAME:🤾 手球 🏅 | Paris 2024
+NAME:🤾 手球 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240810T080000Z-handball-WOMENS-BRONZE-MEDAL-MATCH
+UID:20240810T080000Z-handball-
 DTSTAMP:20240810T080000Z
 DTSTART:20240810T080000Z
 DTEND:20240810T100000Z
-DESCRIPTION:Handball - Women's Bronze Medal Match
-SUMMARY:🤾 Women's Bronze Medal Match
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:手球 - 女子铜牌赛
+SUMMARY:🤾 女子铜牌赛
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T130000Z-handball-WOMENS-GOLD-MEDAL-MATCH
+UID:20240810T130000Z-handball-
 DTSTAMP:20240810T130000Z
 DTSTART:20240810T130000Z
 DTEND:20240810T150000Z
-DESCRIPTION:Handball - Women's Gold Medal Match
-SUMMARY:🤾 Women's Gold Medal Match
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:手球 - 女子金牌赛
+SUMMARY:🤾 女子金牌赛
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T070000Z-handball-MENS-BRONZE-MEDAL-MATCH
+UID:20240811T070000Z-handball-
 DTSTAMP:20240811T070000Z
 DTSTART:20240811T070000Z
 DTEND:20240811T090000Z
-DESCRIPTION:Handball - Men's Bronze Medal Match
-SUMMARY:🤾 Men's Bronze Medal Match
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:手球 - 男子铜牌赛
+SUMMARY:🤾 男子铜牌赛
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T113000Z-handball-MENS-GOLD-MEDAL-MATCH
+UID:20240811T113000Z-handball-
 DTSTAMP:20240811T113000Z
 DTSTART:20240811T113000Z
 DTEND:20240811T133000Z
-DESCRIPTION:Handball - Men's Gold Medal Match
-SUMMARY:🤾 Men's Gold Medal Match
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:手球 - 男子金牌赛
+SUMMARY:🤾 男子金牌赛
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 END:VCALENDAR

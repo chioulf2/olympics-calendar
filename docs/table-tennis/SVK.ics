@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/SVK//EN
-X-WR-CALNAME:🇸🇰 Slovakia Table Tennis | Paris 2024
-NAME:🇸🇰 Slovakia Table Tennis | Paris 2024
+X-WR-CALNAME:🇸🇰 Slovakia 乒乓球 | Paris 2024
+NAME:🇸🇰 Slovakia 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T084500Z-table-tennis-MENS-SINGLES-ROUND-OF-64-CHN-SVK
+UID:20240728T084500Z-table-tennis-64-CHN-SVK
 DTSTAMP:20240728T084500Z
 DTSTART:20240728T084500Z
 DTEND:20240728T093000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 WANG Chuqin 🇨🇳 - 🇸🇰 Yang WANG
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

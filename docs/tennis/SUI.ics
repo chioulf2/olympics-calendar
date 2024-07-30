@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/SUI//EN
-X-WR-CALNAME:🇨🇭 Switzerland Tennis | Paris 2024
-NAME:🇨🇭 Switzerland Tennis | Paris 2024
+X-WR-CALNAME:🇨🇭 Switzerland 网球 | Paris 2024
+NAME:🇨🇭 Switzerland 网球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND
+UID:20240728T100000Z-tennis-1
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T160000Z
-DESCRIPTION:Tennis - Men's Singles First Round\n🇨🇭 Stan WAWRINKA
-SUMMARY:🎾 Men's Singles First Round
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 男子单打第1轮\n🇨🇭 Stan WAWRINKA
+SUMMARY:🎾 男子单打第1轮
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-USA-SUI
+UID:20240728T100000Z-tennis-1-USA-SUI
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T143000Z
-DESCRIPTION:Tennis - Women's Singles First Round
+DESCRIPTION:网球 - 女子单打第1轮
 SUMMARY:🎾 Jessica PEGULA 🇺🇸 - 🇨🇭 Viktorija GOLUBIC
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T100000Z-tennis-MENS-SINGLES-SECOND-ROUND-SUI-AUS
+UID:20240730T100000Z-tennis-2-SUI-AUS
 DTSTAMP:20240730T100000Z
 DTSTART:20240730T100000Z
 DTEND:20240730T130000Z
-DESCRIPTION:Tennis - Men's Singles Second Round
+DESCRIPTION:网球 - 男子单打第2轮
 SUMMARY:🎾 Stan WAWRINKA 🇨🇭 - 🇦🇺 Alexei POPYRIN
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 END:VCALENDAR

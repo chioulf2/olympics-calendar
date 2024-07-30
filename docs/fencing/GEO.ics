@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/GEO//EN
-X-WR-CALNAME:🇬🇪 Georgia Fencing | Paris 2024
-NAME:🇬🇪 Georgia Fencing | Paris 2024
+X-WR-CALNAME:🇬🇪 Georgia 击剑 | Paris 2024
+NAME:🇬🇪 Georgia 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T114500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-32-GEO-MEX
+UID:20240727T114500Z-fencing-32-GEO-MEX
 DTSTAMP:20240727T114500Z
 DTSTART:20240727T114500Z
 DTEND:20240727T121000Z
-DESCRIPTION:Fencing - Men's Sabre Individual Table of 32
+DESCRIPTION:击剑 - 男子个人佩剑32强
 SUMMARY:🤺 Sandro BAZADZE 🇬🇪 - 🇲🇽 Gibran ZEA
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T132500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-16-GEO-EGY
+UID:20240727T132500Z-fencing-16-GEO-EGY
 DTSTAMP:20240727T132500Z
 DTSTART:20240727T132500Z
 DTEND:20240727T135000Z
-DESCRIPTION:Fencing - Men's Sabre Individual Table of 16
+DESCRIPTION:击剑 - 男子个人佩剑16强
 SUMMARY:🤺 Sandro BAZADZE 🇬🇪 - 🇪🇬 Mohamed AMER
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

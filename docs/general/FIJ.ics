@@ -4,40 +4,40 @@ PRODID:-//fabrice404//olympics-calendar//general/FIJ//EN
 X-WR-CALNAME:🇫🇯 Fiji | Paris 2024
 NAME:🇫🇯 Fiji | Paris 2024
 BEGIN:VEVENT
-UID:20240724T150000Z-rugby-sevens-MENS-POOL-C-FIJ-URU
+UID:20240724T150000Z-rugby-sevens-C-FIJ-URU
 DTSTAMP:20240724T150000Z
 DTSTART:20240724T150000Z
 DTEND:20240724T151600Z
-DESCRIPTION:Rugby Sevens - Men's Pool C
-SUMMARY:🏉 FIJ 🇫🇯 - 🇺🇾 URU
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛C组
+SUMMARY:🏉 斐济 🇫🇯 - 🇺🇾 乌拉圭
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240724T183000Z-rugby-sevens-MENS-POOL-C-FIJ-USA
+UID:20240724T183000Z-rugby-sevens-C-FIJ-USA
 DTSTAMP:20240724T183000Z
 DTSTART:20240724T183000Z
 DTEND:20240724T184600Z
-DESCRIPTION:Rugby Sevens - Men's Pool C
-SUMMARY:🏉 FIJ 🇫🇯 - 🇺🇸 USA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛C组
+SUMMARY:🏉 斐济 🇫🇯 - 🇺🇸 美国
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T133000Z-rugby-sevens-MENS-POOL-C-FIJ-FRA
+UID:20240725T133000Z-rugby-sevens-C-FIJ-FRA
 DTSTAMP:20240725T133000Z
 DTSTART:20240725T133000Z
 DTEND:20240725T134600Z
-DESCRIPTION:Rugby Sevens - Men's Pool C
-SUMMARY:🏉 FIJ 🇫🇯 - 🇫🇷 FRA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛C组
+SUMMARY:🏉 斐济 🇫🇯 - 🇫🇷 法国
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T200000Z-rugby-sevens-MENS-QUARTER-FINAL-FIJ-IRL
+UID:20240725T200000Z-rugby-sevens-14-FIJ-IRL
 DTSTAMP:20240725T200000Z
 DTSTART:20240725T200000Z
 DTEND:20240725T201600Z
-DESCRIPTION:Rugby Sevens - Men's Quarter-final
-SUMMARY:🏉 FIJ 🇫🇯 - 🇮🇪 IRL
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子1/4决赛
+SUMMARY:🏉 斐济 🇫🇯 - 🇮🇪 爱尔兰
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
@@ -49,124 +49,152 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T140000Z-rugby-sevens-MENS-SEMI-FINAL-FIJ-AUS
+UID:20240727T140000Z-rugby-sevens--FIJ-AUS
 DTSTAMP:20240727T140000Z
 DTSTART:20240727T140000Z
 DTEND:20240727T141600Z
-DESCRIPTION:Rugby Sevens - Men's Semi-final
-SUMMARY:🏉 FIJ 🇫🇯 - 🇦🇺 AUS
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子半决赛
+SUMMARY:🏉 斐济 🇫🇯 - 🇦🇺 澳大利亚
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T174500Z-rugby-sevens-MENS-GOLD-MEDAL-MATCH-FRA-FIJ
+UID:20240727T174500Z-rugby-sevens--FRA-FIJ
 DTSTAMP:20240727T174500Z
 DTSTART:20240727T174500Z
 DTEND:20240727T180100Z
-DESCRIPTION:Rugby Sevens - Men's Gold Medal Match
-SUMMARY:🏉 FRA 🇫🇷 - 🇫🇯 FIJ
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子金牌赛
+SUMMARY:🏉 法国 🇫🇷 - 🇫🇯 斐济
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T153000Z-rugby-sevens-WOMENS-POOL-A-FIJ-CAN
+UID:20240728T153000Z-rugby-sevens-A-FIJ-CAN
 DTSTAMP:20240728T153000Z
 DTSTART:20240728T153000Z
 DTEND:20240728T154600Z
-DESCRIPTION:Rugby Sevens - Women's Pool A
-SUMMARY:🏉 FIJ 🇫🇯 - 🇨🇦 CAN
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛A组
+SUMMARY:🏉 斐济 🇫🇯 - 🇨🇦 加拿大
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T190000Z-rugby-sevens-WOMENS-POOL-A-FIJ-CHN
+UID:20240728T190000Z-rugby-sevens-A-FIJ-CHN
 DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
 DTEND:20240728T191600Z
-DESCRIPTION:Rugby Sevens - Women's Pool A
-SUMMARY:🏉 FIJ 🇫🇯 - 🇨🇳 CHN
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛A组
+SUMMARY:🏉 斐济 🇫🇯 - 🇨🇳 中国
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T110000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-FIJ-GBR
+UID:20240729T110000Z-table-tennis-64-FIJ-GBR
 DTSTAMP:20240729T110000Z
 DTSTART:20240729T110000Z
 DTEND:20240729T120000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Vicky WU 🇫🇯 - 🇬🇧 Liam PITCHFORD
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T143000Z-rugby-sevens-WOMENS-POOL-A-NZL-FIJ
+UID:20240729T143000Z-rugby-sevens-A-NZL-FIJ
 DTSTAMP:20240729T143000Z
 DTSTART:20240729T143000Z
 DTEND:20240729T144600Z
-DESCRIPTION:Rugby Sevens - Women's Pool A
-SUMMARY:🏉 NZL 🇳🇿 - 🇫🇯 FIJ
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇫🇯 斐济
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T183000Z-rugby-sevens-WOMENS-PLACING-9-12-FIJ-BRA
+UID:20240729T183000Z-rugby-sevens-9-12-FIJ-BRA
 DTSTAMP:20240729T183000Z
 DTSTART:20240729T183000Z
 DTEND:20240729T184600Z
-DESCRIPTION:Rugby Sevens - Women's Placing 9-12
-SUMMARY:🏉 FIJ 🇫🇯 - 🇧🇷 BRA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子9-12名排名赛
+SUMMARY:🏉 斐济 🇫🇯 - 🇧🇷 巴西
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T143000Z-rugby-sevens-WOMENS-PLACING-11-12-RSA-FIJ
+UID:20240730T143000Z-rugby-sevens-11-12-RSA-FIJ
 DTSTAMP:20240730T143000Z
 DTSTART:20240730T143000Z
 DTEND:20240730T144600Z
-DESCRIPTION:Rugby Sevens - Women's Placing 11-12
-SUMMARY:🏉 RSA 🇿🇦 - 🇫🇯 FIJ
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子11-12名排名赛
+SUMMARY:🏉 南非 🇿🇦 - 🇫🇯 斐济
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T091600Z-swimming-MENS-50M-FREESTYLE-HEATS
+UID:20240801T091600Z-swimming-50
 DTSTAMP:20240801T091600Z
 DTSTART:20240801T091600Z
 DTEND:20240801T093800Z
-DESCRIPTION:Swimming - Men's 50m Freestyle - Heats\n🇦🇫 AFG\n🇦🇼
-  ARU\n🇦🇺 AUS\n🇧🇷 BRA\n🇧🇫 BUR\n🇧🇮 BDI\n🇨🇻 CPV\n🇨🇦 CAN\n🇰🇾
-  CAY\n🇨🇫 Centr Afric Rep\n🇨🇬 CGO\n🇭🇷 CRO\n🇨🇩 DR Congo\n🇩🇯
-  DJI\n🇩🇲 DMA\n🏳️ EOR\n🇬🇶 GEQ\n🇪🇷 ERI\n🇫🇯 FIJ\n🇫🇷 FRA\n🇬🇦
-  GAB\n🇬🇲 GAM\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇬🇳 GUI\n🇬🇼 GBS\n🇭🇰
-  Hong Kong, China\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹 ITA\n🇰🇷 KOR\n🇲🇼
-  MAW\n🇲🇻 MDV\n🇲🇹 MLT\n🇲🇭 MHL\n🇲🇷 MTN\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿
-  NZL\n🇳🇪 NIG\n🇳🇬 NGR\n🇳🇴 NOR\n🇵🇼 PLW\n🇵🇱 POL\n🇵🇹 POR\n🇷🇸
-  SRB\n🇸🇱 SLE\n🇸🇬 SGP\n🇸🇰 SVK\n🇰🇳 St Kitts and Nevis\n🇻🇨
-  StVincent&Grenadines\n🇸🇪 SWE\n🇨🇭 SUI\n🇹🇯 TJK\n🇹🇱 TLS\n🇹🇬
-  TOG\n🇹🇹 TTO\n🇺🇦 UKR\n🇺🇸 USA\n🇻🇪 VEN\n🇿🇲 ZAM
-SUMMARY:🏊 Men's 50m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子50米自由泳分组预赛\n🇪🇷 Aaron Ghebre OWUSU\n🇬🇦 Adam
+  MPALI\n🏳️ Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨 Alex JOACHIM\n🇬🇧
+  Alexander COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote NDOMBE IMPELENGA\n🇩🇪
+  Artem SELIN\n🇧🇮 Belly-Cresus GANIRA\n🇦🇺 Ben ARMBRUSTER\n🇬🇧 Benjamin
+  PROUD\n🇸🇪 Bjoern SEELIGER\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron
+  McEVOY\n🇲🇷 Camil DOUA\n🇺🇸 Chris GUILIANO\n🇿🇲 Damien SHAMAMBO\n🇫🇯
+  David YOUNG\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇹 Dylan CARTER\n🇬🇳 Elhadj
+  N'gnane DIALLO\n🇦🇫 Fahim ANWARI\n🇹🇯 Fakhriddin MADKAMOV\n🇲🇼 Filipe
+  GOMES\n🇫🇷 Florent MANAUDOU\n🇨🇬 Freddy MAYALA\n🇲🇽 Gabriel CASTANO
+  GARCIA\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian Yentou\n🇬🇶 Higinio NDONG
+  OBAMA\n🇩🇯 Houmed HOUSSEIN BARKAT\n🇰🇷 JI Yuchan\n🇭🇷 Jere
+  HRIBAR\n🇵🇼 Jion HOSEI\n🇹🇱 Jolanio GUTERRES\n🇸🇬 Jonathan Eu Jin
+  TAN\n🇰🇾 Jordan CROOKS\n🇨🇻 Jose TATI\n🇨🇦 Josh LIENDO\n🇸🇱 Joshua
+  WYSE\n🇳🇱 Kenzo SIMONS\n🇬🇷 Kristian GKOLOMEEV\n🇲🇹 Kyle
+  MICALLEF\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇹🇬 Magnim
+  Jordano DAOU\n🇳🇪 Marouane MAMANE HAMISSOU ABBA\n🇮🇱 Martin
+  KARTAVI\n🇸🇰 Matej DUSA\n🇫🇷 Maxime GROUSSET\n🇮🇱 Meiron Amir
+  CHERUTI\n🇵🇹 Miguel NASCIMENTO\n🇦🇼 Mikel SCHREUDERS\n🇲🇻 Mohamed Aan
+  HUSSAIN\n🇳🇴 Nicholas LIA\n🇬🇲 Ousman JOBE\n🇬🇼 Pedro ROGERY\n🇲🇭
+  Phillip KINONO\n🇵🇱 Piotr LUDWICZAK\n🇳🇱 Renzo TJON-A-JOE\n🇮🇪 Shane
+  RYAN\n🇧🇫 Souleymane NAPARE\n🇬🇷 Stergios Marios BILAS\n🇭🇺
+  Szebasztian SZABO\n🇳🇿 Taiko TOREPE-ORMSBY\n🇨🇫 Terence TENGUE\n🇨🇭
+  Thierry BOLLIN\n🇮🇪 Thomas FANNON\n🇳🇬 Tobi SIJUADE\n🇰🇳 Troy
+  NISBETT\n🇺🇦 Vladyslav BUKHOV\n🇩🇲 Warren Adam LAWRENCE
+SUMMARY:🏊 男子50米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T082400Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-FIJ-SVK
+UID:20240802T082400Z-judo-10032-FIJ-SVK
 DTSTAMP:20240802T082400Z
 DTSTART:20240802T082400Z
 DTEND:20240802T083000Z
-DESCRIPTION:Judo - Men +100 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子100公斤以上级32强淘汰赛
 SUMMARY:🥋 Gerard TAKAYAWA 🇫🇯 - 🇸🇰 Marius FIZEL
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
+UID:20240803T090000Z-swimming-50
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
 DTEND:20240803T092200Z
-DESCRIPTION:Swimming - Women's 50m Freestyle - Heats\n🇦🇼 ARU\n🇦🇺
-  AUS\n🇦🇿 AZE\n🇧🇸 BAH\n🇧🇩 BAN\n🇧🇪 BEL\n🇧🇯 BEN\n🇧🇴 BOL\n🇧🇳
-  Brunei Darussalam\n🇧🇫 BUR\n🇧🇮 BDI\n🇰🇭 CAM\n🇨🇲 CMR\n🇨🇦 CAN\n🇨🇫
-  Centr Afric Rep\n🇨🇳 CHN\n🇰🇲 COM\n🇨🇬 CGO\n🇭🇷 CRO\n🇨🇩 DR
-  Congo\n🇩🇰 DEN\n🇩🇯 DJI\n🇩🇲 DMA\n🇪🇨 ECU\n🇪🇷 ERI\n🇪🇹 ETH\n🇫🇯
-  FIJ\n🇫🇷 FRA\n🇬🇦 GAB\n🇬🇭 GHA\n🇬🇧 GBR\n🇬🇷 GRE\n🇬🇳 GUI\n🇭🇹
-  HAI\n🇭🇺 HUN\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇲 JAM\n🇰🇪 KEN\n🇽🇰 KOS\n🇰🇬
-  KGZ\n🇲🇬 MAD\n🇲🇼 MAW\n🇲🇻 MDV\n🇲🇱 MLI\n🇲🇭 MHL\n🇫🇲
-  Micronesia\n🇲🇪 MNE\n🇳🇱 NED\n🇳🇪 NIG\n🇳🇬 NGR\n🇵🇼 PLW\n🇵🇬
-  PNG\n🇵🇱 POL\n🇷🇼 RWA\n🇼🇸 SAM\n🇸🇨 SEY\n🇸🇱 SLE\n🇸🇮 SLO\n🇸🇧
-  SOL\n🇻🇨 StVincent&Grenadines\n🇸🇷 SUR\n🇸🇪 SWE\n🇹🇯 TJK\n🇹🇿
-  TAN\n🇹🇭 THA\n🇹🇱 TLS\n🇹🇬 TOG\n🇹🇴 TGA\n🇺🇸 USA\n🇻🇺 VAN\n🇿🇲 ZAM
-SUMMARY:🏊 Women's 50m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子50米自由泳分组预赛\n🇳🇬 Adaku NWANDU\n🇹🇬 Adele Sodalo Agnes
+  GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻 Aishath Ulya SHAIG\n🇫🇯 Anahira
+  McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧 Anna HOPKIN\n🇲🇬 Antsa
+  RABEJAONA\n🇰🇭 Apsara Katarina SAKBUM\n🇫🇷 Beryl GASTALDELLO\n🇦🇼
+  Chloe FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle HILL\n🇨🇩 Divine
+  MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina BORDACHYOVA\n🇰🇬
+  Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬 Georgia-Leigh
+  VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen WALSH\n🇽🇰 Hana
+  BEIQI\n🇧🇳 Hayley WONG\n🇧🇫 Iman KOURAOGO\n🇹🇱 Imelda XIMENES
+  BELO\n🇧🇯 Ionnah Eliane DOUILLET\n🇸🇧 Isabella MILLAR\n🇭🇷 Jana
+  PAVALIC\n🇩🇲 Jasmine SCHOFIELD\n🇹🇭 Jenjira SRISA - ARD\n🇬🇭 Joselle
+  MENSAH\n🇲🇪 Jovana KULJACA\n🇩🇰 Julie Kepp JENSEN\n🇸🇷 Kaelyn Ciara
+  Suryanti DJOPARTO\n🇼🇸 Kaiya BROWN\n🇵🇱 Katarzyna WASICK\n🇲🇭 Kayla
+  HEPLER\n🇻🇨 Kennice Aphenie GREENE\n🇫🇲 Kestra KIHLENG\n🇸🇨 Khema
+  ELIZABETH\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇷🇼 Lidwine
+  UMUHOZA UWASE\n🇪🇹 Lina Alemayehu SELO\n🇻🇺 Loane RUSSET\n🇧🇮 Lois
+  Eliora IRISHURA\n🇰🇲 Maesha SAADI\n🇰🇪 Maria BRUNLEHNER\n🇧🇴 Maria
+  Jose RIBERA\n🇦🇿 Mariam SHEIKHALIZADEHKHANGHAH\n🇭🇹 Mayah
+  CHOULOUTE\n🇦🇺 Meg HARRIS\n🇫🇷 Melanie HENIQUE\n🇿🇲 Mia PHIRI\n🇸🇪
+  Michelle COLEMAN\n🇧🇩 Mst Sonia KHATUN\n🇩🇯 Naima-Zahra AMISON\n🇸🇮
+  Neza KLANCAR\n🇹🇴 Noelani Malia DAY\n🇬🇦 Noelie Annette LACOUR\n🇸🇱
+  Olamide SAM\n🇭🇺 Petra SENANSZKY\n🇧🇸 Rhanishka GIBBS\n🇯🇲 Sabrina
+  LYN\n🇳🇪 Salima AHMADOU YOUSSOUFOU\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Simone MANUEL\n🇹🇿 Sophia
+  LATIFF\n🇲🇼 Tayamika CHANGANAMUNO\n🇨🇦 Taylor RUCK\n🇬🇷 Theodora
+  DRAKOU\n🇨🇫 Tracy Marine ANDET\n🇳🇱 Valerie van ROON\n🇨🇬 Vanessa
+  BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 女子50米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

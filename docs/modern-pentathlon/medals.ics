@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//modern-pentathlon/medals//EN
-X-WR-CALNAME:🤺 Modern Pentathlon 🏅 | Paris 2024
-NAME:🤺 Modern Pentathlon 🏅 | Paris 2024
+X-WR-CALNAME:🤺 现代五项 🏅 | Paris 2024
+NAME:🤺 现代五项 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240810T171000Z-modern-pentathlon-MENS-INDIVIDUAL-FINAL-LASER-RUN
+UID:20240810T171000Z-modern-pentathlon-
 DTSTAMP:20240810T171000Z
 DTSTART:20240810T171000Z
 DTEND:20240810T173000Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Final, Laser Run
-SUMMARY:🤺 Men's Individual, Final, Laser Run
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子激光跑决赛
+SUMMARY:🤺 男子激光跑决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T104000Z-modern-pentathlon-WOMENS-INDIVIDUAL-FINAL-LASER-RUN
+UID:20240811T104000Z-modern-pentathlon-
 DTSTAMP:20240811T104000Z
 DTSTART:20240811T104000Z
 DTEND:20240811T110000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Final, Laser Run
-SUMMARY:🤺 Women's Individual, Final, Laser Run
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子激光跑决赛
+SUMMARY:🤺 女子激光跑决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 END:VCALENDAR

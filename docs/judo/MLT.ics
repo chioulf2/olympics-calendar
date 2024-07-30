@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/MLT//EN
-X-WR-CALNAME:🇲🇹 Malta Judo | Paris 2024
-NAME:🇲🇹 Malta Judo | Paris 2024
+X-WR-CALNAME:🇲🇹 Malta 柔道 | Paris 2024
+NAME:🇲🇹 Malta 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T084200Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-MGL-MLT
+UID:20240727T084200Z-judo-4832-MGL-MLT
 DTSTAMP:20240727T084200Z
 DTSTART:20240727T084200Z
 DTEND:20240727T084800Z
-DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子48公斤级32强淘汰赛
 SUMMARY:🥋 Baasankhuu BAVUUDORJ 🇲🇳 - 🇲🇹 Katryna ESPOSITO
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

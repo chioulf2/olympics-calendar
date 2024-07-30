@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/CPV//EN
-X-WR-CALNAME:🇨🇻 Cabo Verde Fencing | Paris 2024
-NAME:🇨🇻 Cabo Verde Fencing | Paris 2024
+X-WR-CALNAME:🇨🇻 Cabo Verde 击剑 | Paris 2024
+NAME:🇨🇻 Cabo Verde 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T075500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-64-CAN-CPV
+UID:20240729T075500Z-fencing-64-CAN-CPV
 DTSTAMP:20240729T075500Z
 DTSTART:20240729T075500Z
 DTEND:20240729T082500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 64
+DESCRIPTION:击剑 - 男子个人花剑64强
 SUMMARY:🤺 Daniel GU 🇨🇦 - 🇨🇻 Victor ALVARES de OLIVEIRA
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

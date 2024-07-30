@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/BUR//EN
-X-WR-CALNAME:🇧🇫 Burkina Faso Judo | Paris 2024
-NAME:🇧🇫 Burkina Faso Judo | Paris 2024
+X-WR-CALNAME:🇧🇫 Burkina Faso 柔道 | Paris 2024
+NAME:🇧🇫 Burkina Faso 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240731T081200Z-judo-MEN-90-KG-ELIMINATION-ROUND-OF-32-KOR-BUR
+UID:20240731T081200Z-judo-9032-KOR-BUR
 DTSTAMP:20240731T081200Z
 DTSTART:20240731T081200Z
 DTEND:20240731T081800Z
-DESCRIPTION:Judo - Men -90 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子90公斤级32强淘汰赛
 SUMMARY:🥋 HAN Juyeop 🇰🇷 - 🇧🇫 Carmel KONE
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

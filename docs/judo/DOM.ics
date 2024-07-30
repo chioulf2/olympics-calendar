@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/DOM//EN
-X-WR-CALNAME:🇩🇴 Dominican Republic Judo | Paris 2024
-NAME:🇩🇴 Dominican Republic Judo | Paris 2024
+X-WR-CALNAME:🇩🇴 Dominican Republic 柔道 | Paris 2024
+NAME:🇩🇴 Dominican Republic 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240731T084200Z-judo-MEN-90-KG-ELIMINATION-ROUND-OF-32-DOM-GRE
+UID:20240731T084200Z-judo-902-DOM-GRE
 DTSTAMP:20240731T084200Z
 DTSTART:20240731T084200Z
 DTEND:20240731T084800Z
-DESCRIPTION:Judo - Men -90 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子90公斤级2强淘汰赛
 SUMMARY:🥋 Robert FLORENTINO 🇩🇴 - 🇬🇷 Theodoros TSELIDIS
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T081800Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-EOR-DOM
+UID:20240802T081800Z-judo-7832-EOR-DOM
 DTSTAMP:20240802T081800Z
 DTSTART:20240802T081800Z
 DTEND:20240802T082400Z
-DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤以上级32强淘汰赛
 SUMMARY:🥋 Mahboubeh BARBARI ZHARFI 🏳️ - 🇩🇴 Moira MORILLO
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

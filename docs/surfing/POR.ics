@@ -1,53 +1,53 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//surfing/POR//EN
-X-WR-CALNAME:🇵🇹 Portugal Surfing | Paris 2024
-NAME:🇵🇹 Portugal Surfing | Paris 2024
+X-WR-CALNAME:🇵🇹 Portugal 冲浪 | Paris 2024
+NAME:🇵🇹 Portugal 冲浪 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T214800Z-surfing-WOMENS-ROUND-1-HEAT-1
+UID:20240727T214800Z-surfing-1-1
 DTSTAMP:20240727T214800Z
 DTSTART:20240727T214800Z
 DTEND:20240727T221800Z
-DESCRIPTION:Surfing - Women's Round 1 - Heat 1\n🇺🇸 Caroline MARKS\n🇿🇦
-  Sarah BAUM\n🇵🇹 Yolanda HOPKINS
-SUMMARY:🏄 Women's Round 1 - Heat 1
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 女子第1轮 - 第1组\n🇺🇸 Caroline MARKS\n🇿🇦 Sarah BAUM\n🇵🇹
+  Yolanda HOPKINS
+SUMMARY:🏄 女子第1轮 - 第1组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T020000Z-surfing-WOMENS-ROUND-1-HEAT-8
+UID:20240728T020000Z-surfing-1-8
 DTSTAMP:20240728T020000Z
 DTSTART:20240728T020000Z
 DTEND:20240728T023000Z
-DESCRIPTION:Surfing - Women's Round 1 - Heat 8\n🇺🇸 Carissa MOORE\n🇯🇵
-  MATSUDA Shino\n🇵🇹 Teresa BONVALOT
-SUMMARY:🏄 Women's Round 1 - Heat 8
-LOCATION:Teahupo'o, Tahiti
+DESCRIPTION:冲浪 - 女子第1轮 - 第8组\n🇺🇸 Carissa MOORE\n🇯🇵 MATSUDA Shino\n🇵🇹
+  Teresa BONVALOT
+SUMMARY:🏄 女子第1轮 - 第8组
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T181200Z-surfing-WOMENS-ROUND-2-HEAT-3-JPN-POR
+UID:20240728T181200Z-surfing-2-3-JPN-POR
 DTSTAMP:20240728T181200Z
 DTSTART:20240728T181200Z
 DTEND:20240728T184200Z
-DESCRIPTION:Surfing - Women's Round 2 - Heat 3
+DESCRIPTION:冲浪 - 女子第2轮 - 第3组
 SUMMARY:🏄 MATSUDA Shino 🇯🇵 - 🇵🇹 Teresa BONVALOT
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T200000Z-surfing-WOMENS-ROUND-2-HEAT-6-POR-NZL
+UID:20240728T200000Z-surfing-2-6-POR-NZL
 DTSTAMP:20240728T200000Z
 DTSTART:20240728T200000Z
 DTEND:20240728T203000Z
-DESCRIPTION:Surfing - Women's Round 2 - Heat 6
+DESCRIPTION:冲浪 - 女子第2轮 - 第6组
 SUMMARY:🏄 Yolanda HOPKINS 🇵🇹 - 🇳🇿 Saffi VETTE
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T020000Z-surfing-WOMENS-ROUND-3-HEAT-8-CRC-POR
+UID:20240730T020000Z-surfing-3-8-CRC-POR
 DTSTAMP:20240730T020000Z
 DTSTART:20240730T020000Z
 DTEND:20240730T023000Z
-DESCRIPTION:Surfing - Women's Round 3 - Heat 8
+DESCRIPTION:冲浪 - 女子第3轮 - 第8组
 SUMMARY:🏄 Brisa HENNESSY 🇨🇷 - 🇵🇹 Yolanda HOPKINS
-LOCATION:Teahupo'o, Tahiti
+LOCATION:特乎普欧，大溪地
 END:VEVENT
 END:VCALENDAR

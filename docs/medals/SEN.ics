@@ -4,16 +4,15 @@ PRODID:-//fabrice404//olympics-calendar//medals/SEN//EN
 X-WR-CALNAME:🇸🇳 Senegal 🏅 | Paris 2024
 NAME:🇸🇳 Senegal 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T152000Z-canoe-slalom-MENS-CANOE-SINGLE-FINAL
+UID:20240729T152000Z-canoe-slalom-
 DTSTAMP:20240729T152000Z
 DTSTART:20240729T152000Z
 DTEND:20240729T160400Z
-DESCRIPTION:Canoe Slalom - Men's Canoe Single Final\n🇬🇧 Adam
-  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
-  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
-  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
-  CARTER\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Men's Canoe Single Final
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 男子单人划艇决赛\n🇬🇧 Adam BURGESS\n🇸🇮 Benjamin
+  SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰
+  Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas
+  GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子单人划艇决赛
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 END:VCALENDAR

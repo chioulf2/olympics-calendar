@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/ZAM//EN
-X-WR-CALNAME:🇿🇲 Zambia Judo | Paris 2024
-NAME:🇿🇲 Zambia Judo | Paris 2024
+X-WR-CALNAME:🇿🇲 Zambia 柔道 | Paris 2024
+NAME:🇿🇲 Zambia 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T084800Z-judo-MEN-60-KG-ELIMINATION-ROUND-OF-32-ZAM-KOR
+UID:20240727T084800Z-judo-6032-ZAM-KOR
 DTSTAMP:20240727T084800Z
 DTSTART:20240727T084800Z
 DTEND:20240727T085400Z
-DESCRIPTION:Judo - Men -60 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子60公斤级32强淘汰赛
 SUMMARY:🥋 Simon ZULU 🇿🇲 - 🇰🇷 KIM Won Jin
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

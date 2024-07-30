@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/EOR//EN
-X-WR-CALNAME:🏳️ Refugee Olympic Team Badminton | Paris 2024
-NAME:🏳️ Refugee Olympic Team Badminton | Paris 2024
+X-WR-CALNAME:🏳️ Refugee Olympic Team 羽毛球 | Paris 2024
+NAME:🏳️ Refugee Olympic Team 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T072000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-I-SGP-
+UID:20240727T072000Z-badminton--I-SGP-EOR
 DTSTAMP:20240727T072000Z
 DTSTART:20240727T072000Z
 DTEND:20240727T080000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group I
+DESCRIPTION:羽毛球 - 女子单打小组赛 - I组
 SUMMARY:🏸 Jia Min YEO 🇸🇬 - 🏳️ Dorsa YAVARIVAFA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-I-MRI-
+UID:20240729T090000Z-badminton--I-MRI-EOR
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T100000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group I
+DESCRIPTION:羽毛球 - 女子单打小组赛 - I组
 SUMMARY:🏸 Kate FOO KUNE 🇲🇺 - 🏳️ Dorsa YAVARIVAFA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

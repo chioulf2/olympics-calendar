@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/MEX//EN
-X-WR-CALNAME:🇲🇽 Mexico Table Tennis | Paris 2024
-NAME:🇲🇽 Mexico Table Tennis | Paris 2024
+X-WR-CALNAME:🇲🇽 Mexico 乒乓球 | Paris 2024
+NAME:🇲🇽 Mexico 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T193000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-MEX-GER
+UID:20240727T193000Z-table-tennis-64-MEX-GER
 DTSTAMP:20240727T193000Z
 DTSTART:20240727T193000Z
 DTEND:20240727T201500Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Marcos MADRID 🇲🇽 - 🇩🇪 Dimitrij OVTCHAROV
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T190000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-MEX-AUT
+UID:20240728T190000Z-table-tennis-64-MEX-AUT
 DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
 DTEND:20240728T200000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Arantxa COSSIO ACEVES 🇲🇽 - 🇦🇹 Sofia POLCANOVA
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

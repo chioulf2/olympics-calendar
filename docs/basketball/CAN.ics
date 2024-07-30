@@ -1,60 +1,60 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//basketball/CAN//EN
-X-WR-CALNAME:🇨🇦 Canada Basketball | Paris 2024
-NAME:🇨🇦 Canada Basketball | Paris 2024
+X-WR-CALNAME:🇨🇦 Canada 篮球 | Paris 2024
+NAME:🇨🇦 Canada 篮球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T190000Z-basketball-MENS-GROUP-PHASE-GROUP-A-GRE-CAN
+UID:20240727T190000Z-basketball--A-GRE-CAN
 DTSTAMP:20240727T190000Z
 DTSTART:20240727T190000Z
 DTEND:20240727T204500Z
-DESCRIPTION:Basketball - Men's Group Phase - Group A
-SUMMARY:🏀 GRE 🇬🇷 - 🇨🇦 CAN
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:篮球 - 男子小组赛 - A组
+SUMMARY:🏀 希腊 🇬🇷 - 🇨🇦 加拿大
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T151500Z-basketball-WOMENS-GROUP-PHASE-GROUP-B-CAN-FRA
+UID:20240729T151500Z-basketball--B-CAN-FRA
 DTSTAMP:20240729T151500Z
 DTSTART:20240729T151500Z
 DTEND:20240729T170000Z
-DESCRIPTION:Basketball - Women's Group Phase - Group B
-SUMMARY:🏀 CAN 🇨🇦 - 🇫🇷 FRA
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:篮球 - 女子小组赛 - B组
+SUMMARY:🏀 加拿大 🇨🇦 - 🇫🇷 法国
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T113000Z-basketball-MENS-GROUP-PHASE-GROUP-A-CAN-AUS
+UID:20240730T113000Z-basketball--A-CAN-AUS
 DTSTAMP:20240730T113000Z
 DTSTART:20240730T113000Z
 DTEND:20240730T131500Z
-DESCRIPTION:Basketball - Men's Group Phase - Group A
-SUMMARY:🏀 CAN 🇨🇦 - 🇦🇺 AUS
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:篮球 - 男子小组赛 - A组
+SUMMARY:🏀 加拿大 🇨🇦 - 🇦🇺 澳大利亚
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T113000Z-basketball-WOMENS-GROUP-PHASE-GROUP-B-AUS-CAN
+UID:20240801T113000Z-basketball--B-AUS-CAN
 DTSTAMP:20240801T113000Z
 DTSTART:20240801T113000Z
 DTEND:20240801T131500Z
-DESCRIPTION:Basketball - Women's Group Phase - Group B
-SUMMARY:🏀 AUS 🇦🇺 - 🇨🇦 CAN
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:篮球 - 女子小组赛 - B组
+SUMMARY:🏀 澳大利亚 🇦🇺 - 🇨🇦 加拿大
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T151500Z-basketball-MENS-GROUP-PHASE-GROUP-A-CAN-ESP
+UID:20240802T151500Z-basketball--A-CAN-ESP
 DTSTAMP:20240802T151500Z
 DTSTART:20240802T151500Z
 DTEND:20240802T170000Z
-DESCRIPTION:Basketball - Men's Group Phase - Group A
-SUMMARY:🏀 CAN 🇨🇦 - 🇪🇸 ESP
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:篮球 - 男子小组赛 - A组
+SUMMARY:🏀 加拿大 🇨🇦 - 🇪🇸 西班牙
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T113000Z-basketball-WOMENS-GROUP-PHASE-GROUP-B-CAN-NGR
+UID:20240804T113000Z-basketball--B-CAN-NGR
 DTSTAMP:20240804T113000Z
 DTSTART:20240804T113000Z
 DTEND:20240804T131500Z
-DESCRIPTION:Basketball - Women's Group Phase - Group B
-SUMMARY:🏀 CAN 🇨🇦 - 🇳🇬 NGR
-LOCATION:Pierre Mauroy Stadium
+DESCRIPTION:篮球 - 女子小组赛 - B组
+SUMMARY:🏀 加拿大 🇨🇦 - 🇳🇬 尼日利亚
+LOCATION:皮埃尔·莫鲁瓦体育场
 END:VEVENT
 END:VCALENDAR

@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/AFG//EN
-X-WR-CALNAME:🇦🇫 Afghanistan Judo | Paris 2024
-NAME:🇦🇫 Afghanistan Judo | Paris 2024
+X-WR-CALNAME:🇦🇫 Afghanistan 柔道 | Paris 2024
+NAME:🇦🇫 Afghanistan 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T090000Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-AUT-AFG
+UID:20240730T090000Z-judo-8132-AUT-AFG
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T090600Z
-DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
 SUMMARY:🥋 Wachid BORCHASHVILI 🇦🇹 - 🇦🇫 Mohammad Samim FAIZAD
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

@@ -1,51 +1,51 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/medals//EN
-X-WR-CALNAME:🏸 Badminton 🏅 | Paris 2024
-NAME:🏸 Badminton 🏅 | Paris 2024
+X-WR-CALNAME:🏸 羽毛球 🏅 | Paris 2024
+NAME:🏸 羽毛球 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240802T130000Z-badminton-MIXED-DOUBLES-FINALS
+UID:20240802T130000Z-badminton-
 DTSTAMP:20240802T130000Z
 DTSTART:20240802T130000Z
 DTEND:20240802T150000Z
-DESCRIPTION:Badminton - Mixed Doubles Finals
-SUMMARY:🏸 Mixed Doubles Finals
-LOCATION:La Chapelle Arena
+DESCRIPTION:羽毛球 - 混合双打决赛
+SUMMARY:🏸 混合双打决赛
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T130000Z-badminton-WOMENS-DOUBLES-FINALS
+UID:20240803T130000Z-badminton-
 DTSTAMP:20240803T130000Z
 DTSTART:20240803T130000Z
 DTEND:20240803T150000Z
-DESCRIPTION:Badminton - Women's Doubles Finals
-SUMMARY:🏸 Women's Doubles Finals
-LOCATION:La Chapelle Arena
+DESCRIPTION:羽毛球 - 女子双打决赛
+SUMMARY:🏸 女子双打决赛
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T130000Z-badminton-MENS-DOUBLES-FINALS
+UID:20240804T130000Z-badminton-
 DTSTAMP:20240804T130000Z
 DTSTART:20240804T130000Z
 DTEND:20240804T150000Z
-DESCRIPTION:Badminton - Men's Doubles Finals
-SUMMARY:🏸 Men's Doubles Finals
-LOCATION:La Chapelle Arena
+DESCRIPTION:羽毛球 - 男子双打决赛
+SUMMARY:🏸 男子双打决赛
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T074500Z-badminton-WOMENS-SINGLES-FINALS
+UID:20240805T074500Z-badminton-
 DTSTAMP:20240805T074500Z
 DTSTART:20240805T074500Z
 DTEND:20240805T094500Z
-DESCRIPTION:Badminton - Women's Singles Finals
-SUMMARY:🏸 Women's Singles Finals
-LOCATION:La Chapelle Arena
+DESCRIPTION:羽毛球 - 女子单打决赛
+SUMMARY:🏸 女子单打决赛
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T123000Z-badminton-MENS-SINGLES-FINALS
+UID:20240805T123000Z-badminton-
 DTSTAMP:20240805T123000Z
 DTSTART:20240805T123000Z
 DTEND:20240805T143000Z
-DESCRIPTION:Badminton - Men's Singles Finals
-SUMMARY:🏸 Men's Singles Finals
-LOCATION:La Chapelle Arena
+DESCRIPTION:羽毛球 - 男子单打决赛
+SUMMARY:🏸 男子单打决赛
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

@@ -1,31 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//swimming/ZIM//EN
-X-WR-CALNAME:🇿🇼 Zimbabwe Swimming | Paris 2024
-NAME:🇿🇼 Zimbabwe Swimming | Paris 2024
+X-WR-CALNAME:🇿🇼 Zimbabwe 游泳 | Paris 2024
+NAME:🇿🇼 Zimbabwe 游泳 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T104759Z-swimming-WOMENS-100M-FREESTYLE-HEATS
+UID:20240730T104759Z-swimming-100
 DTSTAMP:20240730T104759Z
 DTSTART:20240730T104759Z
 DTEND:20240730T110153Z
-DESCRIPTION:Swimming - Women's 100m Freestyle - Heats\n🇩🇿 ALG\n🇦🇺
-  AUS\n🇧🇼 BOT\n🇨🇦 CAN\n🇰🇾 CAY\n🇨🇳 CHN\n🇭🇷 CRO\n🇨🇾 CYP\n🇨🇿
-  CZE\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇩 GRN\n🇬🇾 GUY\n🇭🇰 Hong Kong, China\n🇮🇸
-  ISL\n🇳🇱 NED\n🇵🇭 PHI\n🇵🇱 POL\n🇸🇮 SLO\n🇸🇩 SUD\n🇸🇪 SWE\n🇺🇬
-  UGA\n🇺🇸 USA\n🇿🇼 ZIM
-SUMMARY:🏊 Women's 100m Freestyle - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子100米自由泳分组预赛\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
+  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
+  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
+  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
+  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
+  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
+  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
+  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
+  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 女子100米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T092100Z-swimming-MENS-200M-BACKSTROKE-HEATS
+UID:20240731T092100Z-swimming-200
 DTSTAMP:20240731T092100Z
 DTSTART:20240731T092100Z
 DTEND:20240731T094600Z
-DESCRIPTION:Swimming - Men's 200m Backstroke - Heats\n🇦🇺 AUS\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇮🇱
-  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇵🇷
-  PUR\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇩 SUD\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA\n🇿🇼 ZIM
-SUMMARY:🏊 Men's 200m Backstroke - Heats
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 男子200米仰泳分组预赛\n🇭🇺 Adam TELEGDY\n🇬🇷 Apostolos
+  CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley
+  WOODWARD\n🇮🇱 David GERCHIK\n🇿🇼 Denilson CYPRIANOS\n🇭🇺 Hubert
+  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇳🇱 Kai van WESTERING\n🇳🇿 Kane
+  FOLLOWS\n🇺🇸 Keaton JONES\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
+  Lukas MAERTENS\n🇬🇧 Luke GREENBANK\n🇮🇹 Matteo RESTIVO\n🇫🇷 Mewen
+  TOMAC\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
+  COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇦🇺 Se-Bom LEE\n🇯🇵
+  TAKEHARA Hidekazu\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇵🇷 Yeziel
+  MORALES\n🇫🇷 Yohann NDOYE-BROUARD\n🇸🇩 Ziyad SALEEM
+SUMMARY:🏊 男子200米仰泳分组预赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 END:VCALENDAR

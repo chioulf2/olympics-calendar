@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/NEP//EN
-X-WR-CALNAME:🇳🇵 Nepal Badminton | Paris 2024
-NAME:🇳🇵 Nepal Badminton | Paris 2024
+X-WR-CALNAME:🇳🇵 Nepal 羽毛球 | Paris 2024
+NAME:🇳🇵 Nepal 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T191000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-DEN-NE
+UID:20240727T191000Z-badminton--P-DEN-NEP
 DTSTAMP:20240727T191000Z
 DTSTART:20240727T191000Z
 DTEND:20240727T195000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
+DESCRIPTION:羽毛球 - 男子单打小组赛 - P组
 SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇳🇵 Prince DAHAL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T191000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-IRL-NE
+UID:20240729T191000Z-badminton--P-IRL-NEP
 DTSTAMP:20240729T191000Z
 DTSTART:20240729T191000Z
 DTEND:20240729T210000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
+DESCRIPTION:羽毛球 - 男子单打小组赛 - P组
 SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇳🇵 Prince DAHAL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T072000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-ISR-NE
+UID:20240731T072000Z-badminton--P-ISR-NEP
 DTSTAMP:20240731T072000Z
 DTSTART:20240731T072000Z
 DTEND:20240731T080000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
+DESCRIPTION:羽毛球 - 男子单打小组赛 - P组
 SUMMARY:🏸 Misha ZILBERMAN 🇮🇱 - 🇳🇵 Prince DAHAL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/BIH//EN
-X-WR-CALNAME:🇧🇦 Bosnia and Herzegovina Judo | Paris 2024
-NAME:🇧🇦 Bosnia and Herzegovina Judo | Paris 2024
+X-WR-CALNAME:🇧🇦 Bosnia and Herzegovina 柔道 | Paris 2024
+NAME:🇧🇦 Bosnia and Herzegovina 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240731T081200Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-32-BIH-DEN
+UID:20240731T081200Z-judo-7032-BIH-DEN
 DTSTAMP:20240731T081200Z
 DTSTART:20240731T081200Z
 DTEND:20240731T081800Z
-DESCRIPTION:Judo - Women -70 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子70公斤级32强淘汰赛
 SUMMARY:🥋 Aleksandra SAMARDZIC 🇧🇦 - 🇩🇰 Laerke OLSEN
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T081200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-NZL-BIH
+UID:20240802T081200Z-judo-7832-NZL-BIH
 DTSTAMP:20240802T081200Z
 DTSTART:20240802T081200Z
 DTEND:20240802T081800Z
-DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤以上级32强淘汰赛
 SUMMARY:🥋 Sydnee ANDREWS 🇳🇿 - 🇧🇦 Larisa CERIC
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

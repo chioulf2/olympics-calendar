@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//artistic-swimming/medals//EN
-X-WR-CALNAME:🏊 Artistic Swimming 🏅 | Paris 2024
-NAME:🏊 Artistic Swimming 🏅 | Paris 2024
+X-WR-CALNAME:🏊 花样游泳 🏅 | Paris 2024
+NAME:🏊 花样游泳 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
+UID:20240807T173000Z-artistic-swimming-
 DTSTAMP:20240807T173000Z
 DTSTART:20240807T173000Z
 DTEND:20240807T182900Z
-DESCRIPTION:Artistic Swimming - Team Acrobatic Routine
-SUMMARY:🏊 Team Acrobatic Routine
-LOCATION:Aquatics Centre
+DESCRIPTION:花样游泳 - 集体技巧自选
+SUMMARY:🏊 集体技巧自选
+LOCATION:水上运动中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
+UID:20240810T173000Z-artistic-swimming-
 DTSTAMP:20240810T173000Z
 DTSTART:20240810T173000Z
 DTEND:20240810T192300Z
-DESCRIPTION:Artistic Swimming - Duet Free Routine
-SUMMARY:🏊 Duet Free Routine
-LOCATION:Aquatics Centre
+DESCRIPTION:花样游泳 - 双人自由自选
+SUMMARY:🏊 双人自由自选
+LOCATION:水上运动中心
 END:VEVENT
 END:VCALENDAR

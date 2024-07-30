@@ -4,28 +4,26 @@ PRODID:-//fabrice404//olympics-calendar//medals/CRO//EN
 X-WR-CALNAME:🇭🇷 Croatia 🏅 | Paris 2024
 NAME:🇭🇷 Croatia 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T100000Z-shooting-10M-AIR-RIFLE-MENS-FINAL
+UID:20240729T100000Z-shooting-10
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T104500Z
-DESCRIPTION:Shooting - 10m Air Rifle Men's Final\n🇮🇳 Arjun BABUTA\n🇰🇷
-  CHOE Daehan\n🇮🇹 Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian
-  GUTIERREZ\n🇭🇷 Miran MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪
-  Victor LINDGREN
-SUMMARY:🔫 10m Air Rifle Men's Final
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子10米气步枪决赛\n🇮🇳 Arjun BABUTA\n🇰🇷 CHOE Daehan\n🇮🇹
+  Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian GUTIERREZ\n🇭🇷 Miran
+  MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪 Victor LINDGREN
+SUMMARY:🔫 男子10米气步枪决赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T152000Z-canoe-slalom-MENS-CANOE-SINGLE-FINAL
+UID:20240729T152000Z-canoe-slalom-
 DTSTAMP:20240729T152000Z
 DTSTART:20240729T152000Z
 DTEND:20240729T160400Z
-DESCRIPTION:Canoe Slalom - Men's Canoe Single Final\n🇬🇧 Adam
-  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
-  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
-  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
-  CARTER\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Men's Canoe Single Final
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 男子单人划艇决赛\n🇬🇧 Adam BURGESS\n🇸🇮 Benjamin
+  SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰
+  Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas
+  GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子单人划艇决赛
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 END:VCALENDAR

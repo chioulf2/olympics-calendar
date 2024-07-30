@@ -1,258 +1,240 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//modern-pentathlon/general//EN
-X-WR-CALNAME:🤺 Modern Pentathlon | Paris 2024
-NAME:🤺 Modern Pentathlon | Paris 2024
+X-WR-CALNAME:🤺 现代五项 | Paris 2024
+NAME:🤺 现代五项 | Paris 2024
 BEGIN:VEVENT
-UID:20240808T090000Z-modern-pentathlon-MENS-INDIVIDUAL-FENCING-RANKING-ROUN
+UID:20240808T090000Z-modern-pentathlon-
 DTSTAMP:20240808T090000Z
 DTSTART:20240808T090000Z
 DTEND:20240808T120000Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Fencing Ranking Round
-SUMMARY:🤺 Men's Individual, Fencing Ranking Round
-LOCATION:North Paris Arena
+DESCRIPTION:现代五项 - 男子个人击剑排名赛
+SUMMARY:🤺 男子个人击剑排名赛
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T123000Z-modern-pentathlon-WOMENS-INDIVIDUAL-FENCING-RANKING-RO
+UID:20240808T123000Z-modern-pentathlon-
 DTSTAMP:20240808T123000Z
 DTSTART:20240808T123000Z
 DTEND:20240808T153000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Fencing Ranking Round
-SUMMARY:🤺 Women's Individual, Fencing Ranking Round
-LOCATION:North Paris Arena
+DESCRIPTION:现代五项 - 女子个人击剑排名赛
+SUMMARY:🤺 女子个人击剑排名赛
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T110000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-RIDING-
+UID:20240809T110000Z-modern-pentathlon-A-
 DTSTAMP:20240809T110000Z
 DTSTART:20240809T110000Z
 DTEND:20240809T113500Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final A, Riding Show
-  Jumping
-SUMMARY:🤺 Men's Individual, Semi-final A, Riding Show Jumping
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子半决赛A - 场地障碍赛
+SUMMARY:🤺 男子半决赛A - 场地障碍赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T114000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-FENCING
+UID:20240809T114000Z-modern-pentathlon-A-
 DTSTAMP:20240809T114000Z
 DTSTART:20240809T114000Z
 DTEND:20240809T120000Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final A, Fencing
-  Bonus Round
-SUMMARY:🤺 Men's Individual, Semi-final A, Fencing Bonus Round
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子半决赛A - 击剑奖励附加回合
+SUMMARY:🤺 男子半决赛A - 击剑奖励附加回合
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T121000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-SWIMMIN
+UID:20240809T121000Z-modern-pentathlon-A-200
 DTSTAMP:20240809T121000Z
 DTSTART:20240809T121000Z
 DTEND:20240809T122500Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final A, Swimming
-  200m Freestyle
-SUMMARY:🤺 Men's Individual, Semi-final A, Swimming 200m Freestyle
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子半决赛A - 200米自由泳决赛
+SUMMARY:🤺 男子半决赛A - 200米自由泳决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T124000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-LASER-R
+UID:20240809T124000Z-modern-pentathlon-A-
 DTSTAMP:20240809T124000Z
 DTSTART:20240809T124000Z
 DTEND:20240809T130000Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final A, Laser Run
-SUMMARY:🤺 Men's Individual, Semi-final A, Laser Run
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子半决赛A - 激光跑
+SUMMARY:🤺 男子半决赛A - 激光跑
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T150000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-B-RIDING-
+UID:20240809T150000Z-modern-pentathlon-B-
 DTSTAMP:20240809T150000Z
 DTSTART:20240809T150000Z
 DTEND:20240809T153500Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final B, Riding Show
-  Jumping
-SUMMARY:🤺 Men's Individual, Semi-final B, Riding Show Jumping
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子半决赛B - 场地障碍赛
+SUMMARY:🤺 男子半决赛B - 场地障碍赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T154000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-B-FENCING
+UID:20240809T154000Z-modern-pentathlon-B-
 DTSTAMP:20240809T154000Z
 DTSTART:20240809T154000Z
 DTEND:20240809T160000Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final B, Fencing
-  Bonus Round
-SUMMARY:🤺 Men's Individual, Semi-final B, Fencing Bonus Round
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子半决赛B - 击剑奖励附加回合
+SUMMARY:🤺 男子半决赛B - 击剑奖励附加回合
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T161000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-B-SWIMMIN
+UID:20240809T161000Z-modern-pentathlon-B-200
 DTSTAMP:20240809T161000Z
 DTSTART:20240809T161000Z
 DTEND:20240809T162500Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final B, Swimming
-  200m Freestyle
-SUMMARY:🤺 Men's Individual, Semi-final B, Swimming 200m Freestyle
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子半决赛B - 200米自由泳决赛
+SUMMARY:🤺 男子半决赛B - 200米自由泳决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T164000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-B-LASER-R
+UID:20240809T164000Z-modern-pentathlon-B-
 DTSTAMP:20240809T164000Z
 DTSTART:20240809T164000Z
 DTEND:20240809T170000Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final B, Laser Run
-SUMMARY:🤺 Men's Individual, Semi-final B, Laser Run
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子半决赛B - 激光跑
+SUMMARY:🤺 男子半决赛B - 激光跑
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T073000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-RIDIN
+UID:20240810T073000Z-modern-pentathlon-A-
 DTSTAMP:20240810T073000Z
 DTSTART:20240810T073000Z
 DTEND:20240810T080500Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Riding
-  Show Jumping
-SUMMARY:🤺 Women's Individual, Semi-final A, Riding Show Jumping
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子半决赛A - 场地障碍赛
+SUMMARY:🤺 女子半决赛A - 场地障碍赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T081000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-FENCI
+UID:20240810T081000Z-modern-pentathlon-A-
 DTSTAMP:20240810T081000Z
 DTSTART:20240810T081000Z
 DTEND:20240810T083000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Fencing
-  Bonus Round
-SUMMARY:🤺 Women's Individual, Semi-final A, Fencing Bonus Round
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子半决赛A - 击剑奖励附加回合
+SUMMARY:🤺 女子半决赛A - 击剑奖励附加回合
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T084000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-SWIMM
+UID:20240810T084000Z-modern-pentathlon-A-200
 DTSTAMP:20240810T084000Z
 DTSTART:20240810T084000Z
 DTEND:20240810T085500Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Swimming
-  200m Freestyle
-SUMMARY:🤺 Women's Individual, Semi-final A, Swimming 200m Freestyle
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子半决赛A - 200米自由泳
+SUMMARY:🤺 女子半决赛A - 200米自由泳
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T091000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-LASER
+UID:20240810T091000Z-modern-pentathlon-A-
 DTSTAMP:20240810T091000Z
 DTSTART:20240810T091000Z
 DTEND:20240810T093000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Laser Run
-SUMMARY:🤺 Women's Individual, Semi-final A, Laser Run
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子半决赛A - 激光跑
+SUMMARY:🤺 女子半决赛A - 激光跑
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T113000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-B-RIDIN
+UID:20240810T113000Z-modern-pentathlon-B-
 DTSTAMP:20240810T113000Z
 DTSTART:20240810T113000Z
 DTEND:20240810T120500Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final B, Riding
-  Show Jumping
-SUMMARY:🤺 Women's Individual, Semi-final B, Riding Show Jumping
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子半决赛B - 场地障碍赛
+SUMMARY:🤺 女子半决赛B - 场地障碍赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T121000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-B-FENCI
+UID:20240810T121000Z-modern-pentathlon-B-
 DTSTAMP:20240810T121000Z
 DTSTART:20240810T121000Z
 DTEND:20240810T123000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final B, Fencing
-  Bonus Round
-SUMMARY:🤺 Women's Individual, Semi-final B, Fencing Bonus Round
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子半决赛B - 击剑奖励附加回合
+SUMMARY:🤺 女子半决赛B - 击剑奖励附加回合
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T124000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-B-SWIMM
+UID:20240810T124000Z-modern-pentathlon-B-200
 DTSTAMP:20240810T124000Z
 DTSTART:20240810T124000Z
 DTEND:20240810T125500Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final B, Swimming
-  200m Freestyle
-SUMMARY:🤺 Women's Individual, Semi-final B, Swimming 200m Freestyle
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子半决赛B - 200米自由泳决赛
+SUMMARY:🤺 女子半决赛B - 200米自由泳决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T131000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-B-LASER
+UID:20240810T131000Z-modern-pentathlon-B-
 DTSTAMP:20240810T131000Z
 DTSTART:20240810T131000Z
 DTEND:20240810T133000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final B, Laser Run
-SUMMARY:🤺 Women's Individual, Semi-final B, Laser Run
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子半决赛B - 激光跑
+SUMMARY:🤺 女子半决赛B - 激光跑
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T153000Z-modern-pentathlon-MENS-INDIVIDUAL-FINAL-RIDING-SHOW-JU
+UID:20240810T153000Z-modern-pentathlon-
 DTSTAMP:20240810T153000Z
 DTSTART:20240810T153000Z
 DTEND:20240810T160500Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Final, Riding Show
-  Jumping
-SUMMARY:🤺 Men's Individual, Final, Riding Show Jumping
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子场地障碍赛决赛
+SUMMARY:🤺 男子场地障碍赛决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T161000Z-modern-pentathlon-MENS-INDIVIDUAL-FINAL-FENCING-BONUS-
+UID:20240810T161000Z-modern-pentathlon-
 DTSTAMP:20240810T161000Z
 DTSTART:20240810T161000Z
 DTEND:20240810T163000Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Final, Fencing Bonus
-  Round
-SUMMARY:🤺 Men's Individual, Final, Fencing Bonus Round
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子击剑奖励附加回合
+SUMMARY:🤺 男子击剑奖励附加回合
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T164000Z-modern-pentathlon-MENS-INDIVIDUAL-FINAL-SWIMMING-200M-
+UID:20240810T164000Z-modern-pentathlon-200
 DTSTAMP:20240810T164000Z
 DTSTART:20240810T164000Z
 DTEND:20240810T165500Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Final, Swimming 200m
-  Freestyle
-SUMMARY:🤺 Men's Individual, Final, Swimming 200m Freestyle
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子200米自由泳决赛
+SUMMARY:🤺 男子200米自由泳决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T171000Z-modern-pentathlon-MENS-INDIVIDUAL-FINAL-LASER-RUN
+UID:20240810T171000Z-modern-pentathlon-
 DTSTAMP:20240810T171000Z
 DTSTART:20240810T171000Z
 DTEND:20240810T173000Z
-DESCRIPTION:Modern Pentathlon - Men's Individual, Final, Laser Run
-SUMMARY:🤺 Men's Individual, Final, Laser Run
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 男子激光跑决赛
+SUMMARY:🤺 男子激光跑决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T090000Z-modern-pentathlon-WOMENS-INDIVIDUAL-FINAL-RIDING-SHOW-
+UID:20240811T090000Z-modern-pentathlon-
 DTSTAMP:20240811T090000Z
 DTSTART:20240811T090000Z
 DTEND:20240811T093500Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Final, Riding Show
-  Jumping
-SUMMARY:🤺 Women's Individual, Final, Riding Show Jumping
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子场地障碍赛决赛
+SUMMARY:🤺 女子场地障碍赛决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T094000Z-modern-pentathlon-WOMENS-INDIVIDUAL-FINAL-FENCING-BONU
+UID:20240811T094000Z-modern-pentathlon-
 DTSTAMP:20240811T094000Z
 DTSTART:20240811T094000Z
 DTEND:20240811T100000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Final, Fencing Bonus
-  Round
-SUMMARY:🤺 Women's Individual, Final, Fencing Bonus Round
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子击剑奖励附加回合
+SUMMARY:🤺 女子击剑奖励附加回合
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T101000Z-modern-pentathlon-WOMENS-INDIVIDUAL-FINAL-SWIMMING-200
+UID:20240811T101000Z-modern-pentathlon-200
 DTSTAMP:20240811T101000Z
 DTSTART:20240811T101000Z
 DTEND:20240811T102500Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Final, Swimming 200m
-  Freestyle
-SUMMARY:🤺 Women's Individual, Final, Swimming 200m Freestyle
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子200米自由泳决赛
+SUMMARY:🤺 女子200米自由泳决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T104000Z-modern-pentathlon-WOMENS-INDIVIDUAL-FINAL-LASER-RUN
+UID:20240811T104000Z-modern-pentathlon-
 DTSTAMP:20240811T104000Z
 DTSTART:20240811T104000Z
 DTEND:20240811T110000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Final, Laser Run
-SUMMARY:🤺 Women's Individual, Final, Laser Run
-LOCATION:Château de Versailles
+DESCRIPTION:现代五项 - 女子激光跑决赛
+SUMMARY:🤺 女子激光跑决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 END:VCALENDAR

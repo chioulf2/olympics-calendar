@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/BRN//EN
-X-WR-CALNAME:🇧🇭 Bahrain Judo | Paris 2024
-NAME:🇧🇭 Bahrain Judo | Paris 2024
+X-WR-CALNAME:🇧🇭 Bahrain 柔道 | Paris 2024
+NAME:🇧🇭 Bahrain 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T082400Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-BRN-TUR
+UID:20240730T082400Z-judo-8132-BRN-TUR
 DTSTAMP:20240730T082400Z
 DTSTART:20240730T082400Z
 DTEND:20240730T083000Z
-DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
 SUMMARY:🥋 Askerbii GERBEKOV 🇧🇭 - 🇹🇷 Vedat ALBAYRAK
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

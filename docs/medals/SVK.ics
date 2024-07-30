@@ -4,60 +4,57 @@ PRODID:-//fabrice404//olympics-calendar//medals/SVK//EN
 X-WR-CALNAME:🇸🇰 Slovakia 🏅 | Paris 2024
 NAME:🇸🇰 Slovakia 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
+UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
 DTSTART:20240727T123000Z
 DTEND:20240727T135900Z
-DESCRIPTION:Cycling Road - Women's Individual Time Trial\n🇵🇱 Agnieszka
-  SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina
-  AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰
-  Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina
-  SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena
-  HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
-  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia
-  KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱
-  Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
-  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
-  SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz
-  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 Women's Individual Time Trial
-LOCATION:Pont Alexandre III
+DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
+  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
+  NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
+  Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
+  Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
+  Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
+  BROWN\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪
+  Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO
+  PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
+  BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮
+  Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子个人计时赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T154500Z-canoe-slalom-WOMENS-KAYAK-SINGLE-FINAL
+UID:20240728T154500Z-canoe-slalom-
 DTSTAMP:20240728T154500Z
 DTSTART:20240728T154500Z
 DTEND:20240728T162900Z
-DESCRIPTION:Canoe Slalom - Women's Kayak Single Final\n🇧🇷 Ana
-  SATILA\n🇫🇷 Camille PRIGENT\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska
-  MINTALOVA\n🇸🇮 Eva TERCELJ\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
-  Klaudia ZWOLINSKA\n🇳🇿 Luuka JONES\n🇪🇸 Maialen CHOURRAUT\n🇩🇪 Ricarda
-  FUNK\n🇮🇹 Stefanie HORN
-SUMMARY:🛶 Women's Kayak Single Final
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 女子单人皮艇决赛\n🇧🇷 Ana SATILA\n🇫🇷 Camille PRIGENT\n🇦🇹
+  Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇦🇺 Jessica
+  FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇳🇿 Luuka JONES\n🇪🇸
+  Maialen CHOURRAUT\n🇩🇪 Ricarda FUNK\n🇮🇹 Stefanie HORN
+SUMMARY:🛶 女子单人皮艇决赛
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T150000Z-skateboarding-MENS-STREET-FINAL
+UID:20240729T150000Z-skateboarding-
 DTSTAMP:20240729T150000Z
 DTSTART:20240729T150000Z
 DTEND:20240729T163000Z
-DESCRIPTION:Skateboarding - Men's Street Final\n🇨🇦 Cordano RUSSELL\n🇯🇵
-  HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
-  OLIO\n🇺🇸 Nyjah HUSTON\n🇸🇰 Richard TURY\n🇯🇵 SHIRAI Sora
-SUMMARY:🛹 Men's Street Final
-LOCATION:La Concorde 3
+DESCRIPTION:滑板 - 男子街式赛决赛\n🇨🇦 Cordano RUSSELL\n🇯🇵 HORIGOME Yuto\n🇺🇸
+  Jagger EATON\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL OLIO\n🇺🇸 Nyjah
+  HUSTON\n🇸🇰 Richard TURY\n🇯🇵 SHIRAI Sora
+SUMMARY:🛹 男子街式赛决赛
+LOCATION:协和广场3号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T152000Z-canoe-slalom-MENS-CANOE-SINGLE-FINAL
+UID:20240729T152000Z-canoe-slalom-
 DTSTAMP:20240729T152000Z
 DTSTART:20240729T152000Z
 DTEND:20240729T160400Z
-DESCRIPTION:Canoe Slalom - Men's Canoe Single Final\n🇬🇧 Adam
-  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
-  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
-  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
-  CARTER\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Men's Canoe Single Final
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 男子单人划艇决赛\n🇬🇧 Adam BURGESS\n🇸🇮 Benjamin
+  SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰
+  Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas
+  GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子单人划艇决赛
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 END:VCALENDAR

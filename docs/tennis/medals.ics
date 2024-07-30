@@ -1,87 +1,87 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/medals//EN
-X-WR-CALNAME:🎾 Tennis 🏅 | Paris 2024
-NAME:🎾 Tennis 🏅 | Paris 2024
+X-WR-CALNAME:🎾 网球 🏅 | Paris 2024
+NAME:🎾 网球 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240802T100000Z-tennis-MENS-DOUBLES-BRONZE-MEDAL-MATCH
+UID:20240802T100000Z-tennis-
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
 DTEND:20240802T200000Z
-DESCRIPTION:Tennis - Men's Doubles Bronze Medal Match
-SUMMARY:🎾 Men's Doubles Bronze Medal Match
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 混合双打铜牌赛
+SUMMARY:🎾 混合双打铜牌赛
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T100000Z-tennis-MIXED-DOUBLES-BRONZE-MEDAL-MATCH
+UID:20240802T100000Z-tennis-
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
 DTEND:20240802T200000Z
-DESCRIPTION:Tennis - Mixed Doubles Bronze Medal Match
-SUMMARY:🎾 Mixed Doubles Bronze Medal Match
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 男子双打铜牌赛
+SUMMARY:🎾 男子双打铜牌赛
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T170000Z-tennis-MIXED-DOUBLES-GOLD-MEDAL-MATCH
+UID:20240802T170000Z-tennis-
 DTSTAMP:20240802T170000Z
 DTSTART:20240802T170000Z
 DTEND:20240803T030000Z
-DESCRIPTION:Tennis - Mixed Doubles Gold Medal Match
-SUMMARY:🎾 Mixed Doubles Gold Medal Match
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 混合双打金牌赛
+SUMMARY:🎾 混合双打金牌赛
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T100000Z-tennis-MENS-DOUBLES-GOLD-MEDAL-MATCH
+UID:20240803T100000Z-tennis-
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
 DTEND:20240803T200000Z
-DESCRIPTION:Tennis - Men's Doubles Gold Medal Match
-SUMMARY:🎾 Men's Doubles Gold Medal Match
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 男子双打金牌赛
+SUMMARY:🎾 男子双打金牌赛
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T100000Z-tennis-MENS-SINGLES-BRONZE-MEDAL-MATCH
+UID:20240803T100000Z-tennis-
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
 DTEND:20240803T200000Z
-DESCRIPTION:Tennis - Men's Singles Bronze Medal Match
-SUMMARY:🎾 Men's Singles Bronze Medal Match
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 女子单打金牌赛
+SUMMARY:🎾 女子单打金牌赛
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T100000Z-tennis-WOMENS-SINGLES-GOLD-MEDAL-MATCH
+UID:20240803T100000Z-tennis-
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
 DTEND:20240803T200000Z
-DESCRIPTION:Tennis - Women's Singles Gold Medal Match
-SUMMARY:🎾 Women's Singles Gold Medal Match
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 男子单打铜牌赛
+SUMMARY:🎾 男子单打铜牌赛
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T100000Z-tennis-MENS-SINGLES-GOLD-MEDAL-MATCH
+UID:20240804T100000Z-tennis-
 DTSTAMP:20240804T100000Z
 DTSTART:20240804T100000Z
 DTEND:20240804T200000Z
-DESCRIPTION:Tennis - Men's Singles Gold Medal Match
-SUMMARY:🎾 Men's Singles Gold Medal Match
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 女子双打金牌赛
+SUMMARY:🎾 女子双打金牌赛
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T100000Z-tennis-WOMENS-DOUBLES-BRONZE-MEDAL-MATCH
+UID:20240804T100000Z-tennis-
 DTSTAMP:20240804T100000Z
 DTSTART:20240804T100000Z
 DTEND:20240804T200000Z
-DESCRIPTION:Tennis - Women's Doubles Bronze Medal Match
-SUMMARY:🎾 Women's Doubles Bronze Medal Match
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 男子单打金牌赛
+SUMMARY:🎾 男子单打金牌赛
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T100000Z-tennis-WOMENS-DOUBLES-GOLD-MEDAL-MATCH
+UID:20240804T100000Z-tennis-
 DTSTAMP:20240804T100000Z
 DTSTART:20240804T100000Z
 DTEND:20240804T200000Z
-DESCRIPTION:Tennis - Women's Doubles Gold Medal Match
-SUMMARY:🎾 Women's Doubles Gold Medal Match
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 女子双打铜牌赛
+SUMMARY:🎾 女子双打铜牌赛
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 END:VCALENDAR

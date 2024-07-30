@@ -4,105 +4,103 @@ PRODID:-//fabrice404//olympics-calendar//medals/SWE//EN
 X-WR-CALNAME:🇸🇪 Sweden 🏅 | Paris 2024
 NAME:🇸🇪 Sweden 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T145400Z-judo-WOMEN-48-KG-CONTEST-FOR-BRONZE-MEDAL-B-KAZ-SWE
+UID:20240727T145400Z-judo-48B-KAZ-SWE
 DTSTAMP:20240727T145400Z
 DTSTART:20240727T145400Z
 DTEND:20240727T150000Z
-DESCRIPTION:Judo - Women -48 kg Contest for Bronze Medal B
+DESCRIPTION:柔道 - 女子48公斤级铜牌争夺赛B
 SUMMARY:🥋 Abiba ABUZHAKYNOVA 🇰🇿 - 🇸🇪 Tara BABULFATH
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T193400Z-swimming-WOMENS-4-X-100M-FREESTYLE-RELAY-FINAL
+UID:20240727T193400Z-swimming-4X100
 DTSTAMP:20240727T193400Z
 DTSTART:20240727T193400Z
 DTEND:20240727T194400Z
-DESCRIPTION:Swimming - Women's 4 x 100m Freestyle Relay Final\n🇦🇺
-  AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇸🇪 SWE\n🇺🇸 USA
-SUMMARY:🏊 Women's 4 x 100m Freestyle Relay Final
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子4x100米自由泳接力决赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇮🇹 意大利\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇸🇪 瑞典\n🇺🇸 美国\n🇬🇧 英国
+SUMMARY:🏊 女子4x100米自由泳接力决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T121000Z-cycling-mountain-bike-WOMENS-CROSS-COUNTRY
+UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
-DESCRIPTION:Cycling Mountain Bike - Women's Cross-country\n🇨🇿 Adela
-  HOLUBOVA\n🇨🇭 Alessandra KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie
-  HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹
-  Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽
-  Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley
-  BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla
-  MWAMIKAZI\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura
-  STIGGER\n🇫🇷 Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona
-  MITTERWALLNER\n🇩🇪 Nina BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND
-  PREVOT\n🇳🇱 Puck PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel
-  QUEIROS\n🇦🇺 Rebecca HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia
-  BLUNK\n🇨🇭 Sina FREI\n🇩🇰 Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳
-  WU Zhifan\n🇺🇦 Yana BELOMOINA
-SUMMARY:🚴 Women's Cross-country
-LOCATION:Elancourt Hill
+DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
+  KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
+  Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
+  MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
+  SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
+  HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla MWAMIKAZI\n🇸🇪 Jenny
+  RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana
+  LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
+  BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND PREVOT\n🇳🇱 Puck
+  PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel QUEIROS\n🇦🇺 Rebecca
+  HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
+  Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳 WU Zhifan\n🇺🇦 Yana
+  BELOMOINA
+SUMMARY:🚴 女子越野赛
+LOCATION:埃朗库尔山
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T184000Z-swimming-WOMENS-100M-BUTTERFLY-FINAL
+UID:20240728T184000Z-swimming-100
 DTSTAMP:20240728T184000Z
 DTSTART:20240728T184000Z
 DTEND:20240728T184600Z
-DESCRIPTION:Swimming - Women's 100m Butterfly Final\n🇩🇪 Angelina
-  KOEHLER\n🇦🇺 Emma McKEON\n🇺🇸 Gretchen WALSH\n🇯🇵 HIRAI Mizuki\n🇸🇪
-  Louise HANSSON\n🇨🇦 Margaret MAC NEIL\n🇺🇸 Torri HUSKE\n🇨🇳 ZHANG
-  Yufei
-SUMMARY:🏊 Women's 100m Butterfly Final
-LOCATION:Paris La Defense Arena
+DESCRIPTION:游泳 - 女子100米蝶泳决赛\n🇩🇪 Angelina KOEHLER\n🇦🇺 Emma McKEON\n🇺🇸
+  Gretchen WALSH\n🇯🇵 HIRAI Mizuki\n🇸🇪 Louise HANSSON\n🇨🇦 Margaret MAC
+  NEIL\n🇺🇸 Torri HUSKE\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 女子100米蝶泳决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-equestrian-EVENTING-TEAM-JUMPING-FINAL
+UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
-DESCRIPTION:Equestrian - Eventing Team Jumping Final\n🇦🇺 AUS\n🇧🇪
-  BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇸🇪 SWE\n🇨🇭 SUI\n🇺🇸 USA
-SUMMARY:🏇 Eventing Team Jumping Final
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛 - 团体场地障碍决赛\n🇨🇦 加拿大\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
+  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇵🇱 波兰\n🇦🇺 澳大利亚\n🇮🇪 爱尔兰\n🇸🇪
+  瑞典\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰
+SUMMARY:🏇 三项赛 - 团体场地障碍决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-shooting-10M-AIR-RIFLE-MENS-FINAL
+UID:20240729T100000Z-shooting-10
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T104500Z
-DESCRIPTION:Shooting - 10m Air Rifle Men's Final\n🇮🇳 Arjun BABUTA\n🇰🇷
-  CHOE Daehan\n🇮🇹 Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian
-  GUTIERREZ\n🇭🇷 Miran MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪
-  Victor LINDGREN
-SUMMARY:🔫 10m Air Rifle Men's Final
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子10米气步枪决赛\n🇮🇳 Arjun BABUTA\n🇰🇷 CHOE Daehan\n🇮🇹
+  Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian GUTIERREZ\n🇭🇷 Miran
+  MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪 Victor LINDGREN
+SUMMARY:🔫 男子10米气步枪决赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T130000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-FINAL
+UID:20240729T130000Z-equestrian--
 DTSTAMP:20240729T130000Z
 DTSTART:20240729T130000Z
 DTEND:20240729T140000Z
-DESCRIPTION:Equestrian - Eventing Individual Jumping Final\n🇮🇪 Austin
-  O'CONNOR\n🇺🇸 Boyd MARTIN\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
-  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix
-  VOGG\n🇸🇪 Frida ANDERSEN\n🇨🇳 HUA TIAN Alex\n🇳🇱 Janneke
-  BOONZAAIJER\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪
-  Karin DONCKERS\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪
-  Louise ROMEIKE\n🇩🇪 Michael JUNG\n🇫🇷 Nicolas TOUZAINT\n🇯🇵 OIWA
-  Yoshiaki\n🇬🇧 Rosalind CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane
-  LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇬🇧 Tom McEWEN
-SUMMARY:🏇 Eventing Individual Jumping Final
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛 - 个人场地障碍决赛\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd
+  MARTIN\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
+  HALLIDAY\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
+  ANDERSEN\n🇨🇳 HUA TIAN Alex\n🇳🇱 Janneke BOONZAAIJER\n🇩🇪 Julia
+  KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇧🇪 Lara de
+  LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇩🇪 Michael
+  JUNG\n🇫🇷 Nicolas TOUZAINT\n🇯🇵 OIWA Yoshiaki\n🇬🇧 Rosalind
+  CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿
+  Tim PRICE\n🇬🇧 Tom McEWEN
+SUMMARY:🏇 三项赛 - 个人场地障碍决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T060000Z-triathlon-WOMENS-INDIVIDUAL
+UID:20240731T060000Z-triathlon-
 DTSTAMP:20240731T060000Z
 DTSTART:20240731T060000Z
 DTEND:20240731T080500Z
-DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
-  Alberte KJAER PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧
-  Beth POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
+  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
   SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
   HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
   LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
@@ -118,7 +116,7 @@ DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
   Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
   SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
   MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
-SUMMARY:🏊 Women's Individual
-LOCATION:Pont Alexandre III
+SUMMARY:🏊 女子个人赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 END:VCALENDAR

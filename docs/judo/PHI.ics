@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/PHI//EN
-X-WR-CALNAME:🇵🇭 Philippines Judo | Paris 2024
-NAME:🇵🇭 Philippines Judo | Paris 2024
+X-WR-CALNAME:🇵🇭 Philippines 柔道 | Paris 2024
+NAME:🇵🇭 Philippines 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T090000Z-judo-WOMEN-63-KG-ELIMINATION-ROUND-OF-32-CHN-PHI
+UID:20240730T090000Z-judo-6332-CHN-PHI
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T090600Z
-DESCRIPTION:Judo - Women -63 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子63公斤级32强淘汰赛
 SUMMARY:🥋 TANG Jing 🇨🇳 - 🇵🇭 Kiyomi WATANABE
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/AUT//EN
-X-WR-CALNAME:🇦🇹 Austria Badminton | Paris 2024
-NAME:🇦🇹 Austria Badminton | Paris 2024
+X-WR-CALNAME:🇦🇹 Austria 羽毛球 | Paris 2024
+NAME:🇦🇹 Austria 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T173000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-E-DEN-AU
+UID:20240728T173000Z-badminton--E-DEN-AUT
 DTSTAMP:20240728T173000Z
 DTSTART:20240728T173000Z
 DTEND:20240728T181000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group E
+DESCRIPTION:羽毛球 - 男子单打小组赛 - E组
 SUMMARY:🏸 Anders ANTONSEN 🇩🇰 - 🇦🇹 Collins Valentine FILIMON
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T182000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-E-AZE-AU
+UID:20240729T182000Z-badminton--E-AZE-AUT
 DTSTAMP:20240729T182000Z
 DTSTART:20240729T182000Z
 DTEND:20240729T190000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group E
+DESCRIPTION:羽毛球 - 男子单打小组赛 - E组
 SUMMARY:🏸 Ade Resky DWICAHYO 🇦🇿 - 🇦🇹 Collins Valentine FILIMON
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR
