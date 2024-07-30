@@ -1,10 +1,10 @@
-
 import cheerio from "cheerio";
 import Debug from "debug";
 import fs from "fs";
 import autoprefixer from "autoprefixer";
 import postcss from "postcss";
 import tailwindcss from "tailwindcss";
+import OpenCC from 'opencc-js';
 
 import { Event, Sport } from "./types";
 
@@ -14,15 +14,22 @@ import { generateICS } from "./ics";
 
 const debug = Debug("paris2024:index");
 
+const converter = OpenCC.Converter({ from: 'cn', to: 'tw' });
+
+const convertToTraditional = (text: string): string => {
+  return converter(text);
+};
+
 const downloadSchedule = async (sportKey: string) => {
-  debug(`Checking schedule for ${sportKey}`);
+  debug(`檢查 ${sportKey} 的賽程`);
   const cacheFile = `${__dirname}/../cache/${sportKey}.html`;
 
   if (!fs.existsSync(cacheFile)) {
-    debug(`Downloading schedule for ${sportKey} https://olympics.com/zh/paris-2024/schedule/${sportKey}`);
+    debug(`下載 ${sportKey} 的賽程 https://olympics.com/zh/paris-2024/schedule/${sportKey}`);
     const response = await fetch(`https://olympics.com/zh/paris-2024/schedule/${sportKey}`);
     const content = await response.text();
-    fs.writeFileSync(cacheFile, content);
+    const traditionalContent = convertToTraditional(content);
+    fs.writeFileSync(cacheFile, traditionalContent);
   }
 
   const html = fs.readFileSync(cacheFile, "utf-8");
@@ -35,21 +42,21 @@ const NOCS: string[] = [];
 const SPORTS: Sport[] = [];
 
 const addNOC = (noc: string) => {
-  debug(`Adding NOC ${noc}`);
+  debug(`添加 NOC ${noc}`);
   if (!NOCS.includes(noc)) {
     NOCS.push(noc);
   }
 };
 
 const addSport = (sportKey: string, sportName: string) => {
-  debug(`Adding sport ${sportKey}`);
+  debug(`添加運動項目 ${sportKey}`);
   if (!SPORTS.find((sport) => sport.key === sportKey)) {
     SPORTS.push({ key: sportKey, name: sportName, NOCS: [] });
   }
 };
 
 const addSportNOC = (sportKey: string, sportName: string, noc: string) => {
-  debug(`Adding NOC ${noc} to sport ${sportKey}`);
+  debug(`添加 NOC ${noc} 到運動項目 ${sportKey}`);
   addSport(sportKey, sportName);
   const sport = SPORTS.find((sport) => sport.key === sportKey)!;
   if (!sport.NOCS.includes(noc)) {
@@ -59,28 +66,28 @@ const addSportNOC = (sportKey: string, sportName: string, noc: string) => {
 
 const generateCalendars = () => {
   SPORTS
-    .sort((a, b) => a.name > b.name ? 1 : -1)
+    .sort((a, b) => a.name.localeCompare(b.name, 'zh-TW'))
     .forEach((sport) => {
       let events = EVENTS
         .filter((event) => event._SPORT === sport.key)
-        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+        .sort((a, b) => a.UID.localeCompare(b.UID));
       let key = `${sport.key}/general`;
-      let title = `${getSportIcon(sport.key)} ${sport.name} | Paris 2024`;
+      let title = `${getSportIcon(sport.key)} ${sport.name} | 巴黎2024`;
       generateICS(title, key, events);
 
       events = EVENTS
         .filter((event) => event._SPORT === sport.key && event._MEDAL)
-        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+        .sort((a, b) => a.UID.localeCompare(b.UID));
       key = `${sport.key}/medals`;
-      title = `${getSportIcon(sport.key)} ${sport.name} 🏅 | Paris 2024`;
+      title = `${getSportIcon(sport.key)} ${sport.name} 🏅 | 巴黎2024`;
       generateICS(title, key, events);
 
       sport.NOCS.forEach((noc) => {
         events = EVENTS
           .filter((event) => event._SPORT === sport.key && event._NOCS.includes(noc))
-          .sort((a, b) => a.UID > b.UID ? 1 : -1);
+          .sort((a, b) => a.UID.localeCompare(b.UID));
         key = `${sport.key}/${noc}`;
-        title = `${getNOCFlag(noc)} ${getNOCName(noc)} ${sport.name} | Paris 2024`;
+        title = `${getNOCFlag(noc)} ${getNOCName(noc)} ${sport.name} | 巴黎2024`;
         generateICS(title, key, events);
       });
     });
@@ -89,32 +96,32 @@ const generateCalendars = () => {
     .forEach((noc) => {
       let events = EVENTS
         .filter((event) => event._NOCS.includes(noc))
-        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+        .sort((a, b) => a.UID.localeCompare(b.UID));
       let key = `general/${noc}`;
-      let title = `${getNOCFlag(noc)} ${getNOCName(noc)} | Paris 2024`;
+      let title = `${getNOCFlag(noc)} ${getNOCName(noc)} | 巴黎2024`;
       generateICS(title, key, events);
 
       events = EVENTS
         .filter((event) => event._NOCS.includes(noc) && event._MEDAL)
-        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+        .sort((a, b) => a.UID.localeCompare(b.UID));
       if (events.length) {
         key = `medals/${noc}`;
-        title = `${getNOCFlag(noc)} ${getNOCName(noc)} 🏅 | Paris 2024`;
+        title = `${getNOCFlag(noc)} ${getNOCName(noc)} 🏅 | 巴黎2024`;
         generateICS(title, key, events);
       }
     });
 
   const events = EVENTS
-    .sort((a, b) => a.UID > b.UID ? 1 : -1);
+    .sort((a, b) => a.UID.localeCompare(b.UID));
   const key = "general/general";
-  const title = "Paris 2024";
+  const title = "巴黎2024";
   generateICS(title, key, events);
 
   const medalEvents = EVENTS
     .filter((event) => event._MEDAL)
-    .sort((a, b) => a.UID > b.UID ? 1 : -1);
+    .sort((a, b) => a.UID.localeCompare(b.UID));
   const medalKey = "medals/general";
-  const medalTitle = "🏅 Paris 2024";
+  const medalTitle = "🏅 巴黎2024";
   if (medalEvents.length) {
     generateICS(medalTitle, medalKey, medalEvents);
   }
@@ -126,7 +133,7 @@ const slugify = (text: string) => text.toLowerCase().replace(/\s/g, "-")
 
 const extractSportCalendar = async (sportKey: string) => {
   const data = await downloadSchedule(sportKey);
-  const sportName = data.query.pDisciplineLabel;
+  const sportName = convertToTraditional(data.query.pDisciplineLabel);
   const sportIcon = getSportIcon(sportKey);
   addSport(sportKey, sportName);
 
@@ -139,13 +146,13 @@ const extractSportCalendar = async (sportKey: string) => {
       DTSTAMP: unit.startDateTimeUtc.replace(/[:-]/g, ""),
       DTSTART: unit.startDateTimeUtc.replace(/[:-]/g, ""),
       DTEND: unit.endDateTimeUtc.replace(/[:-]/g, ""),
-      DESCRIPTION: `${sportName} - ${unit.eventUnitName}`,
-      SUMMARY: `${sportIcon} ${unit.eventUnitName}`.trim(),
-      LOCATION: unit.venueDescription,
+      DESCRIPTION: `${sportName} - ${convertToTraditional(unit.eventUnitName)}`,
+      SUMMARY: `${sportIcon} ${convertToTraditional(unit.eventUnitName)}`.trim(),
+      LOCATION: convertToTraditional(unit.venueDescription),
       _SPORT: sportKey,
       _NOCS: [],
       _COMPETITORS: [],
-      _UNITNAME: unit.eventUnitName,
+      _UNITNAME: convertToTraditional(unit.eventUnitName),
       _MEDAL: !!unit.medalFlag,
       _GENDER: unit.genderCode,
     };
@@ -167,18 +174,18 @@ const extractSportCalendar = async (sportKey: string) => {
 
         event.UID += `-${competitor1.noc}-${competitor2.noc}`;
         if (competitor1.name !== getNOCName(competitor1.noc)) {
-          event.SUMMARY = `${sportIcon} ${competitor1.name} ${getNOCFlag(competitor1.noc)} - ${getNOCFlag(competitor2.noc)} ${competitor2.name}`;
+          event.SUMMARY = `${sportIcon} ${convertToTraditional(competitor1.name)} ${getNOCFlag(competitor1.noc)} - ${getNOCFlag(competitor2.noc)} ${convertToTraditional(competitor2.name)}`;
         } else {
           event.SUMMARY = `${sportIcon} ${competitor1.noc} ${getNOCFlag(competitor1.noc)} - ${getNOCFlag(competitor2.noc)} ${competitor2.noc}`;
         }
       } else if (competitors.length !== 0) {
         // more than two, we put them in the description
         competitors
-          .sort((a: any, b: any) => a.name > b.name ? 1 : -1)
+          .sort((a: any, b: any) => convertToTraditional(a.name).localeCompare(convertToTraditional(b.name), 'zh-TW'))
           .forEach((competitor: any) => {
             if (competitor.name !== getNOCName(competitor.noc)) {
-              event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
-              event._COMPETITORS.push({ noc: competitor.noc, name: `${getNOCFlag(competitor.noc)} ${competitor.name}` });
+              event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${convertToTraditional(competitor.name)}`;
+              event._COMPETITORS.push({ noc: competitor.noc, name: `${getNOCFlag(competitor.noc)} ${convertToTraditional(competitor.name)}` });
             } else {
               event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.noc}`;
             }
@@ -198,9 +205,9 @@ const generateCeremoniesEvents = () => {
     DTSTAMP: startDateUtc.replace(/[:-]/g, ""),
     DTSTART: startDateUtc.replace(/[:-]/g, ""),
     DTEND: endDateUtc.replace(/[:-]/g, ""),
-    DESCRIPTION: "Paris 2024 - Opening ceremony",
-    SUMMARY: "Paris 2024 - Opening ceremony",
-    LOCATION: "Paris",
+    DESCRIPTION: convertToTraditional("巴黎2024 - 開幕式"),
+    SUMMARY: convertToTraditional("巴黎2024 - 開幕式"),
+    LOCATION: convertToTraditional("巴黎"),
     _NOCS: NOCS,
     _MEDAL: false,
     _COMPETITORS: [],
@@ -217,9 +224,9 @@ const generateCeremoniesEvents = () => {
     DTSTAMP: startDateUtc.replace(/[:-]/g, ""),
     DTSTART: startDateUtc.replace(/[:-]/g, ""),
     DTEND: endDateUtc.replace(/[:-]/g, ""),
-    DESCRIPTION: "Paris 2024 - Closing ceremony",
-    SUMMARY: "Paris 2024 - Closing ceremony",
-    LOCATION: "Stade de France, Saint-Denis",
+    DESCRIPTION: convertToTraditional("巴黎2024 - 閉幕式"),
+    SUMMARY: convertToTraditional("巴黎2024 - 閉幕式"),
+    LOCATION: convertToTraditional("法蘭西體育場，聖但尼"),
     _NOCS: NOCS,
     _MEDAL: false,
     _COMPETITORS: [],
@@ -240,11 +247,11 @@ const generateOutputPage = () => {
   html.push("<table>");
 
   html.push("<tr class=\"even:bg-slate-200\">");
-  html.push("<th class=\"font-bold text-left whitespace-nowrap\">All sports</td>");
+  html.push("<th class=\"font-bold text-left whitespace-nowrap\">所有運動項目</td>");
   html.push("<td class=\"text-center\">");
-  html.push(`<a href="general/general.ics" class="${linkClass}">Full schedule</a>`);
+  html.push(`<a href="general/general.ics" class="${linkClass}">完整賽程</a>`);
   if (fs.existsSync(`${__dirname}/../docs/medals/general.ics`)) {
-    html.push(`<br/><a href="medals/general.ics" class="${linkClass}">🏅 Medal events</a>`);
+    html.push(`<br/><a href="medals/general.ics" class="${linkClass}">🏅 獎牌賽事</a>`);
   }
   html.push("</td>");
   html.push("<td>");
@@ -255,9 +262,9 @@ const generateOutputPage = () => {
   html.push("</tr>");
 
   html.push("<tr class=\"even:bg-slate-200\">");
-  html.push("<th class=\"font-bold text-left whitespace-nowrap\">🏅 Medal events</td>");
+  html.push("<th class=\"font-bold text-left whitespace-nowrap\">🏅 獎牌賽事</td>");
   html.push("<td class=\"text-center\">");
-  html.push(`<a href="medals/general.ics" class="${linkClass}">Full schedule</a>`);
+  html.push(`<a href="medals/general.ics" class="${linkClass}">完整賽程</a>`);
   html.push("</td>");
   html.push("<td>");
   fs.readdirSync(`${__dirname}/../docs/medals`)
@@ -273,9 +280,9 @@ const generateOutputPage = () => {
     html.push("<tr class=\"even:bg-slate-200\">");
     html.push(`<th class="font-bold text-left whitespace-nowrap">${getSportIcon(sport.key)} ${sport.name}</td>`);
     html.push("<td class=\"text-center\">");
-    html.push(`<a href="${sport.key}/general.ics" class="${linkClass}">Full schedule</a>`);
+    html.push(`<a href="${sport.key}/general.ics" class="${linkClass}">完整賽程</a>`);
     if (fs.existsSync(`${__dirname}/../docs/${sport.key}/medals.ics`)) {
-      html.push(`<br/><a href="${sport.key}/medals.ics" class="${linkClass}">🏅 Medal events</a>`);
+      html.push(`<br/><a href="${sport.key}/medals.ics" class="${linkClass}">🏅 獎牌賽事</a>`);
     }
     html.push("</td>");
     html.push("<td>");
@@ -306,7 +313,7 @@ const generateTodayPage = () => {
     let sport = SPORTS.find((sport) => sport.key === event._SPORT);
     if (!sport) {
       sport = {
-        name: "Ceremony",
+        name: convertToTraditional("儀式"),
         key: "",
         NOCS: [],
       };
@@ -314,32 +321,31 @@ const generateTodayPage = () => {
     const summary = event.SUMMARY.match(/ceremony/gi) ? event.SUMMARY : event.SUMMARY.split(" ").slice(1).join(" ");
 
     html.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.join(",")}">`);
-    html.push(" <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10\">__:__</div>");
-    html.push(" <div class=\"w-3/5 align-top inline-block text-black pl-2\">");
-    html.push("   <div class=\"text-2xl\">");
-    html.push(`   ${event._MEDAL ? "🏅" : ""}`);
-    html.push(`   ${sport.name.toUpperCase()}`);
+    html.push('<div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>');
+    html.push('<div class="w-3/5 align-top inline-block text-black pl-2">');
+    html.push('  <div class="text-2xl">');
+    html.push(`  ${event._MEDAL ? "🏅" : ""}`);
+    html.push(`  ${sport.name.toUpperCase()}`);
     if (event._GENDER === "M") {
-      html.push("   <span class=\"text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl\">M</span>");
+      html.push('  <span class="text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl">男</span>');
     } else if (event._GENDER === "W") {
-      html.push("   <span class=\"text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl\">W</span>");
+      html.push('  <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">女</span>');
     }
-    html.push("   </div>");
+    html.push('  </div>');
     if (event._UNITNAME.match(summary)) {
-      html.push(`   <div class="">${summary}`);
+      html.push(`  <div class="">${summary}`);
     } else {
-      html.push(`   <div class="">${event._UNITNAME}`);
-      html.push(`   <div class="">${summary}</div>`);
+      html.push(`  <div class="">${event._UNITNAME}`);
+      html.push(`  <div class="">${summary}</div>`);
     }
     if (event._COMPETITORS) {
       event._COMPETITORS.forEach((competitor) => {
-        html.push(`<div class= "competitor ${competitor.noc}"> ${competitor.name} </div>`);
+        html.push(`<div class="competitor ${competitor.noc}">${competitor.name}</div>`);
       });
     }
-    html.push("   </div>");
-    html.push(" </div>");
-    html.push("</div>");
-
+    html.push('  </div>');
+    html.push('</div>');
+    html.push('</div>');
   });
 
   const template = fs.readFileSync(`${__dirname}/today/template.html`, "utf-8");
@@ -354,7 +360,6 @@ const generateCSS = () => {
     .then((result) => {
       fs.writeFileSync("docs/style.css", result.css);
     });
-  ;
 };
 
 const main = async () => {
