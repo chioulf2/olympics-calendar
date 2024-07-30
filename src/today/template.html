@@ -50,6 +50,34 @@
     const now = DateTime.now();
     const noc = new URLSearchParams(window.location.search).get('noc');
 
+
+    // 動態更新
+    // Define a function to update the page based on noc
+    const updatePageContent = (noc) => {
+      // Update title
+      const title = document.querySelector('title');
+      if (noc) {
+        title.textContent = `2024巴黎奧運-今日賽程 Paris 2024 - ${noc} - Today's events`;
+      }
+
+      // Update meta description
+      const descriptionMeta = document.querySelector('meta[name="description"]');
+      if (noc) {
+        descriptionMeta.setAttribute('content', `2024巴黎奧運-今日賽程 Paris 2024 - ${noc} - Today's events`);
+      }
+
+      // Update h1
+      const h1 = document.querySelector('h1');
+      if (noc) {
+        h1.textContent = `2024巴黎奧運-今日賽程 Paris 2024 - ${noc}`;
+      }
+    };
+
+    // Call the function to update the content
+    updatePageContent(noc);
+
+
+
     let color = 0;
     const cycleColor = () => {
       color++
