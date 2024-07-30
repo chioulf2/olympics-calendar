@@ -5,6 +5,7 @@ import autoprefixer from "autoprefixer";
 import postcss from "postcss";
 import tailwindcss from "tailwindcss";
 import OpenCC from 'opencc-js';
+const { Converter } = OpenCC;
 
 import { Event, Sport } from "./types";
 
@@ -14,7 +15,7 @@ import { generateICS } from "./ics";
 
 const debug = Debug("paris2024:index");
 
-const converter = OpenCC.Converter({ from: 'cn', to: 'tw' });
+const converter = Converter({ from: 'cn', to: 'tw' });
 
 const convertToTraditional = (text: string): string => {
   return converter(text);

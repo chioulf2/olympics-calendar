@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "start": "find ./cache/*.html -mmin +10 -exec rm -f {} \\; | ts-node src/index.ts",
+    "start": "mkdir -p cache && (find ./cache/*.html -mmin +10 -exec rm -f {} \\; || true) && ts-node src/index.ts",
     "dev": "nodemon src/index.ts",
     "lint": "eslint . --fix",
     "test": "vitest run --coverage"
