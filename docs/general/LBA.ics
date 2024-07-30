@@ -1,151 +1,121 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/LBA//EN
-X-WR-CALNAME:🇱🇾 Libya | Paris 2024
-NAME:🇱🇾 Libya | Paris 2024
+X-WR-CALNAME:🇱🇾 Libya | 巴黎2024
+NAME:🇱🇾 Libya | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
-DESCRIPTION:Paris 2024 - Opening ceremony
-SUMMARY:Paris 2024 - Opening ceremony
-LOCATION:Paris
+DESCRIPTION:巴黎2024 - 開幕式
+SUMMARY:巴黎2024 - 開幕式
+LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:赛艇 - 男子单人双桨分组预赛\n🇯🇵 ARAKAWA Ryuta\n🇸🇩 Abdalla AHMED\n🇪🇬
-  Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz
-  Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
-  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
-  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
-  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
-  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
-  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
-  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
-  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
-  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
-SUMMARY:🚣 男子单人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇭🇰 中國香港\n🇩🇰 丹麥\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇯🇵
+  日本\n🇧🇪 比利時\n🇨🇺 古巴\n🇱🇹 立陶宛\n🇭🇺 匈牙利\n🇮🇳 印度\n🇮🇩 印度尼西亞\n🇦🇴
+  安哥拉\n🇧🇲 百慕大\n🇭🇷 克羅地亞\n🇱🇾 利比亞\n🇬🇷 希臘\n🇩🇿 阿爾及利亞\n🇧🇬 保加利亞\n🇰🇿
+  哈薩克斯坦\n🇿🇼 津巴布韋\n🇹🇳 突尼斯\n🇺🇸 美國\n🇪🇬 埃及\n🇹🇭 泰國\n🇺🇾 烏拉圭\n🇳🇱
+  荷蘭\n🇸🇮 斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 德國\n🇲🇨 摩納哥\n🇷🇴 羅馬尼亞\n🇸🇩 蘇丹
+SUMMARY:🚣 男子單人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T083000Z-shooting-10
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T094500Z
-DESCRIPTION:射击 - 男子10米气手枪资格赛\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
+DESCRIPTION:射擊 - 男子10米氣手槍資格賽\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
   Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu
   ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️ Edilio
   Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
   FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
-  KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
-  Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
+  KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇱🇻
+  Lauris STRAUTMANIS\n🇰🇷 LEE Wonho\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
   ESERCITATO\n🇱🇾 Mohammed BIN DALLAH\n🇰🇿 Nikita CHIRYUKIN\n🇮🇹 Paolo
   MONNA\n🇺🇦 Pavlo KOROSTYLOV\n🇦🇼 Philip ELHAGE\n🇧🇷 Philipe
   CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
-SUMMARY:🔫 男子10米气手枪资格赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子10米氣手槍資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T073600Z-rowing-
 DTSTAMP:20240728T073600Z
 DTSTART:20240728T073600Z
 DTEND:20240728T080700Z
-DESCRIPTION:赛艇 - 男子单人双桨复活赛\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇮🇳
-  Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇧🇲 Dara ALIZADEH\n🇸🇮 Isak Ivan
-  ZVEGELJ\n🇵🇾 Javier INSFRAN\n🇮🇩 MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳
-  Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿
-  Sid Ali BOUDINA\n🇿🇼 Stephen COX\n🇰🇿 Vladislav YAKOVLEV
-SUMMARY:🚣 男子单人双桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子單人雙槳復活賽\n🇭🇰 中國香港\n🇵🇾 巴拉圭\n🇮🇳 印度\n🇮🇩 印度尼西亞\n🇦🇴
+  安哥拉\n🇧🇲 百慕大\n🇱🇾 利比亞\n🇩🇿 阿爾及利亞\n🇰🇿 哈薩克斯坦\n🇿🇼 津巴布韋\n🇹🇳
+  突尼斯\n🇹🇭 泰國\n🇸🇮 斯洛文尼亞\n🇲🇨 摩納哥\n🇸🇩 蘇丹
+SUMMARY:🚣 男子單人雙槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T074200Z-rowing--EF-2
 DTSTAMP:20240729T074200Z
 DTSTART:20240729T074200Z
 DTEND:20240729T074900Z
-DESCRIPTION:赛艇 - 男子单人双桨半决赛 E/F 2\n🇸🇩 Abdalla AHMED\n🇧🇲 Dara
+DESCRIPTION:賽艇 - 男子單人雙槳半決賽 E/F 2\n🇸🇩 Abdalla AHMED\n🇧🇲 Dara
   ALIZADEH\n🇱🇾 Mohamed BUKRAH\n🇹🇭 Premanut WATTANANUSITH\n🇿🇼 Stephen
   COX
-SUMMARY:🚣 男子单人双桨半决赛 E/F 2
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+SUMMARY:🚣 男子單人雙槳半決賽 E/F 2
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T091300Z-swimming-100
 DTSTAMP:20240729T091300Z
 DTSTART:20240729T091300Z
 DTEND:20240729T092700Z
-DESCRIPTION:游泳 - 女子100米仰泳分组预赛\n🇵🇱 Adela PISKORSKA\n🇧🇭 Amani
-  ALOBAIDLI\n🇮🇱 Aviv BARZELAY\n🇹🇲 Aynura PRIMOVA\n🇫🇷 Beryl
-  GASTALDELLO\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇪🇸 Carmen WEILER SASTRE\n🇲🇽
-  Celia PULIDO ORTIZ\n🇸🇻 Celina MARQUEZ\n🇮🇪 Danielle HILL\n🇲🇿 Denise
-  DONELLI\n🇩🇴 Elizabeth JIMENEZ\n🇧🇲 Emma HARVEY\n🇫🇷 Emma TEREBO\n🇧🇬
-  Gabriela GEORGIEVA\n🇱🇰 Ganga SENAVIRATHNE\n🇨🇦 Ingrid WILM\n🇦🇺 Iona
-  ANDERSON\n🇺🇸 Katharine BERKOFF\n🇬🇧 Kathleen DAWSON\n🇦🇺 Kaylee
-  McKEOWN\n🇳🇱 Kira TOUSSAINT\n🇨🇦 Kylie MASSE\n🇸🇪 Louise HANSSON\n🇬🇹
-  Lucero MEJIA\n🇳🇱 Maaike de WAARD\n🇬🇧 Medi Eira HARRIS\n🇱🇾 Mek
-  ALMUKHTAR\n🇺🇦 Nika SHARAFUTDINOVA\n🇺🇸 Regan SMITH\n🇧🇪 Roos
-  VANOTTERDIJK\n🇨🇳 WAN Letian\n🇨🇳 WANG Xueer\n🇰🇿 Xeniya
-  IGNATOVA\n🇹🇹 Zuri FERGUSON
-SUMMARY:🏊 女子100米仰泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子100米仰泳分組預賽\n🇹🇲 土庫曼斯坦\n🇨🇳 中國\n🇭🇰 中國香港\n🇧🇭
+  巴林\n🇧🇪 比利時\n🇮🇱 以色列\n🇨🇦 加拿大\n🇬🇹 危地馬拉\n🇩🇴 多米尼加\n🇧🇲 百慕大\n🇪🇸
+  西班牙\n🇱🇾 利比亞\n🇫🇷 法國\n🇵🇱 波蘭\n🇧🇬 保加利亞\n🇰🇿 哈薩克斯坦\n🇺🇸 美國\n🇬🇧
+  英國\n🇺🇦 烏克蘭\n🇹🇹 特立尼達和多巴哥\n🇳🇱 荷蘭\n🇲🇿 莫桑比克\n🇱🇰 斯里蘭卡\n🇮🇪
+  愛爾蘭\n🇸🇪 瑞典\n🇲🇽 墨西哥\n🇦🇺 澳大利亞\n🇸🇻 薩爾瓦多
+SUMMARY:🏊 女子100米仰泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T091751Z-swimming-100
 DTSTAMP:20240730T091751Z
 DTSTART:20240730T091751Z
 DTEND:20240730T095131Z
-DESCRIPTION:游泳 - 男子100米自由泳分组预赛\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
-  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
-  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
-  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
-  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
-  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
-  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
-  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
-  SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭
-  Harry STACEY\n🇦🇴 Henrique MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa
-  Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry
-  WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud
-  ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan
-  Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬
-  Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle
-  CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷
-  Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷
-  Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
-  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
-  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
-  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
-  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
-  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
-  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
-  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
-  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
-SUMMARY:🏊 男子100米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇹🇲 土庫曼斯坦\n🇧🇹 不丹\n🇨🇳 中國\n🇭🇰
+  中國香港\n🇧🇧 巴巴多斯\n🇵🇬 巴布亞新幾內亞\n🇧🇷 巴西\n🇧🇸 巴哈馬\n🇲🇺 毛里求斯\n🇮🇱
+  以色列\n🇨🇦 加拿大\n🇬🇭 加納\n🇳🇵 尼泊爾\n🇻🇺 瓦努阿圖\n🇱🇹 立陶宛\n🇮🇷 伊朗\n🇭🇺
+  匈牙利\n🇩🇴 多米尼加\n🇦🇴 安哥拉\n🇪🇸 西班牙\n🇭🇷 克羅地亞\n🇱🇾 利比亞\n🇸🇦 沙特阿拉伯\n🇦🇲
+  亞美尼亞\n🇹🇿 坦桑尼亞\n🇻🇪 委內瑞拉\n🇧🇩 孟加拉國\n🇫🇷 法國\n🇵🇱 波蘭\n🇴🇲 阿曼\n🇦🇱
+  阿爾巴尼亞\n🇦🇼 阿魯巴\n🇦🇪 阿聯酋\n🇰🇿 哈薩克斯坦\n🇰🇭 柬埔寨\n🇰🇼 科威特\n🇽🇰 科索沃\n🇰🇲
+  科摩羅\n🇺🇸 美國\n🇬🇧 英國\n🇹🇭 泰國\n🇺🇾 烏拉圭\n🇹🇹 特立尼達和多巴哥\n🇲🇱 馬裡\n🇨🇿
+  捷克\n🇳🇱 荷蘭\n🇨🇲 喀麥隆\n🇱🇰 斯里蘭卡\n🇰🇾 開曼群島\n🇸🇳 塞內加爾\n🇨🇾 塞浦路斯\n🇷🇸
+  塞爾維亞\n🇮🇹 意大利\n🇸🇬 新加坡\n🇳🇿 新西蘭\n🇸🇪 瑞典\n🇱🇨 聖盧西亞\n🇵🇹 葡萄牙\n🇲🇳
+  蒙古\n🇩🇪 德國\n🇲🇲 緬甸\n🇱🇧 黎巴嫩\n🇲🇽 墨西哥\n🇦🇺 澳大利亞\n🇱🇺 盧森堡\n🇰🇷
+  韓國\n🇸🇻 薩爾瓦多\n🇼🇸 薩摩亞\n🇷🇴 羅馬尼亞\n🇸🇷 蘇裡南
+SUMMARY:🏊 男子100米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T073000Z-rowing-F
 DTSTAMP:20240802T073000Z
 DTSTART:20240802T073000Z
 DTEND:20240802T073700Z
-DESCRIPTION:赛艇 - 男子单人双桨决赛F\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇱🇾
+DESCRIPTION:賽艇 - 男子單人雙槳決賽F\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇱🇾
   Mohamed BUKRAH
-SUMMARY:🚣 男子单人双桨决赛F
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+SUMMARY:🚣 男子單人雙槳決賽F
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
-LOCATION:Stade de France, Saint-Denis
+DESCRIPTION:巴黎2024 - 閉幕式
+SUMMARY:巴黎2024 - 閉幕式
+LOCATION:法蘭西體育場，聖但尼
 END:VEVENT
 END:VCALENDAR

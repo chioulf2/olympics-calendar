@@ -1,23 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/EST//EN
-X-WR-CALNAME:🇪🇪 Estonia 🏅 | Paris 2024
-NAME:🇪🇪 Estonia 🏅 | Paris 2024
+X-WR-CALNAME:🇪🇪 Estonia 🏅 | 巴黎2024
+NAME:🇪🇪 Estonia 🏅 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T184000Z-fencing--HUN-EST
 DTSTAMP:20240727T184000Z
 DTSTART:20240727T184000Z
 DTEND:20240727T190500Z
-DESCRIPTION:击剑 - 女子个人重剑铜牌赛
+DESCRIPTION:擊劍 - 女子個人重劍銅牌賽
 SUMMARY:🤺 Eszter MUHARI 🇭🇺 - 🇪🇪 Nelli DIFFERT
-LOCATION:巴黎大皇宫
+LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
-DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
+DESCRIPTION:山地自行車 - 女子越野賽\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
   KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
   Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
   MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
@@ -30,18 +30,18 @@ DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭
   HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
   Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳 WU Zhifan\n🇺🇦 Yana
   BELOMOINA
-SUMMARY:🚴 女子越野赛
-LOCATION:埃朗库尔山
+SUMMARY:🚴 女子越野賽
+LOCATION:埃朗庫爾山
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T193400Z-swimming-100
 DTSTAMP:20240729T193400Z
 DTSTART:20240729T193400Z
 DTEND:20240729T194100Z
-DESCRIPTION:游泳 - 女子100米蛙泳决赛\n🇬🇧 Angharad EVANS\n🇮🇹 Benedetta
+DESCRIPTION:游泳 - 女子100米蛙泳決賽\n🇬🇧 Angharad EVANS\n🇮🇹 Benedetta
   PILATO\n🇪🇪 Eneli JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪 Mona Mc SHARRY\n🇨🇳
   TANG Qianting\n🇿🇦 Tatjana SMITH
-SUMMARY:🏊 女子100米蛙泳决赛
-LOCATION:拉德芳斯体育馆
+SUMMARY:🏊 女子100米蛙泳決賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 END:VCALENDAR

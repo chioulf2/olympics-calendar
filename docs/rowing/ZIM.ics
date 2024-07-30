@@ -1,60 +1,52 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//rowing/ZIM//EN
-X-WR-CALNAME:🇿🇼 Zimbabwe 赛艇 | Paris 2024
-NAME:🇿🇼 Zimbabwe 赛艇 | Paris 2024
+X-WR-CALNAME:🇿🇼 Zimbabwe 賽艇 | 巴黎2024
+NAME:🇿🇼 Zimbabwe 賽艇 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:赛艇 - 男子单人双桨分组预赛\n🇯🇵 ARAKAWA Ryuta\n🇸🇩 Abdalla AHMED\n🇪🇬
-  Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz
-  Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
-  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
-  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
-  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
-  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
-  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
-  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
-  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
-  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
-SUMMARY:🚣 男子单人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇭🇰 中國香港\n🇩🇰 丹麥\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇯🇵
+  日本\n🇧🇪 比利時\n🇨🇺 古巴\n🇱🇹 立陶宛\n🇭🇺 匈牙利\n🇮🇳 印度\n🇮🇩 印度尼西亞\n🇦🇴
+  安哥拉\n🇧🇲 百慕大\n🇭🇷 克羅地亞\n🇱🇾 利比亞\n🇬🇷 希臘\n🇩🇿 阿爾及利亞\n🇧🇬 保加利亞\n🇰🇿
+  哈薩克斯坦\n🇿🇼 津巴布韋\n🇹🇳 突尼斯\n🇺🇸 美國\n🇪🇬 埃及\n🇹🇭 泰國\n🇺🇾 烏拉圭\n🇳🇱
+  荷蘭\n🇸🇮 斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 德國\n🇲🇨 摩納哥\n🇷🇴 羅馬尼亞\n🇸🇩 蘇丹
+SUMMARY:🚣 男子單人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T073600Z-rowing-
 DTSTAMP:20240728T073600Z
 DTSTART:20240728T073600Z
 DTEND:20240728T080700Z
-DESCRIPTION:赛艇 - 男子单人双桨复活赛\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇮🇳
-  Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇧🇲 Dara ALIZADEH\n🇸🇮 Isak Ivan
-  ZVEGELJ\n🇵🇾 Javier INSFRAN\n🇮🇩 MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳
-  Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿
-  Sid Ali BOUDINA\n🇿🇼 Stephen COX\n🇰🇿 Vladislav YAKOVLEV
-SUMMARY:🚣 男子单人双桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子單人雙槳復活賽\n🇭🇰 中國香港\n🇵🇾 巴拉圭\n🇮🇳 印度\n🇮🇩 印度尼西亞\n🇦🇴
+  安哥拉\n🇧🇲 百慕大\n🇱🇾 利比亞\n🇩🇿 阿爾及利亞\n🇰🇿 哈薩克斯坦\n🇿🇼 津巴布韋\n🇹🇳
+  突尼斯\n🇹🇭 泰國\n🇸🇮 斯洛文尼亞\n🇲🇨 摩納哥\n🇸🇩 蘇丹
+SUMMARY:🚣 男子單人雙槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T074200Z-rowing--EF-2
 DTSTAMP:20240729T074200Z
 DTSTART:20240729T074200Z
 DTEND:20240729T074900Z
-DESCRIPTION:赛艇 - 男子单人双桨半决赛 E/F 2\n🇸🇩 Abdalla AHMED\n🇧🇲 Dara
+DESCRIPTION:賽艇 - 男子單人雙槳半決賽 E/F 2\n🇸🇩 Abdalla AHMED\n🇧🇲 Dara
   ALIZADEH\n🇱🇾 Mohamed BUKRAH\n🇹🇭 Premanut WATTANANUSITH\n🇿🇼 Stephen
   COX
-SUMMARY:🚣 男子单人双桨半决赛 E/F 2
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+SUMMARY:🚣 男子單人雙槳半決賽 E/F 2
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T075400Z-rowing-E
 DTSTAMP:20240802T075400Z
 DTSTART:20240802T075400Z
 DTEND:20240802T080100Z
-DESCRIPTION:赛艇 - 男子单人双桨决赛E\n🇧🇲 Dara ALIZADEH\n🇮🇩 MEMO\n🇹🇳 Mohamed
+DESCRIPTION:賽艇 - 男子單人雙槳決賽E\n🇧🇲 Dara ALIZADEH\n🇮🇩 MEMO\n🇹🇳 Mohamed
   TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇿🇼 Stephen COX\n🇰🇿 Vladislav
   YAKOVLEV
-SUMMARY:🚣 男子单人双桨决赛E
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+SUMMARY:🚣 男子單人雙槳決賽E
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 END:VCALENDAR

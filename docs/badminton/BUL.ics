@@ -1,51 +1,51 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/BUL//EN
-X-WR-CALNAME:🇧🇬 Bulgaria 羽毛球 | Paris 2024
-NAME:🇧🇬 Bulgaria 羽毛球 | Paris 2024
+X-WR-CALNAME:🇧🇬 Bulgaria 羽毛球 | 巴黎2024
+NAME:🇧🇬 Bulgaria 羽毛球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T120000Z-badminton--B-HKG-BUL
 DTSTAMP:20240727T120000Z
 DTSTART:20240727T120000Z
 DTEND:20240727T124000Z
-DESCRIPTION:羽毛球 - 女子双打小组赛 - B组
+DESCRIPTION:羽毛球 - 女子雙打小組賽 - B組
 SUMMARY:🏸 YEUNG NT/YEUNG PL 🇭🇰 - 🇧🇬 G. STOEVA/S. STOEVA
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T134000Z-badminton--A-KOR-BUL
 DTSTAMP:20240728T134000Z
 DTSTART:20240728T134000Z
 DTEND:20240728T142000Z
-DESCRIPTION:羽毛球 - 女子单打小组赛 - A组
+DESCRIPTION:羽毛球 - 女子單打小組賽 - A組
 SUMMARY:🏸 AN Se Young 🇰🇷 - 🇧🇬 Kaloyana NALBANTOVA
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T134000Z-badminton--B-CHN-BUL
 DTSTAMP:20240728T134000Z
 DTSTART:20240728T134000Z
 DTEND:20240728T142000Z
-DESCRIPTION:羽毛球 - 女子双打小组赛 - B组
+DESCRIPTION:羽毛球 - 女子雙打小組賽 - B組
 SUMMARY:🏸 LIU/TAN 🇨🇳 - 🇧🇬 G. STOEVA/S. STOEVA
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T072000Z-badminton--B-BUL-USA
 DTSTAMP:20240730T072000Z
 DTSTART:20240730T072000Z
 DTEND:20240730T080000Z
-DESCRIPTION:羽毛球 - 女子双打小组赛 - B组
+DESCRIPTION:羽毛球 - 女子雙打小組賽 - B組
 SUMMARY:🏸 G. STOEVA/S. STOEVA 🇧🇬 - 🇺🇸 A. XU/K. XU
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T120000Z-badminton--A-FRA-BUL
 DTSTAMP:20240730T120000Z
 DTSTART:20240730T120000Z
 DTEND:20240730T124000Z
-DESCRIPTION:羽毛球 - 女子单打小组赛 - A组
+DESCRIPTION:羽毛球 - 女子單打小組賽 - A組
 SUMMARY:🏸 Xuefei QI 🇫🇷 - 🇧🇬 Kaloyana NALBANTOVA
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 END:VCALENDAR

@@ -1,141 +1,119 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/UAE//EN
-X-WR-CALNAME:🇦🇪 United Arab Emirates | Paris 2024
-NAME:🇦🇪 United Arab Emirates | Paris 2024
+X-WR-CALNAME:🇦🇪 United Arab Emirates | 巴黎2024
+NAME:🇦🇪 United Arab Emirates | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
-DESCRIPTION:Paris 2024 - Opening ceremony
-SUMMARY:Paris 2024 - Opening ceremony
-LOCATION:Paris
+DESCRIPTION:巴黎2024 - 開幕式
+SUMMARY:巴黎2024 - 開幕式
+LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T081200Z-judo-5232-UAE-CHN
 DTSTAMP:20240728T081200Z
 DTSTART:20240728T081200Z
 DTEND:20240728T081800Z
-DESCRIPTION:柔道 - 女子52公斤级32强淘汰赛
+DESCRIPTION:柔道 - 女子52公斤級32強淘汰賽
 SUMMARY:🥋 Khorloodoi BISHRELT 🇦🇪 - 🇨🇳 ZHU Yeqing
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T084200Z-judo-6632-KOR-UAE
 DTSTAMP:20240728T084200Z
 DTSTART:20240728T084200Z
 DTEND:20240728T084800Z
-DESCRIPTION:柔道 - 男子66公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子66公斤級32強淘汰賽
 SUMMARY:🥋 AN Baul 🇰🇷 - 🇦🇪 Narmandakh BAYANMUNKH
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T090600Z-judo-5216-GER-UAE
 DTSTAMP:20240728T090600Z
 DTSTART:20240728T090600Z
 DTEND:20240728T091200Z
-DESCRIPTION:柔道 - 女子52公斤级16强淘汰赛
+DESCRIPTION:柔道 - 女子52公斤級16強淘汰賽
 SUMMARY:🥋 Mascha BALLHAUS 🇩🇪 - 🇦🇪 Khorloodoi BISHRELT
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-swimming-200
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T101600Z
-DESCRIPTION:游泳 - 女子200米自由泳分组预赛\n🇿🇦 Aimee CANNY\n🇨🇺 Andrea BECALI\n🇱🇦
-  Ariana Southa DIRKZWAGER\n🇦🇺 Ariarne TITMUS\n🇨🇿 Barbora
-  SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇮🇳 Dhinidhi DESINGHU\n🇳🇵 Duana
-  LAMA\n🇲🇳 Enkhkhuslen BATBAYAR\n🇳🇿 Erika FAIRWEATHER\n🇺🇸 Erin
-  GEMMELL\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇵🇰 Jehanara NABI\n🇩🇪 Julia
-  MROZINSKI\n🇭🇳 Julimar AVILA MANCIA\n🇦🇱 Kaltra MECA\n🇨🇳 LI
-  Bingjie\n🇮🇱 Lea POLONSKY\n🇭🇺 Lilla Minna ABRAHAM\n🇪🇬 Lojine ABDALLA
-  SALAH\n🇦🇪 Maha ALSHEHHI\n🇧🇷 Maria Fernanda COSTA\n🇻🇪 Maria Victoria
-  YEGRES COTTIN\n🇨🇦 Mary-Sophie HARVEY\n🇸🇦 Mashael Meshari A
-  ALAYED\n🇦🇺 Mollie O'CALLAGHAN\n🇭🇺 Nikolett PADAR\n🇷🇴 Rebecca-Aimee
-  DIACONESCU\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇧🇪 Valentine
-  DUMONT\n🇨🇳 YANG Junxuan
-SUMMARY:🏊 女子200米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子200米自由泳分組預賽\n🇨🇳 中國\n🇭🇰 中國香港\n🇧🇷 巴西\n🇵🇰
+  巴基斯坦\n🇧🇪 比利時\n🇮🇱 以色列\n🇨🇦 加拿大\n🇨🇺 古巴\n🇳🇵 尼泊爾\n🇮🇸 冰島\n🇭🇺
+  匈牙利\n🇮🇳 印度\n🇱🇦 老撾\n🇸🇦 沙特阿拉伯\n🇻🇪 委內瑞拉\n🇦🇱 阿爾巴尼亞\n🇦🇪 阿聯酋\n🇿🇦
+  南非\n🇭🇳 洪都拉斯\n🇺🇸 美國\n🇪🇬 埃及\n🇨🇿 捷克\n🇳🇿 新西蘭\n🇲🇳 蒙古\n🇩🇪
+  德國\n🇦🇺 澳大利亞\n🇷🇴 羅馬尼亞
+SUMMARY:🏊 女子200米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T084800Z-judo-8132-UAE-PUR
 DTSTAMP:20240730T084800Z
 DTSTART:20240730T084800Z
 DTEND:20240730T085400Z
-DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子81公斤級32強淘汰賽
 SUMMARY:🥋 Nugzari TATALASHVILI 🇦🇪 - 🇵🇷 Adrian GANDIA
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T091751Z-swimming-100
 DTSTAMP:20240730T091751Z
 DTSTART:20240730T091751Z
 DTEND:20240730T095131Z
-DESCRIPTION:游泳 - 男子100米自由泳分组预赛\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
-  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
-  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
-  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
-  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
-  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
-  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
-  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
-  SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭
-  Harry STACEY\n🇦🇴 Henrique MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa
-  Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry
-  WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud
-  ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan
-  Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬
-  Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle
-  CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷
-  Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷
-  Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
-  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
-  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
-  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
-  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
-  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
-  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
-  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
-  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
-SUMMARY:🏊 男子100米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇹🇲 土庫曼斯坦\n🇧🇹 不丹\n🇨🇳 中國\n🇭🇰
+  中國香港\n🇧🇧 巴巴多斯\n🇵🇬 巴布亞新幾內亞\n🇧🇷 巴西\n🇧🇸 巴哈馬\n🇲🇺 毛里求斯\n🇮🇱
+  以色列\n🇨🇦 加拿大\n🇬🇭 加納\n🇳🇵 尼泊爾\n🇻🇺 瓦努阿圖\n🇱🇹 立陶宛\n🇮🇷 伊朗\n🇭🇺
+  匈牙利\n🇩🇴 多米尼加\n🇦🇴 安哥拉\n🇪🇸 西班牙\n🇭🇷 克羅地亞\n🇱🇾 利比亞\n🇸🇦 沙特阿拉伯\n🇦🇲
+  亞美尼亞\n🇹🇿 坦桑尼亞\n🇻🇪 委內瑞拉\n🇧🇩 孟加拉國\n🇫🇷 法國\n🇵🇱 波蘭\n🇴🇲 阿曼\n🇦🇱
+  阿爾巴尼亞\n🇦🇼 阿魯巴\n🇦🇪 阿聯酋\n🇰🇿 哈薩克斯坦\n🇰🇭 柬埔寨\n🇰🇼 科威特\n🇽🇰 科索沃\n🇰🇲
+  科摩羅\n🇺🇸 美國\n🇬🇧 英國\n🇹🇭 泰國\n🇺🇾 烏拉圭\n🇹🇹 特立尼達和多巴哥\n🇲🇱 馬裡\n🇨🇿
+  捷克\n🇳🇱 荷蘭\n🇨🇲 喀麥隆\n🇱🇰 斯里蘭卡\n🇰🇾 開曼群島\n🇸🇳 塞內加爾\n🇨🇾 塞浦路斯\n🇷🇸
+  塞爾維亞\n🇮🇹 意大利\n🇸🇬 新加坡\n🇳🇿 新西蘭\n🇸🇪 瑞典\n🇱🇨 聖盧西亞\n🇵🇹 葡萄牙\n🇲🇳
+  蒙古\n🇩🇪 德國\n🇲🇲 緬甸\n🇱🇧 黎巴嫩\n🇲🇽 墨西哥\n🇦🇺 澳大利亞\n🇱🇺 盧森堡\n🇰🇷
+  韓國\n🇸🇻 薩爾瓦多\n🇼🇸 薩摩亞\n🇷🇴 羅馬尼亞\n🇸🇷 蘇裡南
+SUMMARY:🏊 男子100米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T090600Z-judo-9032-UZB-UAE
 DTSTAMP:20240731T090600Z
 DTSTART:20240731T090600Z
 DTEND:20240731T091200Z
-DESCRIPTION:柔道 - 男子90公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子90公斤級32強淘汰賽
 SUMMARY:🥋 Davlat BOBONOV 🇺🇿 - 🇦🇪 Aram GRIGORIAN
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T082400Z-judo-10032-UAE-BRA
 DTSTAMP:20240801T082400Z
 DTSTART:20240801T082400Z
 DTEND:20240801T083000Z
-DESCRIPTION:柔道 - 男子100公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子100公斤級32強淘汰賽
 SUMMARY:🥋 Dzhafar KOSTOEV 🇦🇪 - 🇧🇷 Leonardo GONCALVES
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T083600Z-judo-10032-UAE-ALG
 DTSTAMP:20240802T083600Z
 DTSTART:20240802T083600Z
 DTEND:20240802T084200Z
-DESCRIPTION:柔道 - 男子100公斤以上级32强淘汰赛
+DESCRIPTION:柔道 - 男子100公斤以上級32強淘汰賽
 SUMMARY:🥋 Magomedomar MAGOMEDOMAROV 🇦🇪 - 🇩🇿 Mohamed El Mehdi LILI
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
-LOCATION:Stade de France, Saint-Denis
+DESCRIPTION:巴黎2024 - 閉幕式
+SUMMARY:巴黎2024 - 閉幕式
+LOCATION:法蘭西體育場，聖但尼
 END:VEVENT
 END:VCALENDAR

@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/CUB//EN
-X-WR-CALNAME:🇨🇺 Cuba 乒乓球 | Paris 2024
-NAME:🇨🇺 Cuba 乒乓球 | Paris 2024
+X-WR-CALNAME:🇨🇺 Cuba 乒乓球 | 巴黎2024
+NAME:🇨🇺 Cuba 乒乓球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T151500Z-table-tennis-16-SWE-CUB
 DTSTAMP:20240727T151500Z
 DTSTART:20240727T151500Z
 DTEND:20240727T160000Z
-DESCRIPTION:乒乓球 - 混合双打16强赛
+DESCRIPTION:乒乓球 - 混合雙打16強賽
 SUMMARY:🏓 KARLSSON/KALLBERG 🇸🇪 - 🇨🇺 CAMPOS/FONSECA CA
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T190000Z-table-tennis-64-CUB-BRA
 DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
 DTEND:20240728T200000Z
-DESCRIPTION:乒乓球 - 男子单打64强赛
+DESCRIPTION:乒乓球 - 男子單打64強賽
 SUMMARY:🏓 Andy PEREIRA 🇨🇺 - 🇧🇷 Hugo CALDERANO
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 END:VCALENDAR

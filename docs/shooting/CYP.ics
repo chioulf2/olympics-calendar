@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//shooting/CYP//EN
-X-WR-CALNAME:🇨🇾 Cyprus 射击 | Paris 2024
-NAME:🇨🇾 Cyprus 射击 | Paris 2024
+X-WR-CALNAME:🇨🇾 Cyprus 射擊 | 巴黎2024
+NAME:🇨🇾 Cyprus 射擊 | 巴黎2024
 BEGIN:VEVENT
 UID:20240803T070000Z-shooting--1
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z
 DTEND:20240803T123000Z
-DESCRIPTION:射击 - 女子双向飞碟资格赛 - 第1天\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+DESCRIPTION:射擊 - 女子雙向飛碟資格賽 - 第1天\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
   RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
   SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
   Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
@@ -18,7 +18,7 @@ DESCRIPTION:射击 - 女子双向飞碟资格赛 - 第1天\n🇦🇺 Aislin JONE
   ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
   Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
   CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
-SUMMARY:🔫 女子双向飞碟资格赛 - 第1天
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 女子雙向飛碟資格賽 - 第1天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 END:VCALENDAR

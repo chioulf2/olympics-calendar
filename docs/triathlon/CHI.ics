@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//triathlon/CHI//EN
-X-WR-CALNAME:🇨🇱 Chile 铁人三项 | Paris 2024
-NAME:🇨🇱 Chile 铁人三项 | Paris 2024
+X-WR-CALNAME:🇨🇱 Chile 鐵人三項 | 巴黎2024
+NAME:🇨🇱 Chile 鐵人三項 | 巴黎2024
 BEGIN:VEVENT
 UID:20240731T084500Z-triathlon-
 DTSTAMP:20240731T084500Z
 DTSTART:20240731T084500Z
 DTEND:20240731T104500Z
-DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
+DESCRIPTION:鐵人三項 - 男子個人賽\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
   GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois KNABL\n🇪🇸
   Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR MOYSEN\n🇭🇺 Bence
   BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto GRAJALES\n🇭🇺 Csongor
@@ -26,7 +26,7 @@ DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Al
   Samuel DICKINSON\n🇺🇸 Seth RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim
   HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦 Tyler MISLAWCHUK\n🇧🇲 Tyler
   SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle Bergsvik THORN
-SUMMARY:🏊 男子个人赛
-LOCATION:亚历山大三世桥
+SUMMARY:🏊 男子個人賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 END:VCALENDAR

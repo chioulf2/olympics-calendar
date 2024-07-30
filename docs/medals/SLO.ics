@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/SLO//EN
-X-WR-CALNAME:🇸🇮 Slovenia 🏅 | Paris 2024
-NAME:🇸🇮 Slovenia 🏅 | Paris 2024
+X-WR-CALNAME:🇸🇮 Slovenia 🏅 | 巴黎2024
+NAME:🇸🇮 Slovenia 🏅 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
 DTSTART:20240727T123000Z
 DTEND:20240727T135900Z
-DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
+DESCRIPTION:公路自行車 - 女子個人計時賽\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
   HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
   NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
   Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
@@ -19,15 +19,15 @@ DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK
   PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
   BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮
   Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 女子个人计时赛
-LOCATION:亚历山大三世桥
+SUMMARY:🚴 女子個人計時賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T143200Z-cycling-road-
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
 DTEND:20240727T155700Z
-DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+DESCRIPTION:公路自行車 - 男子個人計時賽\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
   BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
   Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
   GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
@@ -38,15 +38,15 @@ DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n
   LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan
   MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan
   KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
-SUMMARY:🚴 男子个人计时赛
-LOCATION:亚历山大三世桥
+SUMMARY:🚴 男子個人計時賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
-DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
+DESCRIPTION:山地自行車 - 女子越野賽\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
   KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
   Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
   MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
@@ -59,31 +59,31 @@ DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭
   HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
   Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳 WU Zhifan\n🇺🇦 Yana
   BELOMOINA
-SUMMARY:🚴 女子越野赛
-LOCATION:埃朗库尔山
+SUMMARY:🚴 女子越野賽
+LOCATION:埃朗庫爾山
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T154500Z-canoe-slalom-
 DTSTAMP:20240728T154500Z
 DTSTART:20240728T154500Z
 DTEND:20240728T162900Z
-DESCRIPTION:皮划艇激流回旋 - 女子单人皮艇决赛\n🇧🇷 Ana SATILA\n🇫🇷 Camille PRIGENT\n🇦🇹
+DESCRIPTION:皮劃艇激流回旋 - 女子單人皮艇決賽\n🇧🇷 Ana SATILA\n🇫🇷 Camille PRIGENT\n🇦🇹
   Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇦🇺 Jessica
   FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇳🇿 Luuka JONES\n🇪🇸
   Maialen CHOURRAUT\n🇩🇪 Ricarda FUNK\n🇮🇹 Stefanie HORN
-SUMMARY:🛶 女子单人皮艇决赛
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 女子單人皮艇決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T152000Z-canoe-slalom-
 DTSTAMP:20240729T152000Z
 DTSTART:20240729T152000Z
 DTEND:20240729T160400Z
-DESCRIPTION:皮划艇激流回旋 - 男子单人划艇决赛\n🇬🇧 Adam BURGESS\n🇸🇮 Benjamin
+DESCRIPTION:皮劃艇激流回旋 - 男子單人划艇決賽\n🇬🇧 Adam BURGESS\n🇸🇮 Benjamin
   SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰
   Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas
   GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 男子单人划艇决赛
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 男子單人划艇決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 END:VCALENDAR

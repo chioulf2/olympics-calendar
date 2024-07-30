@@ -1,70 +1,58 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/BRN//EN
-X-WR-CALNAME:🇧🇭 Bahrain | Paris 2024
-NAME:🇧🇭 Bahrain | Paris 2024
+X-WR-CALNAME:🇧🇭 Bahrain | 巴黎2024
+NAME:🇧🇭 Bahrain | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
-DESCRIPTION:Paris 2024 - Opening ceremony
-SUMMARY:Paris 2024 - Opening ceremony
-LOCATION:Paris
+DESCRIPTION:巴黎2024 - 開幕式
+SUMMARY:巴黎2024 - 開幕式
+LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T091300Z-swimming-100
 DTSTAMP:20240729T091300Z
 DTSTART:20240729T091300Z
 DTEND:20240729T092700Z
-DESCRIPTION:游泳 - 女子100米仰泳分组预赛\n🇵🇱 Adela PISKORSKA\n🇧🇭 Amani
-  ALOBAIDLI\n🇮🇱 Aviv BARZELAY\n🇹🇲 Aynura PRIMOVA\n🇫🇷 Beryl
-  GASTALDELLO\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇪🇸 Carmen WEILER SASTRE\n🇲🇽
-  Celia PULIDO ORTIZ\n🇸🇻 Celina MARQUEZ\n🇮🇪 Danielle HILL\n🇲🇿 Denise
-  DONELLI\n🇩🇴 Elizabeth JIMENEZ\n🇧🇲 Emma HARVEY\n🇫🇷 Emma TEREBO\n🇧🇬
-  Gabriela GEORGIEVA\n🇱🇰 Ganga SENAVIRATHNE\n🇨🇦 Ingrid WILM\n🇦🇺 Iona
-  ANDERSON\n🇺🇸 Katharine BERKOFF\n🇬🇧 Kathleen DAWSON\n🇦🇺 Kaylee
-  McKEOWN\n🇳🇱 Kira TOUSSAINT\n🇨🇦 Kylie MASSE\n🇸🇪 Louise HANSSON\n🇬🇹
-  Lucero MEJIA\n🇳🇱 Maaike de WAARD\n🇬🇧 Medi Eira HARRIS\n🇱🇾 Mek
-  ALMUKHTAR\n🇺🇦 Nika SHARAFUTDINOVA\n🇺🇸 Regan SMITH\n🇧🇪 Roos
-  VANOTTERDIJK\n🇨🇳 WAN Letian\n🇨🇳 WANG Xueer\n🇰🇿 Xeniya
-  IGNATOVA\n🇹🇹 Zuri FERGUSON
-SUMMARY:🏊 女子100米仰泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子100米仰泳分組預賽\n🇹🇲 土庫曼斯坦\n🇨🇳 中國\n🇭🇰 中國香港\n🇧🇭
+  巴林\n🇧🇪 比利時\n🇮🇱 以色列\n🇨🇦 加拿大\n🇬🇹 危地馬拉\n🇩🇴 多米尼加\n🇧🇲 百慕大\n🇪🇸
+  西班牙\n🇱🇾 利比亞\n🇫🇷 法國\n🇵🇱 波蘭\n🇧🇬 保加利亞\n🇰🇿 哈薩克斯坦\n🇺🇸 美國\n🇬🇧
+  英國\n🇺🇦 烏克蘭\n🇹🇹 特立尼達和多巴哥\n🇳🇱 荷蘭\n🇲🇿 莫桑比克\n🇱🇰 斯里蘭卡\n🇮🇪
+  愛爾蘭\n🇸🇪 瑞典\n🇲🇽 墨西哥\n🇦🇺 澳大利亞\n🇸🇻 薩爾瓦多
+SUMMARY:🏊 女子100米仰泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T082400Z-judo-8132-BRN-TUR
 DTSTAMP:20240730T082400Z
 DTSTART:20240730T082400Z
 DTEND:20240730T083000Z
-DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子81公斤級32強淘汰賽
 SUMMARY:🥋 Askerbii GERBEKOV 🇧🇭 - 🇹🇷 Vedat ALBAYRAK
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T110153Z-swimming-200
 DTSTAMP:20240730T110153Z
 DTSTART:20240730T110153Z
 DTEND:20240730T112042Z
-DESCRIPTION:游泳 - 男子200米蛙泳分组预赛\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro
-  AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler
-  CHRISTIANSON\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG
-  Zhihao\n🇱🇻 Daniils BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik
-  PERSSON\n🇯🇵 HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺
-  Joshua YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
-  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
-  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
-  Ippei\n🇦🇺 Zac STUBBLETY-COOK
-SUMMARY:🏊 男子200米蛙泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子200米蛙泳分組預賽\n🇨🇳 中國\n🇧🇭 巴林\n🇵🇦 巴拿馬\n🇯🇵 日本\n🇱🇹
+  立陶宛\n🇮🇸 冰島\n🇰🇬 吉爾吉斯斯坦\n🇱🇻 拉脫維亞\n🇫🇷 法國\n🇵🇱 波蘭\n🇫🇮 芬蘭\n🇧🇬
+  保加利亞\n🇭🇳 洪都拉斯\n🇯🇴 約旦\n🇺🇸 美國\n🇳🇱 荷蘭\n🇸🇪 瑞典\n🇲🇽 墨西哥\n🇦🇺
+  澳大利亞\n🇰🇷 韓國
+SUMMARY:🏊 男子200米蛙泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
-LOCATION:Stade de France, Saint-Denis
+DESCRIPTION:巴黎2024 - 閉幕式
+SUMMARY:巴黎2024 - 閉幕式
+LOCATION:法蘭西體育場，聖但尼
 END:VEVENT
 END:VCALENDAR

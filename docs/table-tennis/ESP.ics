@@ -1,51 +1,51 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/ESP//EN
-X-WR-CALNAME:🇪🇸 Spain 乒乓球 | Paris 2024
-NAME:🇪🇸 Spain 乒乓球 | Paris 2024
+X-WR-CALNAME:🇪🇸 Spain 乒乓球 | 巴黎2024
+NAME:🇪🇸 Spain 乒乓球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T151500Z-table-tennis-16-BRA-ESP
 DTSTAMP:20240727T151500Z
 DTSTART:20240727T151500Z
 DTEND:20240727T160000Z
-DESCRIPTION:乒乓球 - 混合双打16强赛
+DESCRIPTION:乒乓球 - 混合雙打16強賽
 SUMMARY:🏓 ISHIY/TAKAHASHI 🇧🇷 - 🇪🇸 ROBLES/XIAO
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T150000Z-table-tennis-14-HKG-ESP
 DTSTAMP:20240728T150000Z
 DTSTART:20240728T150000Z
 DTEND:20240728T160000Z
-DESCRIPTION:乒乓球 - 混合双打1/4决赛
+DESCRIPTION:乒乓球 - 混合雙打1/4決賽
 SUMMARY:🏓 WONG/DOO 🇭🇰 - 🇪🇸 ROBLES/XIAO
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T200000Z-table-tennis-64-EGY-ESP
 DTSTAMP:20240728T200000Z
 DTSTART:20240728T200000Z
 DTEND:20240728T210000Z
-DESCRIPTION:乒乓球 - 女子单打64强赛
+DESCRIPTION:乒乓球 - 女子單打64強賽
 SUMMARY:🏓 Dina MESHREF 🇪🇬 - 🇪🇸 Maria XIAO
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T080000Z-table-tennis-64-ESP-AUT
 DTSTAMP:20240729T080000Z
 DTSTART:20240729T080000Z
 DTEND:20240729T090000Z
-DESCRIPTION:乒乓球 - 男子单打64强赛
+DESCRIPTION:乒乓球 - 男子單打64強賽
 SUMMARY:🏓 Alvaro ROBLES 🇪🇸 - 🇦🇹 Daniel HABESOHN
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T090000Z-table-tennis-32-ESP-BRA
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T100000Z
-DESCRIPTION:乒乓球 - 男子单打32强赛
+DESCRIPTION:乒乓球 - 男子單打32強賽
 SUMMARY:🏓 Alvaro ROBLES 🇪🇸 - 🇧🇷 Hugo CALDERANO
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 END:VCALENDAR

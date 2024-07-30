@@ -1,44 +1,31 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//swimming/BOT//EN
-X-WR-CALNAME:🇧🇼 Botswana 游泳 | Paris 2024
-NAME:🇧🇼 Botswana 游泳 | Paris 2024
+X-WR-CALNAME:🇧🇼 Botswana 游泳 | 巴黎2024
+NAME:🇧🇼 Botswana 游泳 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T093000Z-swimming-100
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T094400Z
-DESCRIPTION:游泳 - 男子100米蛙泳分组预赛\n🇶🇦 Abdulaziz AL-OBAIDLY\n🇬🇧 Adam
-  PEATY\n🇧🇼 Adrian ROBINSON\n🇭🇹 Alexandre GRAND'PIERRE\n🇱🇹 Andrius
-  SIDLAUSKAS\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇹🇷 Berkay
-  OGRETIR\n🇦🇹 Bernhard REITSHAMMER\n🇰🇷 CHOI Dongyeol\n🇳🇱 Caspar
-  CORBEAU\n🇸🇿 Chadd NG CHIU HING NING\n🇺🇸 Charlie SWANSON\n🇰🇬 Denis
-  PETRASHOV\n🇦🇬 Jadon WUILLIEZ\n🇬🇧 James WILBY\n🇵🇱 Jan
-  KALUSOWSKI\n🇲🇬 Jonathan RAHARVEL\n🇦🇺 Joshua YONG\n🇩🇪 Lucas
-  MATZERATH\n🇮🇹 Ludovico Blu Art VIBERTI\n🇲🇿 Matthew LAWRENCE\n🇩🇪
-  Melvin IMOUDU\n🇦🇸 Micah MASEI\n🇲🇽 Miguel Alejandro de LARA
-  OJEDA\n🇺🇸 Nic FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN Haiyang\n🇮🇱 Ron
-  POLONSKY\n🇨🇳 SUN Jiajun\n🇦🇺 Sam WILLIAMSON\n🇱🇦 Steven
-  INSIXIENGMAY\n🇯🇵 TANIGUCHI Taku\n🇫🇲 Tasi LIMTIACO
-SUMMARY:🏊 男子100米蛙泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子100米蛙泳分組預賽\n🇹🇷 土耳其\n🇨🇳 中國\n🇯🇵 日本\n🇮🇱 以色列\n🇶🇦
+  卡塔爾\n🇱🇹 立陶宛\n🇮🇸 冰島\n🇰🇬 吉爾吉斯斯坦\n🇦🇬 安提瓜和巴布達\n🇱🇦 老撾\n🇵🇱 波蘭\n🇺🇸
+  美國\n🇦🇸 美屬薩摩亞\n🇬🇧 英國\n🇭🇹 海地\n🇲🇬 馬達加斯加\n🇫🇲 密克羅尼西亞\n🇳🇱 荷蘭\n🇲🇿
+  莫桑比克\n🇧🇼 博茨瓦納\n🇸🇿 斯威士蘭\n🇦🇹 奧地利\n🇮🇹 意大利\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺
+  澳大利亞\n🇰🇷 韓國
+SUMMARY:🏊 男子100米蛙泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T104759Z-swimming-100
 DTSTAMP:20240730T104759Z
 DTSTART:20240730T104759Z
 DTEND:20240730T110153Z
-DESCRIPTION:游泳 - 女子100米自由泳分组预赛\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
-  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
-  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
-  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
-  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
-  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
-  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
-  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
-  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
-  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
-SUMMARY:🏊 女子100米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子100米自由泳分組預賽\n🇨🇳 中國\n🇭🇰 中國香港\n🇨🇦 加拿大\n🇮🇸 冰島\n🇬🇾
+  圭亞那\n🇭🇷 克羅地亞\n🇫🇷 法國\n🇵🇱 波蘭\n🇩🇿 阿爾及利亞\n🇿🇼 津巴布韋\n🇺🇸 美國\n🇬🇧
+  英國\n🇬🇩 格林納達\n🇺🇬 烏幹達\n🇨🇿 捷克\n🇳🇱 荷蘭\n🇧🇼 博茨瓦納\n🇸🇮 斯洛文尼亞\n🇵🇭
+  菲律賓\n🇰🇾 開曼群島\n🇨🇾 塞浦路斯\n🇸🇪 瑞典\n🇦🇺 澳大利亞\n🇸🇩 蘇丹
+SUMMARY:🏊 女子100米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 END:VCALENDAR

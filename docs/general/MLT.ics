@@ -1,32 +1,32 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/MLT//EN
-X-WR-CALNAME:🇲🇹 Malta | Paris 2024
-NAME:🇲🇹 Malta | Paris 2024
+X-WR-CALNAME:🇲🇹 Malta | 巴黎2024
+NAME:🇲🇹 Malta | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
-DESCRIPTION:Paris 2024 - Opening ceremony
-SUMMARY:Paris 2024 - Opening ceremony
-LOCATION:Paris
+DESCRIPTION:巴黎2024 - 開幕式
+SUMMARY:巴黎2024 - 開幕式
+LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T084200Z-judo-4832-MGL-MLT
 DTSTAMP:20240727T084200Z
 DTSTART:20240727T084200Z
 DTEND:20240727T084800Z
-DESCRIPTION:柔道 - 女子48公斤级32强淘汰赛
+DESCRIPTION:柔道 - 女子48公斤級32強淘汰賽
 SUMMARY:🥋 Baasankhuu BAVUUDORJ 🇲🇳 - 🇲🇹 Katryna ESPOSITO
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
 DTEND:20240729T120000Z
-DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第1天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+DESCRIPTION:射擊 - 男子多向飛碟資格賽 - 第1天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
   GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
   LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
   PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
@@ -37,15 +37,15 @@ DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第1天\n🇪🇸 Alberto FER
   Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
   Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
   Haicheng
-SUMMARY:🔫 男子多向飞碟资格赛 - 第1天
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子多向飛碟資格賽 - 第1天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T070000Z-shooting--2
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T100000Z
-DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第2天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+DESCRIPTION:射擊 - 男子多向飛碟資格賽 - 第2天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
   GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
   LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
   PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
@@ -56,62 +56,44 @@ DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第2天\n🇪🇸 Alberto FER
   Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
   Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
   Haicheng
-SUMMARY:🔫 男子多向飞碟资格赛 - 第2天
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子多向飛碟資格賽 - 第2天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T095131Z-swimming-1500
 DTSTAMP:20240730T095131Z
 DTSTART:20240730T095131Z
 DTEND:20240730T104759Z
-DESCRIPTION:游泳 - 女子1500米自由泳分组预赛\n🇫🇷 Anastasiia KIRPICHNIKOVA\n🇧🇷
-  Beatriz DIZOTTI\n🇸🇬 Ching Hwee GAN\n🇳🇿 Eve THOMAS\n🇨🇳 GAO
-  Weizhong\n🇮🇹 Ginevra TADDEUCCI\n🇩🇪 Isabel GOSE\n🇺🇸 Katie
-  GRIMES\n🇺🇸 Katie LEDECKY\n🇨🇱 Kristel KOBRICH\n🇨🇳 LI Bingjie\n🇦🇺
-  Lani PALLISTER\n🇩🇪 Leonie MAERTENS\n🇦🇺 Moesha JOHNSON\n🇲🇹 Sasha
-  GATT\n🇮🇹 Simona QUADARELLA\n🇭🇺 Vivien JACKL
-SUMMARY:🏊 女子1500米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子1500米自由泳分組預賽\n🇨🇳 中國\n🇧🇷 巴西\n🇭🇺 匈牙利\n🇫🇷 法國\n🇺🇸
+  美國\n🇲🇹 馬耳他\n🇨🇱 智利\n🇮🇹 意大利\n🇸🇬 新加坡\n🇳🇿 新西蘭\n🇩🇪 德國\n🇦🇺 澳大利亞
+SUMMARY:🏊 女子1500米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T091600Z-swimming-50
 DTSTAMP:20240801T091600Z
 DTSTART:20240801T091600Z
 DTEND:20240801T093800Z
-DESCRIPTION:游泳 - 男子50米自由泳分组预赛\n🇪🇷 Aaron Ghebre OWUSU\n🇬🇦 Adam
-  MPALI\n🏳️ Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨 Alex JOACHIM\n🇬🇧
-  Alexander COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote NDOMBE IMPELENGA\n🇩🇪
-  Artem SELIN\n🇧🇮 Belly-Cresus GANIRA\n🇦🇺 Ben ARMBRUSTER\n🇬🇧 Benjamin
-  PROUD\n🇸🇪 Bjoern SEELIGER\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron
-  McEVOY\n🇲🇷 Camil DOUA\n🇺🇸 Chris GUILIANO\n🇿🇲 Damien SHAMAMBO\n🇫🇯
-  David YOUNG\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇹 Dylan CARTER\n🇬🇳 Elhadj
-  N'gnane DIALLO\n🇦🇫 Fahim ANWARI\n🇹🇯 Fakhriddin MADKAMOV\n🇲🇼 Filipe
-  GOMES\n🇫🇷 Florent MANAUDOU\n🇨🇬 Freddy MAYALA\n🇲🇽 Gabriel CASTANO
-  GARCIA\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian Yentou\n🇬🇶 Higinio NDONG
-  OBAMA\n🇩🇯 Houmed HOUSSEIN BARKAT\n🇰🇷 JI Yuchan\n🇭🇷 Jere
-  HRIBAR\n🇵🇼 Jion HOSEI\n🇹🇱 Jolanio GUTERRES\n🇸🇬 Jonathan Eu Jin
-  TAN\n🇰🇾 Jordan CROOKS\n🇨🇻 Jose TATI\n🇨🇦 Josh LIENDO\n🇸🇱 Joshua
-  WYSE\n🇳🇱 Kenzo SIMONS\n🇬🇷 Kristian GKOLOMEEV\n🇲🇹 Kyle
-  MICALLEF\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇹🇬 Magnim
-  Jordano DAOU\n🇳🇪 Marouane MAMANE HAMISSOU ABBA\n🇮🇱 Martin
-  KARTAVI\n🇸🇰 Matej DUSA\n🇫🇷 Maxime GROUSSET\n🇮🇱 Meiron Amir
-  CHERUTI\n🇵🇹 Miguel NASCIMENTO\n🇦🇼 Mikel SCHREUDERS\n🇲🇻 Mohamed Aan
-  HUSSAIN\n🇳🇴 Nicholas LIA\n🇬🇲 Ousman JOBE\n🇬🇼 Pedro ROGERY\n🇲🇭
-  Phillip KINONO\n🇵🇱 Piotr LUDWICZAK\n🇳🇱 Renzo TJON-A-JOE\n🇮🇪 Shane
-  RYAN\n🇧🇫 Souleymane NAPARE\n🇬🇷 Stergios Marios BILAS\n🇭🇺
-  Szebasztian SZABO\n🇳🇿 Taiko TOREPE-ORMSBY\n🇨🇫 Terence TENGUE\n🇨🇭
-  Thierry BOLLIN\n🇮🇪 Thomas FANNON\n🇳🇬 Tobi SIJUADE\n🇰🇳 Troy
-  NISBETT\n🇺🇦 Vladyslav BUKHOV\n🇩🇲 Warren Adam LAWRENCE
-SUMMARY:🏊 男子50米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子50米自由泳分組預賽\n🇨🇫 中非\n🇭🇰 中國香港\n🇪🇷 厄立特里亞\n🇧🇷
+  巴西\n🇲🇷 毛裡塔尼亞\n🇮🇱 以色列\n🇨🇦 加拿大\n🇬🇦 加蓬\n🇳🇬 尼日利亞\n🇳🇪 尼日爾\n🇧🇫
+  布基納法索\n🇧🇮 布隆迪\n🇭🇺 匈牙利\n🇩🇯 吉布提\n🇩🇲 多米尼克\n🇹🇬 多哥\n🇨🇻 佛得角\n🇭🇷
+  克羅地亞\n🇬🇷 希臘\n🇬🇶 赤道幾內亞\n🇻🇪 委內瑞拉\n🇬🇲 岡比亞\n🇵🇼 帕勞\n🇹🇱 東帝汶\n🇫🇷
+  法國\n🇵🇱 波蘭\n🇦🇫 阿富汗\n🇦🇼 阿魯巴\n🇺🇸 美國\n🇬🇧 英國\n🇨🇬 剛果（布）\n🇨🇩
+  剛果（金）\n🇳🇴 挪威\n🇺🇦 烏克蘭\n🇹🇹 特立尼達和多巴哥\n🇲🇹 馬耳他\n🇲🇼 馬拉維\n🇲🇭
+  馬紹爾群島\n🇲🇻 馬爾代夫\n🇳🇱 荷蘭\n🇬🇳 幾內亞\n🇬🇼 幾內亞比紹\n🇫🇯 斐濟\n🇸🇰 斯洛伐克\n🇰🇾
+  開曼群島\n🇹🇯 塔吉克斯坦\n🇸🇱 塞拉利昂\n🇷🇸 塞爾維亞\n🏳️ 奧林匹克難民代表團\n🇮🇹 意大利\n🇮🇪
+  愛爾蘭\n🇸🇬 新加坡\n🇳🇿 新西蘭\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇻🇨 聖文森特和格林納丁斯\n🇰🇳
+  聖基茨和尼維斯\n🇵🇹 葡萄牙\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞\n🇰🇷 韓國\n🇿🇲 贊比亞
+SUMMARY:🏊 男子50米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
-LOCATION:Stade de France, Saint-Denis
+DESCRIPTION:巴黎2024 - 閉幕式
+SUMMARY:巴黎2024 - 閉幕式
+LOCATION:法蘭西體育場，聖但尼
 END:VEVENT
 END:VCALENDAR

@@ -1,178 +1,147 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/PER//EN
-X-WR-CALNAME:🇵🇪 Peru | Paris 2024
-NAME:🇵🇪 Peru | Paris 2024
+X-WR-CALNAME:🇵🇪 Peru | 巴黎2024
+NAME:🇵🇪 Peru | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
-DESCRIPTION:Paris 2024 - Opening ceremony
-SUMMARY:Paris 2024 - Opening ceremony
-LOCATION:Paris
+DESCRIPTION:巴黎2024 - 開幕式
+SUMMARY:巴黎2024 - 開幕式
+LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T080000Z-fencing-64-PER-SGP
 DTSTAMP:20240727T080000Z
 DTSTART:20240727T080000Z
 DTEND:20240727T082500Z
-DESCRIPTION:击剑 - 女子个人重剑64强
+DESCRIPTION:擊劍 - 女子個人重劍64強
 SUMMARY:🤺 Maria Luisa DOIG CALDERON 🇵🇪 - 🇸🇬 Kiria Tikanah ABDUL RAHMAN
-LOCATION:巴黎大皇宫
+LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T081200Z-rowing-
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:赛艇 - 女子单人双桨分组预赛\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
-  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪
-  Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina
-  JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿
-  Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇳🇮 Evidelia GONZALEZ
-  JARQUIN\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
-  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen
-  NOBLE\n🇲🇽 Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline
-  EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
-  BADENHORST\n🇰🇼 Soaad ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue
-  PHAM\n🇱🇹 Viktorija SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis
-  COBAS GARCIA
-SUMMARY:🚣 女子单人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子單人雙槳分組預賽\n🇹🇷 土耳其\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇨🇺 古巴\n🇳🇮
+  尼加拉瓜\n🇱🇹 立陶宛\n🇮🇷 伊朗\n🇹🇬 多哥\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆\n🇩🇿 阿爾及利亞\n🇧🇬
+  保加利亞\n🇿🇦 南非\n🇰🇼 科威特\n🇺🇸 美國\n🇺🇿 烏茲別克斯坦\n🇺🇬 烏幹達\n🇵🇪 秘魯\n🇳🇱
+  荷蘭\n🇸🇮 斯洛文尼亞\n🇵🇭 菲律賓\n🇻🇳 越南\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇸🇬 新加坡\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇦 摩洛哥\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+SUMMARY:🚣 女子單人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T094500Z-swimming-400
 DTSTAMP:20240727T094500Z
 DTSTART:20240727T094500Z
 DTEND:20240727T101400Z
-DESCRIPTION:游泳 - 男子400米自由泳分组预赛\n🇺🇸 Aaron SHACKELL\n🇹🇳 Ahmed
-  JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇨🇭
-  Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David AUBRY\n🇨🇱 Eduardo
-  CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺 Elijah WINNINGTON\n🇨🇳
-  FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme COSTA\n🇲🇾 Hoe Yean
-  KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya SIBIRTSEV\n🇵🇪 Joaquin
-  VARGAS\n🇧🇦 Jovan LEKIC\n🇰🇷 KIM Woomin\n🇬🇧 Kieran BIRD\n🇺🇸 Kieran
-  SMITH\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪
-  Lukas MAERTENS\n🇮🇹 Marco de TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola
-  GJURETANOVIKJ\n🇩🇪 Oliver KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov
-  MITSIN\n🇬🇾 Raekwon Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana
-  MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪 Victor JOHANSSON\n🇨🇳 ZHANG
-  Zhanshuo\n🇭🇺 Zalan SARKANY
-SUMMARY:🏊 男子400米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子400米自由泳分組預賽\n🇨🇳 中國\n🇧🇷 巴西\n🇧🇪 比利時\n🇲🇰 北馬其頓\n🇱🇹
+  立陶宛\n🇭🇺 匈牙利\n🇬🇾 圭亞那\n🇻🇪 委內瑞拉\n🇫🇷 法國\n🇧🇦 波黑\n🇰🇪 肯尼亞\n🇧🇬
+  保加利亞\n🇹🇳 突尼斯\n🇺🇸 美國\n🇬🇧 英國\n🇨🇷 哥斯達黎加\n🇺🇿 烏茲別克斯坦\n🇵🇪 秘魯\n🇲🇾
+  馬來西亞\n🇨🇱 智利\n🇦🇹 奧地利\n🇮🇹 意大利\n🇪🇪 愛沙尼亞\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇸🇲
+  聖馬力諾\n🇩🇪 德國\n🇲🇦 摩洛哥\n🇲🇩 摩爾多瓦\n🇦🇺 澳大利亞\n🇰🇷 韓國
+SUMMARY:🏊 男子400米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T181200Z-surfing-1-3
 DTSTAMP:20240727T181200Z
 DTSTART:20240727T181200Z
 DTEND:20240727T184200Z
-DESCRIPTION:冲浪 - 男子第1轮 - 第3组\n🇵🇪 Alonso CORREA\n🇧🇷 Filipe TOLEDO\n🇯🇵
+DESCRIPTION:衝浪 - 男子第1輪 - 第3組\n🇵🇪 Alonso CORREA\n🇧🇷 Filipe TOLEDO\n🇯🇵
   IGARASHI Kanoa
-SUMMARY:🏄 男子第1轮 - 第3组
-LOCATION:特乎普欧，大溪地
+SUMMARY:🏄 男子第1輪 - 第3組
+LOCATION:特乎普歐，大溪地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T203600Z-surfing-1-7
 DTSTAMP:20240727T203600Z
 DTSTART:20240727T203600Z
 DTEND:20240727T210600Z
-DESCRIPTION:冲浪 - 男子第1轮 - 第7组\n🇺🇸 Griffin COLAPINTO\n🇫🇷 Kauli
+DESCRIPTION:衝浪 - 男子第1輪 - 第7組\n🇺🇸 Griffin COLAPINTO\n🇫🇷 Kauli
   VAAST\n🇵🇪 Lucca MESINAS
-SUMMARY:🏄 男子第1轮 - 第7组
-LOCATION:特乎普欧，大溪地
+SUMMARY:🏄 男子第1輪 - 第7組
+LOCATION:特乎普歐，大溪地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T222400Z-surfing-1-2
 DTSTAMP:20240727T222400Z
 DTSTART:20240727T222400Z
 DTEND:20240727T225400Z
-DESCRIPTION:冲浪 - 女子第1轮 - 第2组\n🇪🇸 Janire GONZALEZ ETXABARRI\n🇵🇪 Sol
+DESCRIPTION:衝浪 - 女子第1輪 - 第2組\n🇪🇸 Janire GONZALEZ ETXABARRI\n🇵🇪 Sol
   AGUIRRE\n🇫🇷 Vahine FIERRO
-SUMMARY:🏄 女子第1轮 - 第2组
-LOCATION:特乎普欧，大溪地
+SUMMARY:🏄 女子第1輪 - 第2組
+LOCATION:特乎普歐，大溪地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T070000Z-rowing-
 DTSTAMP:20240728T070000Z
 DTSTART:20240728T070000Z
 DTEND:20240728T073100Z
-DESCRIPTION:赛艇 - 女子单人双桨复活赛\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
-  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇹🇷 Elis
-  OZBAY\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷 Fatemeh
-  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇺🇬 Kathleen NOBLE\n🇲🇦
-  Majdouline EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad ALFAQAAN\n🇻🇳
-  Thi Hue PHAM\n🇨🇺 Yariulvis COBAS GARCIA
-SUMMARY:🚣 女子单人双桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子單人雙槳復活賽\n🇹🇷 土耳其\n🇵🇾 巴拉圭\n🇨🇺 古巴\n🇳🇮 尼加拉瓜\n🇮🇷
+  伊朗\n🇹🇬 多哥\n🇩🇿 阿爾及利亞\n🇰🇼 科威特\n🇺🇬 烏幹達\n🇵🇪 秘魯\n🇵🇭 菲律賓\n🇻🇳
+  越南\n🇸🇬 新加坡\n🇲🇦 摩洛哥
+SUMMARY:🚣 女子單人雙槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T080600Z-judo-6632-ITA-PER
 DTSTAMP:20240728T080600Z
 DTSTART:20240728T080600Z
 DTEND:20240728T081200Z
-DESCRIPTION:柔道 - 男子66公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子66公斤級32強淘汰賽
 SUMMARY:🥋 Matteo PIRAS 🇮🇹 - 🇵🇪 Juan POSTIGOS
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T093000Z-rowing-
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T095700Z
-DESCRIPTION:赛艇 - 女子轻量级双人双桨分组预赛\n🇵🇪 Alessia PALACIOS\n🇮🇪 Aoife
-  CASEY\n🇫🇷 Claire BOVE\n🇬🇷 Dimitra KONTOU\n🇬🇧 Emily CRAIG\n🇦🇷
-  Evelyn SILVESTRO\n🇷🇴 Gianina Elena van GRONINGEN\n🇯🇵 HIROUCHI
-  Emi\n🇬🇧 Imogen GRANT\n🇷🇴 Ionela Livia COZMIUC\n🇳🇿 Jackie
-  KIDDLE\n🇨🇦 Jenny CASSON\n🇨🇦 Jill MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳
-  Khadija KRIMI\n🇦🇹 Lara TIEFENTHALER\n🇫🇷 Laura TARANTOLA\n🇦🇹 Louisa
-  ALTENHUBER\n🇮🇷 Mahsa JAVER\n🇮🇪 Margaret CREMEN\n🇵🇱 Martyna
-  RADOSZ\n🇺🇸 Michelle SECHSER\n🇺🇸 Molly RECKFORD\n🇯🇵 OISHI
-  Ayami\n🇨🇳 QIU Xiuping\n🇹🇳 Selma DHAOUADI\n🇳🇿 Shannon COX\n🇦🇷
-  Sonia BALUZZO CHIARUZZO\n🇵🇪 Valeria PALACIOS\n🇨🇳 ZOU Jiaqi\n🇮🇷
-  Zeinab NOROUZI TAZEH KAND\n🇬🇷 Zoi FITSIOU
-SUMMARY:🚣 女子轻量级双人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳分組預賽\n🇨🇳 中國\n🇯🇵 日本\n🇨🇦 加拿大\n🇮🇷 伊朗\n🇬🇷
+  希臘\n🇫🇷 法國\n🇵🇱 波蘭\n🇦🇷 阿根廷\n🇹🇳 突尼斯\n🇺🇸 美國\n🇬🇧 英國\n🇵🇪 秘魯\n🇦🇹
+  奧地利\n🇮🇪 愛爾蘭\n🇳🇿 新西蘭\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 女子輕量級雙人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T170000Z-surfing-2-1-CHN-PER
 DTSTAMP:20240728T170000Z
 DTSTART:20240728T170000Z
 DTEND:20240728T173000Z
-DESCRIPTION:冲浪 - 女子第2轮 - 第1组
+DESCRIPTION:衝浪 - 女子第2輪 - 第1組
 SUMMARY:🏄 YANG Siqi 🇨🇳 - 🇵🇪 Sol AGUIRRE
-LOCATION:特乎普欧，大溪地
+LOCATION:特乎普歐，大溪地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T013400Z-surfing-2-7-AUS-PER
 DTSTAMP:20240729T013400Z
 DTSTART:20240729T013400Z
 DTEND:20240729T021400Z
-DESCRIPTION:冲浪 - 男子第2轮 - 第7组
+DESCRIPTION:衝浪 - 男子第2輪 - 第7組
 SUMMARY:🏄 Jack ROBINSON 🇦🇺 - 🇵🇪 Lucca MESINAS
-LOCATION:特乎普欧，大溪地
+LOCATION:特乎普歐，大溪地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T090000Z-rowing-
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T091700Z
-DESCRIPTION:赛艇 - 女子轻量级双人双桨复活赛\n🇵🇪 Alessia PALACIOS\n🇮🇪 Aoife
-  CASEY\n🇦🇷 Evelyn SILVESTRO\n🇯🇵 HIROUCHI Emi\n🇨🇦 Jenny CASSON\n🇨🇦
-  Jill MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳 Khadija KRIMI\n🇦🇹 Lara
-  TIEFENTHALER\n🇦🇹 Louisa ALTENHUBER\n🇮🇷 Mahsa JAVER\n🇮🇪 Margaret
-  CREMEN\n🇵🇱 Martyna RADOSZ\n🇯🇵 OISHI Ayami\n🇨🇳 QIU Xiuping\n🇹🇳
-  Selma DHAOUADI\n🇦🇷 Sonia BALUZZO CHIARUZZO\n🇵🇪 Valeria PALACIOS\n🇨🇳
-  ZOU Jiaqi\n🇮🇷 Zeinab NOROUZI TAZEH KAND
-SUMMARY:🚣 女子轻量级双人双桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳復活賽\n🇨🇳 中國\n🇯🇵 日本\n🇨🇦 加拿大\n🇮🇷 伊朗\n🇵🇱
+  波蘭\n🇦🇷 阿根廷\n🇹🇳 突尼斯\n🇵🇪 秘魯\n🇦🇹 奧地利\n🇮🇪 愛爾蘭
+SUMMARY:🚣 女子輕量級雙人雙槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T100300Z-sailing-IQFOIL-01
 DTSTAMP:20240729T100300Z
 DTSTART:20240729T100300Z
 DTEND:20240729T101200Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛01\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽01\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -180,15 +149,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛01\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛01
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽01
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T103700Z-sailing-IQFOIL-02
 DTSTAMP:20240729T103700Z
 DTSTART:20240729T103700Z
 DTEND:20240729T104600Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛02\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽02\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -196,50 +165,45 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛02\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛02
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽02
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T170000Z-surfing-3-1-PER-RSA
 DTSTAMP:20240729T170000Z
 DTSTART:20240729T170000Z
 DTEND:20240729T173000Z
-DESCRIPTION:冲浪 - 男子第3轮 - 第1组
+DESCRIPTION:衝浪 - 男子第3輪 - 第1組
 SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇿🇦 Jordy SMITH
-LOCATION:特乎普欧，大溪地
+LOCATION:特乎普歐，大溪地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T072000Z-badminton--J-PER-TUR
 DTSTAMP:20240730T072000Z
 DTSTART:20240730T072000Z
 DTEND:20240730T080000Z
-DESCRIPTION:羽毛球 - 女子单打小组赛 - J组
+DESCRIPTION:羽毛球 - 女子單打小組賽 - J組
 SUMMARY:🏸 Ines Lucia CASTILLO 🇵🇪 - 🇹🇷 Neslihan ARIN
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T073000Z-rowing-14
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T080700Z
-DESCRIPTION:赛艇 - 女子单人双桨1/4决赛\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra
-  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
-  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
-  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
-  TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
-  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
-  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
-  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
-  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
-SUMMARY:🚣 女子单人双桨1/4决赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子單人雙槳1/4決賽\n🇹🇷 土耳其\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇱🇹 立陶宛\n🇮🇷
+  伊朗\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆\n🇧🇬 保加利亞\n🇿🇦 南非\n🇺🇸 美國\n🇺🇿 烏茲別克斯坦\n🇵🇪
+  秘魯\n🇳🇱 荷蘭\n🇸🇮 斯洛文尼亞\n🇵🇭 菲律賓\n🇻🇳 越南\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+SUMMARY:🚣 女子單人雙槳1/4決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T103300Z-sailing-IQFOIL-03
 DTSTAMP:20240730T103300Z
 DTSTART:20240730T103300Z
 DTEND:20240730T105400Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛03\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽03\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -247,15 +211,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛03\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛03
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽03
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T110400Z-sailing-IQFOIL-04
 DTSTAMP:20240730T110400Z
 DTSTART:20240730T110400Z
 DTEND:20240730T112500Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛04\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽04\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -263,15 +227,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛04\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛04
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽04
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T113500Z-sailing-IQFOIL-05
 DTSTAMP:20240730T113500Z
 DTSTART:20240730T113500Z
 DTEND:20240730T115600Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛05\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽05\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -279,15 +243,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛05\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛05
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽05
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T120600Z-sailing-IQFOIL-06
 DTSTAMP:20240730T120600Z
 DTSTART:20240730T120600Z
 DTEND:20240730T122700Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛06\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽06\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -295,15 +259,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛06\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛06
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽06
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T123700Z-sailing-IQFOIL-07
 DTSTAMP:20240730T123700Z
 DTSTART:20240730T123700Z
 DTEND:20240730T125800Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛07\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽07\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -311,42 +275,42 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛07\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛07
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽07
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T170000Z-surfing-14-1-PER-JPN
 DTSTAMP:20240730T170000Z
 DTSTART:20240730T170000Z
 DTEND:20240730T173000Z
-DESCRIPTION:冲浪 - 男子1/4决赛 - 第1组
+DESCRIPTION:衝浪 - 男子1/4決賽 - 第1組
 SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇯🇵 INABA Reo
-LOCATION:特乎普欧，大溪地
+LOCATION:特乎普歐，大溪地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T074200Z-rowing-C
 DTSTAMP:20240731T074200Z
 DTSTART:20240731T074200Z
 DTEND:20240731T074900Z
-DESCRIPTION:赛艇 - 女子轻量级双人双桨决赛C\n🇨🇳 中国\n🇮🇷 伊朗\n🇯🇵 日本\n🇵🇪 秘鲁
-SUMMARY:🚣 女子轻量级双人双桨决赛C
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子輕量級雙人雙槳決賽C\n🇨🇳 中國\n🇯🇵 日本\n🇮🇷 伊朗\n🇵🇪 秘魯
+SUMMARY:🚣 女子輕量級雙人雙槳決賽C
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T134000Z-badminton--J-JPN-PER
 DTSTAMP:20240731T134000Z
 DTSTART:20240731T134000Z
 DTEND:20240731T142000Z
-DESCRIPTION:羽毛球 - 女子单打小组赛 - J组
+DESCRIPTION:羽毛球 - 女子單打小組賽 - J組
 SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇵🇪 Ines Lucia CASTILLO
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T144800Z-sailing-IQFOIL-08
 DTSTAMP:20240731T144800Z
 DTSTART:20240731T144800Z
 DTEND:20240731T150900Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛08\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽08\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -354,15 +318,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛08\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛08
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽08
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T151900Z-sailing-IQFOIL-09
 DTSTAMP:20240731T151900Z
 DTSTART:20240731T151900Z
 DTEND:20240731T154000Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛09\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽09\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -370,15 +334,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛09\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛09
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽09
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T155000Z-sailing-IQFOIL-10
 DTSTAMP:20240731T155000Z
 DTSTART:20240731T155000Z
 DTEND:20240731T161100Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛10\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽10\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -386,15 +350,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛10\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛10
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽10
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T162100Z-sailing-IQFOIL-11
 DTSTAMP:20240731T162100Z
 DTSTART:20240731T162100Z
 DTEND:20240731T164200Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛11\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽11\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -402,15 +366,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛11\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛11
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽11
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T165200Z-sailing-IQFOIL-12
 DTSTAMP:20240731T165200Z
 DTSTART:20240731T165200Z
 DTEND:20240731T171300Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛12\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽12\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -418,15 +382,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛12\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛12
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽12
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T130300Z-sailing-IQFOIL-13
 DTSTAMP:20240801T130300Z
 DTSTART:20240801T130300Z
 DTEND:20240801T132400Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛13\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽13\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -434,15 +398,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛13\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛13
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽13
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T133400Z-sailing-IQFOIL-14
 DTSTAMP:20240801T133400Z
 DTSTART:20240801T133400Z
 DTEND:20240801T135500Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛14\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽14\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -450,15 +414,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛14\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛14
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽14
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T140500Z-sailing-IQFOIL-15
 DTSTAMP:20240801T140500Z
 DTSTART:20240801T140500Z
 DTEND:20240801T142600Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛15\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽15\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -466,15 +430,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛15\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛15
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽15
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T143600Z-sailing-IQFOIL-16
 DTSTAMP:20240801T143600Z
 DTSTART:20240801T143600Z
 DTEND:20240801T145700Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛16\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽16\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -482,15 +446,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛16\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛16
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽16
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T150700Z-sailing-IQFOIL-17
 DTSTAMP:20240801T150700Z
 DTSTART:20240801T150700Z
 DTEND:20240801T152800Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛17\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽17\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -498,15 +462,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛17\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛17
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽17
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T153800Z-sailing-IQFOIL-18
 DTSTAMP:20240801T153800Z
 DTSTART:20240801T153800Z
 DTEND:20240801T155900Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛18\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽18\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -514,15 +478,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛18\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛18
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽18
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T160900Z-sailing-IQFOIL-19
 DTSTAMP:20240801T160900Z
 DTSTART:20240801T160900Z
 DTEND:20240801T163000Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛19\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽19\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -530,15 +494,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛19\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛19
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽19
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T164000Z-sailing-IQFOIL-20
 DTSTAMP:20240801T164000Z
 DTSTART:20240801T164000Z
 DTEND:20240801T170100Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛20\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil級 - 比賽20\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
   STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
   Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
   ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
@@ -546,15 +510,15 @@ DESCRIPTION:帆船 - 女子水翼帆板iQFoil级 - 比赛20\n🇦🇷 Chiara FER
   VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级 - 比赛20
-LOCATION:马赛港
+SUMMARY:⛵ 女子水翼帆板iQFoil級 - 比賽20
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T073000Z-shooting--1
 DTSTAMP:20240802T073000Z
 DTSTART:20240802T073000Z
 DTEND:20240802T120000Z
-DESCRIPTION:射击 - 男子双向飞碟资格赛 - 第1天\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+DESCRIPTION:射擊 - 男子雙向飛碟資格賽 - 第1天\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
   MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
   Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
   DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
@@ -565,35 +529,28 @@ DESCRIPTION:射击 - 男子双向飞碟资格赛 - 第1天\n🇮🇳 Anant Jeet 
   JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
   LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
   Vincent HANCOCK
-SUMMARY:🔫 男子双向飞碟资格赛 - 第1天
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子雙向飛碟資格賽 - 第1天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T091400Z-swimming-200
 DTSTAMP:20240802T091400Z
 DTSTART:20240802T091400Z
 DTEND:20240802T093400Z
-DESCRIPTION:游泳 - 女子200米个人混合泳分组预赛\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
-  Anastasia GORBENKO\n🇮🇩 Azzahra PERMATAHANI\n🇨🇿 Barbora
-  SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma SEBESTYEN\n🇦🇺 Ella
-  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇬🇧 Freya
-  Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva MALUKA\n🇨🇻 Jayla
-  PINA\n🇰🇷 KIM Seoyeong\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇵🇷
-  Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena KREUNDL\n🇯🇵
-  MATSUMOTO Shiho\n🇳🇱 Marrit STEENBERGEN\n🇵🇪 McKenna de BEVER\n🇺🇾
-  Nicole FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara
-  FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara
-  POTOCKA\n🇻🇳 Thi My Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE
-  Shiwen\n🇨🇳 YU Yiting
-SUMMARY:🏊 女子200米个人混合泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子200米個人混合泳分組預賽\n🇨🇳 中國\n🇵🇸 巴勒斯坦\n🇯🇵 日本\n🇮🇱
+  以色列\n🇨🇦 加拿大\n🇭🇺 匈牙利\n🇮🇩 印度尼西亞\n🇪🇸 西班牙\n🇨🇻 佛得角\n🇱🇻 拉脫維亞\n🇫🇷
+  法國\n🇵🇷 波多黎各\n🇿🇦 南非\n🇺🇸 美國\n🇬🇧 英國\n🇺🇾 烏拉圭\n🇵🇪 秘魯\n🇨🇿
+  捷克\n🇳🇱 荷蘭\n🇸🇰 斯洛伐克\n🇻🇳 越南\n🇦🇹 奧地利\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇦🇺
+  澳大利亞\n🇰🇷 韓國\n🇹🇼 TPE
+SUMMARY:🏊 女子200米個人混合泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T070000Z-shooting--1
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z
 DTEND:20240803T123000Z
-DESCRIPTION:射击 - 女子双向飞碟资格赛 - 第1天\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+DESCRIPTION:射擊 - 女子雙向飛碟資格賽 - 第1天\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
   RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
   SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
   Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
@@ -603,16 +560,16 @@ DESCRIPTION:射击 - 女子双向飞碟资格赛 - 第1天\n🇦🇺 Aislin JONE
   ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
   Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
   CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
-SUMMARY:🔫 女子双向飞碟资格赛 - 第1天
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 女子雙向飛碟資格賽 - 第1天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
-LOCATION:Stade de France, Saint-Denis
+DESCRIPTION:巴黎2024 - 閉幕式
+SUMMARY:巴黎2024 - 閉幕式
+LOCATION:法蘭西體育場，聖但尼
 END:VEVENT
 END:VCALENDAR

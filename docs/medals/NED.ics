@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/NED//EN
-X-WR-CALNAME:🇳🇱 Netherlands 🏅 | Paris 2024
-NAME:🇳🇱 Netherlands 🏅 | Paris 2024
+X-WR-CALNAME:🇳🇱 Netherlands 🏅 | 巴黎2024
+NAME:🇳🇱 Netherlands 🏅 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
 DTSTART:20240727T123000Z
 DTEND:20240727T135900Z
-DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
+DESCRIPTION:公路自行車 - 女子個人計時賽\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
   HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
   NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
   Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
@@ -19,15 +19,15 @@ DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK
   PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
   BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮
   Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 女子个人计时赛
-LOCATION:亚历山大三世桥
+SUMMARY:🚴 女子個人計時賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T143200Z-cycling-road-
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
 DTEND:20240727T155700Z
-DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+DESCRIPTION:公路自行車 - 男子個人計時賽\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
   BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
   Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
   GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
@@ -38,15 +38,15 @@ DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n
   LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan
   MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan
   KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
-SUMMARY:🚴 男子个人计时赛
-LOCATION:亚历山大三世桥
+SUMMARY:🚴 男子個人計時賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
-DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
+DESCRIPTION:山地自行車 - 女子越野賽\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
   KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
   Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
   MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
@@ -59,63 +59,63 @@ DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭
   HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
   Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳 WU Zhifan\n🇺🇦 Yana
   BELOMOINA
-SUMMARY:🚴 女子越野赛
-LOCATION:埃朗库尔山
+SUMMARY:🚴 女子越野賽
+LOCATION:埃朗庫爾山
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T144800Z-archery--NED-MEX
 DTSTAMP:20240728T144800Z
 DTSTART:20240728T144800Z
 DTEND:20240728T151100Z
-DESCRIPTION:射箭 - 女子团体铜牌赛
-SUMMARY:🏹 荷兰 🇳🇱 - 🇲🇽 墨西哥
-LOCATION:荣军院
+DESCRIPTION:射箭 - 女子團體銅牌賽
+SUMMARY:🏹 荷蘭 🇳🇱 - 🇲🇽 墨西哥
+LOCATION:榮軍院
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T194400Z-swimming-100
 DTSTAMP:20240728T194400Z
 DTSTART:20240728T194400Z
 DTEND:20240728T195000Z
-DESCRIPTION:游泳 - 男子100米蛙泳决赛\n🇬🇧 Adam PEATY\n🇳🇱 Arno KAMMINGA\n🇳🇱
+DESCRIPTION:游泳 - 男子100米蛙泳決賽\n🇬🇧 Adam PEATY\n🇳🇱 Arno KAMMINGA\n🇳🇱
   Caspar CORBEAU\n🇩🇪 Lucas MATZERATH\n🇩🇪 Melvin IMOUDU\n🇺🇸 Nic
   FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN Haiyang
-SUMMARY:🏊 男子100米蛙泳决赛
-LOCATION:拉德芳斯体育馆
+SUMMARY:🏊 男子100米蛙泳決賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
-DESCRIPTION:马术 - 三项赛 - 团体场地障碍决赛\n🇨🇦 加拿大\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
-  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇵🇱 波兰\n🇦🇺 澳大利亚\n🇮🇪 爱尔兰\n🇸🇪
-  瑞典\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰
-SUMMARY:🏇 三项赛 - 团体场地障碍决赛
-LOCATION:凡尔赛宫
+DESCRIPTION:馬術 - 三項賽 - 團體場地障礙決賽\n🇧🇷 巴西\n🇯🇵 日本\n🇧🇪 比利時\n🇨🇦 加拿大\n🇫🇷
+  法國\n🇵🇱 波蘭\n🇺🇸 美國\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇩🇪 德國\n🇦🇺 澳大利亞
+SUMMARY:🏇 三項賽 - 團體場地障礙決賽
+LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T130000Z-equestrian--
 DTSTAMP:20240729T130000Z
 DTSTART:20240729T130000Z
 DTEND:20240729T140000Z
-DESCRIPTION:马术 - 三项赛 - 个人场地障碍决赛\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd
+DESCRIPTION:馬術 - 三項賽 - 個人場地障礙決賽\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd
   MARTIN\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
   HALLIDAY\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
   ANDERSEN\n🇨🇳 HUA TIAN Alex\n🇳🇱 Janneke BOONZAAIJER\n🇩🇪 Julia
   KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇧🇪 Lara de
   LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇩🇪 Michael
   JUNG\n🇫🇷 Nicolas TOUZAINT\n🇯🇵 OIWA Yoshiaki\n🇬🇧 Rosalind
-  CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿
-  Tim PRICE\n🇬🇧 Tom McEWEN
-SUMMARY:🏇 三项赛 - 个人场地障碍决赛
-LOCATION:凡尔赛宫
+  CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane LANDOIS\n🇳🇿 Tim PRICE\n🇬🇧 Tom
+  McEWEN\n🇯🇵 TOMOTO Kazuma
+SUMMARY:🏇 三項賽 - 個人場地障礙決賽
+LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T060000Z-triathlon-
 DTSTAMP:20240731T060000Z
 DTSTART:20240731T060000Z
 DTEND:20240731T080500Z
-DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+DESCRIPTION:鐵人三項 - 女子個人賽\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
   PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
   POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
   SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
@@ -123,7 +123,7 @@ DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Al
   LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
   Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
   Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
-  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
+  KASPER\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇨🇳 LIN Xinyu\n🇦🇹
   Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
   MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
   Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
@@ -133,15 +133,15 @@ DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Al
   Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
   SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
   MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
-SUMMARY:🏊 女子个人赛
-LOCATION:亚历山大三世桥
+SUMMARY:🏊 女子個人賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T084500Z-triathlon-
 DTSTAMP:20240731T084500Z
 DTSTART:20240731T084500Z
 DTEND:20240731T104500Z
-DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
+DESCRIPTION:鐵人三項 - 男子個人賽\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
   GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois KNABL\n🇪🇸
   Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR MOYSEN\n🇭🇺 Bence
   BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto GRAJALES\n🇭🇺 Csongor
@@ -159,27 +159,27 @@ DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Al
   Samuel DICKINSON\n🇺🇸 Seth RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim
   HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦 Tyler MISLAWCHUK\n🇧🇲 Tyler
   SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle Bergsvik THORN
-SUMMARY:🏊 男子个人赛
-LOCATION:亚历山大三世桥
+SUMMARY:🏊 男子個人賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T102600Z-rowing-A
 DTSTAMP:20240731T102600Z
 DTSTART:20240731T102600Z
 DTEND:20240731T103300Z
-DESCRIPTION:赛艇 - 男子四人双桨决赛A\n🇩🇪 德国\n🇮🇹 意大利\n🇵🇱 波兰\n🇨🇭 瑞士\n🇬🇧
-  英国\n🇳🇱 荷兰
-SUMMARY:🚣 男子四人双桨决赛A
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子四人雙槳決賽A\n🇵🇱 波蘭\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇨🇭
+  瑞士\n🇩🇪 德國
+SUMMARY:🚣 男子四人雙槳決賽A
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T103800Z-rowing-A
 DTSTAMP:20240731T103800Z
 DTSTART:20240731T103800Z
 DTEND:20240731T104500Z
-DESCRIPTION:赛艇 - 女子四人双桨决赛A\n🇨🇳 中国\n🇺🇦 乌克兰\n🇩🇪 德国\n🇨🇭 瑞士\n🇬🇧
-  英国\n🇳🇱 荷兰
-SUMMARY:🚣 女子四人双桨决赛A
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子四人雙槳決賽A\n🇨🇳 中國\n🇬🇧 英國\n🇺🇦 烏克蘭\n🇳🇱 荷蘭\n🇨🇭
+  瑞士\n🇩🇪 德國
+SUMMARY:🚣 女子四人雙槳決賽A
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 END:VCALENDAR

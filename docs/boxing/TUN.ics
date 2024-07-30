@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//boxing/TUN//EN
-X-WR-CALNAME:🇹🇳 Tunisia 拳击 | Paris 2024
-NAME:🇹🇳 Tunisia 拳击 | Paris 2024
+X-WR-CALNAME:🇹🇳 Tunisia 拳擊 | 巴黎2024
+NAME:🇹🇳 Tunisia 拳擊 | 巴黎2024
 BEGIN:VEVENT
 UID:20240802T140200Z-boxing-57-16
 DTSTAMP:20240802T140200Z
 DTSTART:20240802T140200Z
 DTEND:20240802T141300Z
-DESCRIPTION:拳击 - 女子57公斤级 - 预赛 - 16强赛\n🇹🇳 Khouloud HLIMI
-SUMMARY:🥊 女子57公斤级 - 预赛 - 16强赛
-LOCATION:北巴黎竞技场
+DESCRIPTION:拳擊 - 女子57公斤級 - 預賽 - 16強賽\n🇹🇳 Khouloud HLIMI
+SUMMARY:🥊 女子57公斤級 - 預賽 - 16強賽
+LOCATION:北巴黎競技場
 END:VEVENT
 END:VCALENDAR

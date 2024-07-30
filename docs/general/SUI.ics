@@ -1,32 +1,43 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/SUI//EN
-X-WR-CALNAME:🇨🇭 Switzerland | Paris 2024
-NAME:🇨🇭 Switzerland | Paris 2024
+X-WR-CALNAME:🇨🇭 Switzerland | 巴黎2024
+NAME:🇨🇭 Switzerland | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
-DESCRIPTION:Paris 2024 - Opening ceremony
-SUMMARY:Paris 2024 - Opening ceremony
-LOCATION:Paris
+DESCRIPTION:巴黎2024 - 開幕式
+SUMMARY:巴黎2024 - 開幕式
+LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T073000Z-equestrian-
 DTSTAMP:20240727T073000Z
 DTSTART:20240727T073000Z
 DTEND:20240727T163000Z
-DESCRIPTION:马术 - 三项赛个人盛装舞步\n🇿🇦 Alexander PETERNELL\n🇮🇪 Austin
+DESCRIPTION:馬術 - 三項賽團體盛裝舞步\n🇧🇷 巴西\n🇯🇵 日本\n🇧🇪 比利時\n🇨🇦 加拿大\n🇫🇷
+  法國\n🇵🇱 波蘭\n🇺🇸 美國\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇩🇪 德國\n🇦🇺 澳大利亞
+SUMMARY:🏇 三項賽團體盛裝舞步
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T073000Z-equestrian-
+DTSTAMP:20240727T073000Z
+DTSTART:20240727T073000Z
+DTEND:20240727T163000Z
+DESCRIPTION:馬術 - 三項賽個人盛裝舞步\n🇿🇦 Alexander PETERNELL\n🇮🇪 Austin
   O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd MARTIN\n🇪🇸 Carlos DIAZ
   FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph
   WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
   HALLIDAY\n🇮🇹 Emiliano PORTALE\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹 Evelina
   BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni
-  UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱
+  UGOLOTTI\n🇦🇹 Harald AMBROS\n🇨🇳 HUA TIAN Alex\n🇵🇱 Jan KAMINSKI\n🇳🇱
   Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
-  KRAJEWSKI\n🇯🇵 KITAJIMA Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
-  DONCKERS\n🇨🇦 Karl SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE -
+  KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl
+  SLEZAK\n🇦🇺 Kevin McNAB\n🇯🇵 KITAJIMA Ryuzo\n🇧🇪 Lara de LIEDEKERKE -
   MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
   KORYCKA\n🇵🇹 Manuel GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody
   JOHNER\n🇩🇪 Michael JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA
@@ -34,140 +45,94 @@ DESCRIPTION:马术 - 三项赛个人盛装舞步\n🇿🇦 Alexander PETERNELL\n
   WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T.
   FLARUP\n🇳🇱 Raf KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert
   POWALA\n🇨🇭 Robin GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧 Rosalind
-  CANTER\n🇨🇳 SUN Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de JONG\n🇮🇪
-  Sarah ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane
-  LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪
-  Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
-SUMMARY:🏇 三项赛个人盛装舞步
-LOCATION:凡尔赛宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T073000Z-equestrian-
-DTSTAMP:20240727T073000Z
-DTSTART:20240727T073000Z
-DTEND:20240727T163000Z
-DESCRIPTION:马术 - 三项赛团体盛装舞步\n🇨🇦 加拿大\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
-  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇵🇱 波兰\n🇦🇺 澳大利亚\n🇮🇪 爱尔兰\n🇸🇪
-  瑞典\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰
-SUMMARY:🏇 三项赛团体盛装舞步
-LOCATION:凡尔赛宫
+  CANTER\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de JONG\n🇮🇪 Sarah ENNIS\n🇦🇺
+  Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane LANDOIS\n🇨🇳 SUN
+  Huadong\n🇮🇪 Susannah BERRY\n🇳🇿 Tim PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom
+  McEWEN\n🇯🇵 TOMOTO Kazuma\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 三項賽個人盛裝舞步
+LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T081200Z-rowing-
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:赛艇 - 女子单人双桨分组预赛\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
-  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪
-  Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina
-  JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿
-  Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇳🇮 Evidelia GONZALEZ
-  JARQUIN\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
-  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen
-  NOBLE\n🇲🇽 Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline
-  EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
-  BADENHORST\n🇰🇼 Soaad ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue
-  PHAM\n🇱🇹 Viktorija SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis
-  COBAS GARCIA
-SUMMARY:🚣 女子单人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子單人雙槳分組預賽\n🇹🇷 土耳其\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇨🇺 古巴\n🇳🇮
+  尼加拉瓜\n🇱🇹 立陶宛\n🇮🇷 伊朗\n🇹🇬 多哥\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆\n🇩🇿 阿爾及利亞\n🇧🇬
+  保加利亞\n🇿🇦 南非\n🇰🇼 科威特\n🇺🇸 美國\n🇺🇿 烏茲別克斯坦\n🇺🇬 烏幹達\n🇵🇪 秘魯\n🇳🇱
+  荷蘭\n🇸🇮 斯洛文尼亞\n🇵🇭 菲律賓\n🇻🇳 越南\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇸🇬 新加坡\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇦 摩洛哥\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+SUMMARY:🚣 女子單人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T083000Z-shooting-10
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T094500Z
-DESCRIPTION:射击 - 男子10米气手枪资格赛\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
+DESCRIPTION:射擊 - 男子10米氣手槍資格賽\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
   Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu
   ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️ Edilio
   Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
   FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
-  KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
-  Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
+  KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇱🇻
+  Lauris STRAUTMANIS\n🇰🇷 LEE Wonho\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
   ESERCITATO\n🇱🇾 Mohammed BIN DALLAH\n🇰🇿 Nikita CHIRYUKIN\n🇮🇹 Paolo
   MONNA\n🇺🇦 Pavlo KOROSTYLOV\n🇦🇼 Philip ELHAGE\n🇧🇷 Philipe
   CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
-SUMMARY:🔫 男子10米气手枪资格赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子10米氣手槍資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T091500Z-fencing-32-SUI-USA
 DTSTAMP:20240727T091500Z
 DTSTART:20240727T091500Z
 DTEND:20240727T094000Z
-DESCRIPTION:击剑 - 女子个人重剑32强
+DESCRIPTION:擊劍 - 女子個人重劍32強
 SUMMARY:🤺 Pauline BRUNNER 🇨🇭 - 🇺🇸 Hadley HUSISIAN
-LOCATION:巴黎大皇宫
+LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T094500Z-swimming-400
 DTSTAMP:20240727T094500Z
 DTSTART:20240727T094500Z
 DTEND:20240727T101400Z
-DESCRIPTION:游泳 - 男子400米自由泳分组预赛\n🇺🇸 Aaron SHACKELL\n🇹🇳 Ahmed
-  JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇨🇭
-  Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David AUBRY\n🇨🇱 Eduardo
-  CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺 Elijah WINNINGTON\n🇨🇳
-  FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme COSTA\n🇲🇾 Hoe Yean
-  KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya SIBIRTSEV\n🇵🇪 Joaquin
-  VARGAS\n🇧🇦 Jovan LEKIC\n🇰🇷 KIM Woomin\n🇬🇧 Kieran BIRD\n🇺🇸 Kieran
-  SMITH\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪
-  Lukas MAERTENS\n🇮🇹 Marco de TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola
-  GJURETANOVIKJ\n🇩🇪 Oliver KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov
-  MITSIN\n🇬🇾 Raekwon Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana
-  MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪 Victor JOHANSSON\n🇨🇳 ZHANG
-  Zhanshuo\n🇭🇺 Zalan SARKANY
-SUMMARY:🏊 男子400米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子400米自由泳分組預賽\n🇨🇳 中國\n🇧🇷 巴西\n🇧🇪 比利時\n🇲🇰 北馬其頓\n🇱🇹
+  立陶宛\n🇭🇺 匈牙利\n🇬🇾 圭亞那\n🇻🇪 委內瑞拉\n🇫🇷 法國\n🇧🇦 波黑\n🇰🇪 肯尼亞\n🇧🇬
+  保加利亞\n🇹🇳 突尼斯\n🇺🇸 美國\n🇬🇧 英國\n🇨🇷 哥斯達黎加\n🇺🇿 烏茲別克斯坦\n🇵🇪 秘魯\n🇲🇾
+  馬來西亞\n🇨🇱 智利\n🇦🇹 奧地利\n🇮🇹 意大利\n🇪🇪 愛沙尼亞\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇸🇲
+  聖馬力諾\n🇩🇪 德國\n🇲🇦 摩洛哥\n🇲🇩 摩爾多瓦\n🇦🇺 澳大利亞\n🇰🇷 韓國
+SUMMARY:🏊 男子400米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T103000Z-rowing-
 DTSTAMP:20240727T103000Z
 DTSTART:20240727T103000Z
 DTEND:20240727T104700Z
-DESCRIPTION:赛艇 - 男子四人双桨分组预赛\n🇪🇪 Allar RAJA\n🇮🇹 Andrea PANIZZA\n🇷🇴
-  Andrei LUNGU\n🇩🇪 Anton FINGER\n🇬🇧 Callum DIXON\n🇨🇭 Dominic
-  CONDRAU\n🇵🇱 Dominik CZAJA\n🇳🇴 Erik Andre SOLBAKKEN\n🇵🇱 Fabian
-  BARANSKI\n🇳🇱 Finn FLORIJN\n🇷🇴 Florin Bogdan HORODISTEANU\n🇮🇹
-  Giacomo GENTILI\n🇬🇧 Graeme THOMAS\n🇷🇴 Ioan PRUNDEANU\n🇳🇴 Jan Oscar
-  Stabe HELVIG\n🇪🇪 Johann POOLAK\n🇨🇭 Jonah PLOCK\n🇳🇴 Jonas Slettemark
-  JUEL\n🇳🇱 Koen METSEMAKERS\n🇳🇴 Kristoffer BRUN\n🇳🇱 Lennart van
-  LIEROP\n🇷🇴 Leontin NUTESCU\n🇮🇹 Luca CHIUMENTO\n🇮🇹 Luca
-  RAMBALDI\n🇵🇱 Mateusz BISKUP\n🇬🇧 Matthew HAYWOOD\n🇨🇭 Maurin
-  LANGE\n🇩🇪 Max APPEL\n🇪🇪 Mikhail KUSHTEYN\n🇵🇱 Miroslaw
-  ZIETARSKI\n🇩🇪 Moritz WOLFF\n🇨🇭 Scott BAERLOCHER\n🇬🇧 Thomas
-  BARRAS\n🇩🇪 Tim-Ole NASKE\n🇳🇱 Tone WIETEN\n🇪🇪 Tonu ENDREKSON
-SUMMARY:🚣 男子四人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子四人雙槳分組預賽\n🇵🇱 波蘭\n🇬🇧 英國\n🇳🇴 挪威\n🇳🇱 荷蘭\n🇮🇹
+  意大利\n🇪🇪 愛沙尼亞\n🇨🇭 瑞士\n🇩🇪 德國\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 男子四人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T105000Z-rowing-
 DTSTAMP:20240727T105000Z
 DTSTART:20240727T105000Z
 DTEND:20240727T110700Z
-DESCRIPTION:赛艇 - 女子四人双桨分组预赛\n🇷🇴 Alexandra UNGUREANU\n🇺🇦 Anastasiia
-  KOZHENKOVA\n🇳🇱 Bente PAULIS\n🇨🇳 CHEN Yunxia\n🇨🇳 CUI Xiaotong\n🇦🇺
-  Caitlin CRONIN\n🇨🇭 Celia DUPRE\n🇺🇦 Daryna VERKHOGLIAD\n🇷🇴 Emanuela
-  Ioana CIOTAU\n🇺🇸 Emily DELLEMAN\n🇨🇭 Fabienne SCHWEIZER\n🇬🇧 Georgina
-  BRAYSHAW\n🇺🇸 Grace JOYCE\n🇬🇧 Hannah SCOTT\n🇷🇴 Ioana Madalina
-  MOROSAN\n🇺🇦 Kateryna DUDCHENKO\n🇨🇳 LYU Yang\n🇳🇱 Laila
-  YOUSSIFOU\n🇦🇺 Laura GOURLEY\n🇬🇧 Lauren HENRY\n🇺🇸 Lauren
-  O'CONNOR\n🇩🇪 Leonie MENZEL\n🇨🇭 Lisa LOETSCHER\n🇬🇧 Lola
-  ANDERSON\n🇩🇪 Maren VOELZ\n🇨🇭 Pascale WALKER\n🇷🇴 Patricia
-  CIRES\n🇩🇪 Pia GREITEN\n🇦🇺 Ria THOMPSON\n🇳🇱 Roos de JONG\n🇦🇺
-  Rowena MEREDITH\n🇩🇪 Tabea SCHENDEKEHL\n🇺🇸 Teal COHEN\n🇳🇱 Tessa
-  DULLEMANS\n🇺🇦 Yevheniia DOVHODKO\n🇨🇳 ZHANG Ling
-SUMMARY:🚣 女子四人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子四人雙槳分組預賽\n🇨🇳 中國\n🇺🇸 美國\n🇬🇧 英國\n🇺🇦 烏克蘭\n🇳🇱
+  荷蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇦🇺 澳大利亞\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 女子四人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
 DTSTART:20240727T123000Z
 DTEND:20240727T135900Z
-DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
+DESCRIPTION:公路自行車 - 女子個人計時賽\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
   HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
   NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
   Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
@@ -178,31 +143,31 @@ DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK
   PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
   BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮
   Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 女子个人计时赛
-LOCATION:亚历山大三世桥
+SUMMARY:🚴 女子個人計時賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T140000Z-canoe-slalom-1
 DTSTAMP:20240727T140000Z
 DTSTART:20240727T140000Z
 DTEND:20240727T150200Z
-DESCRIPTION:皮划艇激流回旋 - 女子单人皮艇预赛第1轮\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇨🇿
-  Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole
-  Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva
+DESCRIPTION:皮劃艇激流回旋 - 女子單人皮艇預賽第1輪\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇨🇿
+  Antonie GALUSKOVA\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇹🇼
+  CHANG Chu-Han\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva
   TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
   Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka
   JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇳🇱 Martina
   WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪 Ricarda FUNK\n🇲🇽 Sofia
   REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki
-SUMMARY:🛶 女子单人皮艇预赛第1轮
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 女子單人皮艇預賽第1輪
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T143200Z-cycling-road-
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
 DTEND:20240727T155700Z
-DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+DESCRIPTION:公路自行車 - 男子個人計時賽\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
   BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
   Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
   GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
@@ -213,64 +178,75 @@ DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n
   LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan
   MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan
   KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
-SUMMARY:🚴 男子个人计时赛
-LOCATION:亚历山大三世桥
+SUMMARY:🚴 男子個人計時賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T161000Z-canoe-slalom-2
 DTSTAMP:20240727T161000Z
 DTSTART:20240727T161000Z
 DTEND:20240727T171200Z
-DESCRIPTION:皮划艇激流回旋 - 女子单人皮艇预赛第2轮\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇨🇿
-  Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole
-  Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva
+DESCRIPTION:皮劃艇激流回旋 - 女子單人皮艇預賽第2輪\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇨🇿
+  Antonie GALUSKOVA\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇹🇼
+  CHANG Chu-Han\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva
   TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
   Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka
   JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇳🇱 Martina
   WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪 Ricarda FUNK\n🇲🇽 Sofia
   REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki
-SUMMARY:🛶 女子单人皮艇预赛第2轮
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 女子單人皮艇預賽第2輪
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T071500Z-shooting-10
 DTSTAMP:20240728T071500Z
 DTSTART:20240728T071500Z
 DTEND:20240728T083000Z
-DESCRIPTION:射击 - 女子10米气步枪资格赛\n🇰🇿 Alexandra Le\n🇲🇰 Anastasija
+DESCRIPTION:射擊 - 女子10米氣步槍資格賽\n🇰🇿 Alexandra Le\n🇲🇰 Anastasija
   MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna JANSSEN\n🇰🇿 Arina
   ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹 Barbara
   GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷 Fatemeh
   AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽 Goretti
-  Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿 Houda
-  CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷 KEUM
+  Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇩🇿 Houda CHAABI\n🇨🇳 HUANG
+  Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷 KEUM
   Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️ Luna
   SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮 Mariel
-  Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA Misaki\n🇦🇹
-  Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
+  Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇦🇹 Nadine UNGERANK\n🇨🇭
+  Nina CHRISTEN\n🇯🇵 NOBATA Misaki\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
   RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng IBSEN\n🇺🇸 Sagen
   MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL AMIRANI\n🇩🇰
   Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita NEPAL\n🇳🇴 Synnoeve
   BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar
   MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
-SUMMARY:🔫 女子10米气步枪资格赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 女子10米氣步槍資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T083000Z-equestrian--
 DTSTAMP:20240728T083000Z
 DTSTART:20240728T083000Z
 DTEND:20240728T133000Z
-DESCRIPTION:马术 - 三项赛 - 个人越野赛\n🇿🇦 Alexander PETERNELL\n🇮🇪 Austin
+DESCRIPTION:馬術 - 三項賽 - 團體越野賽\n🇧🇷 巴西\n🇯🇵 日本\n🇧🇪 比利時\n🇨🇦 加拿大\n🇫🇷
+  法國\n🇵🇱 波蘭\n🇺🇸 美國\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇩🇪 德國\n🇦🇺 澳大利亞
+SUMMARY:🏇 三項賽 - 團體越野賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T083000Z-equestrian--
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T133000Z
+DESCRIPTION:馬術 - 三項賽 - 個人越野賽\n🇿🇦 Alexander PETERNELL\n🇮🇪 Austin
   O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd MARTIN\n🇪🇸 Carlos DIAZ
   FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph
   WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
   HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix
-  VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN
-  Alex\n🇦🇹 Harald AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱 Janneke
+  VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇦🇹 Harald
+  AMBROS\n🇨🇳 HUA TIAN Alex\n🇵🇱 Jan KAMINSKI\n🇳🇱 Janneke
   BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
-  KRAJEWSKI\n🇯🇵 KITAJIMA Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
-  DONCKERS\n🇨🇦 Karl SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE -
+  KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl
+  SLEZAK\n🇦🇺 Kevin McNAB\n🇯🇵 KITAJIMA Ryuzo\n🇧🇪 Lara de LIEDEKERKE -
   MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
   KORYCKA\n🇵🇹 Manuel GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody
   JOHNER\n🇩🇪 Michael JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA
@@ -278,229 +254,174 @@ DESCRIPTION:马术 - 三项赛 - 个人越野赛\n🇿🇦 Alexander PETERNELL\n
   WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T.
   FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf KOOREMANS\n🇧🇷 Rafael MAMPRIN
   LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧
-  Rosalind CANTER\n🇨🇳 SUN Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de
-  JONG\n🇮🇪 Sarah ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷
-  Stephane LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim
-  PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
-SUMMARY:🏇 三项赛 - 个人越野赛
-LOCATION:凡尔赛宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T083000Z-equestrian--
-DTSTAMP:20240728T083000Z
-DTSTART:20240728T083000Z
-DTEND:20240728T133000Z
-DESCRIPTION:马术 - 三项赛 - 团体越野赛\n🇨🇦 加拿大\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
-  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇵🇱 波兰\n🇦🇺 澳大利亚\n🇮🇪 爱尔兰\n🇸🇪
-  瑞典\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰
-SUMMARY:🏇 三项赛 - 团体越野赛
-LOCATION:凡尔赛宫
+  Rosalind CANTER\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de JONG\n🇮🇪 Sarah
+  ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane LANDOIS\n🇨🇳
+  SUN Huadong\n🇮🇪 Susannah BERRY\n🇳🇿 Tim PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧
+  Tom McEWEN\n🇯🇵 TOMOTO Kazuma\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 三項賽 - 個人越野賽
+LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T084200Z-judo-5232-ARG-SUI
 DTSTAMP:20240728T084200Z
 DTSTART:20240728T084200Z
 DTEND:20240728T084800Z
-DESCRIPTION:柔道 - 女子52公斤级32强淘汰赛
+DESCRIPTION:柔道 - 女子52公斤級32強淘汰賽
 SUMMARY:🥋 Sofia FIORA 🇦🇷 - 🇨🇭 Binta NDIAYE
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T090000Z-badminton--N-CHN-SUI
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T100000Z
-DESCRIPTION:羽毛球 - 男子单打小组赛 - N组
+DESCRIPTION:羽毛球 - 男子單打小組賽 - N組
 SUMMARY:🏸 LI Shi Feng 🇨🇳 - 🇨🇭 Tobias KUENZI
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T090000Z-rowing-
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T092700Z
-DESCRIPTION:赛艇 - 男子双人单桨分组预赛\n🇨🇭 Andrin GULICH\n🇺🇸 Billy BENDER\n🇿🇦
-  Christopher BAXTER\n🇳🇿 Daniel WILLIAMSON\n🇮🇹 Davide COMINI\n🇱🇹
-  Domantas STANKUNAS\n🇱🇹 Dovydas STANKUNAS\n🇷🇴 Florin ARTENI\n🇷🇴
-  Florin Sorin LEHACI\n🇮🇹 Giovanni CODATO\n🇪🇸 Jaime CANALEJO
-  PAZOS\n🇪🇸 Javier GARCIA ORDONEZ\n🇿🇦 John SMITH\n🇩🇪 Julius
-  CHRIST\n🇭🇷 Martin SINKOVIC\n🇮🇪 Nathan TIMONEY\n🇺🇸 Oliver BUB\n🇬🇧
-  Oliver WYNNE-GRIFFITH\n🇦🇺 Patrick HOLT\n🇳🇿 Phillip WILSON\n🇨🇭 Roman
-  ROEOESLI\n🇮🇪 Ross CORRIGAN\n🇦🇺 Simon KEENAN\n🇩🇪 Soenke KRUSE\n🇬🇧
-  Tom GEORGE\n🇭🇷 Valent SINKOVIC
-SUMMARY:🚣 男子双人单桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子雙人單槳分組預賽\n🇱🇹 立陶宛\n🇪🇸 西班牙\n🇭🇷 克羅地亞\n🇿🇦 南非\n🇺🇸
+  美國\n🇬🇧 英國\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇳🇿 新西蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇦🇺
+  澳大利亞\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 男子雙人單槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T090000Z-swimming-200
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T091400Z
-DESCRIPTION:游泳 - 男子200米自由泳分组预赛\n🇮🇹 Alessandro RAGAINI\n🇨🇭 Antonio
-  DJAKOVIC\n🇺🇸 Chris GUILIANO\n🇱🇹 Danas RAPSYS\n🇷🇴 David
-  POPOVICI\n🇮🇱 Denis LOKTEV\n🇬🇧 Duncan SCOTT\n🇦🇹 Felix AUBOECK\n🇮🇹
-  Filippo MEGLI\n🇧🇷 Guilherme COSTA\n🇰🇷 HWANG Sunwoo\n🇨🇳 JI
-  Xinjie\n🇲🇽 Jorge IGA\n🇰🇷 KIM Woomin\n🇧🇪 Lucas HENVEAUX\n🇩🇪 Lukas
-  MAERTENS\n🇺🇸 Luke HOBSON\n🇯🇵 MATSUMOTO Katsuhiro\n🇬🇧 Matthew
-  RICHARDS\n🇦🇺 Maximillian GIULIANI\n🇵🇰 Muhammad Ahmed DURRANI\n🇭🇺
-  Nandor NEMETH\n🇸🇾 Omar ABBAS\n🇨🇳 PAN Zhanle\n🇩🇪 Rafael
-  MIROSLAW\n🇸🇮 Saso BOSKAN\n🇦🇺 Thomas NEILL\n🇷🇸 Velimir STJEPANOVIC
-SUMMARY:🏊 男子200米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子200米自由泳分組預賽\n🇨🇳 中國\n🇧🇷 巴西\n🇵🇰 巴基斯坦\n🇯🇵 日本\n🇧🇪
+  比利時\n🇮🇱 以色列\n🇱🇹 立陶宛\n🇭🇺 匈牙利\n🇺🇸 美國\n🇬🇧 英國\n🇸🇾 敘利亞\n🇸🇮
+  斯洛文尼亞\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇮🇹 意大利\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺
+  澳大利亞\n🇰🇷 韓國\n🇷🇴 羅馬尼亞
+SUMMARY:🏊 男子200米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T092700Z-swimming-100
 DTSTAMP:20240728T092700Z
 DTSTART:20240728T092700Z
 DTEND:20240728T094200Z
-DESCRIPTION:游泳 - 女子100米蛙泳分组预赛\n🇯🇵 AOKI Reona\n🇬🇲 Aminata Nia-Maria
-  BARROW\n🇮🇱 Anastasia GORBENKO\n🇬🇧 Angharad EVANS\n🇩🇪 Anna
-  ELENDT\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika SZTANDERA\n🇦🇬 Ellie
-  SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma WEBER\n🇸🇬 En Yi Letitia
-  SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦 Imane Houda EL
-  BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL MONTERO\n🇱🇹 Kotryna
-  TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei CONNOLLY\n🇰🇼 Lara
-  DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭 Lisa MAMIE\n🇱🇧 Lynn
-  EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇲🇾 Rouxin
-  TAN\n🇱🇹 Ruta MEILUTYTE\n🇯🇵 SUZUKI Satomi\n🇨🇦 Sophie ANGUS\n🇸🇪
-  Sophie HANSSON\n🇨🇴 Stefania GOMEZ HURTADO\n🇨🇳 TANG Qianting\n🇿🇦
-  Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
-SUMMARY:🏊 女子100米蛙泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子100米蛙泳分組預賽\n🇨🇳 中國\n🇵🇦 巴拿馬\n🇯🇵 日本\n🇮🇱 以色列\n🇨🇦
+  加拿大\n🇱🇹 立陶宛\n🇦🇬 安提瓜和巴布達\n🇪🇸 西班牙\n🇬🇲 岡比亞\n🇵🇱 波蘭\n🇫🇮 芬蘭\n🇦🇷
+  阿根廷\n🇿🇦 南非\n🇰🇼 科威特\n🇺🇸 美國\n🇬🇧 英國\n🇨🇴 哥倫比亞\n🇨🇰 庫克群島\n🇲🇾
+  馬來西亞\n🇨🇿 捷克\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇪🇪 愛沙尼亞\n🇮🇪 愛爾蘭\n🇸🇬 新加坡\n🇨🇭
+  瑞士\n🇸🇪 瑞典\n🇩🇪 德國\n🇲🇦 摩洛哥\n🇱🇧 黎巴嫩\n🇦🇺 澳大利亞
+SUMMARY:🏊 女子100米蛙泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T093000Z-judo-5216-ISR-SUI
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T093600Z
-DESCRIPTION:柔道 - 女子52公斤级16强淘汰赛
+DESCRIPTION:柔道 - 女子52公斤級16強淘汰賽
 SUMMARY:🥋 Gefen PRIMO 🇮🇱 - 🇨🇭 Binta NDIAYE
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T094300Z-swimming-100
 DTSTAMP:20240728T094300Z
 DTSTART:20240728T094300Z
 DTEND:20240728T095900Z
-DESCRIPTION:游泳 - 男子100米仰泳分组预赛\n🇭🇺 Adam JASZO\n🇮🇱 Adam MARAANA\n🇹🇴
-  Alan Koti Lopeti UHI\n🇧🇯 Alexis Michel Roger Dodji KPADE\n🇨🇴 Anthony
-  RINCON VELASCO\n🇬🇷 Apostolos CHRISTOU\n🇹🇷 Berke SAKA\n🇦🇹 Bernhard
-  REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley WOODWARD\n🇬🇷 Evangelos
-  MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸
-  Hunter ARMSTRONG\n🇦🇺 Isaac COOPER\n🇧🇲 Jack HARVEY\n🇨🇦 Javier
-  ACEVEDO\n🇵🇹 Joao COSTA\n🇬🇧 Jonny MARSHALL\n🇳🇱 Kai van
-  WESTERING\n🇳🇿 Kane FOLLOWS\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇯🇵
-  MATSUYAMA Riku\n🇩🇪 Marek ULRICH\n🇻🇮 Maximillian WILSON\n🇫🇷 Mewen
-  TOMAC\n🇮🇹 Michele LAMBERTI\n🇨🇿 Miroslav KNEDLA\n🇬🇪 Noe
-  PANSTKHAVA\n🇩🇪 Ole BRAUNSCHWEIG\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
-  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇮🇳
-  Srihari NATARAJ\n🇨🇭 Thierry BOLLIN\n🇮🇹 Thomas CECCON\n🇦🇷 Ulises
-  SARAVIA\n🇨🇳 XU Jiayu\n🇵🇸 Yazan AL BAWWAB\n🇵🇷 Yeziel MORALES\n🇫🇷
-  Yohann NDOYE-BROUARD\n🇬🇩 Zackary GRESHAM\n🇧🇳 Zeke CHAN
-SUMMARY:🏊 男子100米仰泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子100米仰泳分組預賽\n🇹🇷 土耳其\n🇨🇳 中國\n🇵🇸 巴勒斯坦\n🇧🇳 文萊\n🇯🇵
+  日本\n🇮🇱 以色列\n🇨🇦 加拿大\n🇭🇺 匈牙利\n🇮🇳 印度\n🇧🇲 百慕大\n🇪🇸 西班牙\n🇬🇷
+  希臘\n🇧🇯 貝寧\n🇫🇷 法國\n🇵🇷 波多黎各\n🇵🇱 波蘭\n🇦🇷 阿根廷\n🇿🇦 南非\n🇺🇸
+  美國\n🇻🇮 美屬維爾京群島\n🇬🇧 英國\n🇨🇴 哥倫比亞\n🇬🇩 格林納達\n🇬🇪 格魯吉亞\n🇺🇦
+  烏克蘭\n🇨🇿 捷克\n🇳🇱 荷蘭\n🇹🇴 湯加\n🇦🇹 奧地利\n🇮🇹 意大利\n🇳🇿 新西蘭\n🇨🇭
+  瑞士\n🇵🇹 葡萄牙\n🇩🇪 德國\n🇦🇺 澳大利亞\n🇰🇷 韓國
+SUMMARY:🏊 男子100米仰泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-rowing-
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T102700Z
-DESCRIPTION:赛艇 - 男子轻量级双人双桨预赛\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro
-  COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇳🇴
-  Ask Jarl TJOEM\n🇪🇸 Caetano Xose HORTA POMBO\n🇨🇱 Cesar ABAROA\n🇪🇸
-  Dennis CARRACEDO FERRERO\n🇨🇱 Eber SANHUEZA\n🇯🇵 FURUTA Naoki\n🇫🇷
-  Ferdinand LUDWIG\n🇮🇪 Fintan Mc CARTHY\n🇮🇹 Gabriel SOARES\n🇫🇷 Hugo
-  BEUREY\n🇺🇦 Igor KHMARA\n🇨🇭 Jan SCHAEUBLE\n🇨🇿 Jiri SIMANEK\n🇳🇴
-  Lars Martin BENSKE\n🇯🇵 MIYAURA Masayuki\n🇲🇽 Miguel CARBALLO
-  NIETO\n🇨🇿 Miroslav VRASTIL\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van
-  ZANDWEGHE\n🇮🇪 Paul O DONOVAN\n🇦🇷 Pedro DICKSON\n🇬🇷 Petros
-  GKAIDATZIS\n🇨🇭 Raphael AHUMADA\n🇺🇿 Shakhzod NURMATOV\n🇺🇿 Sobirjon
-  SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇮🇹 Stefano OPPO\n🇧🇪 Tibo VYVEY
-SUMMARY:🚣 男子轻量级双人双桨预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳預賽\n🇯🇵 日本\n🇧🇪 比利時\n🇪🇸 西班牙\n🇬🇷 希臘\n🇫🇷
+  法國\n🇦🇷 阿根廷\n🇪🇬 埃及\n🇳🇴 挪威\n🇺🇦 烏克蘭\n🇺🇿 烏茲別克斯坦\n🇨🇿 捷克\n🇨🇱
+  智利\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇨🇭 瑞士\n🇲🇽 墨西哥
+SUMMARY:🚣 男子輕量級雙人雙槳預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis-1
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T160000Z
-DESCRIPTION:网球 - 男子单打第1轮\n🇨🇭 Stan WAWRINKA
-SUMMARY:🎾 男子单打第1轮
-LOCATION:罗兰·加洛斯体育场
+DESCRIPTION:網球 - 男子單打第1輪\n🇨🇭 Stan WAWRINKA
+SUMMARY:🎾 男子單打第1輪
+LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis-1-USA-SUI
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T143000Z
-DESCRIPTION:网球 - 女子单打第1轮
+DESCRIPTION:網球 - 女子單打第1輪
 SUMMARY:🎾 Jessica PEGULA 🇺🇸 - 🇨🇭 Viktorija GOLUBIC
-LOCATION:罗兰·加洛斯体育场
+LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T105000Z-rowing-
 DTSTAMP:20240728T105000Z
 DTSTART:20240728T105000Z
 DTEND:20240728T110700Z
-DESCRIPTION:赛艇 - 男子四人单桨分组预赛\n🇦🇺 Alex HILL\n🇷🇴 Andrei MANDRILA\n🇫🇷
-  Benoit BRUNET\n🇷🇴 Ciprian TUDOSA\n🇬🇧 David AMBLER\n🇳🇱 Eli
-  BROUWER\n🇦🇺 Fergus HAMILTON\n🇬🇧 Freddie DAVIDSON\n🇮🇹 Giovanni
-  ABAGNALE\n🇮🇹 Giuseppe VICINO\n🇫🇷 Guillaume TURLAN\n🇳🇱 Guus
-  MOLLEE\n🇦🇺 Jack ROBERTSON\n🇨🇭 Joel SCHUERCH\n🇺🇸 Justin BEST\n🇨🇭
-  Kai SCHAETZLE\n🇺🇸 Liam CORRIGAN\n🇳🇿 Logan ULLRICH\n🇬🇧 Matt
-  ALDRIDGE\n🇳🇿 Matt MACDONALD\n🇮🇹 Matteo LODO\n🇺🇸 Michael GRADY\n🇳🇱
-  Nelson RITSEMA\n🇮🇹 Nicholas KOHL\n🇺🇸 Nick MEAD\n🇬🇧 Oliver
-  WILKES\n🇳🇿 Ollie MACLEAN\n🇨🇭 Patrick BRUNNER\n🇳🇱 Rik RIENKS\n🇷🇴
-  Sergiu Vasile BEJAN\n🇷🇴 Stefan Constantin BERARIU\n🇫🇷 Teo RAYET\n🇫🇷
-  Thibaud TURLAN\n🇨🇭 Tim ROTH\n🇦🇺 Timothy MASTERS\n🇳🇿 Tom MURRAY
-SUMMARY:🚣 男子四人单桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子四人單槳分組預賽\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹
+  意大利\n🇳🇿 新西蘭\n🇨🇭 瑞士\n🇦🇺 澳大利亞\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 男子四人單槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T111500Z-fencing-32-SUI-BEL
 DTSTAMP:20240728T111500Z
 DTSTART:20240728T111500Z
 DTEND:20240728T114000Z
-DESCRIPTION:击剑 - 男子个人重剑32强
+DESCRIPTION:擊劍 - 男子個人重劍32強
 SUMMARY:🤺 Alexis BAYARD 🇨🇭 - 🇧🇪 Neisser LOYOLA
-LOCATION:巴黎大皇宫
+LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T111500Z-sailing-49-01
 DTSTAMP:20240728T111500Z
 DTSTART:20240728T111500Z
 DTEND:20240728T115000Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛01\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽01\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛01
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽01
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T120700Z-sailing-49-02
 DTSTAMP:20240728T120700Z
 DTSTART:20240728T120700Z
 DTEND:20240728T124200Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛02\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽02\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛02
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽02
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
-DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
+DESCRIPTION:山地自行車 - 女子越野賽\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
   KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
   Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
   MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
@@ -513,30 +434,30 @@ DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭
   HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
   Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳 WU Zhifan\n🇺🇦 Yana
   BELOMOINA
-SUMMARY:🚴 女子越野赛
-LOCATION:埃朗库尔山
+SUMMARY:🚴 女子越野賽
+LOCATION:埃朗庫爾山
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T125900Z-sailing-49-03
 DTSTAMP:20240728T125900Z
 DTSTART:20240728T125900Z
 DTEND:20240728T133400Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛03\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽03\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛03
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽03
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T133000Z-canoe-slalom-
 DTSTAMP:20240728T133000Z
 DTSTART:20240728T133000Z
 DTEND:20240728T143600Z
-DESCRIPTION:皮划艇激流回旋 - 女子单人皮艇半决赛\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇨🇿
+DESCRIPTION:皮劃艇激流回旋 - 女子單人皮艇半決賽\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇨🇿
   Antonie GALUSKOVA\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹
   Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy
   LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia
@@ -544,52 +465,61 @@ DESCRIPTION:皮划艇激流回旋 - 女子单人皮艇半决赛\n🇨🇭 Alena 
   Maialen CHOURRAUT\n🇳🇱 Martina WEGMAN\n🇦🇩 Monica DORIA
   VILARRUBLA\n🇩🇪 Ricarda FUNK\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia
   US\n🇯🇵 YAZAWA Aki
-SUMMARY:🛶 女子单人皮艇半决赛
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 女子單人皮艇半決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T173000Z-badminton--L-ESP-SUI
 DTSTAMP:20240728T173000Z
 DTSTART:20240728T173000Z
 DTEND:20240728T181000Z
-DESCRIPTION:羽毛球 - 女子单打小组赛 - L组
+DESCRIPTION:羽毛球 - 女子單打小組賽 - L組
 SUMMARY:🏸 Carolina MARIN 🇪🇸 - 🇨🇭 Jenjira STADELMANN
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T073000Z-shooting-10
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
 DTEND:20240729T081500Z
-DESCRIPTION:射击 - 女子10米气步枪决赛\n🇰🇿 Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷
+DESCRIPTION:射擊 - 女子10米氣步槍決賽\n🇰🇿 Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷
   BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne
   MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 女子10米气步枪决赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 女子10米氣步槍決賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T082000Z-rowing-
 DTSTAMP:20240729T082000Z
 DTSTART:20240729T082000Z
 DTEND:20240729T082700Z
-DESCRIPTION:赛艇 - 男子双人单桨复活赛\n🇨🇭 Andrin GULICH\n🇺🇸 Billy BENDER\n🇮🇹
-  Davide COMINI\n🇮🇹 Giovanni CODATO\n🇺🇸 Oliver BUB\n🇦🇺 Patrick
-  HOLT\n🇨🇭 Roman ROEOESLI\n🇦🇺 Simon KEENAN
-SUMMARY:🚣 男子双人单桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子雙人單槳復活賽\n🇺🇸 美國\n🇮🇹 意大利\n🇨🇭 瑞士\n🇦🇺 澳大利亞
+SUMMARY:🚣 男子雙人單槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
-DESCRIPTION:马术 - 三项赛 - 个人场地障碍预赛\n🇿🇦 Alexander PETERNELL\n🇮🇪 Aoife
+DESCRIPTION:馬術 - 三項賽 - 團體場地障礙決賽\n🇧🇷 巴西\n🇯🇵 日本\n🇧🇪 比利時\n🇨🇦 加拿大\n🇫🇷
+  法國\n🇵🇱 波蘭\n🇺🇸 美國\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇩🇪 德國\n🇦🇺 澳大利亞
+SUMMARY:🏇 三項賽 - 團體場地障礙決賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-equestrian--
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T114000Z
+DESCRIPTION:馬術 - 三項賽 - 個人場地障礙預賽\n🇿🇦 Alexander PETERNELL\n🇮🇪 Aoife
   CLARK\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
   MARTIN\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher
   BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇪🇸 Esteban
   BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
-  ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald
-  AMBROS\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle
+  ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇦🇹 Harald AMBROS\n🇨🇳 HUA TIAN
+  Alex\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle
   PRICE\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
   DONCKERS\n🇨🇦 Karl SLEZAK\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura
   COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata KORYCKA\n🇧🇷 Marcio
@@ -600,401 +530,362 @@ DESCRIPTION:马术 - 三项赛 - 个人场地障碍预赛\n🇿🇦 Alexander PE
   LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin GODEL\n🇬🇧 Rosalind CANTER\n🇧🇷
   Ruy FONSECA\n🇳🇱 Sanne de JONG\n🇦🇺 Shane ROSE\n🇦🇺 Shenae
   LOWINGS\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane LANDOIS\n🇮🇪 Susannah
-  BERRY\n🇯🇵 TANAKA Toshiyuki\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪
-  Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN\n🇵🇱 Wiktoria KNAP
-SUMMARY:🏇 三项赛 - 个人场地障碍预赛
-LOCATION:凡尔赛宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T090000Z-equestrian--
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T114000Z
-DESCRIPTION:马术 - 三项赛 - 团体场地障碍决赛\n🇨🇦 加拿大\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
-  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇵🇱 波兰\n🇦🇺 澳大利亚\n🇮🇪 爱尔兰\n🇸🇪
-  瑞典\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰
-SUMMARY:🏇 三项赛 - 团体场地障碍决赛
-LOCATION:凡尔赛宫
+  BERRY\n🇯🇵 TANAKA Toshiyuki\n🇳🇿 Tim PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom
+  McEWEN\n🇯🇵 TOMOTO Kazuma\n🇫🇮 Veera MANNINEN\n🇵🇱 Wiktoria KNAP
+SUMMARY:🏇 三項賽 - 個人場地障礙預賽
+LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T090000Z-judo-7332-SUI-MGL
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T090600Z
-DESCRIPTION:柔道 - 男子73公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子73公斤級32強淘汰賽
 SUMMARY:🥋 Nils STUMP 🇨🇭 - 🇲🇳 Erdenebayar BATZAYA
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T092000Z-rowing-
 DTSTAMP:20240729T092000Z
 DTSTART:20240729T092000Z
 DTEND:20240729T092700Z
-DESCRIPTION:赛艇 - 男子四人双桨复活赛\n🇪🇪 Allar RAJA\n🇷🇴 Andrei LUNGU\n🇩🇪 Anton
-  FINGER\n🇨🇭 Dominic CONDRAU\n🇳🇴 Erik Andre SOLBAKKEN\n🇷🇴 Florin
-  Bogdan HORODISTEANU\n🇷🇴 Ioan PRUNDEANU\n🇳🇴 Jan Oscar Stabe
-  HELVIG\n🇪🇪 Johann POOLAK\n🇨🇭 Jonah PLOCK\n🇳🇴 Jonas Slettemark
-  JUEL\n🇳🇴 Kristoffer BRUN\n🇷🇴 Leontin NUTESCU\n🇨🇭 Maurin LANGE\n🇩🇪
-  Max APPEL\n🇪🇪 Mikhail KUSHTEYN\n🇩🇪 Moritz WOLFF\n🇨🇭 Scott
-  BAERLOCHER\n🇩🇪 Tim-Ole NASKE\n🇪🇪 Tonu ENDREKSON
-SUMMARY:🚣 男子四人双桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子四人雙槳復活賽\n🇳🇴 挪威\n🇪🇪 愛沙尼亞\n🇨🇭 瑞士\n🇩🇪 德國\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 男子四人雙槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T093000Z-rowing-
 DTSTAMP:20240729T093000Z
 DTSTART:20240729T093000Z
 DTEND:20240729T093700Z
-DESCRIPTION:赛艇 - 女子四人双桨复活赛\n🇷🇴 Alexandra UNGUREANU\n🇨🇳 CHEN
-  Yunxia\n🇨🇳 CUI Xiaotong\n🇦🇺 Caitlin CRONIN\n🇨🇭 Celia DUPRE\n🇷🇴
-  Emanuela Ioana CIOTAU\n🇺🇸 Emily DELLEMAN\n🇨🇭 Fabienne SCHWEIZER\n🇺🇸
-  Grace JOYCE\n🇷🇴 Ioana Madalina MOROSAN\n🇨🇳 LYU Yang\n🇦🇺 Laura
-  GOURLEY\n🇺🇸 Lauren O'CONNOR\n🇨🇭 Lisa LOETSCHER\n🇨🇭 Pascale
-  WALKER\n🇷🇴 Patricia CIRES\n🇦🇺 Ria THOMPSON\n🇦🇺 Rowena
-  MEREDITH\n🇺🇸 Teal COHEN\n🇨🇳 ZHANG Ling
-SUMMARY:🚣 女子四人双桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子四人雙槳復活賽\n🇨🇳 中國\n🇺🇸 美國\n🇨🇭 瑞士\n🇦🇺 澳大利亞\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 女子四人雙槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T100000Z-beach-volleyball--F-SUI-ESP
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T105000Z
-DESCRIPTION:沙滩排球 - 女子预赛 - F组
+DESCRIPTION:沙灘排球 - 女子預賽 - F組
 SUMMARY:🏐 HUBERLI/BRUNNER 🇨🇭 - 🇪🇸 ALVAREZ M/MORENO
-LOCATION:埃菲尔铁塔体育场
+LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T100500Z-sailing-49-04
 DTSTAMP:20240729T100500Z
 DTSTART:20240729T100500Z
 DTEND:20240729T104000Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛04\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽04\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛04
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽04
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T102300Z-sailing-IQFOIL-01
 DTSTAMP:20240729T102300Z
 DTSTART:20240729T102300Z
 DTEND:20240729T103200Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛01\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽01\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛01
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽01
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T105700Z-sailing-49-05
 DTSTAMP:20240729T105700Z
 DTSTART:20240729T105700Z
 DTEND:20240729T113200Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛05\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽05\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛05
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽05
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T114900Z-sailing-49-06
 DTSTAMP:20240729T114900Z
 DTSTART:20240729T114900Z
 DTEND:20240729T122400Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛06\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽06\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛06
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽06
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike-
 DTSTAMP:20240729T121000Z
 DTSTART:20240729T121000Z
 DTEND:20240729T134000Z
-DESCRIPTION:山地自行车 - 男子越野赛\n🇲🇽 Adair Zabdiel GUTIERREZ PRIETO\n🇿🇦 Alan
+DESCRIPTION:山地自行車 - 男子越野賽\n🇲🇽 Adair Zabdiel GUTIERREZ PRIETO\n🇿🇦 Alan
   HATHERLY\n🇳🇦 Alex MILLER\n🇬🇧 Charlie ALDRIDGE\n🇺🇸 Christopher
   BLEVINS\n🇪🇸 David VALERO SERRANO\n🇨🇴 Diego Alfonso ARIAS CUERVO\n🇷🇴
   Ede-Karoly MOLNAR\n🇨🇦 Gunnar HOLMGREN\n🇧🇪 Jens SCHUERMANS\n🇪🇸 Jofre
   CULLELL ESTAPE\n🇫🇮 Joni SAVASTE\n🇫🇷 Jordan SARROU\n🇩🇪 Julian
   SCHELB\n🇳🇴 Knut ROEHME\n🇵🇱 Krzysztof LUKASIK\n🇮🇹 Luca BRAIDOT\n🇩🇪
-  Luca SCHWARZBAUER\n🇨🇳 MI Jiujiang\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻
-  Martins BLUMS\n🇨🇭 Mathias FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇭 Nino
-  SCHURTER\n🇺🇦 Oleksandr HUDYMA\n🇨🇿 Ondrej CINK\n🇧🇪 Pierre de
-  FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮 Romano PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰
-  Simon ANDREASSEN\n🇮🇹 Simone AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer
-  ZALTSMAN\n🇧🇷 Ulan BASTOS GALINSKI\n🇫🇷 Victor KORETZKY
-SUMMARY:🚴 男子越野赛
-LOCATION:埃朗库尔山
+  Luca SCHWARZBAUER\n🇨🇱 Martin VIDAURRE KOSSMANN\n🇱🇻 Martins
+  BLUMS\n🇨🇭 Mathias FLUECKIGER\n🇦🇹 Maximilian FOIDL\n🇨🇳 MI
+  Jiujiang\n🇨🇭 Nino SCHURTER\n🇺🇦 Oleksandr HUDYMA\n🇨🇿 Ondrej
+  CINK\n🇧🇪 Pierre de FROIDMONT\n🇺🇸 Riley AMOS\n🇱🇮 Romano
+  PUENTENER\n🇳🇿 Samuel GAZE\n🇩🇰 Simon ANDREASSEN\n🇮🇹 Simone
+  AVONDETTO\n🇬🇧 Thomas PIDCOCK\n🇮🇱 Tomer ZALTSMAN\n🇧🇷 Ulan BASTOS
+  GALINSKI\n🇫🇷 Victor KORETZKY
+SUMMARY:🚴 男子越野賽
+LOCATION:埃朗庫爾山
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T130000Z-equestrian--
 DTSTAMP:20240729T130000Z
 DTSTART:20240729T130000Z
 DTEND:20240729T140000Z
-DESCRIPTION:马术 - 三项赛 - 个人场地障碍决赛\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd
+DESCRIPTION:馬術 - 三項賽 - 個人場地障礙決賽\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd
   MARTIN\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
   HALLIDAY\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
   ANDERSEN\n🇨🇳 HUA TIAN Alex\n🇳🇱 Janneke BOONZAAIJER\n🇩🇪 Julia
   KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇧🇪 Lara de
   LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇩🇪 Michael
   JUNG\n🇫🇷 Nicolas TOUZAINT\n🇯🇵 OIWA Yoshiaki\n🇬🇧 Rosalind
-  CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿
-  Tim PRICE\n🇬🇧 Tom McEWEN
-SUMMARY:🏇 三项赛 - 个人场地障碍决赛
-LOCATION:凡尔赛宫
+  CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane LANDOIS\n🇳🇿 Tim PRICE\n🇬🇧 Tom
+  McEWEN\n🇯🇵 TOMOTO Kazuma
+SUMMARY:🏇 三項賽 - 個人場地障礙決賽
+LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T150000Z-beach-volleyball--D-LAT-SUI
 DTSTAMP:20240729T150000Z
 DTSTART:20240729T150000Z
 DTEND:20240729T155000Z
-DESCRIPTION:沙滩排球 - 女子预赛 - D组
+DESCRIPTION:沙灘排球 - 女子預賽 - D組
 SUMMARY:🏐 TINA/ANASTASIJA 🇱🇻 - 🇨🇭 ESMEE/ZOE
-LOCATION:埃菲尔铁塔体育场
+LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T153000Z-artistic-gymnastics-
 DTSTAMP:20240729T153000Z
 DTSTART:20240729T153000Z
 DTEND:20240729T180000Z
-DESCRIPTION:竞技体操 - 男子团体决赛\n🇨🇳 中国\n🇺🇦 乌克兰\n🇨🇦 加拿大\n🇮🇹 意大利\n🇯🇵
-  日本\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国
-SUMMARY:🤸 男子团体决赛
-LOCATION:贝尔西体育馆
+DESCRIPTION:競技體操 - 男子團體決賽\n🇨🇳 中國\n🇯🇵 日本\n🇨🇦 加拿大\n🇺🇸 美國\n🇬🇧
+  英國\n🇺🇦 烏克蘭\n🇮🇹 意大利\n🇨🇭 瑞士
+SUMMARY:🤸 男子團體決賽
+LOCATION:貝爾西體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T073000Z-rowing-14
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T080700Z
-DESCRIPTION:赛艇 - 女子单人双桨1/4决赛\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra
-  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
-  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
-  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
-  TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
-  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
-  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
-  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
-  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
-SUMMARY:🚣 女子单人双桨1/4决赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子單人雙槳1/4決賽\n🇹🇷 土耳其\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇱🇹 立陶宛\n🇮🇷
+  伊朗\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆\n🇧🇬 保加利亞\n🇿🇦 南非\n🇺🇸 美國\n🇺🇿 烏茲別克斯坦\n🇵🇪
+  秘魯\n🇳🇱 荷蘭\n🇸🇮 斯洛文尼亞\n🇵🇭 菲律賓\n🇻🇳 越南\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+SUMMARY:🚣 女子單人雙槳1/4決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T090000Z-swimming-200
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T091751Z
-DESCRIPTION:游泳 - 男子200米蝶泳分组预赛\n🇮🇹 Alberto RAZZETTI\n🇪🇸 Arbidel GONZALEZ
-  ALVAREZ\n🇺🇦 Denys KESIL\n🇳🇮 Gerald HERNANDEZ\n🇮🇹 Giacomo
-  CARINI\n🇯🇵 HONDA Tomoru\n🇨🇦 Ilya KHARUN\n🇰🇷 KIM Minseop\n🇪🇪
-  Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱 Krzysztof CHMIELEWSKI\n🇫🇷 Leon
-  MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇺🇸 Luca URLANDO\n🇦🇹 Martin
-  ESPERNBERGER\n🏳️ Matin BALSINI\n🇿🇦 Matthew SATES\n🇦🇺 Matthew
-  TEMPLE\n🇵🇱 Michal CHMIELEWSKI\n🇨🇳 NIU Guangsheng\n🇧🇷 Nicolas
-  ALBIERO\n🇨🇭 Noe PONTI\n🇧🇬 Petar Petrov MITSIN\n🇦🇿 Ramil
-  VALIZADA\n🇭🇺 Richard MARTON\n🇯🇵 TERAKADO Genki\n🇺🇸 Thomas
-  HEILMAN\n🇹🇼 WANG Kuan-Hung
-SUMMARY:🏊 男子200米蝶泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子200米蝶泳分組預賽\n🇨🇳 中國\n🇧🇷 巴西\n🇯🇵 日本\n🇨🇦 加拿大\n🇳🇮
+  尼加拉瓜\n🇭🇺 匈牙利\n🇪🇸 西班牙\n🇫🇷 法國\n🇵🇱 波蘭\n🇦🇿 阿塞拜疆\n🇧🇬 保加利亞\n🇿🇦
+  南非\n🇺🇸 美國\n🇺🇦 烏克蘭\n🇦🇹 奧地利\n🏳️ 奧林匹克難民代表團\n🇮🇹 意大利\n🇪🇪 愛沙尼亞\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇦🇺 澳大利亞\n🇰🇷 韓國\n🇹🇼 TPE
+SUMMARY:🏊 男子200米蝶泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T094000Z-rowing-
 DTSTAMP:20240730T094000Z
 DTSTART:20240730T094000Z
 DTEND:20240730T094700Z
-DESCRIPTION:赛艇 - 男子四人单桨复活赛\n🇷🇴 Andrei MANDRILA\n🇫🇷 Benoit BRUNET\n🇷🇴
-  Ciprian TUDOSA\n🇳🇱 Eli BROUWER\n🇮🇹 Giovanni ABAGNALE\n🇮🇹 Giuseppe
-  VICINO\n🇫🇷 Guillaume TURLAN\n🇳🇱 Guus MOLLEE\n🇨🇭 Joel SCHUERCH\n🇨🇭
-  Kai SCHAETZLE\n🇮🇹 Matteo LODO\n🇳🇱 Nelson RITSEMA\n🇮🇹 Nicholas
-  KOHL\n🇨🇭 Patrick BRUNNER\n🇳🇱 Rik RIENKS\n🇷🇴 Sergiu Vasile
-  BEJAN\n🇷🇴 Stefan Constantin BERARIU\n🇫🇷 Teo RAYET\n🇫🇷 Thibaud
-  TURLAN\n🇨🇭 Tim ROTH
-SUMMARY:🚣 男子四人单桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子四人單槳復活賽\n🇫🇷 法國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇨🇭 瑞士\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 男子四人單槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T100000Z-tennis-2-SUI-AUS
 DTSTAMP:20240730T100000Z
 DTSTART:20240730T100000Z
 DTEND:20240730T130000Z
-DESCRIPTION:网球 - 男子单打第2轮
+DESCRIPTION:網球 - 男子單打第2輪
 SUMMARY:🎾 Stan WAWRINKA 🇨🇭 - 🇦🇺 Alexei POPYRIN
-LOCATION:罗兰·加洛斯体育场
+LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T101300Z-sailing-IQFOIL-02
 DTSTAMP:20240730T101300Z
 DTSTART:20240730T101300Z
 DTEND:20240730T103400Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛02\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽02\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛02
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽02
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T104400Z-sailing-IQFOIL-03
 DTSTAMP:20240730T104400Z
 DTSTART:20240730T104400Z
 DTEND:20240730T110500Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛03\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽03\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛03
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽03
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T111500Z-sailing-IQFOIL-04
 DTSTAMP:20240730T111500Z
 DTSTART:20240730T111500Z
 DTEND:20240730T113600Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛04\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽04\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛04
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽04
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T112042Z-swimming-4X200
 DTSTAMP:20240730T112042Z
 DTSTART:20240730T112042Z
 DTEND:20240730T114006Z
-DESCRIPTION:游泳 - 男子4x200米自由泳接力分组预赛\n🇨🇳 中国\n🇮🇱 以色列\n🇨🇦 加拿大\n🇧🇷
-  巴西\n🇬🇷 希腊\n🇩🇪 德国\n🇮🇹 意大利\n🇯🇵 日本\n🇫🇷 法国\n🇦🇺 澳大利亚\n🇨🇭
-  瑞士\n🇱🇹 立陶宛\n🇺🇸 美国\n🇬🇧 英国\n🇪🇸 西班牙\n🇰🇷 韩国
-SUMMARY:🏊 男子4x200米自由泳接力分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子4x200米自由泳接力分組預賽\n🇨🇳 中國\n🇧🇷 巴西\n🇯🇵 日本\n🇮🇱
+  以色列\n🇨🇦 加拿大\n🇱🇹 立陶宛\n🇪🇸 西班牙\n🇬🇷 希臘\n🇫🇷 法國\n🇺🇸 美國\n🇬🇧
+  英國\n🇮🇹 意大利\n🇨🇭 瑞士\n🇩🇪 德國\n🇦🇺 澳大利亞\n🇰🇷 韓國
+SUMMARY:🏊 男子4x200米自由泳接力分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T112500Z-cycling-bmx-freestyle-
 DTSTAMP:20240730T112500Z
 DTSTART:20240730T112500Z
 DTEND:20240730T124200Z
-DESCRIPTION:自由式小轮车 - 女子公园赛预赛\n🇬🇧 Charlotte Elizabeth WORTHINGTON\n🇨🇳
+DESCRIPTION:自由式小輪車 - 女子公園賽預賽\n🇬🇧 Charlotte Elizabeth WORTHINGTON\n🇨🇳
   DENG Yawen\n🇺🇸 Hannah ROBERTS\n🇨🇿 Iveta MICULYCOVA\n🇩🇪 Kim Lea
   MUELLER\n🇫🇷 Laury PEREZ\n🇨🇱 Macarena PEREZ GRASSET\n🇦🇺 Natalya
   DIEHM\n🇨🇭 Nikita DUCARROZ\n🇺🇸 Perris BENEGAS\n🇨🇴 Queen Saray
   VILLEGAS SERNA\n🇨🇳 SUN Jiaqi
-SUMMARY:🚴 女子公园赛预赛
-LOCATION:协和广场2号场地
+SUMMARY:🚴 女子公園賽預賽
+LOCATION:協和廣場2號場地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T114600Z-sailing-IQFOIL-05
 DTSTAMP:20240730T114600Z
 DTSTART:20240730T114600Z
 DTEND:20240730T120700Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛05\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽05\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛05
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽05
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T121700Z-sailing-IQFOIL-06
 DTSTAMP:20240730T121700Z
 DTSTART:20240730T121700Z
 DTEND:20240730T123800Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛06\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽06\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛06
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽06
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T123500Z-sailing-49-07
 DTSTAMP:20240730T123500Z
 DTSTART:20240730T123500Z
 DTEND:20240730T131000Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛07\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽07\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛07
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽07
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T130000Z-canoe-slalom-1
 DTSTAMP:20240730T130000Z
 DTSTART:20240730T130000Z
 DTEND:20240730T135200Z
-DESCRIPTION:皮划艇激流回旋 - 女子单人划艇预赛第1轮\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇩🇪
+DESCRIPTION:皮劃艇激流回旋 - 女子單人划艇預賽第1輪\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇩🇪
   Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy LEIBFARTH\n🇨🇿 Gabriela
   SATKOVA\n🇨🇳 HUANG Juan\n🇦🇺 Jessica FOX\n🇵🇱 Klaudia ZWOLINSKA\n🇳🇱
   Lena TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇬🇧 Mallory FRANKLIN\n🇫🇷
   Marjorie DELASSUS\n🇮🇹 Marta BERTONCELLI\n🇮🇪 Michaela CORCORAN\n🇪🇸
   Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇯🇵 OKAZAKI Haruka\n🇦🇹
   Viktoria WOLFFHARDT\n🇺🇦 Viktoriia US\n🇸🇰 Zuzana PANKOVA
-SUMMARY:🛶 女子单人划艇预赛第1轮
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 女子單人划艇預賽第1輪
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T132700Z-sailing-49-08
 DTSTAMP:20240730T132700Z
 DTSTART:20240730T132700Z
 DTEND:20240730T140200Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛08\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽08\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛08
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽08
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T140000Z-canoe-slalom-1
 DTSTAMP:20240730T140000Z
 DTSTART:20240730T140000Z
 DTEND:20240730T150000Z
-DESCRIPTION:皮划艇激流回旋 - 男子单人皮艇预赛第1轮\n🇨🇦 Alex BALDONI\n🇰🇲 Andy BARAT\n🇦🇹
+DESCRIPTION:皮劃艇激流回旋 - 男子單人皮艇預賽第1輪\n🇨🇦 Alex BALDONI\n🇰🇲 Andy BARAT\n🇦🇹
   Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇸🇪 Isak
   OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭
   Martin DOUGOUD\n🇵🇱 Mateusz POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah
@@ -1002,54 +893,54 @@ DESCRIPTION:皮划艇激流回旋 - 男子单人皮艇预赛第1轮\n🇨🇦 Al
   Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺
   Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves
   BOURHIS
-SUMMARY:🛶 男子单人皮艇预赛第1轮
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 男子單人皮艇預賽第1輪
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T141900Z-sailing-49-09
 DTSTAMP:20240730T141900Z
 DTSTART:20240730T141900Z
 DTEND:20240730T145400Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛09\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽09\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛09
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽09
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T143000Z-badminton--L-IRL-SUI
 DTSTAMP:20240730T143000Z
 DTSTART:20240730T143000Z
 DTEND:20240730T151000Z
-DESCRIPTION:羽毛球 - 女子单打小组赛 - L组
+DESCRIPTION:羽毛球 - 女子單打小組賽 - L組
 SUMMARY:🏸 Rachael DARRAGH 🇮🇪 - 🇨🇭 Jenjira STADELMANN
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T151000Z-canoe-slalom-2
 DTSTAMP:20240730T151000Z
 DTSTART:20240730T151000Z
 DTEND:20240730T160200Z
-DESCRIPTION:皮划艇激流回旋 - 女子单人划艇预赛第2轮\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇩🇪
+DESCRIPTION:皮劃艇激流回旋 - 女子單人划艇預賽第2輪\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇩🇪
   Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy LEIBFARTH\n🇨🇿 Gabriela
   SATKOVA\n🇨🇳 HUANG Juan\n🇦🇺 Jessica FOX\n🇵🇱 Klaudia ZWOLINSKA\n🇳🇱
   Lena TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇬🇧 Mallory FRANKLIN\n🇫🇷
   Marjorie DELASSUS\n🇮🇹 Marta BERTONCELLI\n🇮🇪 Michaela CORCORAN\n🇪🇸
   Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇯🇵 OKAZAKI Haruka\n🇦🇹
   Viktoria WOLFFHARDT\n🇺🇦 Viktoriia US\n🇸🇰 Zuzana PANKOVA
-SUMMARY:🛶 女子单人划艇预赛第2轮
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 女子單人划艇預賽第2輪
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T161000Z-canoe-slalom-2
 DTSTAMP:20240730T161000Z
 DTSTART:20240730T161000Z
 DTEND:20240730T171000Z
-DESCRIPTION:皮划艇激流回旋 - 男子单人皮艇预赛第2轮\n🇨🇦 Alex BALDONI\n🇰🇲 Andy BARAT\n🇦🇹
+DESCRIPTION:皮劃艇激流回旋 - 男子單人皮艇預賽第2輪\n🇨🇦 Alex BALDONI\n🇰🇲 Andy BARAT\n🇦🇹
   Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇸🇪 Isak
   OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭
   Martin DOUGOUD\n🇵🇱 Mateusz POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah
@@ -1057,24 +948,24 @@ DESCRIPTION:皮划艇激流回旋 - 男子单人皮艇预赛第2轮\n🇨🇦 Al
   Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺
   Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves
   BOURHIS
-SUMMARY:🛶 男子单人皮艇预赛第2轮
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 男子單人皮艇預賽第2輪
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T173000Z-badminton--N-NGR-SUI
 DTSTAMP:20240730T173000Z
 DTSTART:20240730T173000Z
 DTEND:20240730T181000Z
-DESCRIPTION:羽毛球 - 男子单打小组赛 - N组
+DESCRIPTION:羽毛球 - 男子單打小組賽 - N組
 SUMMARY:🏸 Anuoluwapo Juwon OPEYORI 🇳🇬 - 🇨🇭 Tobias KUENZI
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T060000Z-triathlon-
 DTSTAMP:20240731T060000Z
 DTSTART:20240731T060000Z
 DTEND:20240731T080500Z
-DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+DESCRIPTION:鐵人三項 - 女子個人賽\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
   PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
   POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
   SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
@@ -1082,7 +973,7 @@ DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Al
   LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
   Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
   Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
-  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
+  KASPER\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇨🇳 LIN Xinyu\n🇦🇹
   Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
   MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
   Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
@@ -1092,57 +983,57 @@ DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Al
   Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
   SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
   MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
-SUMMARY:🏊 女子个人赛
-LOCATION:亚历山大三世桥
+SUMMARY:🏊 女子個人賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T070000Z-shooting-50
 DTSTAMP:20240731T070000Z
 DTSTART:20240731T070000Z
 DTEND:20240731T083000Z
-DESCRIPTION:射击 - 男子50米步枪三姿资格赛\n🇮🇳 Aishwary Pratap Singh TOMAR\n🇫🇮
+DESCRIPTION:射擊 - 男子50米步槍三姿資格賽\n🇮🇳 Aishwary Pratap Singh TOMAR\n🇫🇮
   Aleksi LEPPA\n🇦🇹 Alexander SCHMIRL\n🇦🇹 Andreas THUM\n🇲🇳 Bayaraa
   NYANTAI\n🇲🇽 Carlos QUEZADA MARQUEZ\n🇨🇭 Christoph DUERR\n🇦🇺 Dane
   SAMPSON\n🇮🇹 Danilo Dennis SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo
   BONAZZI\n🇮🇩 Fathur GUSTAFIAN\n🇪🇬 Ibrahim Ahmad Mohammad
   KORAYIEM\n🇰🇿 Islam SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺 Istvan
   PENI\n🇺🇸 Ivan ROE\n🇦🇺 Jack ROSSITER\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴
-  Jon-Hermann HEGG\n🇰🇿 Konstantin MALINOVSKIY\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
-  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇸🇪
+  Jon-Hermann HEGG\n🇰🇿 Konstantin MALINOVSKIY\n🇷🇸 Lazar KOVACEVIC\n🇨🇳
+  LIU Yukun\n🇫🇷 Lucas Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇸🇪
   Marcus MADSEN\n🇩🇪 Maximilian ULBRICH\n🇬🇧 Michael BARGERON\n🇭🇷 Miran
   MARICIC\n🇯🇵 OKADA Naoya\n🇳🇴 Ole Martin HALVORSEN\n🇰🇷 PARK
   Hajun\n🇸🇰 Patrik JANY\n🇭🇷 Petar GORSA\n🇨🇿 Petr NYMBURSKY\n🇫🇷
   Romain AUFRERE\n🇺🇸 Rylan William KISSELL\n🇺🇦 Serhiy KULISH\n🇮🇳
   Swapnil KUSALE\n🇹🇭 Thongphaphum VONGSUKDEE\n🇵🇱 Tomasz BARTNIK\n🇨🇦
   Tye IKEDA\n🇸🇪 Victor LINDGREN\n🇭🇺 Zalan PEKLER
-SUMMARY:🔫 男子50米步枪三姿资格赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子50米步槍三姿資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T080000Z-beach-volleyball--F-SUI-GER
 DTSTAMP:20240731T080000Z
 DTSTART:20240731T080000Z
 DTEND:20240731T085000Z
-DESCRIPTION:沙滩排球 - 女子预赛 - F组
+DESCRIPTION:沙灘排球 - 女子預賽 - F組
 SUMMARY:🏐 HUBERLI/BRUNNER 🇨🇭 - 🇩🇪 LUDWIG/LIPPMANN
-LOCATION:埃菲尔铁塔体育场
+LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T083400Z-rowing--AB-1
 DTSTAMP:20240731T083400Z
 DTSTART:20240731T083400Z
 DTEND:20240731T084100Z
-DESCRIPTION:赛艇 - 男子双人单桨半决赛 A/B 1\n🇭🇷 克罗地亚\n🇿🇦 南非\n🇨🇭 瑞士\n🇱🇹
-  立陶宛\n🇺🇸 美国\n🇪🇸 西班牙
-SUMMARY:🚣 男子双人单桨半决赛 A/B 1
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子雙人單槳半決賽 A/B 1\n🇱🇹 立陶宛\n🇪🇸 西班牙\n🇭🇷 克羅地亞\n🇿🇦
+  南非\n🇺🇸 美國\n🇨🇭 瑞士
+SUMMARY:🚣 男子雙人單槳半決賽 A/B 1
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T084500Z-triathlon-
 DTSTAMP:20240731T084500Z
 DTSTART:20240731T084500Z
 DTEND:20240731T104500Z
-DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
+DESCRIPTION:鐵人三項 - 男子個人賽\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
   GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois KNABL\n🇪🇸
   Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR MOYSEN\n🇭🇺 Bence
   BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto GRAJALES\n🇭🇺 Csongor
@@ -1160,269 +1051,241 @@ DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Al
   Samuel DICKINSON\n🇺🇸 Seth RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim
   HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦 Tyler MISLAWCHUK\n🇧🇲 Tyler
   SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle Bergsvik THORN
-SUMMARY:🏊 男子个人赛
-LOCATION:亚历山大三世桥
+SUMMARY:🏊 男子個人賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T090000Z-swimming-200
 DTSTAMP:20240731T090000Z
 DTSTART:20240731T090000Z
 DTEND:20240731T092100Z
-DESCRIPTION:游泳 - 女子200米蛙泳分组预赛\n🇦🇺 Ella RAMSAY\n🇸🇬 En Yi Letitia
-  SIM\n🇪🇪 Eneli JEFIMOVA\n🇮🇹 Francesca FANGIO\n🇦🇺 Jenna STRAUCH\n🇪🇸
-  Jessica VALL MONTERO\n🇺🇸 Kate DOUGLASS\n🇿🇦 Kaylene CORBETT\n🇨🇦
-  Kelsey WOG\n🇱🇹 Kotryna TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇺🇸 Lilly
-  KING\n🇨🇭 Lisa MAMIE\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇯🇵
-  SUZUKI Satomi\n🇸🇪 Sophie HANSSON\n🇨🇦 Sydney PICKREM\n🇿🇦 Tatjana
-  SMITH\n🇳🇱 Tes SCHOUTEN\n🇩🇰 Thea BLOMSTERBERG\n🇨🇳 YE Shiwen
-SUMMARY:🏊 女子200米蛙泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子200米蛙泳分組預賽\n🇨🇳 中國\n🇩🇰 丹麥\n🇯🇵 日本\n🇨🇦 加拿大\n🇱🇹
+  立陶宛\n🇪🇸 西班牙\n🇦🇷 阿根廷\n🇿🇦 南非\n🇺🇸 美國\n🇨🇿 捷克\n🇳🇱 荷蘭\n🇮🇹
+  意大利\n🇪🇪 愛沙尼亞\n🇮🇪 愛爾蘭\n🇸🇬 新加坡\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇦🇺 澳大利亞
+SUMMARY:🏊 女子200米蛙泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T091400Z-rowing--AB-1
 DTSTAMP:20240731T091400Z
 DTSTART:20240731T091400Z
 DTEND:20240731T092100Z
-DESCRIPTION:赛艇 - 男子轻量级双人双桨半决赛 A/B 1\n🇨🇿 捷克\n🇧🇪 比利时\n🇫🇷 法国\n🇮🇪
-  爱尔兰\n🇨🇭 瑞士\n🇦🇷 阿根廷
-SUMMARY:🚣 男子轻量级双人双桨半决赛 A/B 1
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子輕量級雙人雙槳半決賽 A/B 1\n🇧🇪 比利時\n🇫🇷 法國\n🇦🇷 阿根廷\n🇨🇿
+  捷克\n🇮🇪 愛爾蘭\n🇨🇭 瑞士
+SUMMARY:🚣 男子輕量級雙人雙槳半決賽 A/B 1
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T092100Z-swimming-200
 DTSTAMP:20240731T092100Z
 DTSTART:20240731T092100Z
 DTEND:20240731T094600Z
-DESCRIPTION:游泳 - 男子200米仰泳分组预赛\n🇭🇺 Adam TELEGDY\n🇬🇷 Apostolos
-  CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley
-  WOODWARD\n🇮🇱 David GERCHIK\n🇿🇼 Denilson CYPRIANOS\n🇭🇺 Hubert
-  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇳🇱 Kai van WESTERING\n🇳🇿 Kane
-  FOLLOWS\n🇺🇸 Keaton JONES\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE Juho\n🇩🇪
-  Lukas MAERTENS\n🇬🇧 Luke GREENBANK\n🇮🇹 Matteo RESTIVO\n🇫🇷 Mewen
-  TOMAC\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
-  COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇦🇺 Se-Bom LEE\n🇯🇵
-  TAKEHARA Hidekazu\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇵🇷 Yeziel
-  MORALES\n🇫🇷 Yohann NDOYE-BROUARD\n🇸🇩 Ziyad SALEEM
-SUMMARY:🏊 男子200米仰泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子200米仰泳分組預賽\n🇨🇳 中國\n🇯🇵 日本\n🇮🇱 以色列\n🇨🇦 加拿大\n🇭🇺
+  匈牙利\n🇪🇸 西班牙\n🇬🇷 希臘\n🇫🇷 法國\n🇵🇷 波多黎各\n🇵🇱 波蘭\n🇿🇦 南非\n🇿🇼
+  津巴布韋\n🇺🇸 美國\n🇬🇧 英國\n🇺🇦 烏克蘭\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇳🇿 新西蘭\n🇨🇭
+  瑞士\n🇩🇪 德國\n🇦🇺 澳大利亞\n🇰🇷 韓國\n🇸🇩 蘇丹
+SUMMARY:🏊 男子200米仰泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T102600Z-rowing-A
 DTSTAMP:20240731T102600Z
 DTSTART:20240731T102600Z
 DTEND:20240731T103300Z
-DESCRIPTION:赛艇 - 男子四人双桨决赛A\n🇩🇪 德国\n🇮🇹 意大利\n🇵🇱 波兰\n🇨🇭 瑞士\n🇬🇧
-  英国\n🇳🇱 荷兰
-SUMMARY:🚣 男子四人双桨决赛A
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子四人雙槳決賽A\n🇵🇱 波蘭\n🇬🇧 英國\n🇳🇱 荷蘭\n🇮🇹 意大利\n🇨🇭
+  瑞士\n🇩🇪 德國
+SUMMARY:🚣 男子四人雙槳決賽A
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T103800Z-rowing-A
 DTSTAMP:20240731T103800Z
 DTSTART:20240731T103800Z
 DTEND:20240731T104500Z
-DESCRIPTION:赛艇 - 女子四人双桨决赛A\n🇨🇳 中国\n🇺🇦 乌克兰\n🇩🇪 德国\n🇨🇭 瑞士\n🇬🇧
-  英国\n🇳🇱 荷兰
-SUMMARY:🚣 女子四人双桨决赛A
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子四人雙槳決賽A\n🇨🇳 中國\n🇬🇧 英國\n🇺🇦 烏克蘭\n🇳🇱 荷蘭\n🇨🇭
+  瑞士\n🇩🇪 德國
+SUMMARY:🚣 女子四人雙槳決賽A
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T120300Z-sailing-IQFOIL-07
 DTSTAMP:20240731T120300Z
 DTSTART:20240731T120300Z
 DTEND:20240731T122400Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛07\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽07\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛07
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽07
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T123400Z-sailing-IQFOIL-08
 DTSTAMP:20240731T123400Z
 DTSTART:20240731T123400Z
 DTEND:20240731T125500Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛08\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽08\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛08
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽08
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T125000Z-sailing-49-10
 DTSTAMP:20240731T125000Z
 DTSTART:20240731T125000Z
 DTEND:20240731T132500Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛10\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽10\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛10
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽10
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T130500Z-sailing-IQFOIL-09
 DTSTAMP:20240731T130500Z
 DTSTART:20240731T130500Z
 DTEND:20240731T132600Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛09\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽09\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛09
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽09
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T133600Z-sailing-IQFOIL-10
 DTSTAMP:20240731T133600Z
 DTSTART:20240731T133600Z
 DTEND:20240731T135700Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛10\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽10\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛10
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽10
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T134500Z-sailing-49-11
 DTSTAMP:20240731T134500Z
 DTSTART:20240731T134500Z
 DTEND:20240731T142000Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛11\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽11\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛11
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽11
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T140700Z-sailing-IQFOIL-11
 DTSTAMP:20240731T140700Z
 DTSTART:20240731T140700Z
 DTEND:20240731T142800Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛11\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽11\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛11
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽11
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T143700Z-sailing-49-12
 DTSTAMP:20240731T143700Z
 DTSTART:20240731T143700Z
 DTEND:20240731T151200Z
-DESCRIPTION:帆船 - 男子帆船49人级 - 比赛12\n🇨🇦 BARNES/JONES\n🇺🇸
+DESCRIPTION:帆船 - 男子帆船49人級 - 比賽12\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
-  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇩🇪 MEGGENDORF/SPRANGER\n🇳🇿
-  McHARDIE/McKENZIE\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  LAMBRIEX/WERKEN\n🇧🇪 LEFEBVRE/HEUNINCK\n🇳🇿 McHARDIE/McKENZIE\n🇩🇪
+  MEGGENDORF/SPRANGER\n🇩🇰 NYBORG/BUHL\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
-SUMMARY:⛵ 男子帆船49人级 - 比赛12
-LOCATION:马赛港
+SUMMARY:⛵ 男子帆船49人級 - 比賽12
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T190000Z-beach-volleyball--D-CAN-SUI
 DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
 DTEND:20240731T195000Z
-DESCRIPTION:沙滩排球 - 女子预赛 - D组
+DESCRIPTION:沙灘排球 - 女子預賽 - D組
 SUMMARY:🏐 MELISSA/BRANDIE 🇨🇦 - 🇨🇭 ESMEE/ZOE
-LOCATION:埃菲尔铁塔体育场
+LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T084200Z-judo-10032-SUI-EOR
 DTSTAMP:20240801T084200Z
 DTSTART:20240801T084200Z
 DTEND:20240801T084800Z
-DESCRIPTION:柔道 - 男子100公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子100公斤級32強淘汰賽
 SUMMARY:🥋 Daniel EICH 🇨🇭 - 🏳️ Adnan KHANKAN
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T091600Z-swimming-50
 DTSTAMP:20240801T091600Z
 DTSTART:20240801T091600Z
 DTEND:20240801T093800Z
-DESCRIPTION:游泳 - 男子50米自由泳分组预赛\n🇪🇷 Aaron Ghebre OWUSU\n🇬🇦 Adam
-  MPALI\n🏳️ Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨 Alex JOACHIM\n🇬🇧
-  Alexander COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote NDOMBE IMPELENGA\n🇩🇪
-  Artem SELIN\n🇧🇮 Belly-Cresus GANIRA\n🇦🇺 Ben ARMBRUSTER\n🇬🇧 Benjamin
-  PROUD\n🇸🇪 Bjoern SEELIGER\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron
-  McEVOY\n🇲🇷 Camil DOUA\n🇺🇸 Chris GUILIANO\n🇿🇲 Damien SHAMAMBO\n🇫🇯
-  David YOUNG\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇹 Dylan CARTER\n🇬🇳 Elhadj
-  N'gnane DIALLO\n🇦🇫 Fahim ANWARI\n🇹🇯 Fakhriddin MADKAMOV\n🇲🇼 Filipe
-  GOMES\n🇫🇷 Florent MANAUDOU\n🇨🇬 Freddy MAYALA\n🇲🇽 Gabriel CASTANO
-  GARCIA\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian Yentou\n🇬🇶 Higinio NDONG
-  OBAMA\n🇩🇯 Houmed HOUSSEIN BARKAT\n🇰🇷 JI Yuchan\n🇭🇷 Jere
-  HRIBAR\n🇵🇼 Jion HOSEI\n🇹🇱 Jolanio GUTERRES\n🇸🇬 Jonathan Eu Jin
-  TAN\n🇰🇾 Jordan CROOKS\n🇨🇻 Jose TATI\n🇨🇦 Josh LIENDO\n🇸🇱 Joshua
-  WYSE\n🇳🇱 Kenzo SIMONS\n🇬🇷 Kristian GKOLOMEEV\n🇲🇹 Kyle
-  MICALLEF\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇹🇬 Magnim
-  Jordano DAOU\n🇳🇪 Marouane MAMANE HAMISSOU ABBA\n🇮🇱 Martin
-  KARTAVI\n🇸🇰 Matej DUSA\n🇫🇷 Maxime GROUSSET\n🇮🇱 Meiron Amir
-  CHERUTI\n🇵🇹 Miguel NASCIMENTO\n🇦🇼 Mikel SCHREUDERS\n🇲🇻 Mohamed Aan
-  HUSSAIN\n🇳🇴 Nicholas LIA\n🇬🇲 Ousman JOBE\n🇬🇼 Pedro ROGERY\n🇲🇭
-  Phillip KINONO\n🇵🇱 Piotr LUDWICZAK\n🇳🇱 Renzo TJON-A-JOE\n🇮🇪 Shane
-  RYAN\n🇧🇫 Souleymane NAPARE\n🇬🇷 Stergios Marios BILAS\n🇭🇺
-  Szebasztian SZABO\n🇳🇿 Taiko TOREPE-ORMSBY\n🇨🇫 Terence TENGUE\n🇨🇭
-  Thierry BOLLIN\n🇮🇪 Thomas FANNON\n🇳🇬 Tobi SIJUADE\n🇰🇳 Troy
-  NISBETT\n🇺🇦 Vladyslav BUKHOV\n🇩🇲 Warren Adam LAWRENCE
-SUMMARY:🏊 男子50米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子50米自由泳分組預賽\n🇨🇫 中非\n🇭🇰 中國香港\n🇪🇷 厄立特里亞\n🇧🇷
+  巴西\n🇲🇷 毛裡塔尼亞\n🇮🇱 以色列\n🇨🇦 加拿大\n🇬🇦 加蓬\n🇳🇬 尼日利亞\n🇳🇪 尼日爾\n🇧🇫
+  布基納法索\n🇧🇮 布隆迪\n🇭🇺 匈牙利\n🇩🇯 吉布提\n🇩🇲 多米尼克\n🇹🇬 多哥\n🇨🇻 佛得角\n🇭🇷
+  克羅地亞\n🇬🇷 希臘\n🇬🇶 赤道幾內亞\n🇻🇪 委內瑞拉\n🇬🇲 岡比亞\n🇵🇼 帕勞\n🇹🇱 東帝汶\n🇫🇷
+  法國\n🇵🇱 波蘭\n🇦🇫 阿富汗\n🇦🇼 阿魯巴\n🇺🇸 美國\n🇬🇧 英國\n🇨🇬 剛果（布）\n🇨🇩
+  剛果（金）\n🇳🇴 挪威\n🇺🇦 烏克蘭\n🇹🇹 特立尼達和多巴哥\n🇲🇹 馬耳他\n🇲🇼 馬拉維\n🇲🇭
+  馬紹爾群島\n🇲🇻 馬爾代夫\n🇳🇱 荷蘭\n🇬🇳 幾內亞\n🇬🇼 幾內亞比紹\n🇫🇯 斐濟\n🇸🇰 斯洛伐克\n🇰🇾
+  開曼群島\n🇹🇯 塔吉克斯坦\n🇸🇱 塞拉利昂\n🇷🇸 塞爾維亞\n🏳️ 奧林匹克難民代表團\n🇮🇹 意大利\n🇮🇪
+  愛爾蘭\n🇸🇬 新加坡\n🇳🇿 新西蘭\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇻🇨 聖文森特和格林納丁斯\n🇰🇳
+  聖基茨和尼維斯\n🇵🇹 葡萄牙\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞\n🇰🇷 韓國\n🇿🇲 贊比亞
+SUMMARY:🏊 男子50米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T094000Z-swimming-200
 DTSTAMP:20240801T094000Z
 DTSTART:20240801T094000Z
 DTEND:20240801T095500Z
-DESCRIPTION:游泳 - 男子200米个人混合泳分组预赛\n🇮🇹 Alberto RAZZETTI\n🇬🇷 Apostolos
-  PAPASTAMOS\n🇹🇷 Berke SAKA\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇬🇹
-  Erick GORDILLO\n🇧🇴 Esteban NUNEZ del PRADO\n🇨🇦 Finlay KNOX\n🇭🇺
-  Gabor ZOMBORI\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇩🇿 Jaouad SYOUD\n🇨🇭
-  Jeremy DESPLANCHES\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇵🇾 Matheo
-  MATEOS\n🇿🇦 Matthew SATES\n🇮🇱 Ron POLONSKY\n🇯🇵 SETO Daiya\n🇺🇸
-  Shaine CASAS\n🇸🇨 Simon BACHMANN\n🇦🇺 Thomas NEILL\n🇬🇧 Tom DEAN\n🇪🇨
-  Tomas PERIBONIO AVILA\n🇨🇳 WANG Shun\n🇦🇺 William Campbell PETRIC
-SUMMARY:🏊 男子200米个人混合泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子200米個人混合泳分組預賽\n🇹🇷 土耳其\n🇨🇳 中國\n🇪🇨 厄瓜多爾\n🇵🇾
+  巴拉圭\n🇯🇵 日本\n🇮🇱 以色列\n🇨🇦 加拿大\n🇭🇺 匈牙利\n🇬🇹 危地馬拉\n🇪🇸 西班牙\n🇬🇷
+  希臘\n🇫🇷 法國\n🇩🇿 阿爾及利亞\n🇿🇦 南非\n🇧🇴 玻利維亞\n🇺🇸 美國\n🇬🇧 英國\n🇸🇨
+  塞舌爾\n🇮🇹 意大利\n🇳🇿 新西蘭\n🇨🇭 瑞士\n🇦🇺 澳大利亞
+SUMMARY:🏊 男子200米個人混合泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T100000Z-shooting-50
 DTSTAMP:20240801T100000Z
 DTSTART:20240801T100000Z
 DTEND:20240801T113000Z
-DESCRIPTION:射击 - 女子50米步枪三姿资格赛\n🇵🇱 Aleksandra Anna PIETRUK\n🇰🇿 Alexandra
+DESCRIPTION:射擊 - 女子50米步槍三姿資格賽\n🇵🇱 Aleksandra Anna PIETRUK\n🇰🇿 Alexandra
   Le\n🇮🇳 Anjum MOUDGIL\n🇩🇪 Anna JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇮🇹
   Barbara GAMBARO\n🇨🇭 Chiara LEONE\n🇭🇺 Eszter MESZAROS\n🇧🇷 Geovana
   MEYER\n🇨🇳 HAN Jiayu\n🇰🇷 IM Hana\n🇳🇴 Jeanette Hegg DUESTAD\n🇳🇴
@@ -1433,180 +1296,172 @@ DESCRIPTION:射击 - 女子50米步枪三姿资格赛\n🇵🇱 Aleksandra Anna 
   WESTLAKE\n🇮🇳 Sift Kaur SAMRA\n🇩🇰 Stephanie Laura Scurrah
   GRUNDSOEE\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳
   Yesugen OYUNBAT\n🇨🇳 ZHANG Qiongyue
-SUMMARY:🔫 女子50米步枪三姿资格赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 女子50米步槍三姿資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T135300Z-sailing-IQFOIL-12
 DTSTAMP:20240801T135300Z
 DTSTART:20240801T135300Z
 DTEND:20240801T141400Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛12\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽12\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛12
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽12
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T142400Z-sailing-IQFOIL-13
 DTSTAMP:20240801T142400Z
 DTSTART:20240801T142400Z
 DTEND:20240801T144500Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛13\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽13\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛13
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽13
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T145500Z-sailing-IQFOIL-14
 DTSTAMP:20240801T145500Z
 DTSTART:20240801T145500Z
 DTEND:20240801T151600Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛14\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽14\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛14
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽14
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T152600Z-sailing-IQFOIL-15
 DTSTAMP:20240801T152600Z
 DTSTART:20240801T152600Z
 DTEND:20240801T154700Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛15\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽15\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛15
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽15
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T155700Z-sailing-IQFOIL-16
 DTSTAMP:20240801T155700Z
 DTSTART:20240801T155700Z
 DTEND:20240801T161800Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛16\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽16\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛16
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽16
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T162800Z-sailing-IQFOIL-17
 DTSTAMP:20240801T162800Z
 DTSTART:20240801T162800Z
 DTEND:20240801T164900Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛17\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽17\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛17
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽17
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T165900Z-sailing-IQFOIL-18
 DTSTAMP:20240801T165900Z
 DTSTART:20240801T165900Z
 DTEND:20240801T172000Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛18\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽18\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛18
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽18
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T173000Z-sailing-IQFOIL-19
 DTSTAMP:20240801T173000Z
 DTSTART:20240801T173000Z
 DTEND:20240801T175100Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛19\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽19\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛19
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽19
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T180100Z-sailing-IQFOIL-20
 DTSTAMP:20240801T180100Z
 DTSTART:20240801T180100Z
 DTEND:20240801T182200Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级 - 比赛 20\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil級 - 比賽 20\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
   COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
   Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
   Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
   BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
   LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 男子水翼帆板iQFoil级 - 比赛 20
-LOCATION:马赛港
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇮🇱 Tom
+  REUVENY\n🇯🇵 TOMIZAWA Makoto\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽 20
+LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T090000Z-swimming-100
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
 DTEND:20240802T091300Z
-DESCRIPTION:游泳 - 男子100米蝶泳分组预赛\n🇰🇿 Adilbek MUSSIN\n🇦🇺 Ben
-  ARMBRUSTER\n🇺🇸 Caeleb DRESSEL\n🇳🇿 Cameron GRAY\n🇿🇦 Chad le
-  CLOS\n🇫🇷 Clement SECCHI\n🇨🇿 Daniel GRACIK\n🇵🇹 Diogo MATOS
-  RIBEIRO\n🇮🇱 Gal COHEN GROUMI\n🇮🇶 Hasan Ali Khaleel AL-ZINKEE\n🇭🇺
-  Hubert KOS\n🇨🇦 Ilya KHARUN\n🇵🇱 Jakub MAJERSKI\n🇬🇧 James GUY\n🇵🇭
-  Jarod HATCH\n🇺🇬 Jesse Ssuubi SSENGONZI\n🇮🇩 Joe KURNIAWAN\n🇯🇲 Josh
-  KIRLEW\n🇨🇦 Josh LIENDO\n🇧🇬 Josif MILADINOV\n🇩🇪 Kaii WINKLER\n🇧🇷
-  Kayky MOTA\n🇭🇺 Kristof MILAK\n🇯🇵 MATSUMOTO Katsuhiro\n🇯🇵 MIZUNUMA
-  Naoki\n🇪🇸 Mario MOLLA YANES\n🇿🇦 Matthew SATES\n🇦🇺 Matthew
-  TEMPLE\n🇫🇷 Maxime GROUSSET\n🇲🇪 Milos MILENKOVIC\n🇭🇷 Nikola
-  MILJENIC\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE\n🇷🇼 Oscar Cyusa PEYRE
-  MITILLA\n🇨🇳 SUN Jiajun\n🇦🇹 Simon BUCHER\n🇺🇸 Thomas HEILMAN\n🇮🇱
-  Tomer FRANKEL\n🇨🇳 WANG Changhao\n🇾🇪 Yusuf Marwan Abdullah NASSER
-SUMMARY:🏊 男子100米蝶泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子100米蝶泳分組預賽\n🇾🇪 也門\n🇨🇳 中國\n🇧🇷 巴西\n🇯🇵 日本\n🇯🇲
+  牙買加\n🇮🇱 以色列\n🇨🇦 加拿大\n🇮🇶 伊拉克\n🇭🇺 匈牙利\n🇮🇩 印度尼西亞\n🇪🇸 西班牙\n🇭🇷
+  克羅地亞\n🇫🇷 法國\n🇵🇱 波蘭\n🇧🇬 保加利亞\n🇿🇦 南非\n🇰🇿 哈薩克斯坦\n🇺🇸 美國\n🇬🇧
+  英國\n🇺🇬 烏幹達\n🇨🇿 捷克\n🇳🇱 荷蘭\n🇵🇭 菲律賓\n🇲🇪 黑山\n🇦🇹 奧地利\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇵🇹 葡萄牙\n🇩🇪 德國\n🇦🇺 澳大利亞\n🇷🇼 盧旺達
+SUMMARY:🏊 男子100米蝶泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T133000Z-canoe-slalom-
 DTSTAMP:20240802T133000Z
 DTSTART:20240802T133000Z
 DTEND:20240802T142700Z
-DESCRIPTION:皮划艇激流回旋 - 男子极限皮艇计时赛\n🇬🇧 Adam BURGESS\n🇨🇦 Alex BALDONI\n🏳️
+DESCRIPTION:皮劃艇激流回旋 - 男子極限皮艇計時賽\n🇬🇧 Adam BURGESS\n🇨🇦 Alex BALDONI\n🏳️
   Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮 Benjamin SAVSEK\n🇫🇷 Boris
   NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
   Giovanni de GENNARO\n🇵🇱 Grzegorz HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub
@@ -1618,65 +1473,65 @@ DESCRIPTION:皮划艇激流回旋 - 男子极限皮艇计时赛\n🇬🇧 Adam B
   Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy
   ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan CARTER\n🇹🇼 WU
   Shao-Hsuan\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 男子极限皮艇计时赛
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 男子極限皮艇計時賽
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T144000Z-canoe-slalom-
 DTSTAMP:20240802T144000Z
 DTSTART:20240802T144000Z
 DTEND:20240802T153700Z
-DESCRIPTION:皮划艇激流回旋 - 女子极限皮艇计时赛\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇫🇷
-  Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷 Camille
-  PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇩🇪 Elena
+DESCRIPTION:皮劃艇激流回旋 - 女子極限皮艇計時賽\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇫🇷
+  Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole
+  Diana BOUZIDI\n🇹🇼 CHANG Chu-Han\n🇦🇹 Corinna KUHNLE\n🇩🇪 Elena
   LILIK\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva Alina HOCEVAR\n🇸🇮 Eva
   TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
-  Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇳🇱 Lena TEUNISSEN\n🇨🇦 Lois
+  Klaudia ZWOLINSKA\n🇳🇱 Lena TEUNISSEN\n🇨🇳 LI Shiting\n🇨🇦 Lois
   BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
   CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇮🇹 Marta BERTONCELLI\n🇳🇱 Martina
   WEGMAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇦🇺 Noemie
   FOX\n🇯🇵 OKAZAKI Haruka\n🇩🇪 Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹
   Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria WOLFFHARDT\n🇺🇦
   Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
-SUMMARY:🛶 女子极限皮艇计时赛
-LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+SUMMARY:🛶 女子極限皮艇計時賽
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-beach-volleyball--D-SUI-PAR
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
 DTEND:20240803T095000Z
-DESCRIPTION:沙滩排球 - 女子预赛 - D组
+DESCRIPTION:沙灘排球 - 女子預賽 - D組
 SUMMARY:🏐 ESMEE/ZOE 🇨🇭 - 🇵🇾 POLETTI/MICHELLE
-LOCATION:埃菲尔铁塔体育场
+LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T103300Z-swimming-4X100
 DTSTAMP:20240803T103300Z
 DTSTART:20240803T103300Z
 DTEND:20240803T104400Z
-DESCRIPTION:游泳 - 男子4x100米混合泳接力分组预赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇦🇹 奥地利\n🇩🇪
-  德国\n🇮🇹 意大利\n🇯🇵 日本\n🇫🇷 法国\n🇵🇱 波兰\n🇦🇺 澳大利亚\n🇮🇪 爱尔兰\n🇨🇭
-  瑞士\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰\n🇪🇸 西班牙\n🇰🇷 韩国
-SUMMARY:🏊 男子4x100米混合泳接力分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子4x100米混合泳接力分組預賽\n🇨🇳 中國\n🇯🇵 日本\n🇨🇦 加拿大\n🇪🇸
+  西班牙\n🇫🇷 法國\n🇵🇱 波蘭\n🇺🇸 美國\n🇬🇧 英國\n🇳🇱 荷蘭\n🇦🇹 奧地利\n🇮🇹
+  意大利\n🇮🇪 愛爾蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇦🇺 澳大利亞\n🇰🇷 韓國
+SUMMARY:🏊 男子4x100米混合泳接力分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T140000Z-beach-volleyball--F-FRA-SUI
 DTSTAMP:20240803T140000Z
 DTSTART:20240803T140000Z
 DTEND:20240803T145000Z
-DESCRIPTION:沙滩排球 - 女子预赛 - F组
+DESCRIPTION:沙灘排球 - 女子預賽 - F組
 SUMMARY:🏐 PLACETTE/RICHARD 🇫🇷 - 🇨🇭 HUBERLI/BRUNNER
-LOCATION:埃菲尔铁塔体育场
+LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
-LOCATION:Stade de France, Saint-Denis
+DESCRIPTION:巴黎2024 - 閉幕式
+SUMMARY:巴黎2024 - 閉幕式
+LOCATION:法蘭西體育場，聖但尼
 END:VEVENT
 END:VCALENDAR

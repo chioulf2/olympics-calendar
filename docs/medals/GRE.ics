@@ -1,17 +1,17 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/GRE//EN
-X-WR-CALNAME:🇬🇷 Greece 🏅 | Paris 2024
-NAME:🇬🇷 Greece 🏅 | Paris 2024
+X-WR-CALNAME:🇬🇷 Greece 🏅 | 巴黎2024
+NAME:🇬🇷 Greece 🏅 | 巴黎2024
 BEGIN:VEVENT
 UID:20240729T192700Z-swimming-100
 DTSTAMP:20240729T192700Z
 DTSTART:20240729T192700Z
 DTEND:20240729T193400Z
-DESCRIPTION:游泳 - 男子100米仰泳决赛\n🇬🇷 Apostolos CHRISTOU\n🇪🇸 Hugo GONZALEZ de
+DESCRIPTION:游泳 - 男子100米仰泳決賽\n🇬🇷 Apostolos CHRISTOU\n🇪🇸 Hugo GONZALEZ de
   OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹
   Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann NDOYE-BROUARD
-SUMMARY:🏊 男子100米仰泳决赛
-LOCATION:拉德芳斯体育馆
+SUMMARY:🏊 男子100米仰泳決賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 END:VCALENDAR

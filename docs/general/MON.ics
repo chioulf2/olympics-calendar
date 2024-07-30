@@ -1,109 +1,90 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/MON//EN
-X-WR-CALNAME:🇲🇨 Monaco | Paris 2024
-NAME:🇲🇨 Monaco | Paris 2024
+X-WR-CALNAME:🇲🇨 Monaco | 巴黎2024
+NAME:🇲🇨 Monaco | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
-DESCRIPTION:Paris 2024 - Opening ceremony
-SUMMARY:Paris 2024 - Opening ceremony
-LOCATION:Paris
+DESCRIPTION:巴黎2024 - 開幕式
+SUMMARY:巴黎2024 - 開幕式
+LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:赛艇 - 男子单人双桨分组预赛\n🇯🇵 ARAKAWA Ryuta\n🇸🇩 Abdalla AHMED\n🇪🇬
-  Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz
-  Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
-  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
-  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
-  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
-  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
-  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
-  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
-  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
-  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
-SUMMARY:🚣 男子单人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子單人雙槳分組預賽\n🇭🇰 中國香港\n🇩🇰 丹麥\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇯🇵
+  日本\n🇧🇪 比利時\n🇨🇺 古巴\n🇱🇹 立陶宛\n🇭🇺 匈牙利\n🇮🇳 印度\n🇮🇩 印度尼西亞\n🇦🇴
+  安哥拉\n🇧🇲 百慕大\n🇭🇷 克羅地亞\n🇱🇾 利比亞\n🇬🇷 希臘\n🇩🇿 阿爾及利亞\n🇧🇬 保加利亞\n🇰🇿
+  哈薩克斯坦\n🇿🇼 津巴布韋\n🇹🇳 突尼斯\n🇺🇸 美國\n🇪🇬 埃及\n🇹🇭 泰國\n🇺🇾 烏拉圭\n🇳🇱
+  荷蘭\n🇸🇮 斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 德國\n🇲🇨 摩納哥\n🇷🇴 羅馬尼亞\n🇸🇩 蘇丹
+SUMMARY:🚣 男子單人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T073600Z-rowing-
 DTSTAMP:20240728T073600Z
 DTSTART:20240728T073600Z
 DTEND:20240728T080700Z
-DESCRIPTION:赛艇 - 男子单人双桨复活赛\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇮🇳
-  Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇧🇲 Dara ALIZADEH\n🇸🇮 Isak Ivan
-  ZVEGELJ\n🇵🇾 Javier INSFRAN\n🇮🇩 MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳
-  Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿
-  Sid Ali BOUDINA\n🇿🇼 Stephen COX\n🇰🇿 Vladislav YAKOVLEV
-SUMMARY:🚣 男子单人双桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子單人雙槳復活賽\n🇭🇰 中國香港\n🇵🇾 巴拉圭\n🇮🇳 印度\n🇮🇩 印度尼西亞\n🇦🇴
+  安哥拉\n🇧🇲 百慕大\n🇱🇾 利比亞\n🇩🇿 阿爾及利亞\n🇰🇿 哈薩克斯坦\n🇿🇼 津巴布韋\n🇹🇳
+  突尼斯\n🇹🇭 泰國\n🇸🇮 斯洛文尼亞\n🇲🇨 摩納哥\n🇸🇩 蘇丹
+SUMMARY:🚣 男子單人雙槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T190000Z-table-tennis-64-MON-CZE
 DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
 DTEND:20240728T200000Z
-DESCRIPTION:乒乓球 - 女子单打64强赛
+DESCRIPTION:乒乓球 - 女子單打64強賽
 SUMMARY:🏓 Xiaoxin YANG 🇲🇨 - 🇨🇿 Hana MATELOVA
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T092800Z-swimming-800
 DTSTAMP:20240729T092800Z
 DTSTART:20240729T092800Z
 DTEND:20240729T100700Z
-DESCRIPTION:游泳 - 男子800米自由泳分组预赛\n🇹🇳 Ahmed JAOUADI\n🇻🇪 Alfonso Enrique
-  MESTRE VIVAS\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
-  WIFFEN\n🇫🇷 David AUBRY\n🇬🇷 Dimitrios MARKOS\n🇦🇺 Elijah
-  WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇩🇪 Florian
-  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇳🇴 Henrik
-  CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇺🇿 Ilya SIBIRTSEV\n🇳🇴 Jon
-  JOENTVEDT\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇧🇪 Lucas
-  HENVEAUX\n🇺🇸 Luke WHITLOCK\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
-  ROMANCHUK\n🇫🇷 Pacome BRICOUT\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
-  SCHWARZ\n🇲🇨 Theo DRUENNE\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
-  STANCU\n🇨🇳 ZHANG Zhanshuo\n🇭🇺 Zalan SARKANY
-SUMMARY:🏊 男子800米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子800米自由泳分組預賽\n🇹🇷 土耳其\n🇨🇳 中國\n🇧🇷 巴西\n🇧🇪 比利時\n🇭🇺
+  匈牙利\n🇪🇸 西班牙\n🇬🇷 希臘\n🇻🇪 委內瑞拉\n🇫🇷 法國\n🇹🇳 突尼斯\n🇺🇸 美國\n🇪🇬
+  埃及\n🇳🇴 挪威\n🇺🇦 烏克蘭\n🇺🇿 烏茲別克斯坦\n🇻🇳 越南\n🇦🇹 奧地利\n🇮🇹 意大利\n🇮🇪
+  愛爾蘭\n🇸🇪 瑞典\n🇩🇪 德國\n🇲🇨 摩納哥\n🇦🇺 澳大利亞\n🇷🇴 羅馬尼亞
+SUMMARY:🏊 男子800米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T081000Z-rowing-14
 DTSTAMP:20240730T081000Z
 DTSTART:20240730T081000Z
 DTEND:20240730T084700Z
-DESCRIPTION:赛艇 - 男子单人双桨1/4决赛\n🇯🇵 ARAKAWA Ryuta\n🇪🇬 Abdelkhalek
-  ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾
-  Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹
-  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
-  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴
-  Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy
-  CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
-  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
-SUMMARY:🚣 男子单人双桨1/4决赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子單人雙槳1/4決賽\n🇭🇰 中國香港\n🇩🇰 丹麥\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇯🇵
+  日本\n🇧🇪 比利時\n🇨🇺 古巴\n🇱🇹 立陶宛\n🇭🇺 匈牙利\n🇮🇳 印度\n🇭🇷 克羅地亞\n🇬🇷
+  希臘\n🇩🇿 阿爾及利亞\n🇧🇬 保加利亞\n🇺🇸 美國\n🇪🇬 埃及\n🇺🇾 烏拉圭\n🇳🇱 荷蘭\n🇸🇮
+  斯洛文尼亞\n🇳🇿 新西蘭\n🇩🇪 德國\n🇲🇨 摩納哥\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 男子單人雙槳1/4決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T085400Z-judo-10016-CUB-MON
 DTSTAMP:20240802T085400Z
 DTSTART:20240802T085400Z
 DTEND:20240802T090000Z
-DESCRIPTION:柔道 - 男子100公斤以上级16强淘汰赛
+DESCRIPTION:柔道 - 男子100公斤以上級16強淘汰賽
 SUMMARY:🥋 Andy GRANDA 🇨🇺 - 🇲🇨 Marvin GADEAU
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
-LOCATION:Stade de France, Saint-Denis
+DESCRIPTION:巴黎2024 - 閉幕式
+SUMMARY:巴黎2024 - 閉幕式
+LOCATION:法蘭西體育場，聖但尼
 END:VEVENT
 END:VCALENDAR

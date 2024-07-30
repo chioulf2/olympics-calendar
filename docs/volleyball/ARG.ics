@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//volleyball/ARG//EN
-X-WR-CALNAME:🇦🇷 Argentina 排球 | Paris 2024
-NAME:🇦🇷 Argentina 排球 | Paris 2024
+X-WR-CALNAME:🇦🇷 Argentina 排球 | 巴黎2024
+NAME:🇦🇷 Argentina 排球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T190000Z-volleyball--C-USA-ARG
 DTSTAMP:20240727T190000Z
 DTSTART:20240727T190000Z
 DTEND:20240727T211500Z
-DESCRIPTION:排球 - 男子预赛 - C组
-SUMMARY:🏐 美国 🇺🇸 - 🇦🇷 阿根廷
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 男子預賽 - C組
+SUMMARY:🏐 美國 🇺🇸 - 🇦🇷 阿根廷
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T110000Z-volleyball--C-JPN-ARG
 DTSTAMP:20240731T110000Z
 DTSTART:20240731T110000Z
 DTEND:20240731T131500Z
-DESCRIPTION:排球 - 男子预赛 - C组
+DESCRIPTION:排球 - 男子預賽 - C組
 SUMMARY:🏐 日本 🇯🇵 - 🇦🇷 阿根廷
-LOCATION:南巴黎竞技场1号馆
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T070000Z-volleyball--C-ARG-GER
 DTSTAMP:20240802T070000Z
 DTSTART:20240802T070000Z
 DTEND:20240802T091500Z
-DESCRIPTION:排球 - 男子预赛 - C组
-SUMMARY:🏐 阿根廷 🇦🇷 - 🇩🇪 德国
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 男子預賽 - C組
+SUMMARY:🏐 阿根廷 🇦🇷 - 🇩🇪 德國
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 END:VCALENDAR

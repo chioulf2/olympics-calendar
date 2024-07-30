@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/MDV//EN
-X-WR-CALNAME:🇲🇻 Maldives 乒乓球 | Paris 2024
-NAME:🇲🇻 Maldives 乒乓球 | Paris 2024
+X-WR-CALNAME:🇲🇻 Maldives 乒乓球 | 巴黎2024
+NAME:🇲🇻 Maldives 乒乓球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T130000Z-table-tennis--POL-MDV
 DTSTAMP:20240727T130000Z
 DTSTART:20240727T130000Z
 DTEND:20240727T134500Z
-DESCRIPTION:乒乓球 - 女子单打预赛
+DESCRIPTION:乒乓球 - 女子單打預賽
 SUMMARY:🏓 Katarzyna WEGRZYN 🇵🇱 - 🇲🇻 Fathimath ALI
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 END:VCALENDAR

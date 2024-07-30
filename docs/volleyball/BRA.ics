@@ -1,60 +1,60 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//volleyball/BRA//EN
-X-WR-CALNAME:🇧🇷 Brazil 排球 | Paris 2024
-NAME:🇧🇷 Brazil 排球 | Paris 2024
+X-WR-CALNAME:🇧🇷 Brazil 排球 | 巴黎2024
+NAME:🇧🇷 Brazil 排球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240727T110000Z-volleyball--B-ITA-BRA
 DTSTAMP:20240727T110000Z
 DTSTART:20240727T110000Z
 DTEND:20240727T131500Z
-DESCRIPTION:排球 - 男子预赛 - B组
+DESCRIPTION:排球 - 男子預賽 - B組
 SUMMARY:🏐 意大利 🇮🇹 - 🇧🇷 巴西
-LOCATION:南巴黎竞技场1号馆
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T110000Z-volleyball--B-BRA-KEN
 DTSTAMP:20240729T110000Z
 DTSTART:20240729T110000Z
 DTEND:20240729T131500Z
-DESCRIPTION:排球 - 女子预赛 - B组
-SUMMARY:🏐 巴西 🇧🇷 - 🇰🇪 肯尼亚
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 女子預賽 - B組
+SUMMARY:🏐 巴西 🇧🇷 - 🇰🇪 肯尼亞
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T070000Z-volleyball--B-POL-BRA
 DTSTAMP:20240731T070000Z
 DTSTART:20240731T070000Z
 DTEND:20240731T091500Z
-DESCRIPTION:排球 - 男子预赛 - B组
-SUMMARY:🏐 波兰 🇵🇱 - 🇧🇷 巴西
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 男子預賽 - B組
+SUMMARY:🏐 波蘭 🇵🇱 - 🇧🇷 巴西
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T110000Z-volleyball--B-BRA-JPN
 DTSTAMP:20240801T110000Z
 DTSTART:20240801T110000Z
 DTEND:20240801T131500Z
-DESCRIPTION:排球 - 女子预赛 - B组
+DESCRIPTION:排球 - 女子預賽 - B組
 SUMMARY:🏐 巴西 🇧🇷 - 🇯🇵 日本
-LOCATION:南巴黎竞技场1号馆
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T110000Z-volleyball--B-BRA-EGY
 DTSTAMP:20240802T110000Z
 DTSTART:20240802T110000Z
 DTEND:20240802T131500Z
-DESCRIPTION:排球 - 男子预赛 - B组
+DESCRIPTION:排球 - 男子預賽 - B組
 SUMMARY:🏐 巴西 🇧🇷 - 🇪🇬 埃及
-LOCATION:南巴黎竞技场1号馆
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T190000Z-volleyball--B-BRA-POL
 DTSTAMP:20240804T190000Z
 DTSTART:20240804T190000Z
 DTEND:20240804T211500Z
-DESCRIPTION:排球 - 女子预赛 - B组
-SUMMARY:🏐 巴西 🇧🇷 - 🇵🇱 波兰
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 女子預賽 - B組
+SUMMARY:🏐 巴西 🇧🇷 - 🇵🇱 波蘭
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 END:VCALENDAR

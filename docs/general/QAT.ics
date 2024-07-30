@@ -1,52 +1,45 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/QAT//EN
-X-WR-CALNAME:🇶🇦 Qatar | Paris 2024
-NAME:🇶🇦 Qatar | Paris 2024
+X-WR-CALNAME:🇶🇦 Qatar | 巴黎2024
+NAME:🇶🇦 Qatar | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
-DESCRIPTION:Paris 2024 - Opening ceremony
-SUMMARY:Paris 2024 - Opening ceremony
-LOCATION:Paris
+DESCRIPTION:巴黎2024 - 開幕式
+SUMMARY:巴黎2024 - 開幕式
+LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T093000Z-swimming-100
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T094400Z
-DESCRIPTION:游泳 - 男子100米蛙泳分组预赛\n🇶🇦 Abdulaziz AL-OBAIDLY\n🇬🇧 Adam
-  PEATY\n🇧🇼 Adrian ROBINSON\n🇭🇹 Alexandre GRAND'PIERRE\n🇱🇹 Andrius
-  SIDLAUSKAS\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇹🇷 Berkay
-  OGRETIR\n🇦🇹 Bernhard REITSHAMMER\n🇰🇷 CHOI Dongyeol\n🇳🇱 Caspar
-  CORBEAU\n🇸🇿 Chadd NG CHIU HING NING\n🇺🇸 Charlie SWANSON\n🇰🇬 Denis
-  PETRASHOV\n🇦🇬 Jadon WUILLIEZ\n🇬🇧 James WILBY\n🇵🇱 Jan
-  KALUSOWSKI\n🇲🇬 Jonathan RAHARVEL\n🇦🇺 Joshua YONG\n🇩🇪 Lucas
-  MATZERATH\n🇮🇹 Ludovico Blu Art VIBERTI\n🇲🇿 Matthew LAWRENCE\n🇩🇪
-  Melvin IMOUDU\n🇦🇸 Micah MASEI\n🇲🇽 Miguel Alejandro de LARA
-  OJEDA\n🇺🇸 Nic FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN Haiyang\n🇮🇱 Ron
-  POLONSKY\n🇨🇳 SUN Jiajun\n🇦🇺 Sam WILLIAMSON\n🇱🇦 Steven
-  INSIXIENGMAY\n🇯🇵 TANIGUCHI Taku\n🇫🇲 Tasi LIMTIACO
-SUMMARY:🏊 男子100米蛙泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子100米蛙泳分組預賽\n🇹🇷 土耳其\n🇨🇳 中國\n🇯🇵 日本\n🇮🇱 以色列\n🇶🇦
+  卡塔爾\n🇱🇹 立陶宛\n🇮🇸 冰島\n🇰🇬 吉爾吉斯斯坦\n🇦🇬 安提瓜和巴布達\n🇱🇦 老撾\n🇵🇱 波蘭\n🇺🇸
+  美國\n🇦🇸 美屬薩摩亞\n🇬🇧 英國\n🇭🇹 海地\n🇲🇬 馬達加斯加\n🇫🇲 密克羅尼西亞\n🇳🇱 荷蘭\n🇲🇿
+  莫桑比克\n🇧🇼 博茨瓦納\n🇸🇿 斯威士蘭\n🇦🇹 奧地利\n🇮🇹 意大利\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺
+  澳大利亞\n🇰🇷 韓國
+SUMMARY:🏊 男子100米蛙泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T210000Z-beach-volleyball--A-ITA-QAT
 DTSTAMP:20240727T210000Z
 DTSTART:20240727T210000Z
 DTEND:20240727T215000Z
-DESCRIPTION:沙滩排球 - 男子预赛 - A组
+DESCRIPTION:沙灘排球 - 男子預賽 - A組
 SUMMARY:🏐 COTTAFAVA/NICOLAI 🇮🇹 - 🇶🇦 CHERIF/AHMED
-LOCATION:埃菲尔铁塔体育场
+LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
 DTEND:20240729T120000Z
-DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第1天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+DESCRIPTION:射擊 - 男子多向飛碟資格賽 - 第1天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
   GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
   LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
   PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
@@ -57,24 +50,24 @@ DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第1天\n🇪🇸 Alberto FER
   Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
   Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
   Haicheng
-SUMMARY:🔫 男子多向飞碟资格赛 - 第1天
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子多向飛碟資格賽 - 第1天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T180000Z-beach-volleyball--A-SWE-QAT
 DTSTAMP:20240729T180000Z
 DTSTART:20240729T180000Z
 DTEND:20240729T185000Z
-DESCRIPTION:沙滩排球 - 男子预赛 - A组
+DESCRIPTION:沙灘排球 - 男子預賽 - A組
 SUMMARY:🏐 AHMAN/HELLVIG 🇸🇪 - 🇶🇦 CHERIF/AHMED
-LOCATION:埃菲尔铁塔体育场
+LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T070000Z-shooting--2
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T100000Z
-DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第2天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+DESCRIPTION:射擊 - 男子多向飛碟資格賽 - 第2天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
   GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
   LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
   PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
@@ -85,24 +78,24 @@ DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第2天\n🇪🇸 Alberto FER
   Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
   Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
   Haicheng
-SUMMARY:🔫 男子多向飞碟资格赛 - 第2天
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子多向飛碟資格賽 - 第2天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T080000Z-beach-volleyball--A-QAT-AUS
 DTSTAMP:20240801T080000Z
 DTSTART:20240801T080000Z
 DTEND:20240801T085000Z
-DESCRIPTION:沙滩排球 - 男子预赛 - A组
+DESCRIPTION:沙灘排球 - 男子預賽 - A組
 SUMMARY:🏐 CHERIF/AHMED 🇶🇦 - 🇦🇺 NICOLAIDIS/CARRACHER
-LOCATION:埃菲尔铁塔体育场
+LOCATION:埃菲爾鐵塔體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T073000Z-shooting--1
 DTSTAMP:20240802T073000Z
 DTSTART:20240802T073000Z
 DTEND:20240802T120000Z
-DESCRIPTION:射击 - 男子双向飞碟资格赛 - 第1天\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+DESCRIPTION:射擊 - 男子雙向飛碟資格賽 - 第1天\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
   MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
   Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
   DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
@@ -113,16 +106,16 @@ DESCRIPTION:射击 - 男子双向飞碟资格赛 - 第1天\n🇮🇳 Anant Jeet 
   JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
   LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
   Vincent HANCOCK
-SUMMARY:🔫 男子双向飞碟资格赛 - 第1天
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子雙向飛碟資格賽 - 第1天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
-LOCATION:Stade de France, Saint-Denis
+DESCRIPTION:巴黎2024 - 閉幕式
+SUMMARY:巴黎2024 - 閉幕式
+LOCATION:法蘭西體育場，聖但尼
 END:VEVENT
 END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//shooting/POR//EN
-X-WR-CALNAME:🇵🇹 Portugal 射击 | Paris 2024
-NAME:🇵🇹 Portugal 射击 | Paris 2024
+X-WR-CALNAME:🇵🇹 Portugal 射擊 | 巴黎2024
+NAME:🇵🇹 Portugal 射擊 | 巴黎2024
 BEGIN:VEVENT
 UID:20240730T070000Z-shooting--1
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T120000Z
-DESCRIPTION:射击 - 女子多向飞碟资格赛 - 第1天\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+DESCRIPTION:射擊 - 女子多向飛碟資格賽 - 第1天\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
   PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
   Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
   Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
@@ -19,7 +19,7 @@ DESCRIPTION:射击 - 女子多向飞碟资格赛 - 第1天\n🇬🇹 Adriana RUA
   Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
   Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
   STEFECEKOVA
-SUMMARY:🔫 女子多向飞碟资格赛 - 第1天
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 女子多向飛碟資格賽 - 第1天
+LOCATION:沙託魯射擊中心
 END:VEVENT
 END:VCALENDAR

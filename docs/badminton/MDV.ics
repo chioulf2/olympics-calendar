@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/MDV//EN
-X-WR-CALNAME:🇲🇻 Maldives 羽毛球 | Paris 2024
-NAME:🇲🇻 Maldives 羽毛球 | Paris 2024
+X-WR-CALNAME:🇲🇻 Maldives 羽毛球 | 巴黎2024
+NAME:🇲🇻 Maldives 羽毛球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240728T072000Z-badminton--M-IND-MDV
 DTSTAMP:20240728T072000Z
 DTSTART:20240728T072000Z
 DTEND:20240728T080000Z
-DESCRIPTION:羽毛球 - 女子单打小组赛 - M组
+DESCRIPTION:羽毛球 - 女子單打小組賽 - M組
 SUMMARY:🏸 V. Sindhu PUSARLA 🇮🇳 - 🇲🇻 Fathimath Nabaaha ABDUL RAZZAQ
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T063000Z-badminton--M-EST-MDV
 DTSTAMP:20240730T063000Z
 DTSTART:20240730T063000Z
 DTEND:20240730T071000Z
-DESCRIPTION:羽毛球 - 女子单打小组赛 - M组
+DESCRIPTION:羽毛球 - 女子單打小組賽 - M組
 SUMMARY:🏸 Kristin KUUBA 🇪🇪 - 🇲🇻 Fathimath Nabaaha ABDUL RAZZAQ
-LOCATION:拉夏贝尔门体育馆
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 END:VCALENDAR

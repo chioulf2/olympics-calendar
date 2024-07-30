@@ -1,236 +1,198 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//general/SRB//EN
-X-WR-CALNAME:🇷🇸 Serbia | Paris 2024
-NAME:🇷🇸 Serbia | Paris 2024
+X-WR-CALNAME:🇷🇸 Serbia | 巴黎2024
+NAME:🇷🇸 Serbia | 巴黎2024
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
 DTEND:20240726T210000Z
-DESCRIPTION:Paris 2024 - Opening ceremony
-SUMMARY:Paris 2024 - Opening ceremony
-LOCATION:Paris
+DESCRIPTION:巴黎2024 - 開幕式
+SUMMARY:巴黎2024 - 開幕式
+LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T081200Z-rowing-
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:赛艇 - 女子单人双桨分组预赛\n🇵🇪 Adriana SANGUINETI\n🇸🇬 Aisyah
-  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪
-  Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina
-  JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿
-  Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇳🇮 Evidelia GONZALEZ
-  JARQUIN\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
-  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen
-  NOBLE\n🇲🇽 Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline
-  EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
-  BADENHORST\n🇰🇼 Soaad ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue
-  PHAM\n🇱🇹 Viktorija SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis
-  COBAS GARCIA
-SUMMARY:🚣 女子单人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子單人雙槳分組預賽\n🇹🇷 土耳其\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇨🇺 古巴\n🇳🇮
+  尼加拉瓜\n🇱🇹 立陶宛\n🇮🇷 伊朗\n🇹🇬 多哥\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆\n🇩🇿 阿爾及利亞\n🇧🇬
+  保加利亞\n🇿🇦 南非\n🇰🇼 科威特\n🇺🇸 美國\n🇺🇿 烏茲別克斯坦\n🇺🇬 烏幹達\n🇵🇪 秘魯\n🇳🇱
+  荷蘭\n🇸🇮 斯洛文尼亞\n🇵🇭 菲律賓\n🇻🇳 越南\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇸🇬 新加坡\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇦 摩洛哥\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+SUMMARY:🚣 女子單人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T083000Z-shooting-10
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T094500Z
-DESCRIPTION:射击 - 男子10米气手枪资格赛\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
+DESCRIPTION:射擊 - 男子10米氣手槍資格賽\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
   Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu
   ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️ Edilio
   Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
   FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
-  KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
-  Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
+  KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇱🇻
+  Lauris STRAUTMANIS\n🇰🇷 LEE Wonho\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
   ESERCITATO\n🇱🇾 Mohammed BIN DALLAH\n🇰🇿 Nikita CHIRYUKIN\n🇮🇹 Paolo
   MONNA\n🇺🇦 Pavlo KOROSTYLOV\n🇦🇼 Philip ELHAGE\n🇧🇷 Philipe
   CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
-SUMMARY:🔫 男子10米气手枪资格赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子10米氣手槍資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T091800Z-judo-4832-SRB-SLO
 DTSTAMP:20240727T091800Z
 DTSTART:20240727T091800Z
 DTEND:20240727T092400Z
-DESCRIPTION:柔道 - 女子48公斤级32强淘汰赛
+DESCRIPTION:柔道 - 女子48公斤級32強淘汰賽
 SUMMARY:🥋 Milica NIKOLIC 🇷🇸 - 🇸🇮 Marusa STANGAR
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T093000Z-rowing-
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T095700Z
-DESCRIPTION:赛艇 - 男子双人双桨分组预赛\n🇪🇸 Aleix GARCIA I PUJOLAR\n🇷🇴 Andrei
-  Sebastian CORNEA\n🇭🇷 Anton LONCARIC\n🇺🇸 Ben DAVISON\n🇮🇪 Daire
-  LYNCH\n🇫🇷 Hugo BOUCHERON\n🇩🇪 Jonas GELSEN\n🇳🇿 Jordan PARRY\n🇳🇴
-  Kjetil BORCH\n🇨🇳 LIU Zhiyu\n🇩🇪 Marc WEBER\n🇷🇴 Marian Florian
-  ENACHE\n🇳🇴 Martin HELSETH\n🇷🇸 Martin MACKOVIC\n🇮🇹 Matteo
-  SARTORI\n🇫🇷 Matthieu ANDRODIAS\n🇳🇱 Melvin TWELLAAR\n🇮🇹 Nicolo'
-  CARUCCI\n🇷🇸 Nikolaj PIMENOV\n🇭🇷 Patrik LONCARIC\n🇮🇪 Philip
-  DOYLE\n🇳🇿 Robbie MANSON\n🇪🇸 Rodrigo CONDE ROMERO\n🇨🇳 SULITAN
-  Adilijiang\n🇺🇸 Sorin KOSZYK\n🇳🇱 Stef BROENINK
-SUMMARY:🚣 男子双人双桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子雙人雙槳分組預賽\n🇨🇳 中國\n🇪🇸 西班牙\n🇭🇷 克羅地亞\n🇫🇷 法國\n🇺🇸
+  美國\n🇳🇴 挪威\n🇳🇱 荷蘭\n🇷🇸 塞爾維亞\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇳🇿 新西蘭\n🇩🇪
+  德國\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 男子雙人雙槳分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T100000Z-tennis-1-SRB-AUS
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T130000Z
-DESCRIPTION:网球 - 男子单打第1轮
+DESCRIPTION:網球 - 男子單打第1輪
 SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇦🇺 Matthew EBDEN
-LOCATION:罗兰·加洛斯体育场
+LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T101200Z-judo-4816-SRB-ESP
 DTSTAMP:20240727T101200Z
 DTSTART:20240727T101200Z
 DTEND:20240727T101800Z
-DESCRIPTION:柔道 - 女子48公斤级16强淘汰赛
+DESCRIPTION:柔道 - 女子48公斤級16強淘汰賽
 SUMMARY:🥋 Milica NIKOLIC 🇷🇸 - 🇪🇸 Laura MARTINEZ ABELENDA
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T102600Z-swimming-4X100
 DTSTAMP:20240727T102600Z
 DTSTART:20240727T102600Z
 DTEND:20240727T103600Z
-DESCRIPTION:游泳 - 男子4x100米自由泳接力分组预赛\n🇭🇺 Adam JASZO\n🇬🇧 Alexander
-  COHOON\n🇮🇱 Alexey GLIVINSKIY\n🇬🇷 Andreas VAZAIOS\n🇷🇸 Andrej
-  BARNA\n🇵🇱 Bartosz PISZCZOROWICZ\n🇸🇪 Bjoern SEELIGER\n🇧🇷 Breno
-  CORREIA\n🇨🇳 CHEN Juner\n🇺🇸 Caeleb DRESSEL\n🇪🇸 Cesar CASTRO
-  VALLE\n🇮🇱 Denis LOKTEV\n🇵🇱 Dominik DUDYS\n🇬🇧 Duncan SCOTT\n🇸🇪
-  Elias PERSSON\n🇨🇦 Finlay KNOX\n🇦🇺 Flynn SOUTHAM\n🇧🇷 Gabriel
-  SANTOS\n🇮🇱 Gal COHEN GROUMI\n🇧🇷 Guilherme SANTOS\n🇫🇷 Guillaume
-  GUTH\n🇫🇷 Hadrien SALVAN\n🇭🇺 Hubert KOS\n🇺🇸 Hunter ARMSTRONG\n🇸🇪
-  Isak ELIASSON\n🇨🇳 JI Xinjie\n🇦🇺 Jack CARTWRIGHT\n🇬🇧 Jacob Henry
-  WHITTLE\n🇨🇦 Javier ACEVEDO\n🇨🇦 Josh LIENDO\n🇩🇪 Josha SALCHOW\n🇷🇸
-  Justin CVETKOV\n🇵🇱 Kamil SIERADZKI\n🇦🇺 Kyle CHALMERS\n🇮🇹 Leonardo
-  DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇩🇪 Luca ARMBRUSTER\n🇪🇸 Luis
-  DOMINGUEZ\n🇮🇹 Manuel FRIGO\n🇧🇷 Marcelo CHIERIGHINI\n🇪🇸 Mario MOLLA
-  YANES\n🇵🇱 Mateusz CHOWANIEC\n🇺🇸 Matt KING\n🇭🇺 Nandor NEMETH\n🇷🇸
-  Nikola ACIN\n🇬🇷 Odyssefs MELADINIS\n🇨🇳 PAN Zhanle\n🇬🇷 Panagiotis
-  BOLANOS\n🇮🇹 Paolo CONTE BONIN\n🇩🇪 Peter VARJASI\n🇫🇷 Rafael
-  FENTE--DAMERS\n🇩🇪 Rafael MIROSLAW\n🇸🇪 Robin HANSON\n🇺🇸 Ryan
-  HELD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇬🇷 Stergios Marios BILAS\n🇭🇺
-  Szebasztian SZABO\n🇬🇧 Tom DEAN\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir
-  STJEPANOVIC\n🇫🇷 W. Amazigh YEBBA\n🇨🇳 WANG Haoyu\n🇦🇺 William
-  YANG\n🇨🇦 Yuri KISIL
-SUMMARY:🏊 男子4x100米自由泳接力分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子4x100米自由泳接力分組預賽\n🇨🇳 中國\n🇧🇷 巴西\n🇮🇱 以色列\n🇨🇦
+  加拿大\n🇭🇺 匈牙利\n🇪🇸 西班牙\n🇬🇷 希臘\n🇫🇷 法國\n🇵🇱 波蘭\n🇺🇸 美國\n🇬🇧
+  英國\n🇷🇸 塞爾維亞\n🇮🇹 意大利\n🇸🇪 瑞典\n🇩🇪 德國\n🇦🇺 澳大利亞
+SUMMARY:🏊 男子4x100米自由泳接力分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T103000Z-shooting-10
 DTSTAMP:20240727T103000Z
 DTSTART:20240727T103000Z
 DTEND:20240727T114500Z
-DESCRIPTION:射击 - 女子10米气手枪资格赛\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA
+DESCRIPTION:射擊 - 女子10米氣手槍資格賽\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA
   VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷
   Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille
   JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪
   Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲 Elmira KARAPETYAN\n🇪🇬
   Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿 Irina YUNUSMETOVA\n🇨🇳
-  JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak
-  SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia
-  BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola
-  KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas
-  MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa CHARNI\n🇮🇳
-  Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
-  Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu
-  Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong TEH\n🇹🇼 YU Ai Wen\n🇾🇪
-  Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
-SUMMARY:🔫 女子10米气手枪资格赛
-LOCATION:沙托鲁射击中心
+  JIANG Ranxin\n🇩🇪 Josefin EDER\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn
+  Morgan ABELN\n🇰🇷 KIM Yeji\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇺
+  Laina PEREZ\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇦🇱 Manjola KONINI\n🇮🇳
+  Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇰🇷 OH Ye
+  Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa CHARNI\n🇮🇳 Rhythm SANGWAN\n🇭🇺
+  Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷 Simal YILMAZ\n🇦🇹
+  Sylvia STEINER\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺
+  Veronika MAJOR\n🇸🇬 Xiu Hong TEH\n🇾🇪 Yasameen AL RAIMI\n🇹🇼 YU Ai
+  Wen\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 女子10米氣手槍資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T134600Z-boxing-54-32-THA-SRB
 DTSTAMP:20240727T134600Z
 DTSTART:20240727T134600Z
 DTEND:20240727T135700Z
-DESCRIPTION:拳击 - 女子54公斤级 - 预赛 - 32强赛
+DESCRIPTION:拳擊 - 女子54公斤級 - 預賽 - 32強賽
 SUMMARY:🥊 Jutamas JITPONG 🇹🇭 - 🇷🇸 Sara CIRKOVIC
-LOCATION:北巴黎竞技场
+LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T184500Z-table-tennis-64-PUR-SRB
 DTSTAMP:20240727T184500Z
 DTSTART:20240727T184500Z
 DTEND:20240727T193000Z
-DESCRIPTION:乒乓球 - 女子单打64强赛
+DESCRIPTION:乒乓球 - 女子單打64強賽
 SUMMARY:🏓 Adriana DIAZ 🇵🇷 - 🇷🇸 Izabela LUPULESKU
-LOCATION:南巴黎竞技场4号馆
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T073000Z-shooting-10
 DTSTAMP:20240728T073000Z
 DTSTART:20240728T073000Z
 DTEND:20240728T081500Z
-DESCRIPTION:射击 - 男子10米气手枪决赛\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳
+DESCRIPTION:射擊 - 男子10米氣手槍決賽\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳
   Davaakhuu ENKHTAIVAN\n🇮🇹 Federico Nilo MALDINI\n🇰🇷 LEE Wonho\n🇮🇹
   Paolo MONNA\n🇩🇪 Robin WALTER\n🇨🇳 XIE Yu
-SUMMARY:🔫 男子10米气手枪决赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子10米氣手槍決賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T081200Z-judo-6632-AZE-SRB
 DTSTAMP:20240728T081200Z
 DTSTART:20240728T081200Z
 DTEND:20240728T081800Z
-DESCRIPTION:柔道 - 男子66公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子66公斤級32強淘汰賽
 SUMMARY:🥋 Yashar NAJAFOV 🇦🇿 - 🇷🇸 Strahinja BUNCIC
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T082000Z-rowing-
 DTSTAMP:20240728T082000Z
 DTSTART:20240728T082000Z
 DTEND:20240728T082700Z
-DESCRIPTION:赛艇 - 男子双人双桨复活赛\n🇩🇪 Jonas GELSEN\n🇨🇳 LIU Zhiyu\n🇩🇪 Marc
-  WEBER\n🇷🇸 Martin MACKOVIC\n🇮🇹 Matteo SARTORI\n🇮🇹 Nicolo'
-  CARUCCI\n🇷🇸 Nikolaj PIMENOV\n🇨🇳 SULITAN Adilijiang
-SUMMARY:🚣 男子双人双桨复活赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子雙人雙槳復活賽\n🇨🇳 中國\n🇷🇸 塞爾維亞\n🇮🇹 意大利\n🇩🇪 德國
+SUMMARY:🚣 男子雙人雙槳復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T090000Z-swimming-200
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T091400Z
-DESCRIPTION:游泳 - 男子200米自由泳分组预赛\n🇮🇹 Alessandro RAGAINI\n🇨🇭 Antonio
-  DJAKOVIC\n🇺🇸 Chris GUILIANO\n🇱🇹 Danas RAPSYS\n🇷🇴 David
-  POPOVICI\n🇮🇱 Denis LOKTEV\n🇬🇧 Duncan SCOTT\n🇦🇹 Felix AUBOECK\n🇮🇹
-  Filippo MEGLI\n🇧🇷 Guilherme COSTA\n🇰🇷 HWANG Sunwoo\n🇨🇳 JI
-  Xinjie\n🇲🇽 Jorge IGA\n🇰🇷 KIM Woomin\n🇧🇪 Lucas HENVEAUX\n🇩🇪 Lukas
-  MAERTENS\n🇺🇸 Luke HOBSON\n🇯🇵 MATSUMOTO Katsuhiro\n🇬🇧 Matthew
-  RICHARDS\n🇦🇺 Maximillian GIULIANI\n🇵🇰 Muhammad Ahmed DURRANI\n🇭🇺
-  Nandor NEMETH\n🇸🇾 Omar ABBAS\n🇨🇳 PAN Zhanle\n🇩🇪 Rafael
-  MIROSLAW\n🇸🇮 Saso BOSKAN\n🇦🇺 Thomas NEILL\n🇷🇸 Velimir STJEPANOVIC
-SUMMARY:🏊 男子200米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子200米自由泳分組預賽\n🇨🇳 中國\n🇧🇷 巴西\n🇵🇰 巴基斯坦\n🇯🇵 日本\n🇧🇪
+  比利時\n🇮🇱 以色列\n🇱🇹 立陶宛\n🇭🇺 匈牙利\n🇺🇸 美國\n🇬🇧 英國\n🇸🇾 敘利亞\n🇸🇮
+  斯洛文尼亞\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇮🇹 意大利\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺
+  澳大利亞\n🇰🇷 韓國\n🇷🇴 羅馬尼亞
+SUMMARY:🏊 男子200米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T091200Z-judo-6616-ITA-SRB
 DTSTAMP:20240728T091200Z
 DTSTART:20240728T091200Z
 DTEND:20240728T091800Z
-DESCRIPTION:柔道 - 男子66公斤级16强淘汰赛
+DESCRIPTION:柔道 - 男子66公斤級16強淘汰賽
 SUMMARY:🥋 Matteo PIRAS 🇮🇹 - 🇷🇸 Strahinja BUNCIC
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T091500Z-shooting-10
 DTSTAMP:20240728T091500Z
 DTSTART:20240728T091500Z
 DTEND:20240728T103000Z
-DESCRIPTION:射击 - 男子10米气步枪资格赛\n🇫🇮 Aleksi LEPPA\n🇦🇹 Alexander
-  SCHMIRL\n🇮🇳 Arjun BABUTA\n🇲🇳 Bayaraa NYANTAI\n🇰🇷 CHOE Daehan\n🇲🇽
-  Carlos QUEZADA MARQUEZ\n🇦🇺 Dane SAMPSON\n🇮🇹 Danilo Dennis
+DESCRIPTION:射擊 - 男子10米氣步槍資格賽\n🇫🇮 Aleksi LEPPA\n🇦🇹 Alexander
+  SCHMIRL\n🇮🇳 Arjun BABUTA\n🇲🇳 Bayaraa NYANTAI\n🇲🇽 Carlos QUEZADA
+  MARQUEZ\n🇰🇷 CHOE Daehan\n🇦🇺 Dane SAMPSON\n🇮🇹 Danilo Dennis
   SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo BONAZZI\n🇲🇽 Edson Ismael RAMIREZ
   RAMOS\n🇮🇩 Fathur GUSTAFIAN\n🇨🇿 Frantisek SMETANA\n🇪🇬 Ibrahim Ahmad
   Mohammad KORAYIEM\n🇰🇿 Islam SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺
@@ -242,545 +204,503 @@ DESCRIPTION:射击 - 男子10米气步枪资格赛\n🇫🇮 Aleksi LEPPA\n🇦�
   Islam ROBIUL\n🇬🇧 Michael BARGERON\n🇭🇷 Miran MARICIC\n🇪🇬 Mohamed
   HAMDY ABDELKADER\n🇯🇵 OKADA Naoya\n🇳🇴 Ole Martin HALVORSEN\n🇰🇷 PARK
   Hajun\n🇸🇰 Patrik JANY\n🇭🇷 Petar GORSA\n🇫🇷 Romain AUFRERE\n🇺🇸
-  Rylan William KISSELL\n🇨🇳 SHENG Lihao\n🇮🇳 Sandeep SINGH\n🇮🇱 Sergey
-  RICHTER\n🇺🇦 Serhiy KULISH\n🇵🇱 Tomasz BARTNIK\n🇨🇦 Tye IKEDA\n🇸🇪
-  Victor LINDGREN\n🇭🇺 Zalan PEKLER
-SUMMARY:🔫 男子10米气步枪资格赛
-LOCATION:沙托鲁射击中心
+  Rylan William KISSELL\n🇮🇳 Sandeep SINGH\n🇮🇱 Sergey RICHTER\n🇺🇦
+  Serhiy KULISH\n🇨🇳 SHENG Lihao\n🇵🇱 Tomasz BARTNIK\n🇨🇦 Tye
+  IKEDA\n🇸🇪 Victor LINDGREN\n🇭🇺 Zalan PEKLER
+SUMMARY:🔫 男子10米氣步槍資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T095400Z-judo-6614-MDA-SRB
 DTSTAMP:20240728T095400Z
 DTSTART:20240728T095400Z
 DTEND:20240728T100000Z
-DESCRIPTION:柔道 - 男子66公斤级1/4决赛
+DESCRIPTION:柔道 - 男子66公斤級1/4決賽
 SUMMARY:🥋 Denis VIERU 🇲🇩 - 🇷🇸 Strahinja BUNCIC
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis-1-SRB-GER
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T160000Z
-DESCRIPTION:网球 - 男子单打第1轮
+DESCRIPTION:網球 - 男子單打第1輪
 SUMMARY:🎾 Dusan LAJOVIC 🇷🇸 - 🇩🇪 Maximilian MARTERER
-LOCATION:罗兰·加洛斯体育场
+LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100500Z-water-polo-B-SRB-JPN
 DTSTAMP:20240728T100500Z
 DTSTART:20240728T100500Z
 DTEND:20240728T113000Z
-DESCRIPTION:水球 - 男子预赛B组
-SUMMARY:🤽 塞尔维亚 🇷🇸 - 🇯🇵 日本
-LOCATION:水上运动中心
+DESCRIPTION:水球 - 男子預賽B組
+SUMMARY:🤽 塞爾維亞 🇷🇸 - 🇯🇵 日本
+LOCATION:水上運動中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T140000Z-judo-66-SRB-TJK
 DTSTAMP:20240728T140000Z
 DTSTART:20240728T140000Z
 DTEND:20240728T140600Z
-DESCRIPTION:柔道 - 男子66公斤级复活赛
+DESCRIPTION:柔道 - 男子66公斤級復活賽
 SUMMARY:🥋 Strahinja BUNCIC 🇷🇸 - 🇹🇯 Nurali EMOMALI
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T144800Z-judo-66A-SRB-KAZ
 DTSTAMP:20240728T144800Z
 DTSTART:20240728T144800Z
 DTEND:20240728T145400Z
-DESCRIPTION:柔道 - 男子66公斤级铜牌争夺赛A
+DESCRIPTION:柔道 - 男子66公斤級銅牌爭奪賽A
 SUMMARY:🥋 Strahinja BUNCIC 🇷🇸 - 🇰🇿 Gusman KYRGYZBAYEV
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T150000Z-volleyball--A-FRA-SRB
 DTSTAMP:20240728T150000Z
 DTSTART:20240728T150000Z
 DTEND:20240728T171500Z
-DESCRIPTION:排球 - 男子预赛 - A组
-SUMMARY:🏐 法国 🇫🇷 - 🇷🇸 塞尔维亚
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 男子預賽 - A組
+SUMMARY:🏐 法國 🇫🇷 - 🇷🇸 塞爾維亞
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T151500Z-basketball--C-SRB-USA
 DTSTAMP:20240728T151500Z
 DTSTART:20240728T151500Z
 DTEND:20240728T170000Z
-DESCRIPTION:篮球 - 男子小组赛 - C组
-SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇺🇸 美国
-LOCATION:皮埃尔·莫鲁瓦体育场
+DESCRIPTION:籃球 - 男子小組賽 - C組
+SUMMARY:🏀 塞爾維亞 🇷🇸 - 🇺🇸 美國
+LOCATION:皮埃爾·莫魯瓦體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T190000Z-basketball--A-SRB-PUR
 DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
 DTEND:20240728T204500Z
-DESCRIPTION:篮球 - 女子小组赛 - A组
-SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇵🇷 波多黎各
-LOCATION:皮埃尔·莫鲁瓦体育场
+DESCRIPTION:籃球 - 女子小組賽 - A組
+SUMMARY:🏀 塞爾維亞 🇷🇸 - 🇵🇷 波多黎各
+LOCATION:皮埃爾·莫魯瓦體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T071500Z-shooting-10
 DTSTAMP:20240729T071500Z
 DTSTART:20240729T071500Z
 DTEND:20240729T074500Z
-DESCRIPTION:射击 - 混合团体10米气手枪资格赛\n🇧🇬 BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷
+DESCRIPTION:射擊 - 混合團體10米氣手槍資格賽\n🇧🇬 BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷
   FRA\n🇩🇪 Germany 1\n🇩🇪 Germany 2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿
   KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻 LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷
   Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
-SUMMARY:🔫 混合团体10米气手枪资格赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 混合團體10米氣手槍資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T080600Z-judo-5732-SRB-NEP
 DTSTAMP:20240729T080600Z
 DTSTART:20240729T080600Z
 DTEND:20240729T081200Z
-DESCRIPTION:柔道 - 女子57公斤级32强淘汰赛
+DESCRIPTION:柔道 - 女子57公斤級32強淘汰賽
 SUMMARY:🥋 Marica PERISIC 🇷🇸 - 🇳🇵 Manita SHRESTHA PRADHAN
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T090000Z-swimming-400
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T091200Z
-DESCRIPTION:游泳 - 女子400米个人混合泳分组预赛\n🇮🇱 Anastasia GORBENKO\n🇷🇸 Anja
-  CREVAR\n🇨🇦 Ella JANSEN\n🇦🇺 Ella RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma
-  CARRASCO CADENS\n🇺🇸 Emma WEYANT\n🇬🇧 Freya Constance COLBERT\n🇦🇺
-  Jenna FORRESTER\n🇺🇸 Katie GRIMES\n🇬🇧 Katie SHANAHAN\n🇯🇵 NARITA
-  Mio\n🇮🇹 Sara FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇯🇵 TANIGAWA
-  Ageha\n🇭🇺 Vivien JACKL
-SUMMARY:🏊 女子400米个人混合泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子400米個人混合泳分組預賽\n🇯🇵 日本\n🇮🇱 以色列\n🇨🇦 加拿大\n🇭🇺
+  匈牙利\n🇪🇸 西班牙\n🇺🇸 美國\n🇬🇧 英國\n🇷🇸 塞爾維亞\n🇮🇹 意大利\n🇮🇪 愛爾蘭\n🇦🇺 澳大利亞
+SUMMARY:🏊 女子400米個人混合泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T091600Z-boxing-60-16-ALG-SRB
 DTSTAMP:20240729T091600Z
 DTSTART:20240729T091600Z
 DTEND:20240729T092700Z
-DESCRIPTION:拳击 - 女子60公斤级 - 预赛 - 16强赛
+DESCRIPTION:拳擊 - 女子60公斤級 - 預賽 - 16強賽
 SUMMARY:🥊 Dounia KHELIF 🇩🇿 - 🇷🇸 Natalia SHADRINA
-LOCATION:北巴黎竞技场
+LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T091800Z-judo-5716-SRB-TPE
 DTSTAMP:20240729T091800Z
 DTSTART:20240729T091800Z
 DTEND:20240729T092400Z
-DESCRIPTION:柔道 - 女子57公斤级16强淘汰赛
+DESCRIPTION:柔道 - 女子57公斤級16強淘汰賽
 SUMMARY:🥋 Marica PERISIC 🇷🇸 - 🇹🇼 LIEN Chen-Ling
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T100000Z-judo-5714-CAN-SRB
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T100600Z
-DESCRIPTION:柔道 - 女子57公斤级1/4决赛
+DESCRIPTION:柔道 - 女子57公斤級1/4決賽
 SUMMARY:🥋 Christa DEGUCHI 🇨🇦 - 🇷🇸 Marica PERISIC
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T100000Z-tennis-2-SRB-ESP
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T130000Z
-DESCRIPTION:网球 - 男子单打第2轮
+DESCRIPTION:網球 - 男子單打第2輪
 SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇪🇸 Rafael NADAL
-LOCATION:罗兰·加洛斯体育场
+LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T140000Z-judo-57-SRB-JPN
 DTSTAMP:20240729T140000Z
 DTSTART:20240729T140000Z
 DTEND:20240729T140600Z
-DESCRIPTION:柔道 - 女子57公斤级复活赛
+DESCRIPTION:柔道 - 女子57公斤級復活賽
 SUMMARY:🥋 Marica PERISIC 🇷🇸 - 🇯🇵 FUNAKUBO Haruka
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T190000Z-volleyball--A-FRA-SRB
 DTSTAMP:20240729T190000Z
 DTSTART:20240729T190000Z
 DTEND:20240729T211500Z
-DESCRIPTION:排球 - 女子预赛 - A组
-SUMMARY:🏐 法国 🇫🇷 - 🇷🇸 塞尔维亚
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 女子預賽 - A組
+SUMMARY:🏐 法國 🇫🇷 - 🇷🇸 塞爾維亞
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T073000Z-rowing-14
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T080700Z
-DESCRIPTION:赛艇 - 女子单人双桨1/4决赛\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra
-  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
-  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
-  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
-  TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
-  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
-  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
-  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
-  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
-SUMMARY:🚣 女子单人双桨1/4决赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 女子單人雙槳1/4決賽\n🇹🇷 土耳其\n🇧🇷 巴西\n🇵🇾 巴拉圭\n🇱🇹 立陶宛\n🇮🇷
+  伊朗\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆\n🇧🇬 保加利亞\n🇿🇦 南非\n🇺🇸 美國\n🇺🇿 烏茲別克斯坦\n🇵🇪
+  秘魯\n🇳🇱 荷蘭\n🇸🇮 斯洛文尼亞\n🇵🇭 菲律賓\n🇻🇳 越南\n🇷🇸 塞爾維亞\n🇦🇹 奧地利\n🇳🇿
+  新西蘭\n🇨🇭 瑞士\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞
+SUMMARY:🚣 女子單人雙槳1/4決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T073000Z-shooting-10-TUR-SRB
 DTSTAMP:20240730T073000Z
 DTSTART:20240730T073000Z
 DTEND:20240730T075000Z
-DESCRIPTION:射击 - 混合团体10米气手枪金牌赛
+DESCRIPTION:射擊 - 混合團體10米氣手槍金牌賽
 SUMMARY:🔫 Türkiye 2 🇹🇷 - 🇷🇸 Serbia
-LOCATION:沙托鲁射击中心
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T083000Z-water-polo-B-AUS-SRB
 DTSTAMP:20240730T083000Z
 DTSTART:20240730T083000Z
 DTEND:20240730T095500Z
-DESCRIPTION:水球 - 男子预赛B组
-SUMMARY:🤽 澳大利亚 🇦🇺 - 🇷🇸 塞尔维亚
-LOCATION:水上运动中心
+DESCRIPTION:水球 - 男子預賽B組
+SUMMARY:🤽 澳大利亞 🇦🇺 - 🇷🇸 塞爾維亞
+LOCATION:水上運動中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T091000Z-rowing--AB-1
 DTSTAMP:20240730T091000Z
 DTSTART:20240730T091000Z
 DTEND:20240730T091700Z
-DESCRIPTION:赛艇 - 男子双人双桨半决赛 A/B 1\n🇨🇳 中国\n🇭🇷 克罗地亚\n🇷🇸 塞尔维亚\n🇷🇴
-  罗马尼亚\n🇳🇱 荷兰\n🇪🇸 西班牙
-SUMMARY:🚣 男子双人双桨半决赛 A/B 1
-LOCATION:马恩河畔韦尔水上体育场 - 静水
+DESCRIPTION:賽艇 - 男子雙人雙槳半決賽 A/B 1\n🇨🇳 中國\n🇪🇸 西班牙\n🇭🇷 克羅地亞\n🇳🇱
+  荷蘭\n🇷🇸 塞爾維亞\n🇷🇴 羅馬尼亞
+SUMMARY:🚣 男子雙人雙槳半決賽 A/B 1
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T091751Z-swimming-100
 DTSTAMP:20240730T091751Z
 DTSTART:20240730T091751Z
 DTEND:20240730T095131Z
-DESCRIPTION:游泳 - 男子100米自由泳分组预赛\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
-  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
-  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
-  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
-  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
-  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
-  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
-  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
-  SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭
-  Harry STACEY\n🇦🇴 Henrique MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa
-  Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry
-  WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud
-  ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan
-  Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬
-  Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle
-  CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷
-  Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷
-  Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
-  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
-  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
-  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
-  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
-  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
-  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
-  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
-  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
-SUMMARY:🏊 男子100米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇹🇲 土庫曼斯坦\n🇧🇹 不丹\n🇨🇳 中國\n🇭🇰
+  中國香港\n🇧🇧 巴巴多斯\n🇵🇬 巴布亞新幾內亞\n🇧🇷 巴西\n🇧🇸 巴哈馬\n🇲🇺 毛里求斯\n🇮🇱
+  以色列\n🇨🇦 加拿大\n🇬🇭 加納\n🇳🇵 尼泊爾\n🇻🇺 瓦努阿圖\n🇱🇹 立陶宛\n🇮🇷 伊朗\n🇭🇺
+  匈牙利\n🇩🇴 多米尼加\n🇦🇴 安哥拉\n🇪🇸 西班牙\n🇭🇷 克羅地亞\n🇱🇾 利比亞\n🇸🇦 沙特阿拉伯\n🇦🇲
+  亞美尼亞\n🇹🇿 坦桑尼亞\n🇻🇪 委內瑞拉\n🇧🇩 孟加拉國\n🇫🇷 法國\n🇵🇱 波蘭\n🇴🇲 阿曼\n🇦🇱
+  阿爾巴尼亞\n🇦🇼 阿魯巴\n🇦🇪 阿聯酋\n🇰🇿 哈薩克斯坦\n🇰🇭 柬埔寨\n🇰🇼 科威特\n🇽🇰 科索沃\n🇰🇲
+  科摩羅\n🇺🇸 美國\n🇬🇧 英國\n🇹🇭 泰國\n🇺🇾 烏拉圭\n🇹🇹 特立尼達和多巴哥\n🇲🇱 馬裡\n🇨🇿
+  捷克\n🇳🇱 荷蘭\n🇨🇲 喀麥隆\n🇱🇰 斯里蘭卡\n🇰🇾 開曼群島\n🇸🇳 塞內加爾\n🇨🇾 塞浦路斯\n🇷🇸
+  塞爾維亞\n🇮🇹 意大利\n🇸🇬 新加坡\n🇳🇿 新西蘭\n🇸🇪 瑞典\n🇱🇨 聖盧西亞\n🇵🇹 葡萄牙\n🇲🇳
+  蒙古\n🇩🇪 德國\n🇲🇲 緬甸\n🇱🇧 黎巴嫩\n🇲🇽 墨西哥\n🇦🇺 澳大利亞\n🇱🇺 盧森堡\n🇰🇷
+  韓國\n🇸🇻 薩爾瓦多\n🇼🇸 薩摩亞\n🇷🇴 羅馬尼亞\n🇸🇷 蘇裡南
+SUMMARY:🏊 男子100米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T150000Z-volleyball--A-SLO-SRB
 DTSTAMP:20240730T150000Z
 DTSTART:20240730T150000Z
 DTEND:20240730T171500Z
-DESCRIPTION:排球 - 男子预赛 - A组
-SUMMARY:🏐 斯洛文尼亚 🇸🇮 - 🇷🇸 塞尔维亚
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 男子預賽 - A組
+SUMMARY:🏐 斯洛文尼亞 🇸🇮 - 🇷🇸 塞爾維亞
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T203500Z-3x3-basketball--SRB-USA
 DTSTAMP:20240730T203500Z
 DTSTART:20240730T203500Z
 DTEND:20240730T210000Z
-DESCRIPTION:三人篮球 - 男子分组循环赛
-SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇺🇸 美国
-LOCATION:协和广场1号场地
+DESCRIPTION:三人籃球 - 男子分組循環賽
+SUMMARY:🏀 塞爾維亞 🇷🇸 - 🇺🇸 美國
+LOCATION:協和廣場1號場地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T070000Z-shooting-50
 DTSTAMP:20240731T070000Z
 DTSTART:20240731T070000Z
 DTEND:20240731T083000Z
-DESCRIPTION:射击 - 男子50米步枪三姿资格赛\n🇮🇳 Aishwary Pratap Singh TOMAR\n🇫🇮
+DESCRIPTION:射擊 - 男子50米步槍三姿資格賽\n🇮🇳 Aishwary Pratap Singh TOMAR\n🇫🇮
   Aleksi LEPPA\n🇦🇹 Alexander SCHMIRL\n🇦🇹 Andreas THUM\n🇲🇳 Bayaraa
   NYANTAI\n🇲🇽 Carlos QUEZADA MARQUEZ\n🇨🇭 Christoph DUERR\n🇦🇺 Dane
   SAMPSON\n🇮🇹 Danilo Dennis SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo
   BONAZZI\n🇮🇩 Fathur GUSTAFIAN\n🇪🇬 Ibrahim Ahmad Mohammad
   KORAYIEM\n🇰🇿 Islam SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺 Istvan
   PENI\n🇺🇸 Ivan ROE\n🇦🇺 Jack ROSSITER\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴
-  Jon-Hermann HEGG\n🇰🇿 Konstantin MALINOVSKIY\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
-  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇸🇪
+  Jon-Hermann HEGG\n🇰🇿 Konstantin MALINOVSKIY\n🇷🇸 Lazar KOVACEVIC\n🇨🇳
+  LIU Yukun\n🇫🇷 Lucas Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇸🇪
   Marcus MADSEN\n🇩🇪 Maximilian ULBRICH\n🇬🇧 Michael BARGERON\n🇭🇷 Miran
   MARICIC\n🇯🇵 OKADA Naoya\n🇳🇴 Ole Martin HALVORSEN\n🇰🇷 PARK
   Hajun\n🇸🇰 Patrik JANY\n🇭🇷 Petar GORSA\n🇨🇿 Petr NYMBURSKY\n🇫🇷
   Romain AUFRERE\n🇺🇸 Rylan William KISSELL\n🇺🇦 Serhiy KULISH\n🇮🇳
   Swapnil KUSALE\n🇹🇭 Thongphaphum VONGSUKDEE\n🇵🇱 Tomasz BARTNIK\n🇨🇦
   Tye IKEDA\n🇸🇪 Victor LINDGREN\n🇭🇺 Zalan PEKLER
-SUMMARY:🔫 男子50米步枪三姿资格赛
-LOCATION:沙托鲁射击中心
+SUMMARY:🔫 男子50米步槍三姿資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T094200Z-judo-9016
 DTSTAMP:20240731T094200Z
 DTSTART:20240731T094200Z
 DTEND:20240731T094800Z
-DESCRIPTION:柔道 - 男子90公斤级16强淘汰赛\n🇷🇸 Nemanja MAJDOV
-SUMMARY:🥋 男子90公斤级16强淘汰赛
-LOCATION:战神广场
+DESCRIPTION:柔道 - 男子90公斤級16強淘汰賽\n🇷🇸 Nemanja MAJDOV
+SUMMARY:🥋 男子90公斤級16強淘汰賽
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T094600Z-swimming-200
 DTSTAMP:20240731T094600Z
 DTSTART:20240731T094600Z
 DTEND:20240731T100600Z
-DESCRIPTION:游泳 - 女子200米蝶泳分组预赛\n🇦🇺 Abbey Lee CONNOR\n🇺🇸 Alex
-  SHACKELL\n🇨🇷 Alondra ORTIZ\n🇷🇸 Anja CREVAR\n🇭🇺 Boglarka KAPAS\n🇨🇳
-  CHEN Luying\n🇦🇺 Elizabeth DEKKERS\n🇬🇷 Georgia DAMASIOTI\n🇩🇰 Helena
-  Rosendahl BACH\n🇬🇧 Keanna Louise MACINNES\n🇧🇦 Lana PUDAR\n🇪🇸 Laura
-  CABANES GARZAS\n🇬🇧 Laura STEPHENS\n🇦🇴 Lia LIMA\n🇯🇵 MAKINO
-  Hiroko\n🇯🇵 MITSUI Airi\n🇺🇸 Regan SMITH\n🇨🇦 Summer McINTOSH\n🇨🇳
-  ZHANG Yufei
-SUMMARY:🏊 女子200米蝶泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 女子200米蝶泳分組預賽\n🇨🇳 中國\n🇩🇰 丹麥\n🇯🇵 日本\n🇨🇦 加拿大\n🇭🇺
+  匈牙利\n🇦🇴 安哥拉\n🇪🇸 西班牙\n🇬🇷 希臘\n🇧🇦 波黑\n🇺🇸 美國\n🇬🇧 英國\n🇨🇷
+  哥斯達黎加\n🇷🇸 塞爾維亞\n🇦🇺 澳大利亞
+SUMMARY:🏊 女子200米蝶泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T110800Z-boxing-60-14-CHN-SRB
 DTSTAMP:20240731T110800Z
 DTSTART:20240731T110800Z
 DTEND:20240731T111900Z
-DESCRIPTION:拳击 - 女子60公斤级 - 1/4决赛
+DESCRIPTION:拳擊 - 女子60公斤級 - 1/4決賽
 SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇷🇸 Natalia SHADRINA
-LOCATION:北巴黎竞技场
+LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T113000Z-basketball--A-CHN-SRB
 DTSTAMP:20240731T113000Z
 DTSTART:20240731T113000Z
 DTEND:20240731T131500Z
-DESCRIPTION:篮球 - 女子小组赛 - A组
-SUMMARY:🏀 中国 🇨🇳 - 🇷🇸 塞尔维亚
-LOCATION:皮埃尔·莫鲁瓦体育场
+DESCRIPTION:籃球 - 女子小組賽 - A組
+SUMMARY:🏀 中國 🇨🇳 - 🇷🇸 塞爾維亞
+LOCATION:皮埃爾·莫魯瓦體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T150000Z-volleyball--A-USA-SRB
 DTSTAMP:20240731T150000Z
 DTSTART:20240731T150000Z
 DTEND:20240731T171500Z
-DESCRIPTION:排球 - 女子预赛 - A组
-SUMMARY:🏐 美国 🇺🇸 - 🇷🇸 塞尔维亚
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 女子預賽 - A組
+SUMMARY:🏐 美國 🇺🇸 - 🇷🇸 塞爾維亞
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T151500Z-basketball--C-PUR-SRB
 DTSTAMP:20240731T151500Z
 DTSTART:20240731T151500Z
 DTEND:20240731T170000Z
-DESCRIPTION:篮球 - 男子小组赛 - C组
-SUMMARY:🏀 波多黎各 🇵🇷 - 🇷🇸 塞尔维亚
-LOCATION:皮埃尔·莫鲁瓦体育场
+DESCRIPTION:籃球 - 男子小組賽 - C組
+SUMMARY:🏀 波多黎各 🇵🇷 - 🇷🇸 塞爾維亞
+LOCATION:皮埃爾·莫魯瓦體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T170500Z-3x3-basketball--SRB-CHN
 DTSTAMP:20240731T170500Z
 DTSTART:20240731T170500Z
 DTEND:20240731T173000Z
-DESCRIPTION:三人篮球 - 男子分组循环赛
-SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇨🇳 中国
-LOCATION:协和广场1号场地
+DESCRIPTION:三人籃球 - 男子分組循環賽
+SUMMARY:🏀 塞爾維亞 🇷🇸 - 🇨🇳 中國
+LOCATION:協和廣場1號場地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T184800Z-boxing-71-16-GBR-SRB
 DTSTAMP:20240731T184800Z
 DTSTART:20240731T184800Z
 DTEND:20240731T185900Z
-DESCRIPTION:拳击 - 男子71公斤级 - 预赛 - 16强赛
+DESCRIPTION:拳擊 - 男子71公斤級 - 預賽 - 16強賽
 SUMMARY:🥊 Lewis RICHARDSON 🇬🇧 - 🇷🇸 Vakhid ABBASOV
-LOCATION:北巴黎竞技场
+LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T080500Z-3x3-basketball--NED-SRB
 DTSTAMP:20240801T080500Z
 DTSTART:20240801T080500Z
 DTEND:20240801T083000Z
-DESCRIPTION:三人篮球 - 男子分组循环赛
-SUMMARY:🏀 荷兰 🇳🇱 - 🇷🇸 塞尔维亚
-LOCATION:协和广场1号场地
+DESCRIPTION:三人籃球 - 男子分組循環賽
+SUMMARY:🏀 荷蘭 🇳🇱 - 🇷🇸 塞爾維亞
+LOCATION:協和廣場1號場地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T084800Z-judo-10032-HUN-SRB
 DTSTAMP:20240801T084800Z
 DTSTART:20240801T084800Z
 DTEND:20240801T085400Z
-DESCRIPTION:柔道 - 男子100公斤级32强淘汰赛
+DESCRIPTION:柔道 - 男子100公斤級32強淘汰賽
 SUMMARY:🥋 Zsombor VEG 🇭🇺 - 🇷🇸 Aleksandar KUKOLJ
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T091600Z-swimming-50
 DTSTAMP:20240801T091600Z
 DTSTART:20240801T091600Z
 DTEND:20240801T093800Z
-DESCRIPTION:游泳 - 男子50米自由泳分组预赛\n🇪🇷 Aaron Ghebre OWUSU\n🇬🇦 Adam
-  MPALI\n🏳️ Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨 Alex JOACHIM\n🇬🇧
-  Alexander COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote NDOMBE IMPELENGA\n🇩🇪
-  Artem SELIN\n🇧🇮 Belly-Cresus GANIRA\n🇦🇺 Ben ARMBRUSTER\n🇬🇧 Benjamin
-  PROUD\n🇸🇪 Bjoern SEELIGER\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron
-  McEVOY\n🇲🇷 Camil DOUA\n🇺🇸 Chris GUILIANO\n🇿🇲 Damien SHAMAMBO\n🇫🇯
-  David YOUNG\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇹 Dylan CARTER\n🇬🇳 Elhadj
-  N'gnane DIALLO\n🇦🇫 Fahim ANWARI\n🇹🇯 Fakhriddin MADKAMOV\n🇲🇼 Filipe
-  GOMES\n🇫🇷 Florent MANAUDOU\n🇨🇬 Freddy MAYALA\n🇲🇽 Gabriel CASTANO
-  GARCIA\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian Yentou\n🇬🇶 Higinio NDONG
-  OBAMA\n🇩🇯 Houmed HOUSSEIN BARKAT\n🇰🇷 JI Yuchan\n🇭🇷 Jere
-  HRIBAR\n🇵🇼 Jion HOSEI\n🇹🇱 Jolanio GUTERRES\n🇸🇬 Jonathan Eu Jin
-  TAN\n🇰🇾 Jordan CROOKS\n🇨🇻 Jose TATI\n🇨🇦 Josh LIENDO\n🇸🇱 Joshua
-  WYSE\n🇳🇱 Kenzo SIMONS\n🇬🇷 Kristian GKOLOMEEV\n🇲🇹 Kyle
-  MICALLEF\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇹🇬 Magnim
-  Jordano DAOU\n🇳🇪 Marouane MAMANE HAMISSOU ABBA\n🇮🇱 Martin
-  KARTAVI\n🇸🇰 Matej DUSA\n🇫🇷 Maxime GROUSSET\n🇮🇱 Meiron Amir
-  CHERUTI\n🇵🇹 Miguel NASCIMENTO\n🇦🇼 Mikel SCHREUDERS\n🇲🇻 Mohamed Aan
-  HUSSAIN\n🇳🇴 Nicholas LIA\n🇬🇲 Ousman JOBE\n🇬🇼 Pedro ROGERY\n🇲🇭
-  Phillip KINONO\n🇵🇱 Piotr LUDWICZAK\n🇳🇱 Renzo TJON-A-JOE\n🇮🇪 Shane
-  RYAN\n🇧🇫 Souleymane NAPARE\n🇬🇷 Stergios Marios BILAS\n🇭🇺
-  Szebasztian SZABO\n🇳🇿 Taiko TOREPE-ORMSBY\n🇨🇫 Terence TENGUE\n🇨🇭
-  Thierry BOLLIN\n🇮🇪 Thomas FANNON\n🇳🇬 Tobi SIJUADE\n🇰🇳 Troy
-  NISBETT\n🇺🇦 Vladyslav BUKHOV\n🇩🇲 Warren Adam LAWRENCE
-SUMMARY:🏊 男子50米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:游泳 - 男子50米自由泳分組預賽\n🇨🇫 中非\n🇭🇰 中國香港\n🇪🇷 厄立特里亞\n🇧🇷
+  巴西\n🇲🇷 毛裡塔尼亞\n🇮🇱 以色列\n🇨🇦 加拿大\n🇬🇦 加蓬\n🇳🇬 尼日利亞\n🇳🇪 尼日爾\n🇧🇫
+  布基納法索\n🇧🇮 布隆迪\n🇭🇺 匈牙利\n🇩🇯 吉布提\n🇩🇲 多米尼克\n🇹🇬 多哥\n🇨🇻 佛得角\n🇭🇷
+  克羅地亞\n🇬🇷 希臘\n🇬🇶 赤道幾內亞\n🇻🇪 委內瑞拉\n🇬🇲 岡比亞\n🇵🇼 帕勞\n🇹🇱 東帝汶\n🇫🇷
+  法國\n🇵🇱 波蘭\n🇦🇫 阿富汗\n🇦🇼 阿魯巴\n🇺🇸 美國\n🇬🇧 英國\n🇨🇬 剛果（布）\n🇨🇩
+  剛果（金）\n🇳🇴 挪威\n🇺🇦 烏克蘭\n🇹🇹 特立尼達和多巴哥\n🇲🇹 馬耳他\n🇲🇼 馬拉維\n🇲🇭
+  馬紹爾群島\n🇲🇻 馬爾代夫\n🇳🇱 荷蘭\n🇬🇳 幾內亞\n🇬🇼 幾內亞比紹\n🇫🇯 斐濟\n🇸🇰 斯洛伐克\n🇰🇾
+  開曼群島\n🇹🇯 塔吉克斯坦\n🇸🇱 塞拉利昂\n🇷🇸 塞爾維亞\n🏳️ 奧林匹克難民代表團\n🇮🇹 意大利\n🇮🇪
+  愛爾蘭\n🇸🇬 新加坡\n🇳🇿 新西蘭\n🇨🇭 瑞士\n🇸🇪 瑞典\n🇻🇨 聖文森特和格林納丁斯\n🇰🇳
+  聖基茨和尼維斯\n🇵🇹 葡萄牙\n🇩🇪 德國\n🇲🇽 墨西哥\n🇦🇺 澳大利亞\n🇰🇷 韓國\n🇿🇲 贊比亞
+SUMMARY:🏊 男子50米自由泳分組預賽
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T100500Z-water-polo-B-SRB-ESP
 DTSTAMP:20240801T100500Z
 DTSTART:20240801T100500Z
 DTEND:20240801T113000Z
-DESCRIPTION:水球 - 男子预赛B组
-SUMMARY:🤽 塞尔维亚 🇷🇸 - 🇪🇸 西班牙
-LOCATION:水上运动中心
+DESCRIPTION:水球 - 男子預賽B組
+SUMMARY:🤽 塞爾維亞 🇷🇸 - 🇪🇸 西班牙
+LOCATION:水上運動中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T203500Z-3x3-basketball--SRB-FRA
 DTSTAMP:20240801T203500Z
 DTSTART:20240801T203500Z
 DTEND:20240801T210000Z
-DESCRIPTION:三人篮球 - 男子分组循环赛
-SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇫🇷 法国
-LOCATION:协和广场1号场地
+DESCRIPTION:三人籃球 - 男子分組循環賽
+SUMMARY:🏀 塞爾維亞 🇷🇸 - 🇫🇷 法國
+LOCATION:協和廣場1號場地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T083600Z-judo-7832-ITA-SRB
 DTSTAMP:20240802T083600Z
 DTSTART:20240802T083600Z
 DTEND:20240802T084200Z
-DESCRIPTION:柔道 - 女子78公斤以上级32强淘汰赛
+DESCRIPTION:柔道 - 女子78公斤以上級32強淘汰賽
 SUMMARY:🥋 Asya TAVANO 🇮🇹 - 🇷🇸 Milica ZABIC
-LOCATION:战神广场
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T170500Z-3x3-basketball--LAT-SRB
 DTSTAMP:20240802T170500Z
 DTSTART:20240802T170500Z
 DTEND:20240802T173000Z
-DESCRIPTION:三人篮球 - 男子分组循环赛
-SUMMARY:🏀 拉脱维亚 🇱🇻 - 🇷🇸 塞尔维亚
-LOCATION:协和广场1号场地
+DESCRIPTION:三人籃球 - 男子分組循環賽
+SUMMARY:🏀 拉脫維亞 🇱🇻 - 🇷🇸 塞爾維亞
+LOCATION:協和廣場1號場地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T200500Z-3x3-basketball--SRB-POL
 DTSTAMP:20240802T200500Z
 DTSTART:20240802T200500Z
 DTEND:20240802T203000Z
-DESCRIPTION:三人篮球 - 男子分组循环赛
-SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇵🇱 波兰
-LOCATION:协和广场1号场地
+DESCRIPTION:三人籃球 - 男子分組循環賽
+SUMMARY:🏀 塞爾維亞 🇷🇸 - 🇵🇱 波蘭
+LOCATION:協和廣場1號場地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T064200Z-judo-16-NED-SRB
 DTSTAMP:20240803T064200Z
 DTSTART:20240803T064200Z
 DTEND:20240803T073100Z
-DESCRIPTION:柔道 - 混合团体16强淘汰赛
-SUMMARY:🥋 荷兰 🇳🇱 - 🇷🇸 塞尔维亚
-LOCATION:战神广场
+DESCRIPTION:柔道 - 混合團體16強淘汰賽
+SUMMARY:🥋 荷蘭 🇳🇱 - 🇷🇸 塞爾維亞
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T113000Z-basketball--A-SRB-ESP
 DTSTAMP:20240803T113000Z
 DTSTART:20240803T113000Z
 DTEND:20240803T131500Z
-DESCRIPTION:篮球 - 女子小组赛 - A组
-SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇪🇸 西班牙
-LOCATION:皮埃尔·莫鲁瓦体育场
+DESCRIPTION:籃球 - 女子小組賽 - A組
+SUMMARY:🏀 塞爾維亞 🇷🇸 - 🇪🇸 西班牙
+LOCATION:皮埃爾·莫魯瓦體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T173000Z-water-polo-B-SRB-FRA
 DTSTAMP:20240803T173000Z
 DTSTART:20240803T173000Z
 DTEND:20240803T185500Z
-DESCRIPTION:水球 - 男子预赛B组
-SUMMARY:🤽 塞尔维亚 🇷🇸 - 🇫🇷 法国
-LOCATION:水上运动中心
+DESCRIPTION:水球 - 男子預賽B組
+SUMMARY:🤽 塞爾維亞 🇷🇸 - 🇫🇷 法國
+LOCATION:水上運動中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T190000Z-basketball--C-SRB-SSD
 DTSTAMP:20240803T190000Z
 DTSTART:20240803T190000Z
 DTEND:20240803T204500Z
-DESCRIPTION:篮球 - 男子小组赛 - C组
-SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇸🇸 南苏丹
-LOCATION:皮埃尔·莫鲁瓦体育场
+DESCRIPTION:籃球 - 男子小組賽 - C組
+SUMMARY:🏀 塞爾維亞 🇷🇸 - 🇸🇸 南蘇丹
+LOCATION:皮埃爾·莫魯瓦體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T190000Z-volleyball--A-CAN-SRB
 DTSTAMP:20240803T190000Z
 DTSTART:20240803T190000Z
 DTEND:20240803T211500Z
-DESCRIPTION:排球 - 男子预赛 - A组
-SUMMARY:🏐 加拿大 🇨🇦 - 🇷🇸 塞尔维亚
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 男子預賽 - A組
+SUMMARY:🏐 加拿大 🇨🇦 - 🇷🇸 塞爾維亞
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T150000Z-volleyball--A-CHN-SRB
 DTSTAMP:20240804T150000Z
 DTSTART:20240804T150000Z
 DTEND:20240804T171500Z
-DESCRIPTION:排球 - 女子预赛 - A组
-SUMMARY:🏐 中国 🇨🇳 - 🇷🇸 塞尔维亚
-LOCATION:南巴黎竞技场1号馆
+DESCRIPTION:排球 - 女子預賽 - A組
+SUMMARY:🏐 中國 🇨🇳 - 🇷🇸 塞爾維亞
+LOCATION:南巴黎競技場1號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T163500Z-3x3-basketball--LTU-SRB
 DTSTAMP:20240804T163500Z
 DTSTART:20240804T163500Z
 DTEND:20240804T170000Z
-DESCRIPTION:三人篮球 - 男子分组循环赛
-SUMMARY:🏀 立陶宛 🇱🇹 - 🇷🇸 塞尔维亚
-LOCATION:协和广场1号场地
+DESCRIPTION:三人籃球 - 男子分組循環賽
+SUMMARY:🏀 立陶宛 🇱🇹 - 🇷🇸 塞爾維亞
+LOCATION:協和廣場1號場地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T100000Z-water-polo-B-HUN-SRB
 DTSTAMP:20240805T100000Z
 DTSTART:20240805T100000Z
 DTEND:20240805T112500Z
-DESCRIPTION:水球 - 男子预赛B组
-SUMMARY:🤽 匈牙利 🇭🇺 - 🇷🇸 塞尔维亚
-LOCATION:拉德芳斯体育馆
+DESCRIPTION:水球 - 男子預賽B組
+SUMMARY:🤽 匈牙利 🇭🇺 - 🇷🇸 塞爾維亞
+LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
 DTEND:20240811T211500Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
-LOCATION:Stade de France, Saint-Denis
+DESCRIPTION:巴黎2024 - 閉幕式
+SUMMARY:巴黎2024 - 閉幕式
+LOCATION:法蘭西體育場，聖但尼
 END:VEVENT
 END:VCALENDAR

@@ -1,96 +1,96 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//handball/NOR//EN
-X-WR-CALNAME:🇳🇴 Norway 手球 | Paris 2024
-NAME:🇳🇴 Norway 手球 | Paris 2024
+X-WR-CALNAME:🇳🇴 Norway 手球 | 巴黎2024
+NAME:🇳🇴 Norway 手球 | 巴黎2024
 BEGIN:VEVENT
 UID:20240725T190000Z-handball-A-NOR-SWE
 DTSTAMP:20240725T190000Z
 DTSTART:20240725T190000Z
 DTEND:20240725T203000Z
-DESCRIPTION:手球 - 女子预赛A组
+DESCRIPTION:手球 - 女子預賽A組
 SUMMARY:🤾 挪威 🇳🇴 - 🇸🇪 瑞典
-LOCATION:南巴黎竞技场6号馆
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T140000Z-handball-B-NOR-ARG
 DTSTAMP:20240727T140000Z
 DTSTART:20240727T140000Z
 DTEND:20240727T153000Z
-DESCRIPTION:手球 - 男子预赛B组
+DESCRIPTION:手球 - 男子預賽B組
 SUMMARY:🤾 挪威 🇳🇴 - 🇦🇷 阿根廷
-LOCATION:南巴黎竞技场6号馆
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T140000Z-handball-A-DEN-NOR
 DTSTAMP:20240728T140000Z
 DTSTART:20240728T140000Z
 DTEND:20240728T153000Z
-DESCRIPTION:手球 - 女子预赛A组
-SUMMARY:🤾 丹麦 🇩🇰 - 🇳🇴 挪威
-LOCATION:南巴黎竞技场6号馆
+DESCRIPTION:手球 - 女子預賽A組
+SUMMARY:🤾 丹麥 🇩🇰 - 🇳🇴 挪威
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T170000Z-handball-B-FRA-NOR
 DTSTAMP:20240729T170000Z
 DTSTART:20240729T170000Z
 DTEND:20240729T183000Z
-DESCRIPTION:手球 - 男子预赛B组
-SUMMARY:🤾 法国 🇫🇷 - 🇳🇴 挪威
-LOCATION:南巴黎竞技场6号馆
+DESCRIPTION:手球 - 男子預賽B組
+SUMMARY:🤾 法國 🇫🇷 - 🇳🇴 挪威
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T090000Z-handball-A-NOR-KOR
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T103000Z
-DESCRIPTION:手球 - 女子预赛A组
-SUMMARY:🤾 挪威 🇳🇴 - 🇰🇷 韩国
-LOCATION:南巴黎竞技场6号馆
+DESCRIPTION:手球 - 女子預賽A組
+SUMMARY:🤾 挪威 🇳🇴 - 🇰🇷 韓國
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T070000Z-handball-B-NOR-HUN
 DTSTAMP:20240731T070000Z
 DTSTART:20240731T070000Z
 DTEND:20240731T083000Z
-DESCRIPTION:手球 - 男子预赛B组
+DESCRIPTION:手球 - 男子預賽B組
 SUMMARY:🤾 挪威 🇳🇴 - 🇭🇺 匈牙利
-LOCATION:南巴黎竞技场6号馆
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T190000Z-handball-A-SLO-NOR
 DTSTAMP:20240801T190000Z
 DTSTART:20240801T190000Z
 DTEND:20240801T203000Z
-DESCRIPTION:手球 - 女子预赛A组
-SUMMARY:🤾 斯洛文尼亚 🇸🇮 - 🇳🇴 挪威
-LOCATION:南巴黎竞技场6号馆
+DESCRIPTION:手球 - 女子預賽A組
+SUMMARY:🤾 斯洛文尼亞 🇸🇮 - 🇳🇴 挪威
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T190000Z-handball-B-NOR-EGY
 DTSTAMP:20240802T190000Z
 DTSTART:20240802T190000Z
 DTEND:20240802T203000Z
-DESCRIPTION:手球 - 男子预赛B组
+DESCRIPTION:手球 - 男子預賽B組
 SUMMARY:🤾 挪威 🇳🇴 - 🇪🇬 埃及
-LOCATION:南巴黎竞技场6号馆
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T170000Z-handball-A-NOR-GER
 DTSTAMP:20240803T170000Z
 DTSTART:20240803T170000Z
 DTEND:20240803T183000Z
-DESCRIPTION:手球 - 女子预赛A组
-SUMMARY:🤾 挪威 🇳🇴 - 🇩🇪 德国
-LOCATION:南巴黎竞技场6号馆
+DESCRIPTION:手球 - 女子預賽A組
+SUMMARY:🤾 挪威 🇳🇴 - 🇩🇪 德國
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T170000Z-handball-B-DEN-NOR
 DTSTAMP:20240804T170000Z
 DTSTART:20240804T170000Z
 DTEND:20240804T183000Z
-DESCRIPTION:手球 - 男子预赛B组
-SUMMARY:🤾 丹麦 🇩🇰 - 🇳🇴 挪威
-LOCATION:南巴黎竞技场6号馆
+DESCRIPTION:手球 - 男子預賽B組
+SUMMARY:🤾 丹麥 🇩🇰 - 🇳🇴 挪威
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 END:VCALENDAR
