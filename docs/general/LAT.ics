@@ -244,6 +244,46 @@ SUMMARY:🏀 FRA 🇫🇷 - 🇱🇻 LAT
 LOCATION:協和廣場1號場地
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T161000Z-athletics-50001
+DTSTAMP:20240802T161000Z
+DTSTART:20240802T161000Z
+DTEND:20240802T165400Z
+DESCRIPTION:田徑 - 女子5000米第1輪\n🇱🇻 Agate CAUNE\n🇲🇽 Alma Delia CORTES\n🇮🇳
+  ANKITA\n🇰🇪 Beatrice CHEBET\n🇺🇬 Belinda CHEMUTAI\n🇨🇦 Briana
+  SCOTT\n🇪🇹 Ejgayehu TAYE\n🇺🇸 Elise CRANNY\n🇺🇬 Esther CHEBET\n🇰🇪
+  Faith KIPYEGON\n🇮🇹 Federica del BUONO\n🇧🇮 Francine NIYOMUKUNZI\n🇪🇹
+  Gudaf TSEGAY\n🇩🇪 Hanna KLEIN\n🇦🇺 Isobel BATT-DOYLE\n🇮🇪 Jodie
+  McCANN\n🇻🇪 Joselyn Daniely BREA\n🇺🇬 Joy CHEPTOYEK\n🇯🇵 KABASAWA
+  Wakana\n🇺🇸 Karissa SCHWEIZER\n🇳🇴 Karoline Bjerkeli GROVDAL\n🇸🇮
+  Klara LUKAN\n🇲🇽 Laura GALVAN\n🇦🇺 Lauren RYAN\n🇧🇪 Lisa ROOMS\n🇰🇪
+  Margaret Chelimo KIPKEMBOI\n🇵🇹 Mariana MACHADO\n🇪🇸 Marta GARCIA\n🇳🇱
+  Maureen KOSTER\n🇪🇹 Medina EISA\n🇮🇹 Nadia BATTOCLETTI\n🇫🇮 Nathalie
+  BLOMQVIST\n🇮🇳 Parul CHAUDHARY\n🇦🇺 Rose DAVIES\n🇩🇯 Samiyah HASSAN
+  NOUR\n🇫🇷 Sarah MADELEINE\n🇳🇱 Sifan HASSAN\n🇯🇵 TANAKA Nozomi\n🇭🇺
+  Viktoria WAGNER-GYURKES\n🇺🇸 Whittni MORGAN\n🇯🇵 YAMAMOTO Yuma
+SUMMARY:🏃 女子5000米第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T161500Z-athletics-
+DTSTAMP:20240802T161500Z
+DTSTART:20240802T161500Z
+DTEND:20240802T171900Z
+DESCRIPTION:田徑 - 女子三級跳遠資格賽\n🇯🇲 Ackelia SMITH\n🇪🇸 Ana
+  PELETEIRO-COMPAORE\n🇧🇸 Charisma TAYLOR\n🇮🇹 Dariya DERKACH\n🇷🇴 Diana
+  Ana Maria ION\n🇱🇹 Diana ZAGAINOVA\n🇱🇹 Dovile KILTY\n🇷🇴 Elena
+  Andreea TALOS\n🇧🇬 Gabriela PETROVA\n🇧🇷 Gabriele SANTOS\n🇫🇷 Ilionis
+  GUILLAUME\n🇺🇸 Jasmine MOORE\n🇺🇸 Keturah ORJI\n🇯🇲 Kimberly
+  WILLIAMS\n🇨🇺 Leyanis PEREZ HERNANDEZ\n🇨🇺 Liadagmis POVEA\n🇸🇪 Maja
+  ASKAG\n🇺🇦 Maryna BEKH-ROMANCHUK\n🇯🇵 MORIMOTO Mariko\n🇸🇮 Neja
+  FILIPIC\n🇺🇦 Olha KORSUN\n🇮🇹 Ottavia CESTONARO\n🇱🇻 Ruta Kate
+  LASMANE\n🇸🇳 Saly SARR\n🇫🇮 Senni SALMINEN\n🇯🇲 Shanieka
+  RICKETTS\n🇺🇿 Sharifa DAVRONOVA\n🇩🇲 Thea LAFOND\n🇺🇸 Tori
+  FRANKLIN\n🇹🇷 Tugba DANISMAZ\n🇨🇳 ZENG Rui
+SUMMARY:🏃 女子三級跳遠資格賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T170500Z-3x3-basketball--LAT-SRB
 DTSTAMP:20240802T170500Z
 DTSTART:20240802T170500Z
