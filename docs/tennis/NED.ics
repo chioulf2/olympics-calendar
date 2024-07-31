@@ -111,4 +111,13 @@ DESCRIPTION:網球 - 混合雙打1/4決賽
 SUMMARY:🎾 ERRANI/VAVASSORI 🇮🇹 - 🇳🇱 SCHUURS/KOOLHOF
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T120000Z-tennis-
+DTSTAMP:20240801T120000Z
+DTSTART:20240801T120000Z
+DTEND:20240801T133000Z
+DESCRIPTION:網球 - 混合雙打半決賽\n🇳🇱 SCHUURS/KOOLHOF
+SUMMARY:🎾 混合雙打半決賽
+LOCATION:羅蘭·加洛斯體育場
+END:VEVENT
 END:VCALENDAR
