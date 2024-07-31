@@ -1682,7 +1682,7 @@ UID:20240801T110000Z-tennis-
 DTSTAMP:20240801T110000Z
 DTSTART:20240801T110000Z
 DTEND:20240801T170000Z
-DESCRIPTION:網球 - 混合雙打半決賽
+DESCRIPTION:網球 - 混合雙打半決賽\n🇨🇦 DABROWSKI/AUGER-ALIAS
 SUMMARY:🎾 混合雙打半決賽
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
@@ -1714,12 +1714,12 @@ SUMMARY:🎾 ERRANI/PAOLINI 🇮🇹 - 🇬🇧 BOULTER/WATSON
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T120000Z-tennis-
+UID:20240801T120000Z-tennis--NED-CHN
 DTSTAMP:20240801T120000Z
 DTSTART:20240801T120000Z
 DTEND:20240801T133000Z
-DESCRIPTION:網球 - 混合雙打半決賽\n🇳🇱 SCHUURS/KOOLHOF
-SUMMARY:🎾 混合雙打半決賽
+DESCRIPTION:網球 - 混合雙打半決賽
+SUMMARY:🎾 SCHUURS/KOOLHOF 🇳🇱 - 🇨🇳 WANG/ZHANG
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
 BEGIN:VEVENT

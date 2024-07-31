@@ -138,4 +138,13 @@ DESCRIPTION:網球 - 男子單打1/4決賽
 SUMMARY:🎾 Casper RUUD 🇳🇴 - 🇨🇦 Felix AUGER-ALIASSIME
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T110000Z-tennis-
+DTSTAMP:20240801T110000Z
+DTSTART:20240801T110000Z
+DTEND:20240801T170000Z
+DESCRIPTION:網球 - 混合雙打半決賽\n🇨🇦 DABROWSKI/AUGER-ALIAS
+SUMMARY:🎾 混合雙打半決賽
+LOCATION:羅蘭·加洛斯體育場
+END:VEVENT
 END:VCALENDAR
