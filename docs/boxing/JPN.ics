@@ -21,4 +21,13 @@ DESCRIPTION:拳擊 - 男子57公斤級 - 預賽 - 16強賽
 SUMMARY:🥊 HARADA Shudai 🇯🇵 - 🇨🇴 Yilmar Leandro GONZALEZ LANDAZURY
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T181600Z-boxing-57-14
+DTSTAMP:20240803T181600Z
+DTSTART:20240803T181600Z
+DTEND:20240803T182700Z
+DESCRIPTION:拳擊 - 男子57公斤級 - 1/4決賽\n🇯🇵 HARADA Shudai
+SUMMARY:🥊 男子57公斤級 - 1/4決賽
+LOCATION:北巴黎競技場
+END:VEVENT
 END:VCALENDAR
