@@ -4,6 +4,22 @@ PRODID:-//fabrice404//olympics-calendar//athletics/NOR//EN
 X-WR-CALNAME:🇳🇴 挪威 田徑 | 巴黎2024
 NAME:🇳🇴 挪威 田徑 | 巴黎2024
 BEGIN:VEVENT
+UID:20240802T080500Z-athletics-100
+DTSTAMP:20240802T080500Z
+DTSTART:20240802T080500Z
+DTEND:20240802T082200Z
+DESCRIPTION:田徑 - 男子十項全能100米\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
+  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十項全能100米
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T091000Z-athletics-15001
 DTSTAMP:20240802T091000Z
 DTSTART:20240802T091000Z
@@ -44,6 +60,25 @@ DESCRIPTION:田徑 - 女子5000米第1輪\n🇱🇻 Agate CAUNE\n🇲🇽 Alma D
   NOUR\n🇫🇷 Sarah MADELEINE\n🇳🇱 Sifan HASSAN\n🇯🇵 TANAKA Nozomi\n🇭🇺
   Viktoria WAGNER-GYURKES\n🇺🇸 Whittni MORGAN\n🇯🇵 YAMAMOTO Yuma
 SUMMARY:🏃 女子5000米第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T181000Z-athletics-
+DTSTAMP:20240802T181000Z
+DTSTART:20240802T181000Z
+DTEND:20240802T185800Z
+DESCRIPTION:田徑 - 男子鉛球資格賽\n🇷🇴 Andrei Rares TOADER\n🇷🇸 Armin
+  SINANCEVIC\n🇱🇺 Bob BERTEMES\n🇳🇬 Chukwuebuka Cornnell ENEKWECHI\n🇮🇪
+  Eric FAVORS\n🇭🇷 Filip MIHALJEVIC\n🇵🇹 Francisco BELO\n🇳🇿 Jacko
+  GILL\n🇺🇸 Joe KOVACS\n🇵🇱 Konrad BUKOWIECKI\n🇿🇦 Kyle BLIGNAUT\n🇮🇹
+  Leonardo FABBRI\n🇳🇴 Marcus THOMSEN\n🇧🇦 Mesud PEZER\n🇵🇱 Michal
+  HARATYK\n🇸🇦 Mohamed Daouda TOLO\n🇪🇬 Mohamed KHALIFA\n🇪🇬 Mostafa Amr
+  HASSAN\n🇦🇷 Nazareno SASIA\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra
+  CAMPBELL\n🇺🇦 Roman KOKOSHKO\n🇺🇸 Ryan CROUSER\n🇬🇧 Scott
+  LINCOLN\n🇮🇳 Tajinderpal Singh TOOR\n🇳🇿 Tom WALSH\n🇨🇿 Tomas
+  STANEK\n🇵🇹 Tsanko ARNAUDOV\n🇲🇽 Uziel MUNOZ\n🇧🇷 Welington
+  MORAIS\n🇮🇹 Zane WEIR
+SUMMARY:🏃 男子鉛球資格賽
 LOCATION:法蘭西體育場
 END:VEVENT
 END:VCALENDAR

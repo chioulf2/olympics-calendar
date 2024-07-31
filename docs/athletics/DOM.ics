@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//athletics/DOM//EN
+X-WR-CALNAME:🇩🇴 多明尼加共和國 田徑 | 巴黎2024
+NAME:🇩🇴 多明尼加共和國 田徑 | 巴黎2024
+BEGIN:VEVENT
+UID:20240802T171000Z-athletics-4X4001
+DTSTAMP:20240802T171000Z
+DTSTART:20240802T171000Z
+DTEND:20240802T172600Z
+DESCRIPTION:田徑 - 4x400米混合接力第1輪\n🇧🇸 BAH\n🇧🇪 BEL\n🇯🇲 JAM\n🇳🇬
+  尼日利亞\n🇩🇴 多米尼加\n🇫🇷 FRA\n🇵🇱 POL\n🇰🇪 KEN\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇦
+  UKR\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪 IRL\n🇨🇭 SUI\n🇩🇪 GER
+SUMMARY:🏃 4x400米混合接力第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+END:VCALENDAR
