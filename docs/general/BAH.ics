@@ -64,6 +64,54 @@ SUMMARY:🏃 男子十項全能100米
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T085500Z-athletics-
+DTSTAMP:20240802T085500Z
+DTSTART:20240802T085500Z
+DTEND:20240802T093700Z
+DESCRIPTION:田徑 - 男子十項全能跳遠\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
+  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十項全能跳遠
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T101500Z-athletics-
+DTSTAMP:20240802T101500Z
+DTSTART:20240802T101500Z
+DTEND:20240802T105700Z
+DESCRIPTION:田徑 - 男子十項全能鉛球\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
+  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十項全能鉛球
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T160000Z-athletics-
+DTSTAMP:20240802T160000Z
+DTSTART:20240802T160000Z
+DTEND:20240802T181000Z
+DESCRIPTION:田徑 - 男子十項全能跳高\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
+  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十項全能跳高
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T161500Z-athletics-
 DTSTAMP:20240802T161500Z
 DTSTART:20240802T161500Z
@@ -91,6 +139,22 @@ DESCRIPTION:田徑 - 4x400米混合接力第1輪\n🇧🇸 BAH\n🇧🇪 BEL\n�
   尼日利亞\n🇩🇴 多米尼加\n🇫🇷 FRA\n🇵🇱 POL\n🇰🇪 KEN\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇦
   UKR\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪 IRL\n🇨🇭 SUI\n🇩🇪 GER
 SUMMARY:🏃 4x400米混合接力第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T185000Z-athletics-400
+DTSTAMP:20240802T185000Z
+DTSTART:20240802T185000Z
+DTEND:20240802T190700Z
+DESCRIPTION:田徑 - 男子十項全能400米\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
+  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十項全能400米
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
