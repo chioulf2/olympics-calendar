@@ -695,6 +695,30 @@ SUMMARY:⛵ 男子水翼帆板iQFoil級 - 比賽10
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T053000Z-athletics-20
+DTSTAMP:20240801T053000Z
+DTSTART:20240801T053000Z
+DTEND:20240801T070500Z
+DESCRIPTION:田徑 - 男子20公里競走決賽\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro MARTIN\n🇵🇱
+  Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence VENYERCSAN\n🇪🇨
+  Brian Daniel PINTADO\n🇧🇷 Caio BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar
+  Augusto RODRIGUEZ\n🇰🇷 CHOE Byeongkwang\n🇩🇪 Christopher LINKE\n🇪🇨
+  David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego GARCIA CARRERA\n🇸🇰
+  Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦 Evan DUNFEE\n🇮🇹
+  Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵 HAMANISHI Ryo\n🇺🇦 Ihor
+  HLAVAN\n🇯🇵 IKEDA Koki\n🇪🇨 Jordy Rafael JIMENEZ ARROBO\n🇬🇹 Jose
+  Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵 KOGA Yuta\n🇦🇺 Kyle
+  SWAN\n🇩🇪 Leo KOEPP\n🇨🇳 LI Yandong\n🇵🇪 Luis Henry CAMPOS\n🇵🇱 Maher
+  BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate HELEBRANDT\n🇧🇷 Matheus
+  CORREA\n🇧🇷 Max Batista GONCALVES dos SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽
+  Noel CHAMA\n🇮🇳 Paramjeet Singh BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus
+  KARLSTROM\n🇦🇺 Rhydian COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo
+  ORSONI\n🇹🇷 Salih KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti
+  PARTANEN\n🇮🇳 Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
+SUMMARY:🏃 男子20公里競走決賽
+LOCATION:特羅卡德羅
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T070000Z-golf-1
 DTSTAMP:20240801T070000Z
 DTSTART:20240801T070000Z
