@@ -93,4 +93,13 @@ DESCRIPTION:拳擊 - 男子57公斤級 - 1/4決賽
 SUMMARY:🥊 Abdumalik KHALOKOV 🇺🇿 - 🇪🇸 Jose QUILES BROTONS
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T110800Z-boxing-92-
+DTSTAMP:20240804T110800Z
+DTSTART:20240804T110800Z
+DTEND:20240804T111900Z
+DESCRIPTION:拳擊 - 男子92公斤級 - 半決賽\n🇪🇸 Enmanuel REYES PLA
+SUMMARY:🥊 男子92公斤級 - 半決賽
+LOCATION:北巴黎競技場
+END:VEVENT
 END:VCALENDAR
