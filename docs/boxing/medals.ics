@@ -40,12 +40,12 @@ SUMMARY:🥊 男子51公斤級 - 半決賽
 LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T103600Z-boxing-635-
+UID:20240804T103600Z-boxing-635--CAN-FRA
 DTSTAMP:20240804T103600Z
 DTSTART:20240804T103600Z
 DTEND:20240804T104700Z
-DESCRIPTION:拳擊 - 男子63.5公斤級 - 半決賽\n🇨🇦 Wyatt SANFORD
-SUMMARY:🥊 男子63.5公斤級 - 半決賽
+DESCRIPTION:拳擊 - 男子63.5公斤級 - 半決賽
+SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇫🇷 Sofiane OUMIHA
 LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
@@ -58,12 +58,12 @@ SUMMARY:🥊 男子80公斤級 - 半決賽
 LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T110800Z-boxing-92-
+UID:20240804T110800Z-boxing-92--ESP-AZE
 DTSTAMP:20240804T110800Z
 DTSTART:20240804T110800Z
 DTEND:20240804T111900Z
-DESCRIPTION:拳擊 - 男子92公斤級 - 半決賽\n🇪🇸 Enmanuel REYES PLA
-SUMMARY:🥊 男子92公斤級 - 半決賽
+DESCRIPTION:拳擊 - 男子92公斤級 - 半決賽
+SUMMARY:🥊 Enmanuel REYES PLA 🇪🇸 - 🇦🇿 Loren Berto ALFONSO DOMINGUEZ
 LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT

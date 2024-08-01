@@ -349,12 +349,12 @@ SUMMARY:🏃 男子10000米決賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T110800Z-boxing-92-
+UID:20240804T110800Z-boxing-92--ESP-AZE
 DTSTAMP:20240804T110800Z
 DTSTART:20240804T110800Z
 DTEND:20240804T111900Z
-DESCRIPTION:拳擊 - 男子92公斤級 - 半決賽\n🇪🇸 Enmanuel REYES PLA
-SUMMARY:🥊 男子92公斤級 - 半決賽
+DESCRIPTION:拳擊 - 男子92公斤級 - 半決賽
+SUMMARY:🥊 Enmanuel REYES PLA 🇪🇸 - 🇦🇿 Loren Berto ALFONSO DOMINGUEZ
 LOCATION:北巴黎競技場
 END:VEVENT
 END:VCALENDAR
