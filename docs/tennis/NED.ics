@@ -120,4 +120,13 @@ DESCRIPTION:網球 - 混合雙打半決賽
 SUMMARY:🎾 SCHUURS/KOOLHOF 🇳🇱 - 🇨🇳 WANG/ZHANG
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100000Z-tennis-
+DTSTAMP:20240802T100000Z
+DTSTART:20240802T100000Z
+DTEND:20240802T200000Z
+DESCRIPTION:網球 - 混合雙打銅牌賽\n🇳🇱 SCHUURS/KOOLHOF
+SUMMARY:🎾 混合雙打銅牌賽
+LOCATION:羅蘭·加洛斯體育場
+END:VEVENT
 END:VCALENDAR

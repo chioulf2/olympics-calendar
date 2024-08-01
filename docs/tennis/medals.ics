@@ -17,7 +17,7 @@ UID:20240802T100000Z-tennis-
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
 DTEND:20240802T200000Z
-DESCRIPTION:網球 - 混合雙打銅牌賽
+DESCRIPTION:網球 - 混合雙打銅牌賽\n🇳🇱 SCHUURS/KOOLHOF
 SUMMARY:🎾 混合雙打銅牌賽
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240802T170000Z-tennis-
 DTSTAMP:20240802T170000Z
 DTSTART:20240802T170000Z
 DTEND:20240803T030000Z
-DESCRIPTION:網球 - 混合雙打金牌賽
+DESCRIPTION:網球 - 混合雙打金牌賽\n🇨🇳 WANG/ZHANG
 SUMMARY:🎾 混合雙打金牌賽
 LOCATION:羅蘭·加洛斯體育場
 END:VEVENT
