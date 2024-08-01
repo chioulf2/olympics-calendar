@@ -20462,12 +20462,12 @@ SUMMARY:🏑 ARG 🇦🇷 - 🇦🇺 AUS
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T181600Z-archery-116
+UID:20240801T181600Z-archery-116-ITA-KOR
 DTSTAMP:20240801T181600Z
 DTSTART:20240801T181600Z
 DTEND:20240801T182900Z
-DESCRIPTION:射箭 - 男子個人1/16淘汰賽\n🇮🇹 Federico MUSOLESI
-SUMMARY:🏹 男子個人1/16淘汰賽
+DESCRIPTION:射箭 - 男子個人1/16淘汰賽
+SUMMARY:🏹 Federico MUSOLESI 🇮🇹 - 🇰🇷 KIM Je Deok
 LOCATION:榮軍院
 END:VEVENT
 BEGIN:VEVENT
@@ -20493,7 +20493,7 @@ UID:20240801T182900Z-archery-116
 DTSTAMP:20240801T182900Z
 DTSTART:20240801T182900Z
 DTEND:20240801T184200Z
-DESCRIPTION:射箭 - 女子個人1/16淘汰賽
+DESCRIPTION:射箭 - 女子個人1/16淘汰賽\n🇹🇷 Elif Berra GOKKIR
 SUMMARY:🏹 女子個人1/16淘汰賽
 LOCATION:榮軍院
 END:VEVENT
@@ -21185,10 +21185,9 @@ DESCRIPTION:田徑 - 男子十項全能100米\n🇦🇺 Ashley MOLONEY\n🇵🇷
   OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
   WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
   Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
-  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
-  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
-  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
-  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
+  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
+  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十項全能100米
 LOCATION:法蘭西體育場
 END:VEVENT
@@ -21523,10 +21522,9 @@ DESCRIPTION:田徑 - 男子十項全能跳遠\n🇦🇺 Ashley MOLONEY\n🇵🇷
   OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
   WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
   Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
-  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
-  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
-  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
-  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
+  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
+  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十項全能跳遠
 LOCATION:法蘭西體育場
 END:VEVENT
@@ -23002,10 +23000,9 @@ DESCRIPTION:田徑 - 男子十項全能跳高\n🇦🇺 Ashley MOLONEY\n🇵🇷
   OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
   WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
   Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
-  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
-  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
-  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
-  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
+  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
+  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十項全能跳高
 LOCATION:法蘭西體育場
 END:VEVENT
@@ -23388,10 +23385,9 @@ DESCRIPTION:田徑 - 男子十項全能400米\n🇦🇺 Ashley MOLONEY\n🇵🇷
   OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
   WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
   Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
-  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
-  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
-  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
-  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
+  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
+  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十項全能400米
 LOCATION:法蘭西體育場
 END:VEVENT
@@ -25347,7 +25343,7 @@ UID:20240803T192000Z-boxing-50-14
 DTSTAMP:20240803T192000Z
 DTSTART:20240803T192000Z
 DTEND:20240803T193100Z
-DESCRIPTION:拳擊 - 女子50公斤級 - 1/4決賽
+DESCRIPTION:拳擊 - 女子50公斤級 - 1/4決賽\n🇫🇷 Wassila LKHADIRI
 SUMMARY:🥊 女子50公斤級 - 1/4決賽
 LOCATION:北巴黎競技場
 END:VEVENT
