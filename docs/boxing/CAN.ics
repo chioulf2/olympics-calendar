@@ -30,4 +30,13 @@ DESCRIPTION:拳擊 - 男子63.5公斤級 - 1/4決賽
 SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇺🇿 Ruslan ABDULLAEV
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T103600Z-boxing-635-
+DTSTAMP:20240804T103600Z
+DTSTART:20240804T103600Z
+DTEND:20240804T104700Z
+DESCRIPTION:拳擊 - 男子63.5公斤級 - 半決賽\n🇨🇦 Wyatt SANFORD
+SUMMARY:🥊 男子63.5公斤級 - 半決賽
+LOCATION:北巴黎競技場
+END:VEVENT
 END:VCALENDAR
