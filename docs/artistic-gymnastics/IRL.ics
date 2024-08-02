@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/IRL//EN
+X-WR-CALNAME:🇮🇪 愛爾蘭 競技體操 | 巴黎2024
+NAME:🇮🇪 愛爾蘭 競技體操 | 巴黎2024
+BEGIN:VEVENT
+UID:20240803T151600Z-artistic-gymnastics-
+DTSTAMP:20240803T151600Z
+DTSTART:20240803T151600Z
+DTEND:20240803T155200Z
+DESCRIPTION:競技體操 - 男子鞍馬決賽\n🇰🇷 HUR Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max
+  WHITLOCK\n🇰🇿 Nariman KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA
+  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇺🇸 Stephen
+  NEDOROSCIK\n🇯🇵 SUGINO Takaaki\n🇨🇳 ZOU Jingyuan
+SUMMARY:🤸 男子鞍馬決賽
+LOCATION:貝爾西體育館
+END:VEVENT
+END:VCALENDAR

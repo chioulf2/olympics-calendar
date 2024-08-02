@@ -132,7 +132,10 @@ UID:20240803T133000Z-artistic-gymnastics-
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z
 DTEND:20240803T140500Z
-DESCRIPTION:競技體操 - 男子自由體操決賽
+DESCRIPTION:競技體操 - 男子自由體操決賽\n🇮🇱 Artem DOLGOPYAT\n🇵🇭 Carlos Edriel
+  YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke
+  WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵 OKA Shinnosuke\n🇪🇸 Rayderley
+  ZAPATA\n🇰🇷 RYU Sunghyun\n🇨🇳 ZHANG Boheng
 SUMMARY:🤸 男子自由體操決賽
 LOCATION:貝爾西體育館
 END:VEVENT
@@ -141,7 +144,10 @@ UID:20240803T142000Z-artistic-gymnastics-
 DTSTAMP:20240803T142000Z
 DTSTART:20240803T142000Z
 DTEND:20240803T150200Z
-DESCRIPTION:競技體操 - 女子跳馬決賽
+DESCRIPTION:競技體操 - 女子跳馬決賽\n🇲🇽 Alexa MORENO\n🇰🇵 AN Chang Ok\n🇭🇺 Csenge
+  Maria BACSKAY\n🇨🇦 Elsabeth BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan
+  CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷 Rebeca ANDRADE\n🇨🇦 Shallon
+  OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina GEORGIEVA\n🇰🇷 YEO Seojeong
 SUMMARY:🤸 女子跳馬決賽
 LOCATION:貝爾西體育館
 END:VEVENT
@@ -150,7 +156,10 @@ UID:20240803T151600Z-artistic-gymnastics-
 DTSTAMP:20240803T151600Z
 DTSTART:20240803T151600Z
 DTEND:20240803T155200Z
-DESCRIPTION:競技體操 - 男子鞍馬決賽
+DESCRIPTION:競技體操 - 男子鞍馬決賽\n🇰🇷 HUR Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max
+  WHITLOCK\n🇰🇿 Nariman KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA
+  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇺🇸 Stephen
+  NEDOROSCIK\n🇯🇵 SUGINO Takaaki\n🇨🇳 ZOU Jingyuan
 SUMMARY:🤸 男子鞍馬決賽
 LOCATION:貝爾西體育館
 END:VEVENT
