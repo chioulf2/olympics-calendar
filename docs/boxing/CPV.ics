@@ -30,4 +30,13 @@ DESCRIPTION:拳擊 - 男子51公斤級 - 1/4決賽
 SUMMARY:🥊 Patrick CHINYEMBA 🇿🇲 - 🇨🇻 David de PINA
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T145000Z-boxing-51-
+DTSTAMP:20240804T145000Z
+DTSTART:20240804T145000Z
+DTEND:20240804T150100Z
+DESCRIPTION:拳擊 - 男子51公斤級 - 半決賽\n🇨🇻 David de PINA
+SUMMARY:🥊 男子51公斤級 - 半決賽
+LOCATION:北巴黎競技場
+END:VEVENT
 END:VCALENDAR

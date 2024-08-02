@@ -3495,17 +3495,28 @@ SUMMARY:🏊 女子200米個人混合泳半決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T195000Z-cycling-bmx-racing-
+DTSTAMP:20240802T195000Z
+DTSTART:20240802T195000Z
+DTEND:20240802T200000Z
+DESCRIPTION:小輪車競速 - 女子決賽\n🇺🇸 Alise WILLOUGHBY\n🇫🇷 Axelle ETIENNE\n🇬🇧
+  Bethany SHRIEVER\n🇳🇱 Laura SMULDERS\n🇳🇱 Manon VEENSTRA\n🇨🇦 Molly
+  SIMPSON\n🇦🇺 Saya SAKAKIBARA\n🇨🇭 Zoe CLAESSENS
+SUMMARY:🚴 女子決賽
+LOCATION:聖康丁伊夫林小輪車體育館
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T080500Z-athletics-110
 DTSTAMP:20240803T080500Z
 DTSTART:20240803T080500Z
 DTEND:20240803T082200Z
-DESCRIPTION:田徑 - 男子十項全能110米跨欄\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
-  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
-  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
-  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
-  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
-  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
-  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+DESCRIPTION:田徑 - 男子十項全能110米跨欄\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian
+  WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath
+  BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷
+  Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪
+  Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十項全能110米跨欄
 LOCATION:法蘭西體育場
 END:VEVENT
@@ -3700,13 +3711,13 @@ UID:20240803T114000Z-athletics-
 DTSTAMP:20240803T114000Z
 DTSTART:20240803T114000Z
 DTEND:20240803T135600Z
-DESCRIPTION:田徑 - 男子十項全能撐杆跳高\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
-  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
-  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
-  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
-  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
-  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
-  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+DESCRIPTION:田徑 - 男子十項全能撐杆跳高\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian
+  WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath
+  BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷
+  Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪
+  Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十項全能撐杆跳高
 LOCATION:法蘭西體育場
 END:VEVENT
