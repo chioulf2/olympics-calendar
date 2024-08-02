@@ -1,6 +1,17 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/BUL//EN
-X-WR-CALNAME:🇧🇬 Bulgaria 🏅 | Paris 2024
-NAME:🇧🇬 Bulgaria 🏅 | Paris 2024
+X-WR-CALNAME:🇧🇬 保加利亞 🏅 | 巴黎2024
+NAME:🇧🇬 保加利亞 🏅 | 巴黎2024
+BEGIN:VEVENT
+UID:20240803T081800Z-rowing-A
+DTSTAMP:20240803T081800Z
+DTSTART:20240803T081800Z
+DTEND:20240803T082500Z
+DESCRIPTION:賽艇 - 女子單人雙槳決賽A\n🇧🇬 Desislava ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸
+  Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺 Tara RIGNEY\n🇱🇹 Viktorija
+  SENKUTE
+SUMMARY:🚣 女子單人雙槳決賽A
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
 END:VCALENDAR
