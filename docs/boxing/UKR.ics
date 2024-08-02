@@ -39,4 +39,13 @@ DESCRIPTION:拳擊 - 男子80公斤級 - 1/4決賽
 SUMMARY:🥊 Oleksandr KHYZHNIAK 🇺🇦 - 🇧🇷 Wanderley de SOUZA PEREIRA
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T152200Z-boxing-80-
+DTSTAMP:20240804T152200Z
+DTSTART:20240804T152200Z
+DTEND:20240804T153300Z
+DESCRIPTION:拳擊 - 男子80公斤級 - 半決賽\n🇺🇦 Oleksandr KHYZHNIAK
+SUMMARY:🥊 男子80公斤級 - 半決賽
+LOCATION:北巴黎競技場
+END:VEVENT
 END:VCALENDAR
