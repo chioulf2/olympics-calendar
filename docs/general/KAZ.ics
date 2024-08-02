@@ -211,9 +211,9 @@ DESCRIPTION:公路自行車 - 男子個人計時賽\n🇲🇦 Achraf ED DOGHMY\n
   PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰
   Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal
   KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier
-  LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan
-  MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan
-  KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
+  LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴
+  Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴
+  Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
 SUMMARY:🚴 男子個人計時賽
 LOCATION:亞歷山大三世橋
 END:VEVENT
@@ -1126,6 +1126,15 @@ DESCRIPTION:射擊 - 男子25米手槍速射資格賽第1輪\n🇮🇳 Anish ANI
   SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
 SUMMARY:🔫 男子25米手槍速射資格賽第1輪
 LOCATION:沙託魯射擊中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T105200Z-boxing-80--DOM-KAZ
+DTSTAMP:20240804T105200Z
+DTSTART:20240804T105200Z
+DTEND:20240804T110300Z
+DESCRIPTION:拳擊 - 男子80公斤級 - 半決賽
+SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇰🇿 Nurbek ORALBAY
+LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
