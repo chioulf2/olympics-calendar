@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//cycling-bmx-racing/medals//EN
-X-WR-CALNAME:🚴 小輪車競速 🏅 | 巴黎2024
-NAME:🚴 小輪車競速 🏅 | 巴黎2024
+PRODID:-//fabrice404//olympics-calendar//cycling-bmx-racing/AUS//EN
+X-WR-CALNAME:🇦🇺 澳大利亞 小輪車競速 | 巴黎2024
+NAME:🇦🇺 澳大利亞 小輪車競速 | 巴黎2024
 BEGIN:VEVENT
 UID:20240802T193500Z-cycling-bmx-racing-
 DTSTAMP:20240802T193500Z
@@ -12,15 +12,6 @@ DESCRIPTION:小輪車競速 - 男子決賽\n🇺🇸 Cameron WOOD\n🇨🇭 Cedr
   KENNEDY\n🇫🇷 Joris DAUDET\n🇨🇴 Mateo CARMONA GARCIA\n🇫🇷 Romain
   MAHIEU\n🇨🇭 Simon M. MARQUART\n🇫🇷 Sylvain ANDRE
 SUMMARY:🚴 男子決賽
-LOCATION:聖康丁伊夫林小輪車體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T195000Z-cycling-bmx-racing-
-DTSTAMP:20240802T195000Z
-DTSTART:20240802T195000Z
-DTEND:20240802T200000Z
-DESCRIPTION:小輪車競速 - 女子決賽
-SUMMARY:🚴 女子決賽
 LOCATION:聖康丁伊夫林小輪車體育館
 END:VEVENT
 END:VCALENDAR
