@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//medals/CIV//EN
-X-WR-CALNAME:🇨🇮 科特迪瓦 🏅 | 巴黎2024
-NAME:🇨🇮 科特迪瓦 🏅 | 巴黎2024
+PRODID:-//fabrice404//olympics-calendar//medals/LCA//EN
+X-WR-CALNAME:🇱🇨 聖盧西亞 🏅 | 巴黎2024
+NAME:🇱🇨 聖盧西亞 🏅 | 巴黎2024
 BEGIN:VEVENT
 UID:20240803T192000Z-athletics-100
 DTSTAMP:20240803T192000Z
