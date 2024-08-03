@@ -1,28 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//athletics/QAT//EN
-X-WR-CALNAME:🇶🇦 卡塔爾 田徑 | 巴黎2024
-NAME:🇶🇦 卡塔爾 田徑 | 巴黎2024
-BEGIN:VEVENT
-UID:20240802T083500Z-athletics-100
-DTSTAMP:20240802T083500Z
-DTSTART:20240802T083500Z
-DTEND:20240802T085700Z
-DESCRIPTION:田徑 - 女子100米預賽\n🇸🇲 Alessandra GASPARELLI\n🇸🇾 Alisar
-  YOUSSEF\n🇲🇼 Asimenye SIMWAKA\n🇻🇺 Chloe DAVID\n🇵🇰 Faiqa RIAZ\n🇦🇸
-  Filomenaleonisa IAKOPO\n🇸🇱 Georgiana SESAY\n🇸🇹 Gorete SEMEDO\n🇧🇴
-  Guadalupe TORREZ\n🇬🇩 Halle HAZZARD\n🇦🇫 Kimia YOUSOFI\n🇵🇬 Leonie
-  BEU\n🇬🇪 Lika KHARCHILAVA\n🇸🇸 Lucia MORIS\n🇳🇮 Maria CARMONA\n🇦🇪
-  Mariam ALFARSI\n🇬🇹 Mariandree CHACON\n🇲🇨 Marie-Charlotte
-  GASTAUD\n🇴🇲 Mazoon AL ALAWI\n🇹🇬 Naomi AKAKPO\n🇨🇬 Natacha
-  NGOYE\n🇬🇺 Regine TUGADE-WATSON\n🇬🇳 Safiatou ACQUAVIVA\n🇲🇷 Salam
-  Bouha AHAMDY\n🇳🇪 Samira AWALI BOUBACAR\n🇬🇶 Sefora ADA ETO\n🇶🇦 Shahd
-  ASHRAF\n🇸🇧 Sharon FIRISUA\n🇱🇦 Silina PHA APHAY\n🇵🇼 Sydney
-  FRANCISCO\n🇹🇻 Temalini MANATOA\n🇻🇳 Thi Nhi Yen TRAN\n🇹🇲 Valentina
-  MEREDOVA\n🇵🇾 Xenia HIEBERT\n🇰🇳 Zahria ALLERS-LIBURD\n🇹🇼 ZHANG Bo-Ya
-SUMMARY:🏃 女子100米預賽
-LOCATION:法蘭西體育場
-END:VEVENT
+PRODID:-//fabrice404//olympics-calendar//athletics/ZAM//EN
+X-WR-CALNAME:🇿🇲 贊比亞 田徑 | 巴黎2024
+NAME:🇿🇲 贊比亞 田徑 | 巴黎2024
 BEGIN:VEVENT
 UID:20240804T170500Z-athletics-4001
 DTSTAMP:20240804T170500Z
