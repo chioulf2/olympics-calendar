@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//athletics/AZE//EN
+X-WR-CALNAME:🇦🇿 阿塞拜疆 田徑 | 巴黎2024
+NAME:🇦🇿 阿塞拜疆 田徑 | 巴黎2024
+BEGIN:VEVENT
+UID:20240804T082000Z-athletics--A
+DTSTAMP:20240804T082000Z
+DTSTART:20240804T082000Z
+DTEND:20240804T091600Z
+DESCRIPTION:田徑 - 女子鏈球資格賽 - A組\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇳🇴
+  Beatrice Nedberge LLANO\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn
+  ROGERS\n🇺🇸 Erin REESE\n🇦🇿 Hanna SKYDAN\n🇳🇿 Lauren BRUCE\n🇨🇳 LI
+  Jiangyan\n🇵🇱 Malwina KOPRON\n🇨🇴 Mayra GAVIRIA\n🇫🇷 Rose LOGA\n🇦🇺
+  Stephanie RATCLIFFE\n🇫🇮 Suvi KOSKINEN\n🇸🇪 Thea LOFMAN\n🇩🇿 Zahra
+  TATAR\n🇨🇳 ZHAO Jie
+SUMMARY:🏃 女子鏈球資格賽 - A組
+LOCATION:法蘭西體育場
+END:VEVENT
+END:VCALENDAR
