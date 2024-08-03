@@ -15,4 +15,16 @@ DESCRIPTION:競技體操 - 女子跳馬決賽\n🇲🇽 Alexa MORENO\n🇰🇵 A
 SUMMARY:🤸 女子跳馬決賽
 LOCATION:貝爾西體育館
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T130000Z-artistic-gymnastics-
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T133700Z
+DESCRIPTION:競技體操 - 男子吊環決賽\n🇹🇷 Adem ASIL\n🇺🇸 Asher HONG\n🇬🇷
+  Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry HEPWORTH\n🇹🇷
+  Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵 TANIGAWA
+  Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
+SUMMARY:🤸 男子吊環決賽
+LOCATION:貝爾西體育館
+END:VEVENT
 END:VCALENDAR

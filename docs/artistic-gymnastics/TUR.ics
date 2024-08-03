@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//medals/ARM//EN
-X-WR-CALNAME:🇦🇲 亞美尼亞 🏅 | 巴黎2024
-NAME:🇦🇲 亞美尼亞 🏅 | 巴黎2024
+PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/TUR//EN
+X-WR-CALNAME:🇹🇷 土耳其 競技體操 | 巴黎2024
+NAME:🇹🇷 土耳其 競技體操 | 巴黎2024
 BEGIN:VEVENT
 UID:20240804T130000Z-artistic-gymnastics-
 DTSTAMP:20240804T130000Z
