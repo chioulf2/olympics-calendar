@@ -1,22 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//athletics/DEN//EN
-X-WR-CALNAME:🇩🇰 丹麥 田徑 | 巴黎2024
-NAME:🇩🇰 丹麥 田徑 | 巴黎2024
-BEGIN:VEVENT
-UID:20240802T165500Z-athletics--A
-DTSTAMP:20240802T165500Z
-DTSTART:20240802T165500Z
-DTEND:20240802T174700Z
-DESCRIPTION:田徑 - 女子鐵餅資格賽 - A組\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley
-  ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva
-  GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin
-  PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷
-  Melina ROBERT-MICHON\n🇯🇲 Samantha HALL\n🇨🇺 Silinda MORALES\n🇹🇭
-  Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
-SUMMARY:🏃 女子鐵餅資格賽 - A組
-LOCATION:法蘭西體育場
-END:VEVENT
+PRODID:-//fabrice404//olympics-calendar//athletics/IVB//EN
+X-WR-CALNAME:🇻🇬 英屬維爾京群島 田徑 | 巴黎2024
+NAME:🇻🇬 英屬維爾京群島 田徑 | 巴黎2024
 BEGIN:VEVENT
 UID:20240804T085500Z-athletics-2001
 DTSTAMP:20240804T085500Z
