@@ -66,4 +66,13 @@ DESCRIPTION:拳擊 - 男子71公斤級 - 1/4決賽
 SUMMARY:🥊 Zeyad EASHASH 🇯🇴 - 🇬🇧 Lewis RICHARDSON
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T194600Z-boxing-71-
+DTSTAMP:20240806T194600Z
+DTSTART:20240806T194600Z
+DTEND:20240806T195700Z
+DESCRIPTION:拳擊 - 男子71公斤級 - 半決賽\n🇬🇧 Lewis RICHARDSON
+SUMMARY:🥊 男子71公斤級 - 半決賽
+LOCATION:羅蘭·加洛斯體育場
+END:VEVENT
 END:VCALENDAR
