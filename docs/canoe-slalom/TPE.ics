@@ -147,4 +147,17 @@ DESCRIPTION:皮劃艇激流回旋 - 男子極限皮艇第1輪\n🇬🇧 Adam BUR
 SUMMARY:🛶 男子極限皮艇第1輪
 LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T160500Z-canoe-slalom-
+DTSTAMP:20240803T160500Z
+DTSTART:20240803T160500Z
+DTEND:20240803T163000Z
+DESCRIPTION:皮劃艇激流回旋 - 女子極限皮艇復活賽\n🇧🇷 Ana SATILA\n🇹🇼 CHANG Chu-Han\n🇦🇹
+  Corinna KUHNLE\n🇸🇮 Eva Alina HOCEVAR\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI
+  Shiting\n🇨🇦 Lois BETTERIDGE\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
+  CHOURRAUT\n🇯🇵 OKAZAKI Haruka\n🇮🇹 Stefanie HORN\n🇨🇿 Tereza
+  FISEROVA\n🇦🇹 Viktoria WOLFFHARDT\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 女子極限皮艇復活賽
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
+END:VEVENT
 END:VCALENDAR
