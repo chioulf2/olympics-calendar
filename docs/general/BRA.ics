@@ -4023,12 +4023,12 @@ SUMMARY:⛵ 男女混合帆船470級 - 比賽03
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T140000Z-judo-A
+UID:20240803T140000Z-judo-A-BRA-ITA
 DTSTAMP:20240803T140000Z
 DTSTART:20240803T140000Z
 DTEND:20240803T142800Z
-DESCRIPTION:柔道 - 混合團體銅牌賽A\n🇧🇷 BRA
-SUMMARY:🥋 混合團體銅牌賽A
+DESCRIPTION:柔道 - 混合團體銅牌賽A
+SUMMARY:🥋 BRA 🇧🇷 - 🇮🇹 ITA
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
