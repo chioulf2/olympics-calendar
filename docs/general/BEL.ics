@@ -2099,6 +2099,27 @@ SUMMARY:🏀 JPN 🇯🇵 - 🇧🇪 BEL
 LOCATION:皮埃爾·莫魯瓦體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T095000Z-athletics-1101
+DTSTAMP:20240804T095000Z
+DTSTART:20240804T095000Z
+DTEND:20240804T102300Z
+DESCRIPTION:田徑 - 男子110米跨欄第1輪\n🇩🇿 Amine BOUANANI\n🇧🇸 Antoine
+  ANDREWS\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig THORNE\n🇵🇱 Damian
+  CZYKIER\n🇺🇸 Daniel ROBERTS\n🇰🇿 David YEFREMOV\n🇧🇷 Eduardo
+  RODRIGUES\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇪🇸 Enrique LLOPIS\n🇦🇹
+  Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant HOLLOWAY\n🇯🇲 Hansle
+  PARCHMENT\n🇯🇵 IZUMIYA Shunsuke\n🇵🇱 Jakub SZYMANSKI\n🇨🇭 Jason
+  JOSEPH\n🇵🇭 John CABANG\n🇵🇱 Krzysztof KILJAN\n🇨🇳 LIU Junxi\n🇮🇹
+  Lorenzo Ndele SIMONELLI\n🇸🇳 Louis Francois MENDY\n🇩🇪 Manuel
+  MORDI\n🇨🇱 Martin SAENZ de SANTA MARIA\n🇧🇪 Michael OBASUYI\n🇨🇾 Milan
+  TRAJKOVIC\n🇯🇵 MURATAKE Rachid\n🇯🇲 Orlando BENNETT\n🇨🇳 QIN
+  Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael MOHAMED\n🇯🇲 Rasheed
+  BROADBELL\n🇫🇷 Sasha ZHOYA\n🇬🇧 Tade OJORA\n🇯🇵 TAKAYAMA Shunya\n🇦🇺
+  Tayleb WILLIS\n🇫🇷 Wilhem BELOCIAN\n🇨🇳 XU Zhuoyi\n🇰🇼 Yaqoub ALYOUHA
+SUMMARY:🏃 男子110米跨欄第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T100500Z-sailing--07
 DTSTAMP:20240804T100500Z
 DTSTART:20240804T100500Z
@@ -2144,6 +2165,28 @@ DTEND:20240804T194500Z
 DESCRIPTION:曲棍球 - 男子1/4決賽
 SUMMARY:🏑 BEL 🇧🇪 - 🇪🇸 ESP
 LOCATION:伊芙莊園體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T103500Z-athletics-4001
+DTSTAMP:20240804T103500Z
+DTSTART:20240804T103500Z
+DTEND:20240804T110800Z
+DESCRIPTION:田徑 - 女子400米跨欄第1輪\n🇦🇺 Alanah YUKICH\n🇮🇹 Alice MURARO\n🇳🇴
+  Amalie IUEL\n🇺🇸 Anna COCKRELL\n🇺🇦 Anna RYZHYKOVA\n🇮🇹 Ayomide
+  FOLORUNSO\n🇩🇪 Carolina KRAFZIK\n🇳🇱 Cathelijn PEETERS\n🇧🇷 Chayenne
+  da SILVA\n🇵🇹 Fatoumata Binta DIALLO\n🇳🇱 Femke BOL\n🇵🇦 Gianna
+  WOODRUFF\n🇵🇷 Grace CLAXTON\n🇧🇪 Hanne CLAES\n🇯🇲 Janieve
+  RUSSELL\n🇺🇸 Jasmine JONES\n🇬🇧 Jessie KNIGHT\n🇧🇭 Kemi ADEKOYA\n🇵🇭
+  Lauren HOFFMAN\n🇬🇧 Lina NIELSEN\n🇨🇲 Linda ANGOUNOU\n🇳🇴 Line
+  KLOSTER\n🇫🇷 Louise MARAVAL\n🇨🇳 MO Jiadie\n🇧🇪 Naomi van den
+  BROECK\n🇨🇿 Nikoleta JICHOVA\n🇲🇦 Noura ENNADI\n🇧🇪 Paulien
+  COUCKUYT\n🇮🇹 Rebecca SARTORI\n🇿🇦 Rogail JOSEPH\n🇯🇲 Rushell
+  CLAYTON\n🇦🇺 Sarah CARLI\n🇨🇦 Savannah SUTHERLAND\n🇫🇷 Shana
+  GREBO\n🇯🇲 Shiann SALMON\n🇺🇸 Sydney McLAUGHLIN-LEVRONE\n🇫🇮 Viivi
+  LEHIKOINEN\n🇺🇦 Viktoriya TKACHUK\n🇨🇭 Yasmin GIGER\n🇿🇦 Zeney
+  GELDENHUYS
+SUMMARY:🏃 女子400米跨欄第1輪
+LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T105700Z-sailing-17-05
@@ -2281,6 +2324,17 @@ DESCRIPTION:帆船 - 女子帆船激光雷迪爾級 - 比賽08\n🇧🇲 Adriana
   Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ 女子帆船激光雷迪爾級 - 比賽08
 LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T060000Z-triathlon-
+DTSTAMP:20240805T060000Z
+DTSTART:20240805T060000Z
+DTEND:20240805T073000Z
+DESCRIPTION:鐵人三項 - 混合接力賽\n🇧🇷 BRA\n🇧🇪 BEL\n🇪🇸 ESP\n🇫🇷 FRA\n🇺🇸
+  USA\n🇬🇧 GBR\n🇳🇴 NOR\n🇳🇱 NED\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭
+  SUI\n🇵🇹 POR\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
+SUMMARY:🏊 混合接力賽
+LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T100500Z-sailing-17-07

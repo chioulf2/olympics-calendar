@@ -108,4 +108,44 @@ DESCRIPTION:田徑 - 男子10000米決賽\n🇪🇸 Abdessamad OUKHELFEN\n🇿�
 SUMMARY:🏃 男子10000米決賽
 LOCATION:法蘭西體育場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T090000Z-athletics-
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T095600Z
+DESCRIPTION:田徑 - 男子跳遠資格賽\n🇨🇺 Alejandro PARADA\n🇺🇿 Anvar ANVAROV\n🇨🇴
+  Arnovis DALMERO\n🇧🇬 Bozhidar SARABOYUKOV\n🇯🇲 Carey McLEOD\n🇿🇦
+  Cheswill JOHNSON\n🇦🇺 Christopher MITREVSKI\n🇺🇾 Emiliano LASA\n🇭🇷
+  Filip PRAVDICA\n🇯🇵 HASHIOKA Yuki\n🇬🇧 Jacob FINCHAM-DUKES\n🇺🇸
+  Jarrion LAWSON\n🇺🇸 Jeremiah DAVIS\n🇮🇳 Jeswin ALDRIN\n🇿🇦 Jovan van
+  VUUREN\n🇦🇺 Liam ADCOCK\n🇹🇼 LIN Yu-Tang\n🇧🇷 Lucas Marcelino dos
+  SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹 Mattia FURLANI\n🇬🇷 Miltiadis
+  TENTOGLOU\n🏳️ Mohammad Amin ALSALAMI\n🇨🇿 Petr MEINDLSCHMID\n🇨🇿 Radek
+  JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪 Simon BATZ\n🇨🇭 Simon EHAMMER\n🇯🇲 Tajay
+  GAYLE\n🇸🇪 Thobias MONTLER\n🇫🇷 Tom CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲
+  Wayne PINNOCK\n🇨🇳 ZHANG Mingkun
+SUMMARY:🏃 男子跳遠資格賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T095000Z-athletics-1101
+DTSTAMP:20240804T095000Z
+DTSTART:20240804T095000Z
+DTEND:20240804T102300Z
+DESCRIPTION:田徑 - 男子110米跨欄第1輪\n🇩🇿 Amine BOUANANI\n🇧🇸 Antoine
+  ANDREWS\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig THORNE\n🇵🇱 Damian
+  CZYKIER\n🇺🇸 Daniel ROBERTS\n🇰🇿 David YEFREMOV\n🇧🇷 Eduardo
+  RODRIGUES\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇪🇸 Enrique LLOPIS\n🇦🇹
+  Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant HOLLOWAY\n🇯🇲 Hansle
+  PARCHMENT\n🇯🇵 IZUMIYA Shunsuke\n🇵🇱 Jakub SZYMANSKI\n🇨🇭 Jason
+  JOSEPH\n🇵🇭 John CABANG\n🇵🇱 Krzysztof KILJAN\n🇨🇳 LIU Junxi\n🇮🇹
+  Lorenzo Ndele SIMONELLI\n🇸🇳 Louis Francois MENDY\n🇩🇪 Manuel
+  MORDI\n🇨🇱 Martin SAENZ de SANTA MARIA\n🇧🇪 Michael OBASUYI\n🇨🇾 Milan
+  TRAJKOVIC\n🇯🇵 MURATAKE Rachid\n🇯🇲 Orlando BENNETT\n🇨🇳 QIN
+  Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael MOHAMED\n🇯🇲 Rasheed
+  BROADBELL\n🇫🇷 Sasha ZHOYA\n🇬🇧 Tade OJORA\n🇯🇵 TAKAYAMA Shunya\n🇦🇺
+  Tayleb WILLIS\n🇫🇷 Wilhem BELOCIAN\n🇨🇳 XU Zhuoyi\n🇰🇼 Yaqoub ALYOUHA
+SUMMARY:🏃 男子110米跨欄第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
 END:VCALENDAR
