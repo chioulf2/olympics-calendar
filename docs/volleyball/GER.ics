@@ -30,4 +30,13 @@ DESCRIPTION:排球 - 男子預賽 - C組
 SUMMARY:🏐 ARG 🇦🇷 - 🇩🇪 GER
 LOCATION:南巴黎競技場1號館
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T150000Z-volleyball-14-FRA-GER
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T131500Z
+DESCRIPTION:排球 - 男子1/4決賽
+SUMMARY:🏐 FRA 🇫🇷 - 🇩🇪 GER
+LOCATION:南巴黎競技場1號館
+END:VEVENT
 END:VCALENDAR

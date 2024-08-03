@@ -30,4 +30,13 @@ DESCRIPTION:排球 - 男子預賽 - A組
 SUMMARY:🏐 FRA 🇫🇷 - 🇸🇮 SLO
 LOCATION:南巴黎競技場1號館
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T070000Z-volleyball-14-SLO-POL
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T171500Z
+DESCRIPTION:排球 - 男子1/4決賽
+SUMMARY:🏐 斯洛文尼亞 🇸🇮 - 🇵🇱 波蘭
+LOCATION:南巴黎競技場1號館
+END:VEVENT
 END:VCALENDAR
