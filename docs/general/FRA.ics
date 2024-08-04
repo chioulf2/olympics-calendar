@@ -7459,6 +7459,24 @@ SUMMARY:⛵ 男子水翼風箏板 - 比賽02
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T110000Z-shooting-252
+DTSTAMP:20240804T110000Z
+DTSTART:20240804T110000Z
+DTEND:20240804T150000Z
+DESCRIPTION:射擊 - 男子25米手槍速射資格賽第2輪\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪
+  Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪
+  Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry
+  Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
+  SANDERSON\n🇨🇺 Leuris PUPO\n🇨🇳 LI Yuehong\n🇺🇦 Maksym
+  HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej
+  RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦
+  Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
+  LUNEV\n🇦🇺 Sergei EVGLEVSKI\n🇰🇷 SONG Jong-Ho\n🇮🇳 Vijayveer
+  SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 男子25米手槍速射資格賽第2輪
+LOCATION:沙託魯射擊中心
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T110000Z-volleyball--A-FRA-USA
 DTSTAMP:20240804T110000Z
 DTSTART:20240804T110000Z
