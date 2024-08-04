@@ -268,6 +268,26 @@ SUMMARY:🏃 男子跳遠資格賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T080500Z-athletics-4001
+DTSTAMP:20240805T080500Z
+DTSTART:20240805T080500Z
+DTEND:20240805T083800Z
+DESCRIPTION:田徑 - 男子400米跨欄第1輪\n🇶🇦 Abderrahman SAMBA\n🇬🇧 Alastair
+  CHALMERS\n🇮🇹 Alessandro SIBILIO\n🇧🇷 Alison dos SANTOS\n🇶🇦 Bassem
+  HEMEIDA\n🇹🇷 Berke AKCAM\n🇸🇪 Carl BENGTSTROM\n🇺🇸 Cj ALLEN\n🇫🇷
+  Clement DUCOS\n🇩🇪 Constantin PREIS\n🇩🇪 Emil AGYEKUM\n🇳🇬 Ezekiel
+  NATHANIEL\n🇨🇷 Gerald DRUMMOND\n🇶🇦 Ismail Doudai ABAKAR\n🇯🇲 Jaheel
+  HYDE\n🇩🇪 Joshua ABUAKU\n🇨🇭 Julien BONVIN\n🇳🇴 Karsten WARHOLM\n🇻🇬
+  Kyron McMASTER\n🇯🇲 Malik JAMES-KING\n🇧🇷 Matheus LIMA\n🇸🇮 Matic Ian
+  GUCEK\n🇳🇱 Nick SMIDT\n🇯🇵 OGAWA Daiki\n🇸🇪 Oskar EDLUND\n🇹🇼 PENG
+  Ming-Yang\n🇺🇸 Rai BENJAMIN\n🇪🇪 Rasmus MAGI\n🇯🇲 Roshawn CLARKE\n🇯🇵
+  TOYODA Ken\n🇺🇸 Trevor BASSITT\n🇯🇵 TSUTSUE Kaito\n🇧🇼 Victor
+  NTWENG\n🇨🇿 Vit MULLER\n🇫🇷 Wilfried HAPPIO\n🇰🇪 Wiseman Were
+  MUKHOBE\n🇨🇳 XIE Zhiyu\n🇹🇷 Yasmani COPELLO\n🇩🇴 Yeral NUNEZ
+SUMMARY:🏃 男子400米跨欄第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T170000Z-athletics-
 DTSTAMP:20240805T170000Z
 DTSTART:20240805T170000Z
@@ -278,6 +298,28 @@ DESCRIPTION:田徑 - 男子撐竿跳高決賽\n🇸🇪 Armand DUPLANTIS\n🇩�
   Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre GUTTORMSEN\n🇱🇻 Valters
   KREISS
 SUMMARY:🏃 男子撐竿跳高決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T175500Z-athletics-2001
+DTSTAMP:20240805T175500Z
+DTSTART:20240805T175500Z
+DTEND:20240805T183100Z
+DESCRIPTION:田徑 - 男子200米第1輪\n🇨🇦 Aaron BROWN\n🇵🇱 Albert KOMANSKI\n🇩🇴
+  Alexander OGANDO\n🇨🇦 Andre De GRASSE\n🇯🇲 Andrew HUDSON\n🇿🇦 Benjamin
+  RICHARDSON\n🇮🇱 Blessing Akwasi AFRIFAH\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan
+  LEVELL\n🇦🇺 Calab LAW\n🇵🇾 Cesar ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹
+  Diego Aldo PETTOROSSI\n🇨🇿 Eduard KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇺🇸
+  Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine DESALU\n🇨🇭 Felix SVENSSON\n🇮🇹
+  Filippo TORTU\n🇧🇸 Ian KERR\n🇯🇵 IIZUKA Shota\n🇩🇴 Jose GONZALEZ\n🇱🇷
+  Joseph FAHNBULLEH\n🇩🇪 Joshua HARTMANN\n🇺🇸 Kenneth BEDNAREK\n🇧🇼
+  Letsile TEBOGO\n🇿🇼 Makanakaishe CHARAMBA\n🇺🇸 Noah LYLES\n🇨🇿 Ondrej
+  MACIK\n🇫🇷 Pablo MATEO\n🇧🇷 Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun
+  MASWANGANYI\n🇿🇼 Tapiwanashe MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇨🇭
+  Timothe MUMENTHALER\n🇨🇿 Tomas NEMEJC\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇯🇵
+  UEYAMA Koki\n🇯🇵 UZAWA Towa\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van
+  NIEKERK\n🇨🇭 William REAIS\n🇹🇼 YANG Chun-Han\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 男子200米第1輪
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT

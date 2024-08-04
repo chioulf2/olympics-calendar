@@ -4539,6 +4539,48 @@ SUMMARY:🏊 女子10米跳臺跳水預賽
 LOCATION:水上運動中心
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T084000Z-athletics-
+DTSTAMP:20240805T084000Z
+DTSTART:20240805T084000Z
+DTEND:20240805T110000Z
+DESCRIPTION:田徑 - 女子撐竿跳高資格賽\n🇬🇷 Aikaterini STEFANIDI\n🇨🇦 Alysha
+  NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica MOSER\n🇨🇦 Anicka
+  NEWELL\n🇩🇪 Anjuli KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇺🇸 Bridget
+  WILLIAMS\n🇺🇸 Brynn KING\n🇬🇷 Eleni-Klaoudia POLAK\n🇫🇮 Elina
+  LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇭🇺 Hanga
+  KLEKNER\n🇬🇧 Holly BRADSHAW\n🇳🇿 Imogen AYRIS\n🇧🇷 Juliana de MENIS
+  CAMPOS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie
+  BONNIN\n🇬🇧 Molly CAUDERY\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇨🇳
+  NIU Chunge\n🇳🇿 Olivia McTAGGART\n🇨🇭 Pascale STOCKLIN\n🇻🇪 Robeilys
+  PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
+SUMMARY:🏃 女子撐竿跳高資格賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T095500Z-athletics-4001
+DTSTAMP:20240805T095500Z
+DTSTART:20240805T095500Z
+DTEND:20240805T103600Z
+DESCRIPTION:田徑 - 女子400米第1輪\n🇺🇸 Aaliyah BUTLER\n🇺🇸 Alexis HOLMES\n🇮🇹
+  Alice MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇬🇧 Amber ANNING\n🇷🇴 Andrea
+  MIKLOS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia BOLINGO\n🇳🇬 Ella
+  ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇳🇬 Esther Elo JOSEPH\n🇨🇴 Evelis
+  AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇳🇴
+  Henriette JAEGER\n🇯🇲 Junelle BROMFIELD\n🇵🇱 Justyna
+  SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦 Lauren
+  GALE\n🇬🇧 Laviai NIELSEN\n🇳🇱 Lieke KLAVER\n🇨🇴 Lina Esther LICONA
+  TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇩🇴 Marileidy PAULINO\n🇨🇱 Martina
+  WEIL\n🇿🇦 Miranda Charlene COETZEE\n🇱🇹 Modesta Juste MORAUSKAITE\n🇵🇱
+  Natalia KACZMAREK\n🇯🇲 Nickisha PRYCE\n🇪🇨 Nicole CAICEDO\n🇮🇳 Pahal
+  KIRAN\n🇲🇽 Paola MORAN\n🇮🇪 Rhasidat ADELEKE\n🇨🇺 Roxana GOMEZ\n🇧🇧
+  Sada WILLIAMS\n🇧🇭 Salwa Eid NASER\n🇮🇪 Sharlene MAWDSLEY\n🇧🇸 Shaunae
+  MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇯🇲 Stacey Ann WILLIAMS\n🇦🇹 Susanne
+  GOGL-WALLI\n🇨🇿 Tereza PETRZILKOVA\n🇧🇷 Tiffani MARINHO\n🇬🇧 Victoria
+  OHURUOGU\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 女子400米第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T100300Z-sailing--05
 DTSTAMP:20240805T100300Z
 DTSTART:20240805T100300Z
@@ -4665,6 +4707,48 @@ DTEND:20240805T155500Z
 DESCRIPTION:三人籃球 - 女子半決賽
 SUMMARY:🏀 GER 🇩🇪 - 🇨🇦 CAN
 LOCATION:協和廣場1號場地
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170400Z-athletics-30001
+DTSTAMP:20240805T170400Z
+DTSTART:20240805T170400Z
+DTEND:20240805T174500Z
+DESCRIPTION:田徑 - 男子3000米障礙賽第1輪\n🇰🇪 Abraham KIBIWOT\n🇹🇳 Ahmed
+  JAZIRI\n🇫🇷 Alexis MIELLET\n🇰🇪 Amos SEREM\n🇯🇵 AOKI Ryoma\n🇮🇳
+  Avinash Mukund SABLE\n🇦🇺 Ben BUCKINGHAM\n🇩🇿 Bilal TABTI\n🇪🇸 Daniel
+  ARCE\n🇲🇦 Faid EL MOSTAFA\n🇩🇪 Frederik RUPPERT\n🇳🇿 Geordie
+  BEAMISH\n🇪🇹 Getnet WALE\n🇺🇸 James CORRIGAN\n🇨🇦 Jean-Simon
+  DESGAGNES\n🇩🇪 Karl BEBENDORF\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha
+  GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇫🇷 Louis GILAVERT\n🇦🇺 Matthew
+  CLARKE\n🇺🇸 Matthew WILKINSON\n🇯🇵 MIURA Ryuji\n🇹🇳 Mohamed Amin
+  JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇦🇩 Nahuel CARABANA\n🇫🇷 Nicolas-Marie
+  DARU\n🇮🇹 Osama ZOGHLAMI\n🇱🇺 Ruben QUERINJEAN\n🇪🇹 Samuel
+  FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL BAKKALI\n🇨🇿 Tomas
+  HABARTA\n🇫🇮 Topi RAITANEN\n🇩🇪 Velten SCHNEIDER\n🇮🇹 Yassin BOUIH
+SUMMARY:🏃 男子3000米障礙賽第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T175500Z-athletics-2001
+DTSTAMP:20240805T175500Z
+DTSTART:20240805T175500Z
+DTEND:20240805T183100Z
+DESCRIPTION:田徑 - 男子200米第1輪\n🇨🇦 Aaron BROWN\n🇵🇱 Albert KOMANSKI\n🇩🇴
+  Alexander OGANDO\n🇨🇦 Andre De GRASSE\n🇯🇲 Andrew HUDSON\n🇿🇦 Benjamin
+  RICHARDSON\n🇮🇱 Blessing Akwasi AFRIFAH\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan
+  LEVELL\n🇦🇺 Calab LAW\n🇵🇾 Cesar ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹
+  Diego Aldo PETTOROSSI\n🇨🇿 Eduard KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇺🇸
+  Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine DESALU\n🇨🇭 Felix SVENSSON\n🇮🇹
+  Filippo TORTU\n🇧🇸 Ian KERR\n🇯🇵 IIZUKA Shota\n🇩🇴 Jose GONZALEZ\n🇱🇷
+  Joseph FAHNBULLEH\n🇩🇪 Joshua HARTMANN\n🇺🇸 Kenneth BEDNAREK\n🇧🇼
+  Letsile TEBOGO\n🇿🇼 Makanakaishe CHARAMBA\n🇺🇸 Noah LYLES\n🇨🇿 Ondrej
+  MACIK\n🇫🇷 Pablo MATEO\n🇧🇷 Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun
+  MASWANGANYI\n🇿🇼 Tapiwanashe MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇨🇭
+  Timothe MUMENTHALER\n🇨🇿 Tomas NEMEJC\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇯🇵
+  UEYAMA Koki\n🇯🇵 UZAWA Towa\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van
+  NIEKERK\n🇨🇭 William REAIS\n🇹🇼 YANG Chun-Han\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 男子200米第1輪
+LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T180000Z-table-tennis-16-CAN-GER
