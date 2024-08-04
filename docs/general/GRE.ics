@@ -1723,6 +1723,17 @@ SUMMARY:🤸 男子吊環決賽
 LOCATION:貝爾西體育館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T133000Z-shooting-
+DTSTAMP:20240804T133000Z
+DTSTART:20240804T133000Z
+DTEND:20240804T144500Z
+DESCRIPTION:射擊 - 女子雙向飛碟決賽\n🇬🇧 Amber Jo RUTTER\n🇺🇸 Austen Jewell
+  SMITH\n🇸🇰 Danka BARTEKOVA\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇸🇰 Vanesa HOCKOVA
+SUMMARY:🔫 女子雙向飛碟決賽
+LOCATION:沙託魯射擊中心
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T175500Z-athletics-
 DTSTAMP:20240804T175500Z
 DTSTART:20240804T175500Z
@@ -1756,6 +1767,18 @@ DESCRIPTION:田徑 - 男子鏈球決賽\n🇭🇺 Bence HALASZ\n🇬🇷 Christo
   NOWICKI\n🇫🇷 Yann CHAUSSINAND
 SUMMARY:🏃 男子鏈球決賽
 LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T070000Z-shooting-
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T113000Z
+DESCRIPTION:射擊 - 混合團體雙向飛碟資格賽\n🇦🇺 Australia\n🇨🇳 China\n🇨🇿
+  Czechia\n🇫🇷 France\n🇩🇪 Germany\n🇬🇷 Greece\n🇮🇳 India\n🇮🇹 Italy
+  1\n🇮🇹 Italy 2\n🇰🇿 Kazakhstan\n🇰🇷 Korea\n🇵🇪 Peru\n🇸🇪
+  Sweden\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 混合團體雙向飛碟資格賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T084000Z-athletics-

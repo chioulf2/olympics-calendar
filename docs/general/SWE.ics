@@ -2786,6 +2786,18 @@ SUMMARY:🏊 女子4x100米混合泳接力決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T070000Z-shooting-
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T113000Z
+DESCRIPTION:射擊 - 混合團體雙向飛碟資格賽\n🇦🇺 Australia\n🇨🇳 China\n🇨🇿
+  Czechia\n🇫🇷 France\n🇩🇪 Germany\n🇬🇷 Greece\n🇮🇳 India\n🇮🇹 Italy
+  1\n🇮🇹 Italy 2\n🇰🇿 Kazakhstan\n🇰🇷 Korea\n🇵🇪 Peru\n🇸🇪
+  Sweden\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 混合團體雙向飛碟資格賽
+LOCATION:沙託魯射擊中心
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T080000Z-table-tennis-16-SWE-DEN
 DTSTAMP:20240805T080000Z
 DTSTART:20240805T080000Z
