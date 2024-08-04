@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-track/MEX//EN
+X-WR-CALNAME:🇲🇽 墨西哥 場地自行車 | 巴黎2024
+NAME:🇲🇽 墨西哥 場地自行車 | 巴黎2024
+BEGIN:VEVENT
+UID:20240805T150000Z-cycling-track-
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T152700Z
+DESCRIPTION:場地自行車 - 女子團體爭先賽資格賽\n🇨🇳 CHN\n🇨🇦 CAN\n🇵🇱 POL\n🇬🇧
+  GBR\n🇳🇱 NED\n🇳🇿 新西蘭\n🇩🇪 GER\n🇲🇽 MEX
+SUMMARY:🚴 女子團體爭先賽資格賽
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+END:VCALENDAR
