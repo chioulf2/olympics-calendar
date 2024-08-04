@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//equestrian/EST//EN
+X-WR-CALNAME:🇪🇪 愛沙尼亞 馬術 | 巴黎2024
+NAME:🇪🇪 愛沙尼亞 馬術 | 巴黎2024
+BEGIN:VEVENT
+UID:20240805T120000Z-equestrian-
+DTSTAMP:20240805T120000Z
+DTSTART:20240805T120000Z
+DTEND:20240805T160000Z
+DESCRIPTION:馬術 - 個人場地障礙預賽\n🇦🇪 Abdullah Mohd AL MARRI\n🇸🇦 Abdulrahman
+  ALRAJHI\n🇵🇱 Adam GRZEGORZEWSKI\n🇨🇱 Agustin COVARRUBIAS\n🇸🇾 Amre
+  HAMCHO\n🇩🇰 Andreas SCHOU\n🇲🇽 Andres AZCARRAGA\n🇱🇹 Andrius
+  PETROVAS\n🇬🇧 Ben MAHER\n🇩🇪 Christian KUKUK\n🇮🇪 Cian O'CONNOR\n🇮🇱
+  Daniel BLUMAN\n🇮🇪 Daniel COYLE\n🇵🇱 Dawid KUBIAK\n🇵🇹 Duarte
+  SEABRA\n🇨🇭 Edouard SCHMITZ\n🇪🇸 Eduardo ALVAREZ AZNAR\n🇦🇺 Edwina
+  TOPS-ALEXANDER\n🇮🇹 Emanuele CAMILLI\n🇨🇦 Erynn BALLARD\n🇲🇽 Eugenio
+  GARZA PEREZ\n🇲🇽 Federico FERNANDEZ\n🇦🇹 Gerfried PUCK\n🇧🇪 Gilles
+  THOMAS\n🇧🇪 Gregory WATHELET\n🇯🇵 HAASE SHIBAYAMA Takashi\n🇳🇱 Harrie
+  SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik von ECKERMANN\n🇦🇺 Hilary
+  SCOTT\n🇬🇷 Ioli MYTILINEOU\n🇮🇱 Isabella RUSSEKOFF\n🇪🇸 Ismael GARCIA
+  ROQUE\n🇹🇭 Janakabhorn KARUNAYADHAJ\n🇧🇪 Jerome GUERY\n🇦🇷 Jose Maria
+  (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇦🇹 Katharina
+  RHOMBERG\n🇸🇦 Khaled ALMOBTY\n🇳🇱 Kim EMMEN\n🇱🇻 Kristaps
+  NERETNIEKS\n🇺🇸 Laura KRAUT\n🇻🇪 Luis Fernando LARRAZABAL\n🇳🇱 Maikel
+  van der VLEUTEN\n🇵🇱 Maksymilian WECHTA\n🇨🇦 Mario DESLAURIERS\n🇨🇭
+  Martin FUCHS\n🇦🇹 Max KUEHNER\n🇺🇸 McLain WARD\n🇪🇪 My RELANDER\n🇫🇷
+  Olivier PERREAU\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇸🇪 Peder
+  FREDRICSON\n🇩🇪 Philipp WEISHAUPT\n🇸🇦 Ramzy AL DUHAMI\n🇨🇴 Rene LOPEZ
+  LIZARAZO\n🇩🇪 Richard VOGEL\n🇮🇱 Robin MUHR\n🇧🇷 Rodrigo PESSOA\n🇸🇪
+  Rolf-Goran BENGTSSON\n🇦🇪 Salim Ahmed AL SUWAIDI\n🇯🇵 SATO Eiken\n🇬🇧
+  Scott BRASH\n🇪🇸 Sergio ALVAREZ MOYA\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon
+  DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇯🇵
+  SUGITANI Taizo\n🇦🇺 Thaisa ERWIN\n🇨🇦 Tiffany FOSTER\n🇳🇴 Victoria
+  GULLIKSEN\n🇧🇷 Yuri MANSUR
+SUMMARY:🏇 個人場地障礙預賽
+LOCATION:凡爾賽宮
+END:VEVENT
+END:VCALENDAR
