@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/CHI//EN
+X-WR-CALNAME:🇨🇱 智利 摔跤 | 巴黎2024
+NAME:🇨🇱 智利 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240805T134200Z-wrestling-13018-CHI-BUL
+DTSTAMP:20240805T134200Z
+DTSTART:20240805T134200Z
+DTEND:20240805T134900Z
+DESCRIPTION:摔跤 - 男子古典式130公斤級1/8決賽
+SUMMARY:🤼 Yasmani ACOSTA FERNANDEZ 🇨🇱 - 🇧🇬 Kiril Milenov MILOV
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

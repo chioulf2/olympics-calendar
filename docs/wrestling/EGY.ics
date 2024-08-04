@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/EGY//EN
+X-WR-CALNAME:🇪🇬 埃及 摔跤 | 巴黎2024
+NAME:🇪🇬 埃及 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240805T132800Z-wrestling-6018-EGY-CHN
+DTSTAMP:20240805T132800Z
+DTSTART:20240805T132800Z
+DTEND:20240805T133500Z
+DESCRIPTION:摔跤 - 男子古典式60公斤級1/8決賽
+SUMMARY:🤼 Moamen MOHAMED 🇪🇬 - 🇨🇳 CAO Liguo
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T134900Z-wrestling-13018-TUR-EGY
+DTSTAMP:20240805T134900Z
+DTSTART:20240805T134900Z
+DTEND:20240805T135600Z
+DESCRIPTION:摔跤 - 男子古典式130公斤級1/8決賽
+SUMMARY:🤼 Muhammet Hamza BAKIR 🇹🇷 - 🇪🇬 Abdellatif MOHAMED
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

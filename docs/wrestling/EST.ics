@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/EST//EN
+X-WR-CALNAME:🇪🇪 愛沙尼亞 摔跤 | 巴黎2024
+NAME:🇪🇪 愛沙尼亞 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240805T131400Z-wrestling-13018-EST-AZE
+DTSTAMP:20240805T131400Z
+DTSTART:20240805T131400Z
+DTEND:20240805T132100Z
+DESCRIPTION:摔跤 - 男子古典式130公斤級1/8決賽
+SUMMARY:🤼 Heiki NABI 🇪🇪 - 🇦🇿 Sabah Saleh SHARIATI
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

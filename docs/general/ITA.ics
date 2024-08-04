@@ -6553,6 +6553,19 @@ SUMMARY:⛵ 男女混合帆船諾卡拉17級 - 比賽08
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T110000Z-sport-climbing-
+DTSTAMP:20240805T110000Z
+DTSTART:20240805T110000Z
+DTEND:20240805T112500Z
+DESCRIPTION:運動攀巖 - 女子速度賽資格賽種子排名\n🇵🇱 Aleksandra KALUCKA\n🇵🇱 Aleksandra
+  MIROSLAW\n🇿🇦 Aniya HOLDER\n🇮🇹 Beatrice COLLI\n🇫🇷 Capucine
+  VIGLIONE\n🇨🇳 DENG Lijuan\n🇮🇩 Desak Made MADE RITA KUSUMA DEWI\n🇺🇸
+  Emma HUNT\n🇪🇸 Leslie Adriana ROMERO PEREZ\n🇫🇷 Manon LEBON\n🇺🇸 Piper
+  KELLY\n🇮🇩 Rajiah SALLSABILLAH\n🇳🇿 Sarah TETZLAFF\n🇨🇳 ZHOU Yafei
+SUMMARY:🧗 女子速度賽資格賽種子排名
+LOCATION:勒布爾歇運動攀巖館
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T110000Z-volleyball-14-ITA-JPN
 DTSTAMP:20240805T110000Z
 DTSTART:20240805T110000Z
@@ -6885,6 +6898,21 @@ SUMMARY:🏊 男子3米跳板跳水預賽
 LOCATION:水上運動中心
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T080000Z-sport-climbing--
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T101700Z
+DESCRIPTION:運動攀巖 - 女子攀石和難度攀巖半決賽 - 攀石\n🇺🇸 Brooke RABOUTOU\n🇮🇹 Camilla
+  MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇮🇹 Laura ROGORA\n🇿🇦 Lauren
+  MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇨🇳 LUO Zhilu\n🇸🇮 Mia KRAMPL\n🇬🇧
+  Molly THOMPSON-SMITH\n🇯🇵 MORI Ai\n🇺🇸 Natalia GROSSMAN\n🇯🇵 NONAKA
+  Miho\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇫🇷 Zelia AVEZOU\n🇨🇳 ZHANG Yuetong
+SUMMARY:🧗 女子攀石和難度攀巖半決賽 - 攀石
+LOCATION:勒布爾歇運動攀巖館
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100300Z-sailing--09
 DTSTAMP:20240806T100300Z
 DTSTART:20240806T100300Z
@@ -6975,6 +7003,19 @@ DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽11\n🇫🇷 Axel MAZELLA\n�
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ 男子水翼風箏板 - 比賽11
 LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T110000Z-sport-climbing-
+DTSTAMP:20240806T110000Z
+DTSTART:20240806T110000Z
+DTEND:20240806T112500Z
+DESCRIPTION:運動攀巖 - 男子速度賽資格賽種子排名\n🇰🇿 Amir MAIMURATOV\n🇫🇷 Bassa
+  MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳 LONG Jinbao\n🇮🇹
+  Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI POUR\n🇺🇸 Sam
+  WATSON\n🇰🇷 SHIN Euncheol\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU Peng\n🇺🇦
+  Yaroslav TKACH\n🇺🇸 Zach HAMMER
+SUMMARY:🧗 男子速度賽資格賽種子排名
+LOCATION:勒布爾歇運動攀巖館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T110300Z-sailing--11
@@ -7268,6 +7309,21 @@ DESCRIPTION:花樣游泳 - 集體技巧自選\n🇨🇳 CHN\n🇯🇵 JPN\n🇨�
   FRA\n🇺🇸 USA\n🇪🇬 EGY\n🇮🇹 ITA\n🇲🇽 MEX\n🇦🇺 AUS
 SUMMARY:🏊 集體技巧自選
 LOCATION:水上運動中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T080000Z-sport-climbing--
+DTSTAMP:20240808T080000Z
+DTSTART:20240808T080000Z
+DTEND:20240808T100500Z
+DESCRIPTION:運動攀巖 - 女子攀石和難度攀巖半決賽 - 難度攀巖\n🇺🇸 Brooke RABOUTOU\n🇮🇹 Camilla
+  MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇮🇹 Laura ROGORA\n🇿🇦 Lauren
+  MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇨🇳 LUO Zhilu\n🇸🇮 Mia KRAMPL\n🇬🇧
+  Molly THOMPSON-SMITH\n🇯🇵 MORI Ai\n🇺🇸 Natalia GROSSMAN\n🇯🇵 NONAKA
+  Miho\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇫🇷 Zelia AVEZOU\n🇨🇳 ZHANG Yuetong
+SUMMARY:🧗 女子攀石和難度攀巖半決賽 - 難度攀巖
+LOCATION:勒布爾歇運動攀巖館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T080000Z-diving-10

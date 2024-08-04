@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/CUB//EN
+X-WR-CALNAME:🇨🇺 古巴 摔跤 | 巴黎2024
+NAME:🇨🇺 古巴 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240805T130700Z-wrestling-13018-CUB-KOR
+DTSTAMP:20240805T130700Z
+DTSTART:20240805T130700Z
+DTEND:20240805T131400Z
+DESCRIPTION:摔跤 - 男子古典式130公斤級1/8決賽
+SUMMARY:🤼 Mijain LOPEZ NUNEZ 🇨🇺 - 🇰🇷 LEE Seungchan
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T135600Z-wrestling-6018-CUB-JPN
+DTSTAMP:20240805T135600Z
+DTSTART:20240805T135600Z
+DTEND:20240805T140300Z
+DESCRIPTION:摔跤 - 男子古典式60公斤級1/8決賽
+SUMMARY:🤼 Kevin Yuran de ARMAS RODRIGUEZ 🇨🇺 - 🇯🇵 FUMITA Kenichiro
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/ROU//EN
+X-WR-CALNAME:🇷🇴 羅馬尼亞 摔跤 | 巴黎2024
+NAME:🇷🇴 羅馬尼亞 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240805T132100Z-wrestling-13018-KAZ-ROU
+DTSTAMP:20240805T132100Z
+DTSTART:20240805T132100Z
+DTEND:20240805T132800Z
+DESCRIPTION:摔跤 - 男子古典式130公斤級1/8決賽
+SUMMARY:🤼 Alimkhan SYZDYKOV 🇰🇿 - 🇷🇴 Alin ALEXUC CIURARIU
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T134200Z-wrestling-6018
+DTSTAMP:20240805T134200Z
+DTSTART:20240805T134200Z
+DTEND:20240805T134900Z
+DESCRIPTION:摔跤 - 男子古典式60公斤級1/8決賽\n🇷🇴 Razvan ARNAUT
+SUMMARY:🤼 男子古典式60公斤級1/8決賽
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR
