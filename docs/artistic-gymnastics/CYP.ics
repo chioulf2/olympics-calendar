@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/CYP//EN
+X-WR-CALNAME:🇨🇾 塞浦路斯 競技體操 | 巴黎2024
+NAME:🇨🇾 塞浦路斯 競技體操 | 巴黎2024
+BEGIN:VEVENT
+UID:20240805T113300Z-artistic-gymnastics-
+DTSTAMP:20240805T113300Z
+DTSTART:20240805T113300Z
+DTEND:20240805T120800Z
+DESCRIPTION:競技體操 - 男子單槓決賽\n🇨🇴 Angel BARAJAS\n🇺🇸 Frederick RICHARD\n🇬🇧
+  Joe FRASER\n🇨🇾 Marios GEORGIOU\n🇯🇵 OKA Shinnosuke\n🇨🇳 SU
+  Weide\n🇯🇵 SUGINO Takaaki\n🇹🇼 TANG Chia-Hung\n🇭🇷 Tin SRBIC\n🇮🇹
+  Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 男子單槓決賽
+LOCATION:貝爾西體育館
+END:VEVENT
+END:VCALENDAR
