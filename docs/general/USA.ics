@@ -6324,8 +6324,8 @@ DTEND:20240803T092700Z
 DESCRIPTION:游泳 - 女子50米自由泳分組預賽\n🇳🇬 Adaku NWANDU\n🇹🇬 Adele Sodalo Agnes
   GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻 Aishath Ulya SHAIG\n🇫🇯 Anahira
   McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧 Anna HOPKIN\n🇲🇬 Antsa
-  RABEJAONA\n🇰🇭 Apsara Katarina SAKBUM\n🇫🇷 Beryl GASTALDELLO\n🇦🇼
-  Chloe FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle HILL\n🇨🇩 Divine
+  RABEJAONA\n🇰🇭 Apsara SAKBUN\n🇫🇷 Beryl GASTALDELLO\n🇦🇼 Chloe
+  FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle HILL\n🇨🇩 Divine
   MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina BORDACHYOVA\n🇰🇬
   Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬 Georgia-Leigh
   VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen WALSH\n🇽🇰 Hana
@@ -8511,6 +8511,27 @@ SUMMARY:🏃 男子110米跨欄復活賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T093000Z-canoe-sprint-500
+DTSTAMP:20240806T093000Z
+DTSTART:20240806T093000Z
+DTEND:20240806T100700Z
+DESCRIPTION:皮劃艇靜水 - 男子500米雙人皮艇分組預賽\n🇺🇸 Aaron SMALL\n🇭🇺 Adam VARGA\n🇪🇸
+  Adrian del RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej OLIJNIK\n🇿🇦 Andrew
+  James BIRKETT\n🇭🇺 Balint KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇭🇺 Bence
+  NADAS\n🇨🇳 BU Tingkai\n🇪🇸 Carlos AREVALO\n🇨🇿 Daniel HAVEL\n🇳🇿
+  Hamish LEGARTH\n🇿🇦 Hamish LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇩🇪 Jacob
+  SCHOPF\n🇨🇿 Jakub SPICAR\n🇵🇱 Jakub STEPUN\n🇦🇺 Jean van der
+  WESTHUYZEN\n🇵🇹 Joao RIBEIRO\n🇺🇸 Jonas ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸
+  Marcus COOPER\n🇷🇸 Marko DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇩🇪 Max
+  LEMKE\n🇩🇪 Max RENDSCHMIDT\n🇵🇹 Messias BAPTISTA\n🇱🇹 Mindaugas
+  MALDONIS\n🇺🇦 Oleh KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇵🇱 Przemyslaw
+  KORSAK\n🇪🇸 Rodrigo GERMADE\n🇭🇺 Sandor TOTKA\n🇰🇿 Sergii
+  TOKARNYTSKYI\n🇨🇦 Simon McTAVISH\n🇦🇺 Tom GREEN\n🇩🇪 Tom
+  LIEBSCHER-LUCZ\n🇷🇸 Vladimir TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 男子500米雙人皮艇分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100300Z-sailing--09
 DTSTAMP:20240806T100300Z
 DTSTART:20240806T100300Z
@@ -8802,6 +8823,24 @@ SUMMARY:🧗 男子攀石和難度攀巖半決賽 - 難度攀巖
 LOCATION:勒布爾歇運動攀巖館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T084000Z-canoe-sprint-1000
+DTSTAMP:20240807T084000Z
+DTSTART:20240807T084000Z
+DTEND:20240807T092700Z
+DESCRIPTION:皮劃艇靜水 - 男子1000米單人皮艇分組預賽\n🇺🇸 Aaron SMALL\n🇲🇦 Achraf
+  ELAIDI\n🇭🇺 Adam VARGA\n🇪🇸 Adrian del RIO\n🇦🇷 Agustin VERNICE\n🇮🇷
+  Ali AGHAMIRZAEIJENAGHARD\n🇱🇹 Andrej OLIJNIK\n🇿🇦 Andrew James
+  BIRKETT\n🇩🇪 Anton WINKELMANN\n🇧🇪 Artuur PETERS\n🇭🇺 Balint
+  KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇵🇹 Fernando PIMENTA\n🇪🇸 Francisco
+  CUBELOS\n🇿🇦 Hamish LOVEMORE\n🇩🇪 Jakob THORDSEN\n🇺🇸 Jonas
+  ECKER\n🇨🇿 Josef DOSTAL\n🇸🇪 Martin NATHELL\n🇺🇾 Matias Valentin OTERO
+  EZCURRA\n🇫🇷 Maxime BEAUMONT\n🇩🇰 Rene Holten POULSEN\n🏳️ Saeid
+  FAZLOULA\n🇺🇿 Shakhriyor MAKHKAMOV\n🇦🇺 Tom GREEN\n🇼🇸 Tuva'a
+  CLIFTON\n🇧🇷 Vagner Junior SOUTA\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 男子1000米單人皮艇分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T101300Z-sailing--13
 DTSTAMP:20240807T101300Z
 DTSTART:20240807T101300Z
@@ -8966,6 +9005,26 @@ DESCRIPTION:運動攀巖 - 女子攀石和難度攀巖半決賽 - 難度攀巖\n
   Chaehyun\n🇫🇷 Zelia AVEZOU\n🇨🇳 ZHANG Yuetong
 SUMMARY:🧗 女子攀石和難度攀巖半決賽 - 難度攀巖
 LOCATION:勒布爾歇運動攀巖館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T083000Z-canoe-sprint-200
+DTSTAMP:20240808T083000Z
+DTSTART:20240808T083000Z
+DTEND:20240808T091700Z
+DESCRIPTION:皮劃艇靜水 - 女子200米單人划艇分組預賽\n🇭🇺 Agnes Anna KISS\n🇺🇦 Anastasiia
+  RYBACHOK\n🇪🇸 Antia JACOME\n🇳🇬 Ayomide Powei BELLO\n🇳🇬 Beauty
+  Akinaere OTUEDO\n🇸🇳 Combe SECK\n🇲🇩 Daniela COCIU\n🇵🇱 Dorota
+  BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇸🇹 Herminia TEIXEIRA SANTANA\n🇨🇱
+  Karen ROCO\n🇵🇱 Katarzyna SZPERKIEWICZ\n🇨🇦 Katie VINCENT\n🇭🇺 Kincso
+  TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦 Liudmyla LUZAN\n🇩🇪 Maike
+  JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇪🇸 Maria CORBERA\n🇨🇱 Maria Jose
+  MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya BROVKOVA\n🇺🇸 Nevin
+  HARRISON\n🇺🇿 Nilufar ZOKIROVA\n🇬🇺 Raina TAITINGFONG\n🇨🇦 Sophia
+  JENSEN\n🇻🇳 Thi Huong NGUYEN\n🇧🇷 Valdenice CONCEICAO DO
+  NASCIMENTO\n🇨🇺 Yarisleidis CIRILO DUBOYS\n🇨🇺 Yinnoly Francheska LOPEZ
+  LAMADRID
+SUMMARY:🛶 女子200米單人划艇分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T080000Z-diving-10
