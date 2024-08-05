@@ -1,23 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//skateboarding/ESP//EN
-X-WR-CALNAME:🇪🇸 西班牙 滑板 | 巴黎2024
-NAME:🇪🇸 西班牙 滑板 | 巴黎2024
-BEGIN:VEVENT
-UID:20240728T100000Z-skateboarding-
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T135000Z
-DESCRIPTION:滑板 - 女子街式賽預賽\n🇯🇵 AKAMA Liz\n🇿🇦 Boipelo AWUAH\n🇦🇺 Chloe
-  COVELL\n🇨🇳 CUI Chenxi\n🇪🇸 Daniela TEROL\n🇧🇷 Gabi MAZETTO\n🇦🇺
-  Haylie POWELL\n🇳🇱 Keet OLDENBEUVING\n🇦🇺 Liv LOVELACE\n🇫🇷 Lucie
-  SCHOONHEERE\n🇺🇸 Mariah DURAN\n🇯🇵 NAKAYAMA Funa\n🇪🇸 Natalia
-  MUNOZ\n🇺🇸 Paige HEYN\n🇧🇷 Pamela ROSA\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa
-  LEAL\n🇳🇱 Roos ZWETSLOOT\n🇹🇭 Vareeraya SUKASEM\n🇯🇵 YOSHIZAWA
-  Coco\n🇨🇳 ZENG Wenhui\n🇨🇳 ZHU Yuanling
-SUMMARY:🛹 女子街式賽預賽
-LOCATION:協和廣場3號場地
-END:VEVENT
+PRODID:-//fabrice404//olympics-calendar//skateboarding/GER//EN
+X-WR-CALNAME:🇩🇪 德國 滑板 | 巴黎2024
+NAME:🇩🇪 德國 滑板 | 巴黎2024
 BEGIN:VEVENT
 UID:20240806T103000Z-skateboarding-
 DTSTAMP:20240806T103000Z
