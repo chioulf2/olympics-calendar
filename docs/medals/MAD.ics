@@ -1,6 +1,19 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/MAD//EN
-X-WR-CALNAME:🇲🇬 Madagascar 🏅 | Paris 2024
-NAME:🇲🇬 Madagascar 🏅 | Paris 2024
+X-WR-CALNAME:🇲🇬 馬達加斯加 🏅 | 巴黎2024
+NAME:🇲🇬 馬達加斯加 🏅 | 巴黎2024
+BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-49
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:舉重 - 女子49公斤級\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹🇼 FANG
+  Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan DELACRUZ\n🇻🇪 Katherin ECHANDIA
+  ZARATE\n🇷🇴 Mihaela Valentina CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺
+  Nicola Velasco LAGATAO\n🇧🇪 Nina STERCKX\n🇲🇬 Rosina
+  RANDAFIARISON\n🇹🇭 Surodchana KHAMBAO\n🇯🇵 SUZUKI Rira
+SUMMARY:🏋 女子49公斤級
+LOCATION:南巴黎競技場6號館
+END:VEVENT
 END:VCALENDAR

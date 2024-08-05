@@ -1,6 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/TKM//EN
-X-WR-CALNAME:🇹🇲 Turkmenistan 🏅 | Paris 2024
-NAME:🇹🇲 Turkmenistan 🏅 | Paris 2024
+X-WR-CALNAME:🇹🇲 土庫曼斯坦 🏅 | 巴黎2024
+NAME:🇹🇲 土庫曼斯坦 🏅 | 巴黎2024
+BEGIN:VEVENT
+UID:20240810T093000Z-weightlifting-102
+DTSTAMP:20240810T093000Z
+DTSTART:20240810T093000Z
+DTEND:20240810T120000Z
+DESCRIPTION:舉重 - 男子102公斤級\n🇱🇾 Ahmed ABUZRIBA\n🇺🇿 Akbar DJURAEV\n🇹🇲
+  Davranbek HASANBAYEV\n🇼🇸 Don OPELOGE\n🇶🇦 Faris Ibrahim E ELBAKH\n🇦🇲
+  Garik KARAPETYAN\n🇬🇪 Irakli CHKHEIDZE\n🇰🇷 JANG Yeonhak\n🇧🇭 Lesman
+  MONTANO\n🇨🇳 LIU Huanhua\n🏳️ Ramiro MORA ROMERO\n🇺🇸 Wes KITTS
+SUMMARY:🏋 男子102公斤級
+LOCATION:南巴黎競技場6號館
+END:VEVENT
 END:VCALENDAR

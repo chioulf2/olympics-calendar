@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//weightlifting/MEX//EN
+X-WR-CALNAME:🇲🇽 墨西哥 舉重 | 巴黎2024
+NAME:🇲🇽 墨西哥 舉重 | 巴黎2024
+BEGIN:VEVENT
+UID:20240808T130000Z-weightlifting-59
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:舉重 - 女子59公斤級\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷 Dora
+  TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇺🇦 Kamila
+  KONOTOP\n🇹🇼 KUO Hsing-Chun\n🇮🇹 Lucrezia MAGISTRIS\n🇨🇳 LUO
+  Shifang\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu Folashade
+  LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 女子59公斤級
+LOCATION:南巴黎競技場6號館
+END:VEVENT
+END:VCALENDAR

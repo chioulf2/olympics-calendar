@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//weightlifting/MDA//EN
+X-WR-CALNAME:🇲🇩 摩爾多瓦 舉重 | 巴黎2024
+NAME:🇲🇩 摩爾多瓦 舉重 | 巴黎2024
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting-89
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:舉重 - 男子89公斤級\n🇦🇲 Andranik KARAPETYAN\n🇮🇹 Antonino
+  PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos May
+  NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇨🇴
+  Yeison LOPEZ\n🇰🇷 YU Dongju
+SUMMARY:🏋 男子89公斤級
+LOCATION:南巴黎競技場6號館
+END:VEVENT
+END:VCALENDAR
