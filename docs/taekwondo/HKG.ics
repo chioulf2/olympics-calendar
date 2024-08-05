@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//taekwondo/HKG//EN
+X-WR-CALNAME:🇭🇰 香港 跆拳道 | 巴黎2024
+NAME:🇭🇰 香港 跆拳道 | 巴黎2024
+BEGIN:VEVENT
+UID:20240808T070000Z-taekwondo-68-EOR-HKG
+DTSTAMP:20240808T070000Z
+DTSTART:20240808T070000Z
+DTEND:20240808T070900Z
+DESCRIPTION:跆拳道 - 男子68公斤級資格賽
+SUMMARY:🥋 Yahya AL GHOTANY 🏳️ - 🇭🇰 LO Wai Fung
+LOCATION:巴黎大皇宮
+END:VEVENT
+END:VCALENDAR

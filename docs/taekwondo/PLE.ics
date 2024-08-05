@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//taekwondo/PLE//EN
+X-WR-CALNAME:🇵🇸 巴勒斯坦 跆拳道 | 巴黎2024
+NAME:🇵🇸 巴勒斯坦 跆拳道 | 巴黎2024
+BEGIN:VEVENT
+UID:20240807T072100Z-taekwondo-58-PLE-EOR
+DTSTAMP:20240807T072100Z
+DTSTART:20240807T072100Z
+DTEND:20240807T073300Z
+DESCRIPTION:跆拳道 - 男子58公斤級資格賽
+SUMMARY:🥋 Omar YASER ISMAIL 🇵🇸 - 🏳️ Hadi TIRANVALIPOUR
+LOCATION:巴黎大皇宮
+END:VEVENT
+END:VCALENDAR

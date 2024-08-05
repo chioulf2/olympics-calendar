@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//taekwondo/ARG//EN
+X-WR-CALNAME:🇦🇷 阿根廷 跆拳道 | 巴黎2024
+NAME:🇦🇷 阿根廷 跆拳道 | 巴黎2024
+BEGIN:VEVENT
+UID:20240807T101300Z-taekwondo-5816-ARG-HUN
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T102500Z
+DESCRIPTION:跆拳道 - 男子58公斤級16強賽
+SUMMARY:🥋 Lucas GUZMAN 🇦🇷 - 🇭🇺 Omar Gergely SALIM
+LOCATION:巴黎大皇宮
+END:VEVENT
+END:VCALENDAR
