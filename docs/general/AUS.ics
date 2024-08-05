@@ -6028,9 +6028,9 @@ UID:20240805T060000Z-triathlon-
 DTSTAMP:20240805T060000Z
 DTSTART:20240805T060000Z
 DTEND:20240805T073000Z
-DESCRIPTION:鐵人三項 - 混合接力賽\n🇧🇷 BRA\n🇧🇪 BEL\n🇪🇸 ESP\n🇫🇷 FRA\n🇺🇸
-  USA\n🇬🇧 GBR\n🇳🇴 NOR\n🇳🇱 NED\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭
-  SUI\n🇵🇹 POR\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
+DESCRIPTION:鐵人三項 - 混合接力賽\n🇧🇷 BRA\n🇪🇸 ESP\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
+  GBR\n🇳🇴 NOR\n🇳🇱 NED\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇵🇹
+  POR\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
 SUMMARY:🏊 混合接力賽
 LOCATION:亞歷山大三世橋
 END:VEVENT
