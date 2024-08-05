@@ -388,4 +388,14 @@ DESCRIPTION:皮劃艇激流回旋 - 男子極限皮艇半決賽\n🇫🇷 Boris 
 SUMMARY:🛶 男子極限皮艇半決賽
 LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T144800Z-canoe-slalom-
+DTSTAMP:20240805T144800Z
+DTSTART:20240805T144800Z
+DTEND:20240805T145200Z
+DESCRIPTION:皮劃艇激流回旋 - 男子極限皮艇小決賽\n🇫🇷 Boris NEVEU\n🇸🇰 Jakub GRIGAR\n🇨🇭
+  Martin DOUGOUD\n🇵🇱 Mateusz POLACZYK
+SUMMARY:🛶 男子極限皮艇小決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
+END:VEVENT
 END:VCALENDAR
