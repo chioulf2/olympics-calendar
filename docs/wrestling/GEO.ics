@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/GEO//EN
+X-WR-CALNAME:🇬🇪 格魯吉亞 摔跤 | 巴黎2024
+NAME:🇬🇪 格魯吉亞 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240806T100300Z-wrestling-9718
+DTSTAMP:20240806T100300Z
+DTSTART:20240806T100300Z
+DTEND:20240806T101000Z
+DESCRIPTION:摔跤 - 男子古典式97公斤級1/8決賽\n🇬🇪 Roberti KOBLIASHVILI
+SUMMARY:🤼 男子古典式97公斤級1/8決賽
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR
