@@ -1,43 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//cycling-track/POL//EN
-X-WR-CALNAME:🇵🇱 波蘭 場地自行車 | 巴黎2024
-NAME:🇵🇱 波蘭 場地自行車 | 巴黎2024
-BEGIN:VEVENT
-UID:20240805T150000Z-cycling-track-
-DTSTAMP:20240805T150000Z
-DTSTART:20240805T150000Z
-DTEND:20240805T152700Z
-DESCRIPTION:場地自行車 - 女子團體爭先賽資格賽\n🇨🇳 CHN\n🇨🇦 CAN\n🇵🇱 POL\n🇬🇧
-  GBR\n🇳🇱 NED\n🇳🇿 新西蘭\n🇩🇪 GER\n🇲🇽 MEX
-SUMMARY:🚴 女子團體爭先賽資格賽
-LOCATION:聖康丁伊夫林自行車館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T165500Z-cycling-track-1
-DTSTAMP:20240805T165500Z
-DTSTART:20240805T165500Z
-DTEND:20240805T170900Z
-DESCRIPTION:場地自行車 - 女子團體爭先賽第1輪\n🇨🇳 BAO Shanju\n🇲🇽 Daniela GAXIOLA
-  GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma HINZE\n🇨🇳
-  GUO Yufang\n🇳🇱 Hetty van de WOUW\n🇲🇽 Jessica SALAZAR VALLES\n🇬🇧
-  Katy MARCHANT\n🇨🇦 Kelsey MITCHELL\n🇳🇱 Kyra LAMBERINK\n🇨🇦 Lauriane
-  GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena KARWACKA\n🇵🇱 Nikola
-  SIBIAK\n🇩🇪 Pauline GRABOSCH\n🇳🇿 Rebecca PETCH\n🇨🇦 Sarah ORBAN\n🇳🇿
-  Shaane FULTON\n🇬🇧 Sophie CAPEWELL\n🇳🇱 Steffie van der PEET\n🇵🇱
-  Urszula LOS\n🇨🇳 YUAN Liying\n🇲🇽 Yuli VERDUGO OSUNA
-SUMMARY:🚴 女子團體爭先賽第1輪
-LOCATION:聖康丁伊夫林自行車館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T174600Z-cycling-track-7-8-POL-CAN
-DTSTAMP:20240805T174600Z
-DTSTART:20240805T174600Z
-DTEND:20240805T175000Z
-DESCRIPTION:場地自行車 - 女子團體爭先賽7-8名排名賽
-SUMMARY:🚴 POL 🇵🇱 - 🇨🇦 CAN
-LOCATION:聖康丁伊夫林自行車館
-END:VEVENT
+PRODID:-//fabrice404//olympics-calendar//cycling-track/MAS//EN
+X-WR-CALNAME:🇲🇾 馬來西亞 場地自行車 | 巴黎2024
+NAME:🇲🇾 馬來西亞 場地自行車 | 巴黎2024
 BEGIN:VEVENT
 UID:20240807T104500Z-cycling-track-
 DTSTAMP:20240807T104500Z
