@@ -462,6 +462,27 @@ SUMMARY:🏃 男子跳高資格賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T081500Z-athletics-1001
+DTSTAMP:20240807T081500Z
+DTSTART:20240807T081500Z
+DTEND:20240807T084800Z
+DESCRIPTION:田徑 - 女子100米跨欄第1輪\n🇯🇲 Ackera NUGENT\n🇺🇸 Alaysha
+  JOHNSON\n🇦🇺 Celeste MUCCI\n🇧🇸 Charisma TAYLOR\n🇬🇧 Cindy
+  SEMBER\n🇫🇷 Cyrena SAMBA-MAYELA\n🇯🇲 Danielle WILLIAMS\n🇧🇸 Denisha
+  CARTWRIGHT\n🇧🇸 Devynne CHARLTON\n🇨🇭 Ditaji KAMBUNDJI\n🇱🇷 Ebony
+  MORRISON\n🇭🇹 Emelia CHATFIELD\n🇯🇵 FUKUBE Mako\n🇺🇸 Grace STARK\n🇭🇺
+  Greta KEREKES\n🇯🇲 Janeek BROWN\n🇵🇷 Jasmine CAMACHO-QUINN\n🇮🇳 Jyothi
+  YARRAJI\n🇫🇷 Laeticia BAPTE\n🇨🇳 LIN Yuwei\n🇦🇺 Liz CLAY\n🇫🇮 Lotta
+  HARALA\n🇭🇺 Luca KOZAK\n🇳🇱 Maayke TJIN-A-LIM\n🇨🇦 Mariam
+  ABDUL-RASHID\n🇪🇨 Maribel Vanessa CAICEDO\n🇿🇦 Marione FOURIE\n🇺🇸
+  Masai RUSSELL\n🇨🇦 Michelle HARRISON\n🇦🇺 Michelle JENNEKE\n🇳🇱 Nadine
+  VISSER\n🇵🇱 Pia SKRZYSZOWSKA\n🇫🇮 Reetta HURSKE\n🇮🇪 Sarah LAVIN\n🇲🇬
+  Sidonie FIADANANTSOA\n🇯🇵 TANAKA Yumi\n🇳🇬 Tobi AMUSAN\n🇸🇰 Viktoria
+  FORSTER\n🇨🇳 WU Yanni\n🇻🇪 Yoveinny MOTA
+SUMMARY:🏃 女子100米跨欄第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T103000Z-skateboarding-
 DTSTAMP:20240807T103000Z
 DTSTART:20240807T103000Z

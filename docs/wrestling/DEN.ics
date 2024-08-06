@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/DEN//EN
+X-WR-CALNAME:🇩🇰 丹麥 摔跤 | 巴黎2024
+NAME:🇩🇰 丹麥 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240807T094200Z-wrestling-8718-BUL-DEN
+DTSTAMP:20240807T094200Z
+DTSTART:20240807T094200Z
+DTEND:20240807T094900Z
+DESCRIPTION:摔跤 - 男子古典式87公斤級1/8決賽
+SUMMARY:🤼 Semen Sergeevich NOVIKOV 🇧🇬 - 🇩🇰 Turpal Ali BISULTANOV
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR
