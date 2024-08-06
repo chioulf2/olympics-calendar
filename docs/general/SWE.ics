@@ -1119,10 +1119,10 @@ DTEND:20240806T092100Z
 DESCRIPTION:馬術 - 個人場地障礙決賽\n🇸🇦 Abdulrahman ALRAJHI\n🇲🇽 Andres
   AZCARRAGA\n🇬🇧 Ben MAHER\n🇩🇪 Christian KUKUK\n🇮🇪 Daniel COYLE\n🇮🇹
   Emanuele CAMILLI\n🇧🇪 Gilles THOMAS\n🇧🇪 Gregory WATHELET\n🇯🇵 HAASE
-  SHIBAYAMA Takashi\n🇳🇱 Harrie SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik
-  von ECKERMANN\n🇦🇷 Jose Maria (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸
-  Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸 Laura KRAUT\n🇳🇱 Maikel van der
-  VLEUTEN\n🇨🇭 Martin FUCHS\n🇦🇹 Max KUEHNER\n🇦🇪 Omar Abdul Aziz AL
+  SHIBAYAMA Takashi\n🇳🇱 Harrie SMOLDERS\n🇸🇪 Henrik von ECKERMANN\n🇦🇷
+  Jose Maria (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇳🇱 Kim
+  EMMEN\n🇺🇸 Laura KRAUT\n🇳🇱 Maikel van der VLEUTEN\n🇨🇦 Mario
+  DESLAURIERS\n🇨🇭 Martin FUCHS\n🇦🇹 Max KUEHNER\n🇦🇪 Omar Abdul Aziz AL
   MARZOOQI\n🇩🇪 Philipp WEISHAUPT\n🇸🇦 Ramzy AL DUHAMI\n🇧🇷 Rodrigo
   PESSOA\n🇬🇧 Scott BRASH\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷
   Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇳🇴 Victoria GULLIKSEN
@@ -1270,6 +1270,15 @@ DESCRIPTION:帆船 - 男女混合帆船470級 - 比賽09\n🇬🇷 A SPANAKI/O S
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 男女混合帆船470級 - 比賽09
 LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T130000Z-table-tennis-14-SWE-KOR
+DTSTAMP:20240806T130000Z
+DTSTART:20240806T130000Z
+DTEND:20240806T160000Z
+DESCRIPTION:乒乓球 - 女子團體1/4決賽
+SUMMARY:🏓 SWE 🇸🇪 - 🇰🇷 KOR
+LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T133600Z-sailing-470-10

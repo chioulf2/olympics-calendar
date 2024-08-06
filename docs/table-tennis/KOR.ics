@@ -31,12 +31,12 @@ SUMMARY:🏓 CRO 🇭🇷 - 🇰🇷 KOR
 LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T130000Z-table-tennis-14
+UID:20240806T130000Z-table-tennis-14-SWE-KOR
 DTSTAMP:20240806T130000Z
 DTSTART:20240806T130000Z
 DTEND:20240806T160000Z
-DESCRIPTION:乒乓球 - 女子團體1/4決賽\n🇰🇷 KOR
-SUMMARY:🏓 女子團體1/4決賽
+DESCRIPTION:乒乓球 - 女子團體1/4決賽
+SUMMARY:🏓 SWE 🇸🇪 - 🇰🇷 KOR
 LOCATION:南巴黎競技場4號館
 END:VEVENT
 END:VCALENDAR
