@@ -4,38 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/LTU//EN
 X-WR-CALNAME:🇱🇹 立陶宛 🏅 | 巴黎2024
 NAME:🇱🇹 立陶宛 🏅 | 巴黎2024
 BEGIN:VEVENT
-UID:20240729T184100Z-swimming-200
-DTSTAMP:20240729T184100Z
-DTSTART:20240729T184100Z
-DTEND:20240729T184900Z
-DESCRIPTION:游泳 - 男子200米自由泳決賽\n🇱🇹 Danas RAPSYS\n🇷🇴 David POPOVICI\n🇬🇧
-  Duncan SCOTT\n🇩🇪 Lukas MAERTENS\n🇺🇸 Luke HOBSON\n🇯🇵 MATSUMOTO
-  Katsuhiro\n🇬🇧 Matthew RICHARDS\n🇦🇺 Maximillian GIULIANI
-SUMMARY:🏊 男子200米自由泳決賽
-LOCATION:拉德芳斯體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T191100Z-swimming-200
-DTSTAMP:20240801T191100Z
-DTSTART:20240801T191100Z
-DTEND:20240801T191900Z
-DESCRIPTION:游泳 - 女子200米蛙泳決賽\n🇺🇸 Kate DOUGLASS\n🇿🇦 Kaylene CORBETT\n🇱🇹
-  Kotryna TETEREVKOVA\n🇺🇸 Lilly KING\n🇯🇵 SUZUKI Satomi\n🇿🇦 Tatjana
-  SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YE Shiwen
-SUMMARY:🏊 女子200米蛙泳決賽
-LOCATION:拉德芳斯體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T094200Z-rowing-A
-DTSTAMP:20240802T094200Z
-DTSTART:20240802T094200Z
-DTEND:20240802T094900Z
-DESCRIPTION:賽艇 - 女子雙人單槳決賽A\n🇱🇹 LTU\n🇬🇷 GRE\n🇺🇸 USA\n🇳🇱 NED\n🇦🇺
-  AUS\n🇷🇴 ROU
-SUMMARY:🚣 女子雙人單槳決賽A
-LOCATION:馬恩河畔韋爾水上體育場 - 靜水
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T081800Z-rowing-A
 DTSTAMP:20240803T081800Z
 DTSTART:20240803T081800Z
@@ -45,44 +13,6 @@ DESCRIPTION:賽艇 - 女子單人雙槳決賽A\n🇧🇬 Desislava ANGELOVA\n�
   SENKUTE
 SUMMARY:🚣 女子單人雙槳決賽A
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T120000Z-cycling-road-
-DTSTAMP:20240804T120000Z
-DTSTART:20240804T120000Z
-DTEND:20240804T162400Z
-DESCRIPTION:公路自行車 - 女子公路賽\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇨🇦 Alison
-  JACKSON\n🇧🇷 Ana Vitoria MAGALHAES\n🇱🇻 Anastasia CARBONARI\n🇬🇧 Anna
-  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
-  NIEDERMAIER\n🇨🇾 Antri CHRISTOFOROU\n🇨🇺 Arlenis SIERRA\n🇿🇦 Ashleigh
-  MOOLMAN PASIO\n🇫🇷 Audrey CORDON RAGOT\n🇧🇫 Awa BAMOGO\n🇭🇺 Blanka
-  VAS\n🇸🇪 Caroline ANDERSSON\n🇨🇱 Catalina SOTO CAMPOS\n🇩🇰 Cecilie
-  Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇱🇺
-  Christine MAJERUS\n🇵🇹 Daniela CAMPOS\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane
-  INGABIRE\n🇮🇹 Elena CECCHINI\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa
-  BALSAMO\n🇮🇹 Elisa LONGO BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth
-  DEIGNAN\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese
-  UKPESERAYE\n🇸🇮 Eugenia BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba
-  HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺 Grace BROWN\n🇳🇴 Ingvild
-  GASKJENN\n🇷🇸 Jelena ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de
-  VELDE\n🇫🇷 Juliette LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna
-  NIEWIADOMA\n🇳🇿 Kim CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸
-  Kristen FAULKNER\n🇦🇺 Lauretta HANSON\n🇭🇰 LEE Sze Wing\n🇩🇪 Liane
-  LIPPERT\n🇨🇭 Linda ZANETTI\n🇳🇱 Lorena WIEBES\n🇧🇪 Lotte KOPECKY\n🇲🇽
-  Marcela PRIETO\n🇪🇸 Margarita Victoria GARCIA\n🇧🇪 Margot
-  VANPACHTENBEKE\n🇳🇱 Marianne VOS\n🇵🇱 Marta LACH\n🇳🇴 Marte Berg
-  EDSETH\n🇮🇪 Megan ARMITAGE\n🇨🇷 Milagro MENA SOLANO\n🇪🇸 Mireia BENITO
-  PELLICER\n🇩🇿 Nesrine HOUILI\n🇳🇿 Niamh FISHER\n🇨🇭 Noemi RUEEGG\n🇸🇰
-  Nora JENCUSOVA\n🇲🇾 Nur Aisyah MOHAMAD ZUBIR\n🇺🇿 Olga
-  ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer
-  GEORGI\n🇹🇭 Phetdarin SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca
-  KOERNER\n🇮🇱 Rotem GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇦🇪 Safia AL
-  SAYEGH\n🇮🇹 Silvia PERSICO\n🇰🇷 SONG Minji\n🇨🇳 TANG Xin\n🇻🇳 Thi
-  That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷
-  Victoire BERTEAU\n🇺🇿 Yanina KUSKOVA\n🇯🇵 YONAMINE Eri\n🇦🇫 Yulduz
-  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 女子公路賽
-LOCATION:特羅卡德羅
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T193000Z-3x3-basketball--LAT-LTU

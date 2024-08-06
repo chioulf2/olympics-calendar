@@ -4,35 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/UKR//EN
 X-WR-CALNAME:🇺🇦 烏克蘭 🏅 | 巴黎2024
 NAME:🇺🇦 烏克蘭 🏅 | 巴黎2024
 BEGIN:VEVENT
-UID:20240727T090000Z-diving-3
-DTSTAMP:20240727T090000Z
-DTSTART:20240727T090000Z
-DTEND:20240727T094600Z
-DESCRIPTION:跳水 - 女子雙人3米跳板跳水\n🇨🇳 CHN\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧 GBR\n🇺🇦
-  UKR\n🇮🇹 ITA\n🇩🇪 GER\n🇦🇺 AUS
-SUMMARY:🏊 女子雙人3米跳板跳水
-LOCATION:水上運動中心
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T123000Z-cycling-road-
-DTSTAMP:20240727T123000Z
-DTSTART:20240727T123000Z
-DTEND:20240727T135900Z
-DESCRIPTION:公路自行車 - 女子個人計時賽\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
-  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
-  NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
-  Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
-  Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
-  Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
-  BROWN\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪
-  Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO
-  PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
-  BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮
-  Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 女子個人計時賽
-LOCATION:亞歷山大三世橋
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
@@ -52,16 +23,6 @@ DESCRIPTION:山地自行車 - 女子越野賽\n🇨🇿 Adela HOLUBOVA\n🇨🇭
   BELOMOINA
 SUMMARY:🚴 女子越野賽
 LOCATION:埃朗庫爾山
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T090000Z-diving-10
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T095600Z
-DESCRIPTION:跳水 - 男子雙人10米跳臺跳水決賽\n🇨🇳 CHN\n🇨🇦 CAN\n🇫🇷 FRA\n🇬🇧
-  GBR\n🇺🇦 UKR\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
-SUMMARY:🏊 男子雙人10米跳臺跳水決賽
-LOCATION:水上運動中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike-
@@ -85,203 +46,6 @@ SUMMARY:🚴 男子越野賽
 LOCATION:埃朗庫爾山
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T153000Z-artistic-gymnastics-
-DTSTAMP:20240729T153000Z
-DTSTART:20240729T153000Z
-DTEND:20240729T180000Z
-DESCRIPTION:競技體操 - 男子團體決賽\n🇨🇳 CHN\n🇯🇵 JPN\n🇨🇦 CAN\n🇺🇸 USA\n🇬🇧
-  GBR\n🇺🇦 UKR\n🇮🇹 ITA\n🇨🇭 SUI
-SUMMARY:🤸 男子團體決賽
-LOCATION:貝爾西體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T185000Z-fencing--KOR-UKR
-DTSTAMP:20240729T185000Z
-DTSTART:20240729T185000Z
-DTEND:20240729T191500Z
-DESCRIPTION:擊劍 - 女子個人佩劍銅牌賽
-SUMMARY:🤺 CHOI Sebin 🇰🇷 - 🇺🇦 Olga KHARLAN
-LOCATION:巴黎大皇宮
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T090000Z-diving-10
-DTSTAMP:20240731T090000Z
-DTSTART:20240731T090000Z
-DTEND:20240731T094700Z
-DESCRIPTION:跳水 - 女子雙人10米跳臺跳水\n🇨🇳 CHN\n🇨🇦 CAN\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
-  GBR\n🇺🇦 UKR\n🇰🇵 PRK\n🇲🇽 MEX
-SUMMARY:🏊 女子雙人10米跳臺跳水
-LOCATION:水上運動中心
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T103800Z-rowing-A
-DTSTAMP:20240731T103800Z
-DTSTART:20240731T103800Z
-DTEND:20240731T104500Z
-DESCRIPTION:賽艇 - 女子四人雙槳決賽A\n🇨🇳 CHN\n🇬🇧 GBR\n🇺🇦 UKR\n🇳🇱 NED\n🇨🇭
-  SUI\n🇩🇪 GER
-SUMMARY:🚣 女子四人雙槳決賽A
-LOCATION:馬恩河畔韋爾水上體育場 - 靜水
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T152500Z-canoe-slalom-
-DTSTAMP:20240731T152500Z
-DTSTART:20240731T152500Z
-DTEND:20240731T160900Z
-DESCRIPTION:皮劃艇激流回旋 - 女子單人划艇決賽\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇩🇪
-  Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy LEIBFARTH\n🇨🇿 Gabriela
-  SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory FRANKLIN\n🇪🇸 Miren
-  LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦 Viktoriia US\n🇸🇰 Zuzana
-  PANKOVA
-SUMMARY:🛶 女子單人划艇決賽
-LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T153000Z-artistic-gymnastics-
-DTSTAMP:20240731T153000Z
-DTSTART:20240731T153000Z
-DTEND:20240731T180054Z
-DESCRIPTION:競技體操 - 男子全能決賽\n🇵🇭 Carlos Edriel YULO\n🇳🇱 Casimir
-  SCHMIDT\n🇧🇷 Diogo SOARES\n🇨🇦 Felix DOLCI\n🇨🇭 Florian
-  LANGENEGGER\n🇳🇱 Frank RIJKEN\n🇺🇸 Frederick RICHARD\n🇯🇵 HASHIMOTO
-  Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇦🇺 Jesse MOORE\n🇬🇧 Joe
-  FRASER\n🇭🇺 Krisztofer MESZAROS\n🇮🇹 Mario MACCHIATI\n🇨🇭 Matteo
-  GIUBELLINI\n🇰🇿 Milad KARIMI\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA
-  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇺🇸 Paul JUDA\n🇨🇦 Rene
-  COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
-SUMMARY:🤸 男子全能決賽
-LOCATION:貝爾西體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T060000Z-athletics-20
-DTSTAMP:20240801T060000Z
-DTSTART:20240801T060000Z
-DTEND:20240801T073500Z
-DESCRIPTION:田徑 - 男子20公里競走決賽\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro MARTIN\n🇵🇱
-  Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence VENYERCSAN\n🇪🇨
-  Brian Daniel PINTADO\n🇧🇷 Caio BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar
-  Augusto RODRIGUEZ\n🇰🇷 CHOE Byeongkwang\n🇩🇪 Christopher LINKE\n🇪🇨
-  David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego GARCIA CARRERA\n🇸🇰
-  Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦 Evan DUNFEE\n🇮🇹
-  Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵 HAMANISHI Ryo\n🇺🇦 Ihor
-  HLAVAN\n🇯🇵 IKEDA Koki\n🇪🇨 Jordy Rafael JIMENEZ ARROBO\n🇬🇹 Jose
-  Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵 KOGA Yuta\n🇦🇺 Kyle
-  SWAN\n🇩🇪 Leo KOEPP\n🇨🇳 LI Yandong\n🇵🇪 Luis Henry CAMPOS\n🇵🇱 Maher
-  BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate HELEBRANDT\n🇧🇷 Matheus
-  CORREA\n🇧🇷 Max Batista GONCALVES dos SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽
-  Noel CHAMA\n🇮🇳 Paramjeet Singh BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus
-  KARLSTROM\n🇦🇺 Rhydian COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo
-  ORSONI\n🇹🇷 Salih KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti
-  PARTANEN\n🇮🇳 Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
-SUMMARY:🏃 男子20公里競走決賽
-LOCATION:特羅卡德羅
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T073000Z-shooting-50
-DTSTAMP:20240801T073000Z
-DTSTART:20240801T073000Z
-DTEND:20240801T083000Z
-DESCRIPTION:射擊 - 男子50米步槍三姿決賽\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴 Jon-Hermann
-  HEGG\n🇷🇸 Lazar KOVACEVIC\n🇨🇳 LIU Yukun\n🇫🇷 Lucas Bernard Denis
-  KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳 Swapnil KUSALE\n🇵🇱 Tomasz BARTNIK
-SUMMARY:🔫 男子50米步槍三姿決賽
-LOCATION:沙託魯射擊中心
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T075000Z-athletics-20
-DTSTAMP:20240801T075000Z
-DTSTART:20240801T075000Z
-DTEND:20240801T093500Z
-DESCRIPTION:田徑 - 女子20公里競走決賽\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
-  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
-  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
-  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
-  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
-  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
-  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇪🇸 Laura
-  GARCIA-CARO\n🇨🇳 LIU Hong\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
-  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
-  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
-  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇪🇨
-  Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇮🇳 PRIYANKA\n🇵🇷 Rachelle de
-  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
-  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
-  Viviane LYRA\n🇨🇳 YANG Jiayu
-SUMMARY:🏃 女子20公里競走決賽
-LOCATION:特羅卡德羅
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T090000Z-diving-3
-DTSTAMP:20240802T090000Z
-DTSTART:20240802T090000Z
-DTEND:20240802T095500Z
-DESCRIPTION:跳水 - 男子雙人3米跳板跳水\n🇨🇳 CHN\n🇪🇸 ESP\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
-  GBR\n🇺🇦 UKR\n🇮🇹 ITA\n🇲🇽 MEX
-SUMMARY:🏊 男子雙人3米跳板跳水
-LOCATION:水上運動中心
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T090000Z-cycling-road-
-DTSTAMP:20240803T090000Z
-DTSTART:20240803T090000Z
-DTEND:20240803T155000Z
-DESCRIPTION:公路自行車 - 男子公路賽\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
-  BETTIOL\n🇪🇸 Alex ARANBURU\n🇱🇺 Alex KIRSCH\n🇰🇿 Alexey LUTSENKO\n🇮🇷
-  Ali LABIB\n🇺🇦 Anatolii BUDIAK\n🇯🇵 ARASHIRO Yukiya\n🇭🇺 Attila
-  VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben O'CONNOR\n🇪🇷 Biniam GIRMAY\n🇺🇸
-  Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬 Charles KAGIMU\n🇫🇷 Christophe
-  LAPORTE\n🇲🇺 Christopher ROUGIER-LAGANE\n🇳🇿 Corbin STRONG\n🇳🇱 Daan
-  HOOLE\n🇨🇴 Dani MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan
-  van BAARLE\n🇦🇷 Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric
-  FAGUNDEZ\n🇷🇼 Eric MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin
-  ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇮🇱 Itamar
-  EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
-  TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan NARVAEZ\n🇬🇧 Josh
-  TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian ALAPHILIPPE\n🇫🇷 Kevin
-  VAUQUELIN\n🇰🇷 KIM Euro\n🇭🇰 LAU Wan Yau Vincent\n🇳🇿 Laurence
-  PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮 Luka MEZGEC\n🇸🇰 Lukas KUBIS\n🇨🇳 LYU
-  Xianjing\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads PEDERSEN\n🇺🇸 Magnus
-  SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿
-  Mathias VACEK\n🇳🇱 Mathieu van der POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰
-  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇦🇺 Michael
-  MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael WOODS\n🇩🇰 Mikkel
-  Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita TSVETKOV\n🇩🇪 Nils
-  POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪 Orluis AULAR\n🇧🇪
-  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
-  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
-  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
-  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
-  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
-  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
-  Yevgeniy FEDOROV
-SUMMARY:🚴 男子公路賽
-LOCATION:特羅卡德羅
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T133000Z-artistic-gymnastics-
-DTSTAMP:20240803T133000Z
-DTSTART:20240803T133000Z
-DTEND:20240803T140500Z
-DESCRIPTION:競技體操 - 男子自由體操決賽\n🇮🇱 Artem DOLGOPYAT\n🇵🇭 Carlos Edriel
-  YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke
-  WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵 OKA Shinnosuke\n🇪🇸 Rayderley
-  ZAPATA\n🇰🇷 RYU Sunghyun\n🇨🇳 ZHANG Boheng
-SUMMARY:🤸 男子自由體操決賽
-LOCATION:貝爾西體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T151600Z-artistic-gymnastics-
-DTSTAMP:20240803T151600Z
-DTSTART:20240803T151600Z
-DTEND:20240803T155200Z
-DESCRIPTION:競技體操 - 男子鞍馬決賽\n🇰🇷 HUR Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max
-  WHITLOCK\n🇰🇿 Nariman KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA
-  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇺🇸 Stephen
-  NEDOROSCIK\n🇯🇵 SUGINO Takaaki\n🇨🇳 ZOU Jingyuan
-SUMMARY:🤸 男子鞍馬決賽
-LOCATION:貝爾西體育館
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T180000Z-fencing--KOR-UKR
 DTSTAMP:20240803T180000Z
 DTSTART:20240803T180000Z
@@ -302,56 +66,6 @@ DESCRIPTION:田徑 - 女子三級跳遠決賽\n🇯🇲 Ackelia SMITH\n🇪🇸 
   Shanieka RICKETTS\n🇩🇲 Thea LAFOND
 SUMMARY:🏃 女子三級跳遠決賽
 LOCATION:法蘭西體育場
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T120000Z-cycling-road-
-DTSTAMP:20240804T120000Z
-DTSTART:20240804T120000Z
-DTEND:20240804T162400Z
-DESCRIPTION:公路自行車 - 女子公路賽\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇨🇦 Alison
-  JACKSON\n🇧🇷 Ana Vitoria MAGALHAES\n🇱🇻 Anastasia CARBONARI\n🇬🇧 Anna
-  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
-  NIEDERMAIER\n🇨🇾 Antri CHRISTOFOROU\n🇨🇺 Arlenis SIERRA\n🇿🇦 Ashleigh
-  MOOLMAN PASIO\n🇫🇷 Audrey CORDON RAGOT\n🇧🇫 Awa BAMOGO\n🇭🇺 Blanka
-  VAS\n🇸🇪 Caroline ANDERSSON\n🇨🇱 Catalina SOTO CAMPOS\n🇩🇰 Cecilie
-  Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇱🇺
-  Christine MAJERUS\n🇵🇹 Daniela CAMPOS\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane
-  INGABIRE\n🇮🇹 Elena CECCHINI\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa
-  BALSAMO\n🇮🇹 Elisa LONGO BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth
-  DEIGNAN\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese
-  UKPESERAYE\n🇸🇮 Eugenia BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba
-  HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺 Grace BROWN\n🇳🇴 Ingvild
-  GASKJENN\n🇷🇸 Jelena ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de
-  VELDE\n🇫🇷 Juliette LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna
-  NIEWIADOMA\n🇳🇿 Kim CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸
-  Kristen FAULKNER\n🇦🇺 Lauretta HANSON\n🇭🇰 LEE Sze Wing\n🇩🇪 Liane
-  LIPPERT\n🇨🇭 Linda ZANETTI\n🇳🇱 Lorena WIEBES\n🇧🇪 Lotte KOPECKY\n🇲🇽
-  Marcela PRIETO\n🇪🇸 Margarita Victoria GARCIA\n🇧🇪 Margot
-  VANPACHTENBEKE\n🇳🇱 Marianne VOS\n🇵🇱 Marta LACH\n🇳🇴 Marte Berg
-  EDSETH\n🇮🇪 Megan ARMITAGE\n🇨🇷 Milagro MENA SOLANO\n🇪🇸 Mireia BENITO
-  PELLICER\n🇩🇿 Nesrine HOUILI\n🇳🇿 Niamh FISHER\n🇨🇭 Noemi RUEEGG\n🇸🇰
-  Nora JENCUSOVA\n🇲🇾 Nur Aisyah MOHAMAD ZUBIR\n🇺🇿 Olga
-  ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer
-  GEORGI\n🇹🇭 Phetdarin SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca
-  KOERNER\n🇮🇱 Rotem GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇦🇪 Safia AL
-  SAYEGH\n🇮🇹 Silvia PERSICO\n🇰🇷 SONG Minji\n🇨🇳 TANG Xin\n🇻🇳 Thi
-  That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷
-  Victoire BERTEAU\n🇺🇿 Yanina KUSKOVA\n🇯🇵 YONAMINE Eri\n🇦🇫 Yulduz
-  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 女子公路賽
-LOCATION:特羅卡德羅
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T142400Z-artistic-gymnastics-
-DTSTAMP:20240804T142400Z
-DTSTART:20240804T142400Z
-DTEND:20240804T150700Z
-DESCRIPTION:競技體操 - 男子跳馬決賽\n🇹🇷 Adem ASIL\n🇦🇲 Artur DAVTYAN\n🇺🇸 Asher
-  HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel YULO\n🇬🇧 Harry
-  HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷 LEE Junho\n🇮🇷
-  Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
-SUMMARY:🤸 男子跳馬決賽
-LOCATION:貝爾西體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T152200Z-boxing-80--UKR-CUB
@@ -389,30 +103,6 @@ SUMMARY:🏃 男子鏈球決賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T073000Z-shooting-25
-DTSTAMP:20240805T073000Z
-DTSTART:20240805T073000Z
-DTEND:20240805T083000Z
-DESCRIPTION:射擊 - 男子25米手槍速射決賽\n🇰🇷 CHO Yeongjae\n🇩🇪 Florian PETER\n🇨🇳
-  LI Yuehong\n🇮🇹 Massimo SPINELLA\n🇺🇦 Pavlo KOROSTYLOV\n🇨🇳 WANG
-  Xinjie
-SUMMARY:🔫 男子25米手槍速射決賽
-LOCATION:沙託魯射擊中心
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T094500Z-artistic-gymnastics-
-DTSTAMP:20240805T094500Z
-DTSTART:20240805T094500Z
-DTEND:20240805T102400Z
-DESCRIPTION:競技體操 - 男子雙槓決賽\n🇨🇴 Angel BARAJAS\n🇹🇷 Ferhat ARICAN\n🇯🇵
-  HASHIMOTO Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Joe FRASER\n🇯🇵 KAYA
-  Kazuma\n🇭🇺 Krisztofer MESZAROS\n🇩🇪 Lukas DAUSER\n🇯🇵 OKA
-  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇯🇵 TANIGAWA Wataru\n🇨🇳 XIAO
-  Ruoteng\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
-SUMMARY:🤸 男子雙槓決賽
-LOCATION:貝爾西體育館
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T205100Z-boxing-80--KAZ-UKR
 DTSTAMP:20240807T205100Z
 DTSTART:20240807T205100Z
@@ -420,19 +110,6 @@ DTEND:20240807T210200Z
 DESCRIPTION:拳擊 - 男子80公斤級 - 決賽
 SUMMARY:🥊 Nurbek ORALBAY 🇰🇿 - 🇺🇦 Oleksandr KHYZHNIAK
 LOCATION:羅蘭·加洛斯體育場
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T130000Z-weightlifting-59
-DTSTAMP:20240808T130000Z
-DTSTART:20240808T130000Z
-DTEND:20240808T153000Z
-DESCRIPTION:舉重 - 女子59公斤級\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷 Dora
-  TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇺🇦 Kamila
-  KONOTOP\n🇹🇼 KUO Hsing-Chun\n🇮🇹 Lucrezia MAGISTRIS\n🇨🇳 LUO
-  Shifang\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu Folashade
-  LAWAL\n🇨🇴 Yenny ALVAREZ
-SUMMARY:🏋 女子59公斤級
-LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-artistic-swimming-

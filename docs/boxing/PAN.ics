@@ -4,15 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//boxing/PAN//EN
 X-WR-CALNAME:🇵🇦 巴拿馬 拳擊 | 巴黎2024
 NAME:🇵🇦 巴拿馬 拳擊 | 巴黎2024
 BEGIN:VEVENT
-UID:20240731T193600Z-boxing-75-16-PAN-KAZ
-DTSTAMP:20240731T193600Z
-DTSTART:20240731T193600Z
-DTEND:20240731T194700Z
-DESCRIPTION:拳擊 - 女子75公斤級 - 預賽 - 16強賽
-SUMMARY:🥊 Atheyna Bibeichi BYLON 🇵🇦 - 🇰🇿 Valentina KHALZOVA
-LOCATION:北巴黎競技場
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T141800Z-boxing-75-14-PAN-POL
 DTSTAMP:20240804T141800Z
 DTSTART:20240804T141800Z

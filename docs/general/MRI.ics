@@ -13,15 +13,6 @@ SUMMARY:巴黎2024 - 開幕式
 LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T090000Z-badminton--C-THA-MRI
-DTSTAMP:20240727T090000Z
-DTSTART:20240727T090000Z
-DTEND:20240727T100000Z
-DESCRIPTION:羽毛球 - 男子單打小組賽 - C組
-SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇺 Georges Julien PAUL
-LOCATION:拉夏貝爾門體育館
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
@@ -41,120 +32,6 @@ DESCRIPTION:山地自行車 - 女子越野賽\n🇨🇿 Adela HOLUBOVA\n🇨🇭
   BELOMOINA
 SUMMARY:🚴 女子越野賽
 LOCATION:埃朗庫爾山
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T072000Z-badminton--C-FIN-MRI
-DTSTAMP:20240729T072000Z
-DTSTART:20240729T072000Z
-DTEND:20240729T080000Z
-DESCRIPTION:羽毛球 - 男子單打小組賽 - C組
-SUMMARY:🏸 Kalle KOLJONEN 🇫🇮 - 🇲🇺 Georges Julien PAUL
-LOCATION:拉夏貝爾門體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T090000Z-badminton--I-MRI-EOR
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T100000Z
-DESCRIPTION:羽毛球 - 女子單打小組賽 - I組
-SUMMARY:🏸 Kate FOO KUNE 🇲🇺 - 🏳️ Dorsa YAVARIVAFA
-LOCATION:拉夏貝爾門體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T091700Z-swimming-100
-DTSTAMP:20240730T091700Z
-DTSTART:20240730T091700Z
-DTEND:20240730T094800Z
-DESCRIPTION:游泳 - 男子100米自由泳分組預賽\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
-  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
-  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
-  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
-  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
-  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
-  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
-  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
-  SANTOS\n🇰🇲 Hadji HASSANE\n🇬🇭 Harry STACEY\n🇦🇴 Henrique
-  MASCARENHAS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇸🇷 Irvin
-  HOOST\n🇴🇲 Issa Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack
-  KIRBY\n🇬🇧 Jacob Henry WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier
-  NUNEZ\n🇱🇨 Jayhan Jamaud ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺
-  Johnathan SILAS\n🇸🇬 Jonathan Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge
-  IGA\n🇨🇦 Josh LIENDO\n🇵🇬 Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle
-  ABEYSINGHE\n🇦🇺 Kyle CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹
-  Leonardo DEPLANO\n🇧🇷 Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳
-  Matthieu SEYE\n🇫🇷 Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad
-  ZUBAID\n🇹🇲 Musa ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola
-  MILJENIC\n🇨🇾 Nikolas ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh
-  PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲 Phone Pyae HAN\n🇫🇷 Rafael
-  FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷
-  Samyar ABDOLI\n🇧🇹 Sangay TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de
-  CELIS MONTALBAN\n🇱🇧 Simon DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir
-  STJEPANOVIC\n🇨🇳 WANG Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef
-  ABUBAKER\n🇦🇪 Yousuf ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M
-  ALSARRAJ
-SUMMARY:🏊 男子100米自由泳分組預賽
-LOCATION:拉德芳斯體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T182000Z-badminton--I-SGP-MRI
-DTSTAMP:20240730T182000Z
-DTSTART:20240730T182000Z
-DTEND:20240730T190000Z
-DESCRIPTION:羽毛球 - 女子單打小組賽 - I組
-SUMMARY:🏸 Jia Min YEO 🇸🇬 - 🇲🇺 Kate FOO KUNE
-LOCATION:拉夏貝爾門體育館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T084500Z-triathlon-
-DTSTAMP:20240731T084500Z
-DTSTART:20240731T084500Z
-DTEND:20240731T104500Z
-DESCRIPTION:鐵人三項 - 男子個人賽\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
-  GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois KNABL\n🇪🇸
-  Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR MOYSEN\n🇭🇺 Bence
-  BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto GRAJALES\n🇭🇺 Csongor
-  LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿 Dylan McCULLOUGH\n🇹🇬
-  Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix DUCHAMPT\n🇨🇱 Gaspar
-  RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden WILDE\n🇿🇦 Henri
-  SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad ABDELMOULA\n🇲🇺 Jean Gael
-  Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas SCHOMBURG\n🇳🇴 Kristian
-  BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷
-  Manoel MESSIAS\n🇧🇪 Marten VAN RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew
-  WRIGHT\n🇨🇭 Max STUDER\n🇧🇷 Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸
-  Morgan PEARSON\n🇯🇵 NENER Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA
-  Makoto\n🇫🇷 Pierre le CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard
-  MURRAY\n🇪🇸 Roberto SANCHEZ MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧
-  Samuel DICKINSON\n🇺🇸 Seth RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim
-  HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦 Tyler MISLAWCHUK\n🇧🇲 Tyler
-  SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle Bergsvik THORN
-SUMMARY:🏊 男子個人賽
-LOCATION:亞歷山大三世橋
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T090000Z-judo-9032-MRI-EST
-DTSTAMP:20240731T090000Z
-DTSTART:20240731T090000Z
-DTEND:20240731T090600Z
-DESCRIPTION:柔道 - 男子90公斤級32強淘汰賽
-SUMMARY:🥋 Remi FEUILLET 🇲🇺 - 🇪🇪 Klen Kristofer KALJULAID
-LOCATION:戰神廣場
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T090000Z-swimming-200
-DTSTAMP:20240801T090000Z
-DTSTART:20240801T090000Z
-DTEND:20240801T091700Z
-DESCRIPTION:游泳 - 女子200米仰泳分組預賽\n🇵🇱 Adela PISKORSKA\n🇪🇸 Africa ZAMORANO
-  SANZ\n🇮🇱 Anastasia GORBENKO\n🇲🇺 Anishta TEELUCK\n🇮🇱 Aviv
-  BARZELAY\n🇵🇹 Camila REBELO\n🇪🇸 Carmen WEILER SASTRE\n🇭🇰 CHEUNG Sum
-  Yuet Cindy\n🇭🇺 Dora MOLNAR\n🇫🇷 Emma TEREBO\n🇭🇺 Eszter
-  SZABO-FELTOTHY\n🇧🇬 Gabriela GEORGIEVA\n🇬🇧 Honey OSRIN\n🇦🇺 Jaclyn
-  BARCLAY\n🇬🇧 Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇵🇱
-  Laura BERNAT\n🇰🇷 LEE Eunji\n🇮🇹 Margherita PANZIERA\n🇫🇷 Pauline
-  MAHIEU\n🇨🇳 PENG Xuwei\n🇺🇸 Phoebe BACON\n🇨🇦 Regan RATHWELL\n🇺🇸
-  Regan SMITH\n🇲🇩 Tatiana SALCUTAN
-SUMMARY:🏊 女子200米仰泳分組預賽
-LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T083500Z-athletics-100
@@ -180,43 +57,6 @@ DESCRIPTION:田徑 - 男子100米預賽\n🇱🇾 Ahmed ESSABAI\n🇵🇦 Arturo
   YENDA MOUKOULA
 SUMMARY:🏃 男子100米預賽
 LOCATION:法蘭西體育場
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T090000Z-cycling-road-
-DTSTAMP:20240803T090000Z
-DTSTART:20240803T090000Z
-DTEND:20240803T155000Z
-DESCRIPTION:公路自行車 - 男子公路賽\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
-  BETTIOL\n🇪🇸 Alex ARANBURU\n🇱🇺 Alex KIRSCH\n🇰🇿 Alexey LUTSENKO\n🇮🇷
-  Ali LABIB\n🇺🇦 Anatolii BUDIAK\n🇯🇵 ARASHIRO Yukiya\n🇭🇺 Attila
-  VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben O'CONNOR\n🇪🇷 Biniam GIRMAY\n🇺🇸
-  Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬 Charles KAGIMU\n🇫🇷 Christophe
-  LAPORTE\n🇲🇺 Christopher ROUGIER-LAGANE\n🇳🇿 Corbin STRONG\n🇳🇱 Daan
-  HOOLE\n🇨🇴 Dani MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan
-  van BAARLE\n🇦🇷 Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric
-  FAGUNDEZ\n🇷🇼 Eric MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin
-  ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇮🇱 Itamar
-  EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
-  TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan NARVAEZ\n🇬🇧 Josh
-  TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian ALAPHILIPPE\n🇫🇷 Kevin
-  VAUQUELIN\n🇰🇷 KIM Euro\n🇭🇰 LAU Wan Yau Vincent\n🇳🇿 Laurence
-  PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮 Luka MEZGEC\n🇸🇰 Lukas KUBIS\n🇨🇳 LYU
-  Xianjing\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads PEDERSEN\n🇺🇸 Magnus
-  SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿
-  Mathias VACEK\n🇳🇱 Mathieu van der POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰
-  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇦🇺 Michael
-  MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael WOODS\n🇩🇰 Mikkel
-  Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita TSVETKOV\n🇩🇪 Nils
-  POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪 Orluis AULAR\n🇧🇪
-  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
-  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
-  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
-  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
-  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
-  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
-  Yevgeniy FEDOROV
-SUMMARY:🚴 男子公路賽
-LOCATION:特羅卡德羅
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T095500Z-athletics-1001
@@ -373,44 +213,6 @@ DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽04\n🇦🇹 Alina KORNELLI\n
   Maria Catalina TURIENZO
 SUMMARY:⛵ 女子水翼風箏板 - 比賽04
 LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T120000Z-cycling-road-
-DTSTAMP:20240804T120000Z
-DTSTART:20240804T120000Z
-DTEND:20240804T162400Z
-DESCRIPTION:公路自行車 - 女子公路賽\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇨🇦 Alison
-  JACKSON\n🇧🇷 Ana Vitoria MAGALHAES\n🇱🇻 Anastasia CARBONARI\n🇬🇧 Anna
-  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
-  NIEDERMAIER\n🇨🇾 Antri CHRISTOFOROU\n🇨🇺 Arlenis SIERRA\n🇿🇦 Ashleigh
-  MOOLMAN PASIO\n🇫🇷 Audrey CORDON RAGOT\n🇧🇫 Awa BAMOGO\n🇭🇺 Blanka
-  VAS\n🇸🇪 Caroline ANDERSSON\n🇨🇱 Catalina SOTO CAMPOS\n🇩🇰 Cecilie
-  Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇱🇺
-  Christine MAJERUS\n🇵🇹 Daniela CAMPOS\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane
-  INGABIRE\n🇮🇹 Elena CECCHINI\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa
-  BALSAMO\n🇮🇹 Elisa LONGO BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth
-  DEIGNAN\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese
-  UKPESERAYE\n🇸🇮 Eugenia BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba
-  HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺 Grace BROWN\n🇳🇴 Ingvild
-  GASKJENN\n🇷🇸 Jelena ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de
-  VELDE\n🇫🇷 Juliette LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna
-  NIEWIADOMA\n🇳🇿 Kim CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸
-  Kristen FAULKNER\n🇦🇺 Lauretta HANSON\n🇭🇰 LEE Sze Wing\n🇩🇪 Liane
-  LIPPERT\n🇨🇭 Linda ZANETTI\n🇳🇱 Lorena WIEBES\n🇧🇪 Lotte KOPECKY\n🇲🇽
-  Marcela PRIETO\n🇪🇸 Margarita Victoria GARCIA\n🇧🇪 Margot
-  VANPACHTENBEKE\n🇳🇱 Marianne VOS\n🇵🇱 Marta LACH\n🇳🇴 Marte Berg
-  EDSETH\n🇮🇪 Megan ARMITAGE\n🇨🇷 Milagro MENA SOLANO\n🇪🇸 Mireia BENITO
-  PELLICER\n🇩🇿 Nesrine HOUILI\n🇳🇿 Niamh FISHER\n🇨🇭 Noemi RUEEGG\n🇸🇰
-  Nora JENCUSOVA\n🇲🇾 Nur Aisyah MOHAMAD ZUBIR\n🇺🇿 Olga
-  ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer
-  GEORGI\n🇹🇭 Phetdarin SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca
-  KOERNER\n🇮🇱 Rotem GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇦🇪 Safia AL
-  SAYEGH\n🇮🇹 Silvia PERSICO\n🇰🇷 SONG Minji\n🇨🇳 TANG Xin\n🇻🇳 Thi
-  That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷
-  Victoire BERTEAU\n🇺🇿 Yanina KUSKOVA\n🇯🇵 YONAMINE Eri\n🇦🇫 Yulduz
-  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 女子公路賽
-LOCATION:特羅卡德羅
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T100300Z-sailing--05

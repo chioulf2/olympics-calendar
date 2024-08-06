@@ -4,50 +4,11 @@ PRODID:-//fabrice404//olympics-calendar//equestrian/medals//EN
 X-WR-CALNAME:🏇 馬術 🏅 | 巴黎2024
 NAME:🏇 馬術 🏅 | 巴黎2024
 BEGIN:VEVENT
-UID:20240729T090000Z-equestrian--
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T114000Z
-DESCRIPTION:馬術 - 三項賽 - 團體場地障礙決賽\n🇧🇷 BRA\n🇯🇵 JPN\n🇧🇪 BEL\n🇨🇦
-  CAN\n🇫🇷 FRA\n🇵🇱 POL\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪
-  IRL\n🇳🇿 新西蘭\n🇨🇭 SUI\n🇸🇪 SWE\n🇩🇪 GER\n🇦🇺 AUS
-SUMMARY:🏇 三項賽 - 團體場地障礙決賽
-LOCATION:凡爾賽宮
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T130000Z-equestrian--
-DTSTAMP:20240729T130000Z
-DTSTART:20240729T130000Z
-DTEND:20240729T140000Z
-DESCRIPTION:馬術 - 三項賽 - 個人場地障礙決賽\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd
-  MARTIN\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
-  HALLIDAY\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
-  ANDERSEN\n🇨🇳 HUA TIAN Alex\n🇳🇱 Janneke BOONZAAIJER\n🇩🇪 Julia
-  KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇧🇪 Lara de
-  LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇩🇪 Michael
-  JUNG\n🇫🇷 Nicolas TOUZAINT\n🇯🇵 OIWA Yoshiaki\n🇬🇧 Rosalind
-  CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane LANDOIS\n🇳🇿 Tim PRICE\n🇬🇧 Tom
-  McEWEN\n🇯🇵 TOMOTO Kazuma
-SUMMARY:🏇 三項賽 - 個人場地障礙決賽
-LOCATION:凡爾賽宮
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T120000Z-equestrian-
-DTSTAMP:20240802T120000Z
-DTSTART:20240802T120000Z
-DTEND:20240802T134100Z
-DESCRIPTION:馬術 - 團體場地障礙決賽\n🇧🇪 BEL\n🇮🇱 ISR\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧
-  GBR\n🇳🇱 NED\n🇮🇪 IRL\n🇸🇪 SWE\n🇩🇪 GER\n🇲🇽 MEX
-SUMMARY:🏇 團體場地障礙決賽
-LOCATION:凡爾賽宮
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T080000Z-equestrian-
 DTSTAMP:20240803T080000Z
 DTSTART:20240803T080000Z
 DTEND:20240803T133000Z
-DESCRIPTION:馬術 - 團體盛裝舞步特別大獎賽\n🇩🇰 DEN\n🇧🇪 BEL\n🇫🇷 FRA\n🇫🇮 FIN\n🇬🇧
-  GBR\n🇳🇱 NED\n🇦🇹 AUT\n🇸🇪 SWE\n🇩🇪 GER\n🇦🇺 AUS
+DESCRIPTION:馬術 - 團體盛裝舞步特別大獎賽
 SUMMARY:🏇 團體盛裝舞步特別大獎賽
 LOCATION:凡爾賽宮
 END:VEVENT
@@ -56,13 +17,7 @@ UID:20240804T080000Z-equestrian-
 DTSTAMP:20240804T080000Z
 DTSTART:20240804T080000Z
 DTEND:20240804T113000Z
-DESCRIPTION:馬術 - 個人盛裝舞步音樂自由演繹大獎賽\n🇬🇧 Becky MOODY\n🇬🇧 Carl HESTER\n🇩🇰
-  Cathrine LAUDRUP-DUFOUR\n🇬🇧 Charlotte FRY\n🇩🇰 Daniel BACHMANN
-  ANDERSEN\n🇳🇱 Dinja van LIERE\n🇫🇮 Emma KANERVA\n🇳🇱 Emmelie
-  SCHOLTENS\n🇩🇪 Frederic WANDRES\n🇳🇴 Isabel FREESE\n🇩🇪 Isabell
-  WERTH\n🇩🇪 Jessica von BREDOW-WERNDL\n🇩🇰 Nanna SKODBORG MERRALD\n🇸🇪
-  Patrik KITTEL\n🇫🇷 Pauline BASQUIN\n🇵🇱 Sandra SYSOJEVA\n🇸🇪 Therese
-  NILSHAGEN\n🇦🇹 Victoria MAX-THEURER
+DESCRIPTION:馬術 - 個人盛裝舞步音樂自由演繹大獎賽
 SUMMARY:🏇 個人盛裝舞步音樂自由演繹大獎賽
 LOCATION:凡爾賽宮
 END:VEVENT
@@ -71,16 +26,7 @@ UID:20240806T080000Z-equestrian-
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
 DTEND:20240806T092100Z
-DESCRIPTION:馬術 - 個人場地障礙決賽\n🇸🇦 Abdulrahman ALRAJHI\n🇲🇽 Andres
-  AZCARRAGA\n🇬🇧 Ben MAHER\n🇩🇪 Christian KUKUK\n🇮🇪 Daniel COYLE\n🇮🇹
-  Emanuele CAMILLI\n🇧🇪 Gilles THOMAS\n🇧🇪 Gregory WATHELET\n🇯🇵 HAASE
-  SHIBAYAMA Takashi\n🇳🇱 Harrie SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik
-  von ECKERMANN\n🇦🇷 Jose Maria (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸
-  Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸 Laura KRAUT\n🇳🇱 Maikel van der
-  VLEUTEN\n🇨🇭 Martin FUCHS\n🇦🇹 Max KUEHNER\n🇦🇪 Omar Abdul Aziz AL
-  MARZOOQI\n🇩🇪 Philipp WEISHAUPT\n🇸🇦 Ramzy AL DUHAMI\n🇧🇷 Rodrigo
-  PESSOA\n🇬🇧 Scott BRASH\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷
-  Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇳🇴 Victoria GULLIKSEN
+DESCRIPTION:馬術 - 個人場地障礙決賽
 SUMMARY:🏇 個人場地障礙決賽
 LOCATION:凡爾賽宮
 END:VEVENT
