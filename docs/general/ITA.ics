@@ -2408,37 +2408,6 @@ SUMMARY:🏃 男子200米復活賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T104800Z-sailing--07
-DTSTAMP:20240806T104800Z
-DTSTART:20240806T104800Z
-DTEND:20240806T110500Z
-DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽07\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
-  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
-  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ 女子水翼風箏板 - 比賽07
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T105300Z-sailing--08
-DTSTAMP:20240806T105300Z
-DTSTART:20240806T105300Z
-DTEND:20240806T111000Z
-DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽08\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子水翼風箏板 - 比賽08
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T105700Z-sailing-17-11
 DTSTAMP:20240806T105700Z
 DTSTART:20240806T105700Z
@@ -2467,37 +2436,6 @@ SUMMARY:🧗 男子速度賽資格賽種子排名
 LOCATION:勒布爾歇運動攀巖館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T111300Z-sailing--08
-DTSTAMP:20240806T111300Z
-DTSTART:20240806T111300Z
-DTEND:20240806T113000Z
-DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽08\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
-  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
-  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ 女子水翼風箏板 - 比賽08
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T111800Z-sailing--09
-DTSTAMP:20240806T111800Z
-DTSTART:20240806T111800Z
-DTEND:20240806T113500Z
-DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽09\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子水翼風箏板 - 比賽09
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T112200Z-sailing-470-08
 DTSTAMP:20240806T112200Z
 DTSTART:20240806T112200Z
@@ -2510,37 +2448,6 @@ DESCRIPTION:帆船 - 男女混合帆船470級 - 比賽08\n🇬🇷 A SPANAKI/O S
   MONTINHO/PAULO\n🇸🇮 MRAK/BOZIC\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 男女混合帆船470級 - 比賽08
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T113800Z-sailing--09
-DTSTAMP:20240806T113800Z
-DTSTART:20240806T113800Z
-DTEND:20240806T115500Z
-DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽09\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
-  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
-  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ 女子水翼風箏板 - 比賽09
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T114300Z-sailing--10
-DTSTAMP:20240806T114300Z
-DTSTART:20240806T114300Z
-DTEND:20240806T120000Z
-DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽10\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子水翼風箏板 - 比賽10
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
@@ -2559,22 +2466,6 @@ SUMMARY:⛵ 男女混合帆船諾卡拉17級 - 比賽12
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T120300Z-sailing--10
-DTSTAMP:20240806T120300Z
-DTSTART:20240806T120300Z
-DTEND:20240806T122000Z
-DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽10\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
-  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
-  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ 女子水翼風箏板 - 比賽10
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T122900Z-sailing-470-09
 DTSTAMP:20240806T122900Z
 DTSTART:20240806T122900Z
@@ -2587,18 +2478,6 @@ DESCRIPTION:帆船 - 男女混合帆船470級 - 比賽09\n🇬🇷 A SPANAKI/O S
   MONTINHO/PAULO\n🇸🇮 MRAK/BOZIC\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 男女混合帆船470級 - 比賽09
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T124300Z-sailing-
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:帆船 - 女子帆船激光雷迪爾級獎牌賽\n🇩🇰 Anne-Marie RINDOM\n🇮🇹 Chiara BENINI
-  FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
-  REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise CERVERA\n🇳🇱 Marit
-  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ 女子帆船激光雷迪爾級獎牌賽
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
@@ -2636,18 +2515,6 @@ DESCRIPTION:帆船 - 男女混合帆船470級 - 比賽10\n🇬🇷 A SPANAKI/O S
   MONTINHO/PAULO\n🇸🇮 MRAK/BOZIC\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 男女混合帆船470級 - 比賽10
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T134300Z-sailing-
-DTSTAMP:20240806T134300Z
-DTSTART:20240806T134300Z
-DTEND:20240806T140300Z
-DESCRIPTION:帆船 - 男子帆船激光級獎牌賽\n🇨🇱 Clemente SEGUEL LACAMARA\n🇮🇪 Finn
-  LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan VADNAI\n🇮🇹 Lorenzo Brando
-  CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas SAUNDERS
-SUMMARY:⛵ 男子帆船激光級獎牌賽
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
@@ -2890,11 +2757,11 @@ SUMMARY:🏃 男子800米第1輪
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T101300Z-sailing--11
-DTSTAMP:20240807T101300Z
-DTSTART:20240807T101300Z
-DTEND:20240807T103000Z
-DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽11\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+UID:20240807T100300Z-sailing--07
+DTSTAMP:20240807T100300Z
+DTSTART:20240807T100300Z
+DTEND:20240807T102000Z
+DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽07\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
   LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
   Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
   ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
@@ -2902,22 +2769,34 @@ DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽11\n🇦🇹 Alina KORNELLI\n
   PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
   MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
   Maria Catalina TURIENZO
-SUMMARY:⛵ 女子水翼風箏板 - 比賽11
+SUMMARY:⛵ 女子水翼風箏板 - 比賽07
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T102300Z-sailing--11
+UID:20240807T101300Z-sailing-
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:帆船 - 女子帆船激光雷迪爾級獎牌賽\n🇩🇰 Anne-Marie RINDOM\n🇮🇹 Chiara BENINI
+  FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise CERVERA\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ 女子帆船激光雷迪爾級獎牌賽
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T102300Z-sailing--08
 DTSTAMP:20240807T102300Z
 DTSTART:20240807T102300Z
 DTEND:20240807T104000Z
-DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽11\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽08\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
   Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
   Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
   WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
   Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
   MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子水翼風箏板 - 比賽11
+SUMMARY:⛵ 男子水翼風箏板 - 比賽08
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
@@ -2954,6 +2833,22 @@ SUMMARY:🥋 Vito DELL AQUILA 🇮🇹 - 🇰🇿 Samirkhon ABABAKIROV
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T104300Z-sailing--08
+DTSTAMP:20240807T104300Z
+DTSTART:20240807T104300Z
+DTEND:20240807T110000Z
+DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽08\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
+  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ 女子水翼風箏板 - 比賽08
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T104500Z-athletics-1500
 DTSTAMP:20240807T104500Z
 DTSTART:20240807T104500Z
@@ -2971,26 +2866,53 @@ SUMMARY:🏃 女子1500米復活賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T104800Z-sailing--12
+UID:20240807T104800Z-sailing--09
 DTSTAMP:20240807T104800Z
 DTSTART:20240807T104800Z
 DTEND:20240807T110500Z
-DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽12\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽09\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
   Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
   Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
   WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
   Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
   MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子水翼風箏板 - 比賽12
+SUMMARY:⛵ 男子水翼風箏板 - 比賽09
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T110300Z-sailing--12
-DTSTAMP:20240807T110300Z
-DTSTART:20240807T110300Z
-DTEND:20240807T112000Z
-DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽12\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+UID:20240807T111300Z-sailing-
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113300Z
+DESCRIPTION:帆船 - 男子帆船激光級獎牌賽\n🇨🇱 Clemente SEGUEL LACAMARA\n🇮🇪 Finn
+  LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan VADNAI\n🇮🇹 Lorenzo Brando
+  CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas SAUNDERS
+SUMMARY:⛵ 男子帆船激光級獎牌賽
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T111300Z-sailing--10
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113000Z
+DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽10\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 男子水翼風箏板 - 比賽10
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T112300Z-sailing--09
+DTSTAMP:20240807T112300Z
+DTSTART:20240807T112300Z
+DTEND:20240807T114000Z
+DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽09\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
   LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
   Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
   ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
@@ -2998,22 +2920,7 @@ DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽12\n🇦🇹 Alina KORNELLI\n
   PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
   MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
   Maria Catalina TURIENZO
-SUMMARY:⛵ 女子水翼風箏板 - 比賽12
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T111300Z-sailing--13
-DTSTAMP:20240807T111300Z
-DTSTART:20240807T111300Z
-DTEND:20240807T113000Z
-DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽13\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子水翼風箏板 - 比賽13
+SUMMARY:⛵ 女子水翼風箏板 - 比賽09
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
@@ -3035,72 +2942,45 @@ SUMMARY:🚴 女子凱林賽第1輪
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T113800Z-sailing--14
+UID:20240807T113800Z-sailing--11
 DTSTAMP:20240807T113800Z
 DTSTART:20240807T113800Z
 DTEND:20240807T115500Z
-DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽14\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽11\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
   Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
   Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
   WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
   Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
   MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子水翼風箏板 - 比賽14
+SUMMARY:⛵ 男子水翼風箏板 - 比賽11
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T115300Z-sailing--13
-DTSTAMP:20240807T115300Z
-DTSTART:20240807T115300Z
-DTEND:20240807T121000Z
-DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽13\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
-  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
-  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ 女子水翼風箏板 - 比賽13
-LOCATION:馬賽港
+UID:20240807T115200Z-cycling-track-1
+DTSTAMP:20240807T115200Z
+DTSTART:20240807T115200Z
+DTEND:20240807T123000Z
+DESCRIPTION:場地自行車 - 女子團體追逐賽第1輪\n🇳🇿 Ally WOLLASTON\n🇬🇧 Anna MORRIS\n🇨🇦
+  Ariane BONHOMME\n🇳🇿 Bryony BOTHA\n🇮🇹 Chiara CONSONNI\n🇺🇸 Chloe
+  DYGERT\n🇦🇺 Chloe MORAN\n🇫🇷 Clara COPPONI\n🇬🇧 Elinor BARKER\n🇳🇿
+  Emily SHEARMAN\n🇨🇦 Erin ATTWELL\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇬🇧 Jessica ROBERTS\n🇬🇧 Josie
+  KNIGHT\n🇺🇸 Kristen FAULKNER\n🇩🇪 Laura SUESSEMILCH\n🇮🇹 Letizia
+  PATERNOSTER\n🇺🇸 Lily WILLIAMS\n🇩🇪 Lisa KLEIN\n🇦🇺 Maeve
+  PLOUFFE\n🇨🇦 Maggie COLES-LYSTER\n🇫🇷 Marie le NET\n🇫🇷 Marion
+  BORRAS\n🇮🇹 Martina FIDANZA\n🇩🇪 Mieke KROEGER\n🇳🇿 Nicole
+  SHIELDS\n🇨🇦 Sarah van DAM\n🇦🇺 Sophie EDWARDS\n🇫🇷 Valentine
+  FORTIN\n🇮🇹 Vittoria GUAZZINI
+SUMMARY:🚴 女子團體追逐賽第1輪
+LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T120300Z-sailing--15
+UID:20240807T120300Z-sailing--10
 DTSTAMP:20240807T120300Z
 DTSTART:20240807T120300Z
 DTEND:20240807T122000Z
-DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽15\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子水翼風箏板 - 比賽15
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T122800Z-sailing--16
-DTSTAMP:20240807T122800Z
-DTSTART:20240807T122800Z
-DTEND:20240807T124500Z
-DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽16\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子水翼風箏板 - 比賽16
-LOCATION:馬賽港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T124300Z-sailing--14
-DTSTAMP:20240807T124300Z
-DTSTART:20240807T124300Z
-DTEND:20240807T130000Z
-DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽14\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽10\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
   LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
   Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
   ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
@@ -3108,7 +2988,38 @@ DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽14\n🇦🇹 Alina KORNELLI\n
   PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
   MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
   Maria Catalina TURIENZO
-SUMMARY:⛵ 女子水翼風箏板 - 比賽14
+SUMMARY:⛵ 女子水翼風箏板 - 比賽10
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T120300Z-sailing--12
+DTSTAMP:20240807T120300Z
+DTSTART:20240807T120300Z
+DTEND:20240807T122000Z
+DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽12\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 男子水翼風箏板 - 比賽12
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T124300Z-sailing--11
+DTSTAMP:20240807T124300Z
+DTSTART:20240807T124300Z
+DTEND:20240807T130000Z
+DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽11\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
+  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ 女子水翼風箏板 - 比賽11
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
@@ -3142,10 +3053,103 @@ SUMMARY:🏋 男子61公斤級
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T133300Z-sailing--15
-DTSTAMP:20240807T133300Z
-DTSTART:20240807T133300Z
-DTEND:20240807T135000Z
+UID:20240807T140000Z-sailing--12
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽12\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
+  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ 女子水翼風箏板 - 比賽12
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--13
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽13\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 男子水翼風箏板 - 比賽13
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--13
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽13\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
+  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ 女子水翼風箏板 - 比賽13
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--14
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽14\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 男子水翼風箏板 - 比賽14
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--14
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽14\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
+  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ 女子水翼風箏板 - 比賽14
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--15
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽15\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 男子水翼風箏板 - 比賽15
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--15
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
 DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽15\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
   LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
   Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -3158,10 +3162,25 @@ SUMMARY:⛵ 女子水翼風箏板 - 比賽15
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T142300Z-sailing--16
-DTSTAMP:20240807T142300Z
-DTSTART:20240807T142300Z
-DTEND:20240807T144000Z
+UID:20240807T140000Z-sailing--16
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽16\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 男子水翼風箏板 - 比賽16
+LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--16
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
 DESCRIPTION:帆船 - 女子水翼風箏板 - 比賽16\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
   LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
   Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
