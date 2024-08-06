@@ -4,6 +4,24 @@ PRODID:-//fabrice404//olympics-calendar//medals/DOM//EN
 X-WR-CALNAME:🇩🇴 多明尼加共和國 🏅 | 巴黎2024
 NAME:🇩🇴 多明尼加共和國 🏅 | 巴黎2024
 BEGIN:VEVENT
+UID:20240804T102000Z-boxing-51--FRA-DOM
+DTSTAMP:20240804T102000Z
+DTSTART:20240804T102000Z
+DTEND:20240804T103100Z
+DESCRIPTION:拳擊 - 男子51公斤級 - 半決賽
+SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇩🇴 Yunior ALCANTARA REYES
+LOCATION:北巴黎競技場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T105200Z-boxing-80--DOM-KAZ
+DTSTAMP:20240804T105200Z
+DTSTART:20240804T105200Z
+DTEND:20240804T110300Z
+DESCRIPTION:拳擊 - 男子80公斤級 - 半決賽
+SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇰🇿 Nurbek ORALBAY
+LOCATION:北巴黎競技場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T173000Z-weightlifting-49
 DTSTAMP:20240807T173000Z
 DTSTART:20240807T173000Z

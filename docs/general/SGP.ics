@@ -93,6 +93,35 @@ SUMMARY:⛵ 男子帆船激光級- 比賽05
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T105200Z-swimming-4X100
+DTSTAMP:20240803T105200Z
+DTSTART:20240803T105200Z
+DTEND:20240803T110500Z
+DESCRIPTION:游泳 - 女子4x100米混合泳接力分組預賽\n🇵🇱 Adela PISKORSKA\n🇺🇸 Alex
+  SHACKELL\n🇦🇺 Alexandria PERKINS\n🇩🇪 Angelina KOEHLER\n🇬🇧 Angharad
+  EVANS\n🇩🇪 Anna ELENDT\n🇭🇰 AU Hoi Shun Stephanie\n🇮🇹 Benedetta
+  PILATO\n🇫🇷 Charlotte BONNET\n🇸🇬 Ching Hwee GAN\n🇮🇪 Danielle
+  HILL\n🇵🇱 Dominika SZTANDERA\n🇩🇰 Elisabeth Sabroe EBBESEN\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇫🇷 Emma TEREBO\n🇺🇸 Emma WEBER\n🇸🇬 En Yi
+  Letitia SIM\n🇬🇧 Freya ANDERSON\n🇮🇪 Grace DAVISON\n🇸🇪 Hanna
+  ROSVALL\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇯🇵 HIRAI Mizuki\n🇯🇵 IKEE
+  Rikako\n🇨🇦 Ingrid WILM\n🇦🇺 Iona ANDERSON\n🇸🇬 Jing Wen QUAH\n🇭🇰
+  KAN Cheuk Tung Natalie\n🇺🇸 Kate DOUGLASS\n🇺🇸 Katharine BERKOFF\n🇬🇧
+  Kathleen DAWSON\n🇬🇧 Keanna Louise MACINNES\n🇵🇱 Kornelia
+  FIEDKIEWICZ\n🇩🇪 Laura RIEDEMANN\n🇸🇬 Levenia SIM\n🇸🇪 Louise
+  HANSSON\n🇳🇱 Maaike de WAARD\n🇮🇹 Margherita PANZIERA\n🇫🇷 Marie
+  WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇩🇰 Martine DAMBORG\n🇫🇷 Mary-Ambre
+  MOLUH\n🇨🇦 Mary-Sophie HARVEY\n🇦🇺 Meg HARRIS\n🇮🇪 Mona Mc
+  SHARRY\n🇩🇪 Nina HOLT\n🇵🇱 Paulina PEDA\n🇨🇦 Penny OLEKSIAK\n🇸🇪
+  Sarah SJOESTROEM\n🇩🇰 Schastine TABOR\n🇯🇵 SHIRAI Rio\n🇮🇹 Sofia
+  MORINI\n🇨🇦 Sophie ANGUS\n🇸🇪 Sophie HANSSON\n🇯🇵 SUZUKI Satomi\n🇭🇰
+  TAM Hoi Lam\n🇨🇳 TANG Qianting\n🇳🇱 Tes SCHOUTEN\n🇳🇱 Tessa
+  GIELE\n🇩🇰 Thea BLOMSTERBERG\n🇮🇹 Viola SCOTTO di CARLO\n🇨🇳 WANG
+  Xueer\n🇨🇳 WU Qingfeng\n🇨🇳 YU Yiting
+SUMMARY:🏊 女子4x100米混合泳接力分組預賽
+LOCATION:拉德芳斯體育館
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T112800Z-sailing--06
 DTSTAMP:20240803T112800Z
 DTSTART:20240803T112800Z
@@ -400,6 +429,54 @@ SUMMARY:⛵ 男子水翼風箏板 - 比賽10
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T070000Z-golf-1
+DTSTAMP:20240807T070000Z
+DTSTART:20240807T070000Z
+DTEND:20240807T160000Z
+DESCRIPTION:高爾夫 - 女子第1回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇹🇼 CHIEN Pei-Yun\n🇮🇳 Diksha DAGAR\n🇵🇭
+  Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther
+  HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇦🇺 Hannah GREEN\n🇹🇼
+  HSU Wei-Ling\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇰🇷 KO Jin Young\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇨🇳 LIN
+  Xiyu Janet\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪
+  Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo
+  URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ
+  MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇯🇵
+  SASO Yuka\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第1回合
+LOCATION:國家高爾夫球場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-canoe-sprint-500
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T082700Z
+DESCRIPTION:皮劃艇靜水 - 女子500米單人皮艇分組預賽\n🇳🇿 Aimee FISHER\n🇭🇺 Alida Dora
+  GAZSO\n🇦🇺 Alyce WOOD\n🇧🇷 Ana Paula VERGUTZ\n🇭🇷 Anamaria
+  GOVORCINOVIC\n🇨🇿 Anezka PALOUDOVA\n🇲🇽 Beatriz BRIONES FRAGOZA\n🇪🇸
+  Begona LAZKANO\n🇦🇷 Brenda ROJAS\n🇵🇱 Dominika PUTTO\n🇺🇿 Ekaterina
+  SHUBINA\n🇩🇰 Emma Aastrand JORGENSEN\n🇩🇪 Enja ROESSELING\n🇪🇸
+  Estefania FERNANDEZ\n🇿🇦 Esti OLIVIER\n🇳🇴 Hedda ORITSLAND\n🇧🇪
+  Hermien PETERS\n🇸🇬 Jiexian Stephenie CHEN\n🇲🇽 Karina ALANIS
+  MORALES\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa CARRINGTON\n🇧🇪 Lize
+  BROEKX\n🇫🇷 Manon HOSTENS\n🇺🇦 Mariya POVKH\n🇸🇪 Melina
+  ANDERSSON\n🇨🇦 Michelle RUSSELL\n🇷🇸 Milica NOVAKOVIC\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Riley MELANSON\n🇳🇱 Ruth VORSSELMAN\n🇪🇬 Samaa
+  AHMED\n🇼🇸 Samalulu CLIFTON\n🏳️ Saman SOLTANI\n🇳🇱 Selma KONIJN\n🇭🇺
+  Tamara CSIPES\n🇵🇹 Teresa PORTELA\n🇿🇦 Tiffany Amber KOCH\n🇨🇳 WANG
+  Nan\n🇨🇳 YIN Mengdie\n🇧🇬 Yoana GEORGIEVA
+SUMMARY:🛶 女子500米單人皮艇分組預賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T102300Z-sailing--11
 DTSTAMP:20240807T102300Z
 DTSTART:20240807T102300Z
@@ -488,6 +565,32 @@ DESCRIPTION:帆船 - 男子水翼風箏板 - 比賽16\n🇫🇷 Axel MAZELLA\n�
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ 男子水翼風箏板 - 比賽16
 LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T070000Z-golf-2
+DTSTAMP:20240808T070000Z
+DTSTART:20240808T070000Z
+DTEND:20240808T160000Z
+DESCRIPTION:高爾夫 - 女子第2回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇹🇼 CHIEN Pei-Yun\n🇮🇳 Diksha DAGAR\n🇵🇭
+  Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther
+  HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇦🇺 Hannah GREEN\n🇹🇼
+  HSU Wei-Ling\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇰🇷 KO Jin Young\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇨🇳 LIN
+  Xiyu Janet\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪
+  Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo
+  URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ
+  MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇯🇵
+  SASO Yuka\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第2回合
+LOCATION:國家高爾夫球場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

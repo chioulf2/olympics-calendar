@@ -4,25 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//cycling-road/NOR//EN
 X-WR-CALNAME:🇳🇴 挪威 公路自行車 | 巴黎2024
 NAME:🇳🇴 挪威 公路自行車 | 巴黎2024
 BEGIN:VEVENT
-UID:20240727T143200Z-cycling-road-
-DTSTAMP:20240727T143200Z
-DTSTART:20240727T143200Z
-DTEND:20240727T155700Z
-DESCRIPTION:公路自行車 - 男子個人計時賽\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
-  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
-  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
-  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
-  TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin VAUQUELIN\n🇳🇿 Laurence
-  PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰
-  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal
-  KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier
-  LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴
-  Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴
-  Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
-SUMMARY:🚴 男子個人計時賽
-LOCATION:亞歷山大三世橋
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -48,14 +29,13 @@ DESCRIPTION:公路自行車 - 男子公路賽\n🇲🇦 Achraf ED DOGHMY\n🇮�
   Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇦🇺 Michael
   MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael WOODS\n🇩🇰 Mikkel
   Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita TSVETKOV\n🇩🇪 Nils
-  POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪 Orluis AULAR\n🇧🇪
-  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
-  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
-  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
-  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
-  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
-  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
-  Yevgeniy FEDOROV
+  POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹
+  Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺
+  Simon CLARKE\n🇳🇴 Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭
+  Stefan KUENG\n🇬🇧 Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧
+  Thomas PIDCOCK\n🇧🇪 Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms
+  SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van
+  AERT\n🇩🇿 Yacine HAMZA\n🇰🇿 Yevgeniy FEDOROV
 SUMMARY:🚴 男子公路賽
 LOCATION:特羅卡德羅
 END:VEVENT
