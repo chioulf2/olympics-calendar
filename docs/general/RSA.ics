@@ -675,6 +675,22 @@ SUMMARY:🧗 男子速度賽資格賽種子排名
 LOCATION:勒布爾歇運動攀巖館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T123000Z-canoe-sprint-50014
+DTSTAMP:20240806T123000Z
+DTSTART:20240806T123000Z
+DTEND:20240806T124700Z
+DESCRIPTION:皮劃艇靜水 - 男子500米雙人皮艇1/4決賽\n🇺🇸 Aaron SMALL\n🇪🇸 Adrian del
+  RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej OLIJNIK\n🇿🇦 Andrew James
+  BIRKETT\n🇰🇿 Bekarys RAMATULLA\n🇨🇳 BU Tingkai\n🇨🇿 Daniel HAVEL\n🇳🇿
+  Hamish LEGARTH\n🇿🇦 Hamish LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇨🇿 Jakub
+  SPICAR\n🇺🇸 Jonas ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸 Marcus COOPER\n🇷🇸
+  Marko DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇱🇹 Mindaugas MALDONIS\n🇺🇦
+  Oleh KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇰🇿 Sergii TOKARNYTSKYI\n🇨🇦
+  Simon McTAVISH\n🇷🇸 Vladimir TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 男子500米雙人皮艇1/4決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T173500Z-athletics-400
 DTSTAMP:20240806T173500Z
 DTSTART:20240806T173500Z
@@ -846,6 +862,23 @@ DESCRIPTION:跳水 - 女子3米跳板跳水預賽\n🇲🇽 Alejandra ESTUDILLO 
   Valeria ANTOLINO\n🇺🇦 Viktoriya KESAR\n🇬🇧 Yasmin HARPER
 SUMMARY:🏊 女子3米跳板跳水預賽
 LOCATION:水上運動中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T184500Z-athletics-400
+DTSTAMP:20240807T184500Z
+DTSTART:20240807T184500Z
+DTEND:20240807T190200Z
+DESCRIPTION:田徑 - 女子400米半決賽\n🇺🇸 Aaliyah BUTLER\n🇺🇸 Alexis HOLMES\n🇬🇧
+  Amber ANNING\n🇷🇴 Andrea MIKLOS\n🇳🇬 Ella ONOJUVWEVWO\n🇵🇷 Gabby
+  SCOTT\n🇳🇴 Henriette JAEGER\n🇯🇲 Junelle BROMFIELD\n🇺🇸 Kendall
+  ELLIS\n🇬🇧 Laviai NIELSEN\n🇳🇱 Lieke KLAVER\n🇨🇿 Lurdes Gloria
+  MANUEL\n🇩🇴 Marileidy PAULINO\n🇿🇦 Miranda Charlene COETZEE\n🇵🇱
+  Natalia KACZMAREK\n🇯🇲 Nickisha PRYCE\n🇲🇽 Paola MORAN\n🇮🇪 Rhasidat
+  ADELEKE\n🇨🇺 Roxana GOMEZ\n🇧🇧 Sada WILLIAMS\n🇧🇭 Salwa Eid
+  NASER\n🇯🇲 Stacey Ann WILLIAMS\n🇦🇹 Susanne GOGL-WALLI\n🇬🇧 Victoria
+  OHURUOGU
+SUMMARY:🏃 女子400米半決賽
+LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T070000Z-golf-2

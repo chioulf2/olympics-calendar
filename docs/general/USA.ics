@@ -3093,6 +3093,22 @@ SUMMARY:⛵ 男女混合帆船470級 - 比賽09
 LOCATION:馬賽港
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T123000Z-canoe-sprint-50014
+DTSTAMP:20240806T123000Z
+DTSTART:20240806T123000Z
+DTEND:20240806T124700Z
+DESCRIPTION:皮劃艇靜水 - 男子500米雙人皮艇1/4決賽\n🇺🇸 Aaron SMALL\n🇪🇸 Adrian del
+  RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej OLIJNIK\n🇿🇦 Andrew James
+  BIRKETT\n🇰🇿 Bekarys RAMATULLA\n🇨🇳 BU Tingkai\n🇨🇿 Daniel HAVEL\n🇳🇿
+  Hamish LEGARTH\n🇿🇦 Hamish LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇨🇿 Jakub
+  SPICAR\n🇺🇸 Jonas ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸 Marcus COOPER\n🇷🇸
+  Marko DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇱🇹 Mindaugas MALDONIS\n🇺🇦
+  Oleh KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇰🇿 Sergii TOKARNYTSKYI\n🇨🇦
+  Simon McTAVISH\n🇷🇸 Vladimir TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 男子500米雙人皮艇1/4決賽
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T124300Z-sailing-
 DTSTAMP:20240806T124300Z
 DTSTART:20240806T124300Z
@@ -3659,6 +3675,23 @@ DESCRIPTION:舉重 - 女子49公斤級\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹�
   RANDAFIARISON\n🇹🇭 Surodchana KHAMBAO\n🇯🇵 SUZUKI Rira
 SUMMARY:🏋 女子49公斤級
 LOCATION:南巴黎競技場6號館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T184500Z-athletics-400
+DTSTAMP:20240807T184500Z
+DTSTART:20240807T184500Z
+DTEND:20240807T190200Z
+DESCRIPTION:田徑 - 女子400米半決賽\n🇺🇸 Aaliyah BUTLER\n🇺🇸 Alexis HOLMES\n🇬🇧
+  Amber ANNING\n🇷🇴 Andrea MIKLOS\n🇳🇬 Ella ONOJUVWEVWO\n🇵🇷 Gabby
+  SCOTT\n🇳🇴 Henriette JAEGER\n🇯🇲 Junelle BROMFIELD\n🇺🇸 Kendall
+  ELLIS\n🇬🇧 Laviai NIELSEN\n🇳🇱 Lieke KLAVER\n🇨🇿 Lurdes Gloria
+  MANUEL\n🇩🇴 Marileidy PAULINO\n🇿🇦 Miranda Charlene COETZEE\n🇵🇱
+  Natalia KACZMAREK\n🇯🇲 Nickisha PRYCE\n🇲🇽 Paola MORAN\n🇮🇪 Rhasidat
+  ADELEKE\n🇨🇺 Roxana GOMEZ\n🇧🇧 Sada WILLIAMS\n🇧🇭 Salwa Eid
+  NASER\n🇯🇲 Stacey Ann WILLIAMS\n🇦🇹 Susanne GOGL-WALLI\n🇬🇧 Victoria
+  OHURUOGU
+SUMMARY:🏃 女子400米半決賽
+LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T193000Z-basketball-14-NGR-USA
