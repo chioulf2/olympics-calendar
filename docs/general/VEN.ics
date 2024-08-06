@@ -13,95 +13,174 @@ SUMMARY:巴黎2024 - 開幕式
 LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T094500Z-athletics--B
-DTSTAMP:20240804T094500Z
-DTSTART:20240804T094500Z
-DTEND:20240804T104100Z
-DESCRIPTION:田徑 - 女子鏈球資格賽 - B組\n🇫🇷 Alexandra TAVERNIER\n🇵🇱 Anita
-  WLODARCZYK\n🇺🇸 Deanna PRICE\n🇺🇦 Iryna KLYMETS\n🇩🇰 Katrine Koch
-  JACOBSEN\n🇫🇮 Krista TERVO\n🇮🇪 Nicola TUTHILL\n🇳🇬 Oyesade
-  OLATOYE\n🇭🇺 Reka GYURATZ\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara
-  FANTINI\n🇫🇮 Silja KOSONEN\n🇬🇷 Stamatia SCARVELIS\n🇧🇪 Vanessa
-  STERCKENDRIES\n🇨🇳 WANG Zheng\n🇲🇩 Zalina MARGHIEVA
-SUMMARY:🏃 女子鏈球資格賽 - B組
-LOCATION:法蘭西體育場
+UID:20240804T070000Z-shooting-251
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T103000Z
+DESCRIPTION:射擊 - 男子25米手槍速射資格賽第1輪\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪
+  Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪
+  Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry
+  Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
+  SANDERSON\n🇨🇺 Leuris PUPO\n🇨🇳 LI Yuehong\n🇺🇦 Maksym
+  HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej
+  RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦
+  Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
+  LUNEV\n🇦🇺 Sergei EVGLEVSKI\n🇰🇷 SONG Jong-Ho\n🇮🇳 Vijayveer
+  SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 男子25米手槍速射資格賽第1輪
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T084000Z-athletics-
-DTSTAMP:20240805T084000Z
-DTSTART:20240805T084000Z
-DTEND:20240805T110000Z
-DESCRIPTION:田徑 - 女子撐竿跳高資格賽\n🇬🇷 Aikaterini STEFANIDI\n🇨🇦 Alysha
-  NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica MOSER\n🇨🇦 Anicka
-  NEWELL\n🇩🇪 Anjuli KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇺🇸 Bridget
-  WILLIAMS\n🇺🇸 Brynn KING\n🇬🇷 Eleni-Klaoudia POLAK\n🇫🇮 Elina
-  LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇭🇺 Hanga
-  KLEKNER\n🇬🇧 Holly BRADSHAW\n🇳🇿 Imogen AYRIS\n🇧🇷 Juliana de MENIS
-  CAMPOS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie
-  BONNIN\n🇬🇧 Molly CAUDERY\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇨🇳
-  NIU Chunge\n🇳🇿 Olivia McTAGGART\n🇨🇭 Pascale STOCKLIN\n🇻🇪 Robeilys
-  PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
-SUMMARY:🏃 女子撐竿跳高資格賽
-LOCATION:法蘭西體育場
+UID:20240804T110000Z-shooting-252
+DTSTAMP:20240804T110000Z
+DTSTART:20240804T110000Z
+DTEND:20240804T150000Z
+DESCRIPTION:射擊 - 男子25米手槍速射資格賽第2輪\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪
+  Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪
+  Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry
+  Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
+  SANDERSON\n🇨🇺 Leuris PUPO\n🇨🇳 LI Yuehong\n🇺🇦 Maksym
+  HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej
+  RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦
+  Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
+  LUNEV\n🇦🇺 Sergei EVGLEVSKI\n🇰🇷 SONG Jong-Ho\n🇮🇳 Vijayveer
+  SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 男子25米手槍速射資格賽第2輪
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T191500Z-athletics-5000
-DTSTAMP:20240805T191500Z
-DTSTART:20240805T191500Z
-DTEND:20240805T193200Z
-DESCRIPTION:田徑 - 女子5000米決賽\n🇰🇪 Beatrice CHEBET\n🇪🇹 Ejgayehu TAYE\n🇺🇸
-  Elise CRANNY\n🇰🇪 Faith KIPYEGON\n🇧🇮 Francine NIYOMUKUNZI\n🇪🇹 Gudaf
-  TSEGAY\n🇻🇪 Joselyn Daniely BREA\n🇺🇸 Karissa SCHWEIZER\n🇳🇴 Karoline
-  Bjerkeli GROVDAL\n🇰🇪 Margaret Chelimo KIPKEMBOI\n🇪🇹 Medina EISA\n🇮🇹
-  Nadia BATTOCLETTI\n🇫🇮 Nathalie BLOMQVIST\n🇦🇺 Rose DAVIES\n🇳🇱 Sifan
-  HASSAN\n🇺🇸 Whittni MORGAN
-SUMMARY:🏃 女子5000米決賽
-LOCATION:法蘭西體育場
+UID:20240805T120000Z-equestrian-
+DTSTAMP:20240805T120000Z
+DTSTART:20240805T120000Z
+DTEND:20240805T160000Z
+DESCRIPTION:馬術 - 個人場地障礙預賽\n🇦🇪 Abdullah Mohd AL MARRI\n🇸🇦 Abdulrahman
+  ALRAJHI\n🇵🇱 Adam GRZEGORZEWSKI\n🇨🇱 Agustin COVARRUBIAS\n🇸🇾 Amre
+  HAMCHO\n🇩🇰 Andreas SCHOU\n🇲🇽 Andres AZCARRAGA\n🇱🇹 Andrius
+  PETROVAS\n🇬🇧 Ben MAHER\n🇩🇪 Christian KUKUK\n🇮🇪 Cian O'CONNOR\n🇮🇱
+  Daniel BLUMAN\n🇮🇪 Daniel COYLE\n🇵🇱 Dawid KUBIAK\n🇵🇹 Duarte
+  SEABRA\n🇨🇭 Edouard SCHMITZ\n🇪🇸 Eduardo ALVAREZ AZNAR\n🇦🇺 Edwina
+  TOPS-ALEXANDER\n🇮🇹 Emanuele CAMILLI\n🇨🇦 Erynn BALLARD\n🇲🇽 Eugenio
+  GARZA PEREZ\n🇲🇽 Federico FERNANDEZ\n🇦🇹 Gerfried PUCK\n🇧🇪 Gilles
+  THOMAS\n🇧🇪 Gregory WATHELET\n🇯🇵 HAASE SHIBAYAMA Takashi\n🇳🇱 Harrie
+  SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik von ECKERMANN\n🇦🇺 Hilary
+  SCOTT\n🇬🇷 Ioli MYTILINEOU\n🇮🇱 Isabella RUSSEKOFF\n🇪🇸 Ismael GARCIA
+  ROQUE\n🇹🇭 Janakabhorn KARUNAYADHAJ\n🇧🇪 Jerome GUERY\n🇦🇷 Jose Maria
+  (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇦🇹 Katharina
+  RHOMBERG\n🇸🇦 Khaled ALMOBTY\n🇳🇱 Kim EMMEN\n🇱🇻 Kristaps
+  NERETNIEKS\n🇺🇸 Laura KRAUT\n🇻🇪 Luis Fernando LARRAZABAL\n🇳🇱 Maikel
+  van der VLEUTEN\n🇵🇱 Maksymilian WECHTA\n🇨🇦 Mario DESLAURIERS\n🇨🇭
+  Martin FUCHS\n🇦🇹 Max KUEHNER\n🇺🇸 McLain WARD\n🇪🇪 My RELANDER\n🇫🇷
+  Olivier PERREAU\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇸🇪 Peder
+  FREDRICSON\n🇩🇪 Philipp WEISHAUPT\n🇸🇦 Ramzy AL DUHAMI\n🇨🇴 Rene LOPEZ
+  LIZARAZO\n🇩🇪 Richard VOGEL\n🇮🇱 Robin MUHR\n🇧🇷 Rodrigo PESSOA\n🇸🇪
+  Rolf-Goran BENGTSSON\n🇦🇪 Salim Ahmed AL SUWAIDI\n🇯🇵 SATO Eiken\n🇬🇧
+  Scott BRASH\n🇪🇸 Sergio ALVAREZ MOYA\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon
+  DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇯🇵
+  SUGITANI Taizo\n🇦🇺 Thaisa ERWIN\n🇨🇦 Tiffany FOSTER\n🇳🇴 Victoria
+  GULLIKSEN\n🇧🇷 Yuri MANSUR
+SUMMARY:🏇 個人場地障礙預賽
+LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T080500Z-athletics-15001
-DTSTAMP:20240806T080500Z
-DTSTART:20240806T080500Z
-DTEND:20240806T083400Z
-DESCRIPTION:田徑 - 女子1500米第1輪\n🇯🇲 Adelle TRACEY\n🇫🇷 Agathe
-  GUILLEMOT\n🇪🇸 Agueda MARQUES\n🇵🇱 Aleksandra PLOCINSKA\n🇪🇹 Birke
-  HAYLOM\n🇮🇪 Ciara MAGEEAN\n🇪🇹 Diribe WELTEJI\n🇧🇪 Elise
-  VANDERELST\n🇺🇸 Elle ST. PIERRE\n🇺🇸 Emily MACKAY\n🇪🇸 Esther
-  GUERRERO\n🇰🇪 Faith KIPYEGON\n🏳️ Farida ABAROGE\n🇮🇹 Federica del
-  BUONO\n🇬🇧 Georgia BELL\n🇦🇺 Georgia GRIFFITH\n🇯🇵 GOTO Yume\n🇪🇹
-  Gudaf TSEGAY\n🇦🇺 Jessica HULL\n🇻🇪 Joselyn Daniely BREA\n🇨🇦 Kate
-  CURRENT\n🇵🇱 Klaudia KAZIMIERSKA\n🇨🇿 Kristiina SASINEK MAKI\n🇬🇧
-  Laura MUIR\n🇦🇺 Linden HALL\n🇨🇦 Lucia STAFFORD\n🇮🇹 Ludovica
-  CAVALLI\n🇳🇿 Maia RAMSDEN\n🇺🇾 Maria Pia FERNANDEZ\n🇪🇸 Marta
-  PEREZ\n🇩🇪 Nele WESSEL\n🇰🇪 Nelly CHEPCHIRCHIR\n🇺🇸 Nikki HILTZ\n🇬🇧
-  Revee WALCOTT-NOLAN\n🇵🇹 Salome AFONSO\n🇫🇮 Sara LAPPALAINEN\n🇮🇪
-  Sarah HEALY\n🇨🇦 Simone PLOURDE\n🇮🇹 Sintayehu VISSA\n🇮🇪 Sophie
-  O'SULLIVAN\n🇰🇪 Susan Lokayo EJORE\n🇯🇵 TANAKA Nozomi\n🇱🇺 Vera
-  HOFFMANN\n🇵🇱 Weronika LIZAKOWSKA\n🇺🇬 Winnie NANYONDO
-SUMMARY:🏃 女子1500米第1輪
-LOCATION:法蘭西體育場
+UID:20240805T132100Z-wrestling-6018-VEN-AZE
+DTSTAMP:20240805T132100Z
+DTSTART:20240805T132100Z
+DTEND:20240805T132800Z
+DESCRIPTION:摔跤 - 男子古典式60公斤級1/8決賽
+SUMMARY:🤼 Raiber Jose RODRIGUEZ OROZCO 🇻🇪 - 🇦🇿 Murad MAMMADOV
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T175700Z-athletics-
-DTSTAMP:20240806T175700Z
-DTSTART:20240806T175700Z
-DTEND:20240806T190700Z
-DESCRIPTION:田徑 - 女子鏈球決賽\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Annette Nneka
-  ECHIKUNWOKE\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸
-  Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista
-  TERVO\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja
-  KOSONEN\n🇨🇳 ZHAO Jie
-SUMMARY:🏃 女子鏈球決賽
-LOCATION:法蘭西體育場
+UID:20240805T134200Z-wrestling-6818-VEN-JPN
+DTSTAMP:20240805T134200Z
+DTSTART:20240805T134200Z
+DTEND:20240805T134900Z
+DESCRIPTION:摔跤 - 女子自由式68公斤級1/8決賽
+SUMMARY:🤼 Soleymi Antoni. CARABALLO HERNANDEZ 🇻🇪 - 🇯🇵 OZAKI Nonoka
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T081000Z-taekwondo-5816-KOR-VEN
-DTSTAMP:20240807T081000Z
-DTSTART:20240807T081000Z
-DTEND:20240807T082200Z
-DESCRIPTION:跆拳道 - 男子58公斤級16強賽
-SUMMARY:🥋 PARK Taejoon 🇰🇷 - 🇻🇪 Yohandri GRANADO
-LOCATION:巴黎大皇宮
+UID:20240805T141000Z-wrestling-6014-VEN-CHN
+DTSTAMP:20240805T141000Z
+DTSTART:20240805T141000Z
+DTEND:20240805T141700Z
+DESCRIPTION:摔跤 - 男子古典式60公斤級1/4決賽
+SUMMARY:🤼 Raiber Jose RODRIGUEZ OROZCO 🇻🇪 - 🇨🇳 CAO Liguo
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T090000Z-wrestling-60-EGY-VEN
+DTSTAMP:20240806T090000Z
+DTSTART:20240806T090000Z
+DTEND:20240806T090700Z
+DESCRIPTION:摔跤 - 男子古典式60公斤復活賽
+SUMMARY:🤼 Moamen MOHAMED 🇪🇬 - 🇻🇪 Raiber Jose RODRIGUEZ OROZCO
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-49
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:舉重 - 女子49公斤級\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹🇼 FANG
+  Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan DELACRUZ\n🇻🇪 Katherin ECHANDIA
+  ZARATE\n🇷🇴 Mihaela Valentina CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺
+  Nicola Velasco LAGATAO\n🇧🇪 Nina STERCKX\n🇲🇬 Rosina
+  RANDAFIARISON\n🇹🇭 Surodchana KHAMBAO\n🇯🇵 SUZUKI Rira
+SUMMARY:🏋 女子49公斤級
+LOCATION:南巴黎競技場6號館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T130000Z-weightlifting-59
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:舉重 - 女子59公斤級\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷 Dora
+  TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇺🇦 Kamila
+  KONOTOP\n🇹🇼 KUO Hsing-Chun\n🇮🇹 Lucrezia MAGISTRIS\n🇨🇳 LUO
+  Shifang\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu Folashade
+  LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 女子59公斤級
+LOCATION:南巴黎競技場6號館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:舉重 - 男子73公斤級\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin KINGUE
+  MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA PERNIA\n🇹🇳
+  Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO Masanori\n🇹🇷 Muhammed
+  OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki JUNIANSYAH\n🇨🇳 SHI
+  Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 男子73公斤級
+LOCATION:南巴黎競技場6號館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting-89
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:舉重 - 男子89公斤級\n🇦🇲 Andranik KARAPETYAN\n🇮🇹 Antonino
+  PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos May
+  NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇨🇴
+  Yeison LOPEZ\n🇰🇷 YU Dongju
+SUMMARY:🏋 男子89公斤級
+LOCATION:南巴黎競技場6號館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T093000Z-weightlifting-81
+DTSTAMP:20240811T093000Z
+DTSTART:20240811T093000Z
+DTEND:20240811T120000Z
+DESCRIPTION:舉重 - 女子81公斤以上級\n🇩🇴 Crismery SANTANA PEGUERO\n🇹🇭 Duangaksorn
+  CHAIDEE\n🇬🇧 Emily CAMPBELL\n🇪🇬 Halima ABBAS\n🇼🇸 Iuniarra
+  SIPAIA\n🇨🇳 LI Wenwen\n🇪🇨 Lisseth Betzaida AYOVI CABEZAS\n🇺🇸 Mary
+  THEISEN LAPPEN\n🇻🇪 Naryury PEREZ REVERON\n🇮🇩 Nurul AKMAL\n🇰🇷 PARK
+  Hyejeong\n🇺🇿 Tursunoy JABBOROVA
+SUMMARY:🏋 女子81公斤以上級
+LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

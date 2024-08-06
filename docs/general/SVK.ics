@@ -42,21 +42,51 @@ SUMMARY:巴黎2024 - 開幕式
 LOCATION:巴黎
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T183500Z-athletics-800
-DTSTAMP:20240804T183500Z
-DTSTART:20240804T183500Z
-DTEND:20240804T185700Z
-DESCRIPTION:田徑 - 女子800米半決賽\n🇦🇺 Abbey CALDWELL\n🇫🇷 Anais BOURGOIN\n🇦🇺
-  Claudia HOLLINGSWORTH\n🇨🇺 Daily COOPER GASPAR\n🇸🇰 Gabriela
-  GAJANOVA\n🇬🇧 Jemma REEKIE\n🇺🇸 Juliette WHITTAKER\n🇬🇧 Keely
-  HODGKINSON\n🇰🇪 Lilian ODIRA\n🇩🇪 Majtie KOLBERG\n🇰🇪 Mary MORAA\n🇯🇲
-  Natoya GOULE-TOPPIN\n🇺🇸 Nia AKINS\n🇧🇯 Noelie YARIGO\n🇬🇧 Phoebe
-  GILL\n🇿🇦 Prudence SEKGODISO\n🇨🇭 Rachel PELLAUD\n🇫🇷 Renelle
-  LAMOTE\n🇨🇺 Rose Mary ALMANZA\n🇻🇨 Shafiqua MALONEY\n🇪🇹 Tsige
-  DUGUMA\n🇨🇭 Valentina ROSAMILIA\n🇰🇪 Vivian Chebet KIPROTICH\n🇪🇹
-  Worknesh MESELE
-SUMMARY:🏃 女子800米半決賽
-LOCATION:法蘭西體育場
+UID:20240803T070000Z-shooting--1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:射擊 - 女子雙向飛碟資格賽 - 第1天\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+  RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
+  SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
+  Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
+  Emmanouela KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇲🇽 Gabriela
+  RODRIGUEZ\n🇧🇷 Georgia FURQUIM BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG
+  Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾 Konstantia NIKOLAOU\n🇫🇷 Lucie
+  ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
+  Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
+  CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 女子雙向飛碟資格賽 - 第1天
+LOCATION:沙託魯射擊中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T073000Z-shooting--2
+DTSTAMP:20240804T073000Z
+DTSTART:20240804T073000Z
+DTEND:20240804T123000Z
+DESCRIPTION:射擊 - 女子雙向飛碟資格賽 - 第2天\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+  RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
+  SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
+  Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
+  Emmanouela KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇲🇽 Gabriela
+  RODRIGUEZ\n🇧🇷 Georgia FURQUIM BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG
+  Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾 Konstantia NIKOLAOU\n🇫🇷 Lucie
+  ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
+  Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
+  CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 女子雙向飛碟資格賽 - 第2天
+LOCATION:沙託魯射擊中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T133000Z-shooting-
+DTSTAMP:20240804T133000Z
+DTSTART:20240804T133000Z
+DTEND:20240804T144500Z
+DESCRIPTION:射擊 - 女子雙向飛碟決賽\n🇬🇧 Amber Jo RUTTER\n🇺🇸 Austen Jewell
+  SMITH\n🇸🇰 Danka BARTEKOVA\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇸🇰 Vanesa HOCKOVA
+SUMMARY:🔫 女子雙向飛碟決賽
+LOCATION:沙託魯射擊中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
