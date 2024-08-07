@@ -4,6 +4,24 @@ PRODID:-//fabrice404//olympics-calendar//volleyball/DOM//EN
 X-WR-CALNAME:🇩🇴 多明尼加共和國 排球 | 巴黎2024
 NAME:🇩🇴 多明尼加共和國 排球 | 巴黎2024
 BEGIN:VEVENT
+UID:20240728T070000Z-volleyball--C-ITA-DOM
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T091500Z
+DESCRIPTION:排球 - 女子預賽 - C組
+SUMMARY:🏐 ITA 🇮🇹 - 🇩🇴 DOM
+LOCATION:南巴黎競技場1號館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-volleyball--C-TUR-DOM
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T091500Z
+DESCRIPTION:排球 - 女子預賽 - C組
+SUMMARY:🏐 TUR 🇹🇷 - 🇩🇴 DOM
+LOCATION:南巴黎競技場1號館
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T070000Z-volleyball--C-NED-DOM
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z
