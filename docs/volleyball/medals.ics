@@ -8,7 +8,7 @@ UID:20240809T140000Z-volleyball-
 DTSTAMP:20240809T140000Z
 DTSTART:20240809T140000Z
 DTEND:20240809T161500Z
-DESCRIPTION:排球 - 男子銅牌賽
+DESCRIPTION:排球 - 男子銅牌賽\n🇺🇸 USA
 SUMMARY:🏐 男子銅牌賽
 LOCATION:南巴黎競技場1號館
 END:VEVENT
@@ -17,7 +17,7 @@ UID:20240810T110000Z-volleyball-
 DTSTAMP:20240810T110000Z
 DTSTART:20240810T110000Z
 DTEND:20240810T131500Z
-DESCRIPTION:排球 - 男子金牌賽
+DESCRIPTION:排球 - 男子金牌賽\n🇵🇱 POL
 SUMMARY:🏐 男子金牌賽
 LOCATION:南巴黎競技場1號館
 END:VEVENT
