@@ -184,12 +184,12 @@ SUMMARY:🏓 CHN 🇨🇳 - 🇰🇷 KOR
 LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T130000Z-table-tennis-
+UID:20240808T130000Z-table-tennis--CHN-KOR
 DTSTAMP:20240808T130000Z
 DTSTART:20240808T130000Z
 DTEND:20240808T160000Z
-DESCRIPTION:乒乓球 - 女子團體半決賽\n🇰🇷 KOR
-SUMMARY:🏓 女子團體半決賽
+DESCRIPTION:乒乓球 - 女子團體半決賽
+SUMMARY:🏓 CHN 🇨🇳 - 🇰🇷 KOR
 LOCATION:南巴黎競技場4號館
 END:VEVENT
 END:VCALENDAR
