@@ -173,4 +173,18 @@ DESCRIPTION:場地自行車 - 男子團體追逐賽金牌賽
 SUMMARY:🚴 AUS 🇦🇺 - 🇬🇧 GBR
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T151800Z-cycling-track-14
+DTSTAMP:20240808T151800Z
+DTSTART:20240808T151800Z
+DTEND:20240808T153800Z
+DESCRIPTION:場地自行車 - 女子凱林賽1/4決賽\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse
+  ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma HINZE\n🇨🇳 GUO Yufang\n🇳🇱 Hetty
+  van de WOUW\n🇬🇧 Katy MARCHANT\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina
+  CLONAN\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea FRIEDRICH\n🇫🇷 Mathilde
+  GROS\n🇧🇪 Nicky DEGRENDELE\n🇯🇵 OHTA Riyu\n🇳🇿 Rebecca PETCH\n🇯🇵
+  SATO Mina\n🇳🇱 Steffie van der PEET\n🇨🇳 YUAN Liying
+SUMMARY:🚴 女子凱林賽1/4決賽
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
 END:VCALENDAR
