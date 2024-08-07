@@ -211,12 +211,12 @@ SUMMARY:🏓 JPN 🇯🇵 - 🇸🇪 SWE
 LOCATION:南巴黎競技場4號館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T180000Z-table-tennis-
+UID:20240808T180000Z-table-tennis--GER-JPN
 DTSTAMP:20240808T180000Z
 DTSTART:20240808T180000Z
 DTEND:20240808T210000Z
-DESCRIPTION:乒乓球 - 女子團體半決賽\n🇯🇵 JPN
-SUMMARY:🏓 女子團體半決賽
+DESCRIPTION:乒乓球 - 女子團體半決賽
+SUMMARY:🏓 GER 🇩🇪 - 🇯🇵 JPN
 LOCATION:南巴黎競技場4號館
 END:VEVENT
 END:VCALENDAR
