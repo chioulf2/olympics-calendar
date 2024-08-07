@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//modern-pentathlon/BRA//EN
+X-WR-CALNAME:🇧🇷 巴西 現代五項 | 巴黎2024
+NAME:🇧🇷 巴西 現代五項 | 巴黎2024
+BEGIN:VEVENT
+UID:20240808T123000Z-modern-pentathlon-
+DTSTAMP:20240808T123000Z
+DTSTART:20240808T123000Z
+DTEND:20240808T153000Z
+DESCRIPTION:現代五項 - 女子個人擊劍排名賽\n🇮🇹 Alice SOTERO\n🇺🇿 Alise
+  FAKHRUTDINOVA\n🇨🇭 Anna JURT\n🇵🇱 Anna MALISZEWSKA\n🇩🇪 Annika
+  ZILLEKENS\n🇭🇺 Blanka GUZI\n🇮🇹 Elena MICHELI\n🇫🇷 Elodie
+  CLOUVEL\n🇦🇺 Genevieve JANSE van RENSBURG\n🇱🇹 Gintare
+  VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇧🇷 Isabela ABREU\n🇺🇸 Jessica
+  SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza BRYSON\n🇰🇷 KIM Sunwoo\n🇱🇹
+  Laura ASADAUSKAITE\n🇪🇸 Laura HEREDIA\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
+  ISMAIL\n🇲🇽 Mariana ARCEO\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽
+  Mayan OLIVER\n🇭🇺 Michelle GULYAS\n🇵🇱 Natalia DOMINIAK\n🇩🇪 Rebecca
+  LANGREHR\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇷 SEONG Seungmin\n🇪🇨 Sol
+  NARANJO\n🇬🇹 Sophia HERNANDEZ\n🇯🇵 UCHIDA Misaki\n🇺🇦 Valeriia
+  PERMYKINA\n🇨🇿 Veronika NOVOTNA\n🇰🇿 Yelena POTAPENKO\n🇨🇳 ZHANG
+  Mingyu
+SUMMARY:🤺 女子個人擊劍排名賽
+LOCATION:北巴黎競技場
+END:VEVENT
+END:VCALENDAR
