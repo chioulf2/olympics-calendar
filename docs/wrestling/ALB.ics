@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/ALB//EN
+X-WR-CALNAME:🇦🇱 阿爾巴尼亞 摔跤 | 巴黎2024
+NAME:🇦🇱 阿爾巴尼亞 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240808T093500Z-wrestling-5718-GBS-ALB
+DTSTAMP:20240808T093500Z
+DTSTART:20240808T093500Z
+DTEND:20240808T094200Z
+DESCRIPTION:摔跤 - 男子自由式57公斤級1/8決賽
+SUMMARY:🤼 Diamantino IUNA FAFE 🇬🇼 - 🇦🇱 Zelimkhan ABAKAROV
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

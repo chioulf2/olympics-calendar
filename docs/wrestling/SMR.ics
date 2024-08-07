@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/SMR//EN
+X-WR-CALNAME:🇸🇲 聖馬力諾 摔跤 | 巴黎2024
+NAME:🇸🇲 聖馬力諾 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240808T094200Z-wrestling-8618-SMR-UKR
+DTSTAMP:20240808T094200Z
+DTSTART:20240808T094200Z
+DTEND:20240808T094900Z
+DESCRIPTION:摔跤 - 男子自由式86公斤級1/8決賽
+SUMMARY:🤼 Myles Nazem AMINE 🇸🇲 - 🇺🇦 Vasyl MYKHAILOV
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

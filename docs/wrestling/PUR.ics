@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/PUR//EN
+X-WR-CALNAME:🇵🇷 波多黎各 摔跤 | 巴黎2024
+NAME:🇵🇷 波多黎各 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240808T092100Z-wrestling-5718-PUR-EGY
+DTSTAMP:20240808T092100Z
+DTSTART:20240808T092100Z
+DTEND:20240808T092800Z
+DESCRIPTION:摔跤 - 男子自由式57公斤級1/8決賽
+SUMMARY:🤼 Darian Toi CRUZ 🇵🇷 - 🇪🇬 Gamal MOHAMED
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T095600Z-wrestling-8618-GRE-PUR
+DTSTAMP:20240808T095600Z
+DTSTART:20240808T095600Z
+DTEND:20240808T100300Z
+DESCRIPTION:摔跤 - 男子自由式86公斤級1/8決賽
+SUMMARY:🤼 Dauren KURUGLIEV 🇬🇷 - 🇵🇷 Ethan Adrian RAMOS
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR
