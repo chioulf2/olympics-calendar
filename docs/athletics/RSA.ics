@@ -598,7 +598,7 @@ DTSTART:20240809T090500Z
 DTEND:20240809T092100Z
 DESCRIPTION:田徑 - 男子4x400米接力第1輪\n🇧🇷 BRA\n🇯🇵 JPN\n🇧🇪 BEL\n🇳🇬
   尼日利亞\n🇮🇳 IND\n🇪🇸 ESP\n🇫🇷 FRA\n🇵🇱 POL\n🇿🇦 RSA\n🇺🇸 USA\n🇬🇧
-  GBR\n🇹🇹 TTO\n🇧🇼 BOT\n🇮🇹 ITA\n🇩🇪 GER
+  GBR\n🇹🇹 TTO\n🇧🇼 BOT\n🇮🇹 ITA\n🇩🇪 GER\n🇿🇲 ZAM
 SUMMARY:🏃 男子4x400米接力第1輪
 LOCATION:法蘭西體育場
 END:VEVENT
@@ -616,6 +616,22 @@ DESCRIPTION:田徑 - 男子800米半決賽\n🇸🇪 Andreas KRAMER\n🇬🇧 Be
   Mohamed ATTAOUI\n🇦🇺 Peyton CRAIG\n🇮🇹 Simone BARONTINI\n🇳🇴 Tobias
   GRONSTAD\n🇧🇼 Tshepiso MASALELA\n🇰🇪 Wyclife KINYAMAL
 SUMMARY:🏃 男子800米半決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T100500Z-athletics-100
+DTSTAMP:20240809T100500Z
+DTSTART:20240809T100500Z
+DTEND:20240809T102200Z
+DESCRIPTION:田徑 - 女子100米跨欄半決賽\n🇯🇲 Ackera NUGENT\n🇺🇸 Alaysha
+  JOHNSON\n🇧🇸 Charisma TAYLOR\n🇬🇧 Cindy SEMBER\n🇫🇷 Cyrena
+  SAMBA-MAYELA\n🇯🇲 Danielle WILLIAMS\n🇧🇸 Devynne CHARLTON\n🇨🇭 Ditaji
+  KAMBUNDJI\n🇱🇷 Ebony MORRISON\n🇯🇵 FUKUBE Mako\n🇺🇸 Grace STARK\n🇯🇲
+  Janeek BROWN\n🇵🇷 Jasmine CAMACHO-QUINN\n🇫🇮 Lotta HARALA\n🇳🇱 Maayke
+  TJIN-A-LIM\n🇨🇦 Mariam ABDUL-RASHID\n🇪🇨 Maribel Vanessa CAICEDO\n🇿🇦
+  Marione FOURIE\n🇺🇸 Masai RUSSELL\n🇳🇱 Nadine VISSER\n🇵🇱 Pia
+  SKRZYSZOWSKA\n🇮🇪 Sarah LAVIN\n🇯🇵 TANAKA Yumi\n🇳🇬 Tobi AMUSAN
+SUMMARY:🏃 女子100米跨欄半決賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
