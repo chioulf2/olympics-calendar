@@ -454,6 +454,53 @@ SUMMARY:🏊 男子100米自由泳決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T060000Z-athletics-20
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
+DESCRIPTION:田徑 - 男子20公里競走決賽\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro MARTIN\n🇵🇱
+  Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence VENYERCSAN\n🇪🇨
+  Brian Daniel PINTADO\n🇧🇷 Caio BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar
+  Augusto RODRIGUEZ\n🇰🇷 CHOE Byeongkwang\n🇩🇪 Christopher LINKE\n🇪🇨
+  David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego GARCIA CARRERA\n🇸🇰
+  Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦 Evan DUNFEE\n🇮🇹
+  Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵 HAMANISHI Ryo\n🇺🇦 Ihor
+  HLAVAN\n🇯🇵 IKEDA Koki\n🇪🇨 Jordy Rafael JIMENEZ ARROBO\n🇬🇹 Jose
+  Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵 KOGA Yuta\n🇦🇺 Kyle
+  SWAN\n🇩🇪 Leo KOEPP\n🇨🇳 LI Yandong\n🇵🇪 Luis Henry CAMPOS\n🇵🇱 Maher
+  BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate HELEBRANDT\n🇧🇷 Matheus
+  CORREA\n🇧🇷 Max Batista GONCALVES dos SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽
+  Noel CHAMA\n🇮🇳 Paramjeet Singh BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus
+  KARLSTROM\n🇦🇺 Rhydian COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo
+  ORSONI\n🇹🇷 Salih KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti
+  PARTANEN\n🇮🇳 Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
+SUMMARY:🏃 男子20公里競走決賽
+LOCATION:特羅卡德羅
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics-20
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:田徑 - 女子20公里競走決賽\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
+  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
+  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
+  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
+  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
+  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
+  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇪🇸 Laura
+  GARCIA-CARO\n🇨🇳 LIU Hong\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
+  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
+  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
+  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇪🇨
+  Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇮🇳 PRIYANKA\n🇵🇷 Rachelle de
+  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
+  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
+  Viviane LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 女子20公里競走決賽
+LOCATION:特羅卡德羅
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T101000Z-rowing-A
 DTSTAMP:20240801T101000Z
 DTSTART:20240801T101000Z
@@ -708,6 +755,21 @@ SUMMARY:🏊 女子800米自由泳決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T194500Z-athletics-1500
+DTSTAMP:20240803T194500Z
+DTSTART:20240803T194500Z
+DTEND:20240803T195000Z
+DESCRIPTION:田徑 - 男子十項全能1500米\n🇵🇷 Ayden OWENS-DELERME\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十項全能1500米
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T195800Z-swimming-4X100
 DTSTAMP:20240803T195800Z
 DTSTART:20240803T195800Z
@@ -814,6 +876,19 @@ SUMMARY:🏊 女子4x100米混合泳接力決賽
 LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T175500Z-athletics-
+DTSTAMP:20240804T175500Z
+DTSTART:20240804T175500Z
+DTEND:20240804T194000Z
+DESCRIPTION:田徑 - 女子跳高決賽\n🇷🇸 Angelina TOPIC\n🇹🇷 Buse SAVASKAN\n🇩🇪
+  Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena KULICHENKO\n🇺🇦
+  Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola OLYSLAGERS\n🇺🇿
+  Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia MARTINS\n🇺🇸
+  Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
+SUMMARY:🏃 女子跳高決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T060000Z-triathlon-
 DTSTAMP:20240805T060000Z
 DTSTART:20240805T060000Z
@@ -833,6 +908,33 @@ DESCRIPTION:皮劃艇激流回旋 - 女子極限皮艇決賽\n🇫🇷 Angele HU
   Kimberley WOODS\n🇦🇺 Noemie FOX
 SUMMARY:🛶 女子極限皮艇決賽
 LOCATION:馬恩河畔韋爾水上體育場 - 激流回旋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170000Z-athletics-
+DTSTAMP:20240805T170000Z
+DTSTART:20240805T170000Z
+DTEND:20240805T192700Z
+DESCRIPTION:田徑 - 男子撐竿跳高決賽\n🇸🇪 Armand DUPLANTIS\n🇩🇪 Bo Kanda LITA
+  BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
+  SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱 Menno VLOON\n🇩🇪
+  Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre GUTTORMSEN\n🇱🇻 Valters
+  KREISS
+SUMMARY:🏃 男子撐竿跳高決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T191500Z-athletics-5000
+DTSTAMP:20240805T191500Z
+DTSTART:20240805T191500Z
+DTEND:20240805T193200Z
+DESCRIPTION:田徑 - 女子5000米決賽\n🇰🇪 Beatrice CHEBET\n🇪🇹 Ejgayehu TAYE\n🇺🇸
+  Elise CRANNY\n🇰🇪 Faith KIPYEGON\n🇧🇮 Francine NIYOMUKUNZI\n🇪🇹 Gudaf
+  TSEGAY\n🇻🇪 Joselyn Daniely BREA\n🇺🇸 Karissa SCHWEIZER\n🇳🇴 Karoline
+  Bjerkeli GROVDAL\n🇰🇪 Margaret Chelimo KIPKEMBOI\n🇪🇹 Medina EISA\n🇮🇹
+  Nadia BATTOCLETTI\n🇫🇮 Nathalie BLOMQVIST\n🇦🇺 Rose DAVIES\n🇳🇱 Sifan
+  HASSAN\n🇺🇸 Whittni MORGAN
+SUMMARY:🏃 女子5000米決賽
+LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T001600Z-surfing--FRA-AUS
@@ -918,6 +1020,21 @@ SUMMARY:🛹 男子公園賽決賽
 LOCATION:協和廣場4號場地
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T161500Z-athletics-
+DTSTAMP:20240807T161500Z
+DTSTART:20240807T161500Z
+DTEND:20240807T193000Z
+DESCRIPTION:田徑 - 女子撐竿跳高決賽\n🇬🇷 Aikaterini STEFANIDI\n🇨🇦 Alysha
+  NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica MOSER\n🇩🇪 Anjuli
+  KNAESCHE\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza
+  McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud
+  RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon
+  CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta
+  BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
+SUMMARY:🏃 女子撐竿跳高決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T163300Z-cycling-track--AUS-GBR
 DTSTAMP:20240807T163300Z
 DTSTART:20240807T163300Z
@@ -935,6 +1052,19 @@ DESCRIPTION:花樣游泳 - 集體技巧自選\n🇨🇳 CHN\n🇯🇵 JPN\n🇨�
   FRA\n🇺🇸 USA\n🇪🇬 EGY\n🇮🇹 ITA\n🇲🇽 MEX\n🇦🇺 AUS
 SUMMARY:🏊 集體技巧自選
 LOCATION:水上運動中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T182500Z-athletics-
+DTSTAMP:20240807T182500Z
+DTSTART:20240807T182500Z
+DTEND:20240807T193500Z
+DESCRIPTION:田徑 - 男子鐵餅決賽\n🇼🇸 Alex ROSE\n🇷🇴 Alin Alexandru
+  FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪 Daniel
+  STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
+  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
+  Traves SMIKLE
+SUMMARY:🏃 男子鐵餅決賽
+LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T053000Z-marathon-swimming-10
@@ -1040,6 +1170,19 @@ SUMMARY:🏋 女子71公斤級
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T181300Z-athletics-
+DTSTAMP:20240809T181300Z
+DTSTART:20240809T181300Z
+DTEND:20240809T193800Z
+DESCRIPTION:田徑 - 男子三級跳遠決賽\n🇧🇷 Almir dos SANTOS\n🇮🇹 Andy DIAZ
+  HERNANDEZ\n🇦🇺 Connor MURPHY\n🇧🇫 Hugues Fabrice ZANGO\n🇯🇲 Jaydon
+  HIBBERT\n🇪🇸 Jordan Alejandro DIAZ FORTUN\n🇨🇺 Lazaro MARTINEZ\n🇩🇪
+  Max HESS\n🇵🇹 Pedro PICHARDO\n🇺🇸 Salif MANE\n🇩🇿 Yasser Mohammed
+  TRIKI\n🇨🇳 ZHU Yaming
+SUMMARY:🏃 男子三級跳遠決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T140000Z-weightlifting-81
 DTSTAMP:20240810T140000Z
 DTSTART:20240810T140000Z
@@ -1063,5 +1206,33 @@ DESCRIPTION:花樣游泳 - 雙人自由自選\n🇨🇳 CHN\n🇯🇵 JPN\n🇮�
   NED\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇲🇽 MEX\n🇦🇺 AUS\n🇰🇷 KOR
 SUMMARY:🏊 雙人自由自選
 LOCATION:水上運動中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-athletics-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T184800Z
+DESCRIPTION:田徑 - 女子標槍決賽\n🇬🇷 Elina TZENGKO\n🇨🇴 Flor Denis RUIZ
+  HURTADO\n🇿🇦 Jo-Ane van DYK\n🇦🇺 Kathryn MITCHELL\n🇯🇵 KITAGUCHI
+  Haruka\n🇦🇺 Mackenzie LITTLE\n🇵🇱 Maria ANDREJCZYK\n🇳🇴 Marie-Therese
+  OBST\n🇨🇿 Nikola OGRODNIKOVA\n🇭🇷 Sara KOLAK\n🇯🇵 UEDA Momone\n🇪🇸
+  Yulenmis AGUILAR
+SUMMARY:🏃 女子標槍決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T175000Z-athletics-5000
+DTSTAMP:20240810T175000Z
+DTSTART:20240810T175000Z
+DTEND:20240810T180500Z
+DESCRIPTION:田徑 - 男子5000米決賽\n🇪🇹 Addisu YIHUNE\n🇪🇹 Biniam MEHARY\n🇪🇷
+  Dawit SEARE\n🏳️ Dominic Lokinyomo LOBALU\n🇰🇪 Edwin KURGAT\n🇬🇧 George
+  MILLS\n🇺🇸 Graham BLANKS\n🇺🇸 Grant FISHER\n🇪🇹 Hagos GEBRHIWET\n🇫🇷
+  Hugo HAY\n🇧🇪 Isaac KIMELI\n🇰🇪 Jacob KROP\n🇳🇴 Jakob
+  INGEBRIGTSEN\n🇧🇪 John HEYMANS\n🇳🇱 Mike FOPPEN\n🇳🇴 Narve Gilje
+  NORDAS\n🇺🇬 Oscar CHELIMO\n🇰🇪 Ronald KWEMOI\n🇦🇺 Stewart
+  McSWEYN\n🇪🇸 Thierry NDIKUMWENAYO\n🇨🇦 Thomas FAFARD\n🇫🇷 Yann SCHRUB
+SUMMARY:🏃 男子5000米決賽
+LOCATION:法蘭西體育場
 END:VEVENT
 END:VCALENDAR

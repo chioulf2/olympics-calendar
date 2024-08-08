@@ -44,6 +44,30 @@ SUMMARY:🚴 男子越野賽
 LOCATION:埃朗庫爾山
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T060000Z-athletics-20
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
+DESCRIPTION:田徑 - 男子20公里競走決賽\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro MARTIN\n🇵🇱
+  Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence VENYERCSAN\n🇪🇨
+  Brian Daniel PINTADO\n🇧🇷 Caio BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar
+  Augusto RODRIGUEZ\n🇰🇷 CHOE Byeongkwang\n🇩🇪 Christopher LINKE\n🇪🇨
+  David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego GARCIA CARRERA\n🇸🇰
+  Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦 Evan DUNFEE\n🇮🇹
+  Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵 HAMANISHI Ryo\n🇺🇦 Ihor
+  HLAVAN\n🇯🇵 IKEDA Koki\n🇪🇨 Jordy Rafael JIMENEZ ARROBO\n🇬🇹 Jose
+  Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵 KOGA Yuta\n🇦🇺 Kyle
+  SWAN\n🇩🇪 Leo KOEPP\n🇨🇳 LI Yandong\n🇵🇪 Luis Henry CAMPOS\n🇵🇱 Maher
+  BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate HELEBRANDT\n🇧🇷 Matheus
+  CORREA\n🇧🇷 Max Batista GONCALVES dos SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽
+  Noel CHAMA\n🇮🇳 Paramjeet Singh BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus
+  KARLSTROM\n🇦🇺 Rhydian COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo
+  ORSONI\n🇹🇷 Salih KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti
+  PARTANEN\n🇮🇳 Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
+SUMMARY:🏃 男子20公里競走決賽
+LOCATION:特羅卡德羅
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T080000Z-equestrian-
 DTSTAMP:20240803T080000Z
 DTSTART:20240803T080000Z
@@ -134,6 +158,20 @@ SUMMARY:🚴 女子公路賽
 LOCATION:特羅卡德羅
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T191500Z-athletics-5000
+DTSTAMP:20240805T191500Z
+DTSTART:20240805T191500Z
+DTEND:20240805T193200Z
+DESCRIPTION:田徑 - 女子5000米決賽\n🇰🇪 Beatrice CHEBET\n🇪🇹 Ejgayehu TAYE\n🇺🇸
+  Elise CRANNY\n🇰🇪 Faith KIPYEGON\n🇧🇮 Francine NIYOMUKUNZI\n🇪🇹 Gudaf
+  TSEGAY\n🇻🇪 Joselyn Daniely BREA\n🇺🇸 Karissa SCHWEIZER\n🇳🇴 Karoline
+  Bjerkeli GROVDAL\n🇰🇪 Margaret Chelimo KIPKEMBOI\n🇪🇹 Medina EISA\n🇮🇹
+  Nadia BATTOCLETTI\n🇫🇮 Nathalie BLOMQVIST\n🇦🇺 Rose DAVIES\n🇳🇱 Sifan
+  HASSAN\n🇺🇸 Whittni MORGAN
+SUMMARY:🏃 女子5000米決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T153000Z-skateboarding-
 DTSTAMP:20240806T153000Z
 DTSTART:20240806T153000Z
@@ -143,6 +181,34 @@ DESCRIPTION:滑板 - 女子公園賽決賽\n🇦🇺 Arisa TREW\n🇺🇸 Bryce 
   Naia LASO\n🇬🇧 Sky BROWN
 SUMMARY:🛹 女子公園賽決賽
 LOCATION:協和廣場4號場地
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T175700Z-athletics-
+DTSTAMP:20240806T175700Z
+DTSTART:20240806T175700Z
+DTEND:20240806T190700Z
+DESCRIPTION:田徑 - 女子鏈球決賽\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Annette Nneka
+  ECHIKUNWOKE\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸
+  Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista
+  TERVO\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja
+  KOSONEN\n🇨🇳 ZHAO Jie
+SUMMARY:🏃 女子鏈球決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T161500Z-athletics-
+DTSTAMP:20240807T161500Z
+DTSTART:20240807T161500Z
+DTEND:20240807T193000Z
+DESCRIPTION:田徑 - 女子撐竿跳高決賽\n🇬🇷 Aikaterini STEFANIDI\n🇨🇦 Alysha
+  NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica MOSER\n🇩🇪 Anjuli
+  KNAESCHE\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza
+  McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud
+  RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon
+  CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta
+  BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
+SUMMARY:🏃 女子撐竿跳高決賽
+LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T101800Z-sailing-17
@@ -155,5 +221,17 @@ DESCRIPTION:帆船 - 男女混合帆船諾卡拉17級獎牌賽\n🇬🇧 GIMSON/
   SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
 SUMMARY:⛵ 男女混合帆船諾卡拉17級獎牌賽
 LOCATION:馬賽港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T182500Z-athletics-
+DTSTAMP:20240808T182500Z
+DTSTART:20240808T182500Z
+DTEND:20240808T193500Z
+DESCRIPTION:田徑 - 男子標槍決賽\n🇬🇩 Anderson PETERS\n🇲🇩 Andrian MARDARE\n🇵🇰
+  Arshad NADEEM\n🇨🇿 Jakub VADLEJCH\n🇩🇪 Julian WEBER\n🇰🇪 Julius
+  YEGO\n🇹🇹 Keshorn WALCOTT\n🇫🇮 Lassi ETELATALO\n🇧🇷 Luiz Mauricio da
+  SILVA\n🇮🇳 Neeraj CHOPRA\n🇫🇮 Oliver HELANDER\n🇫🇮 Toni KERANEN
+SUMMARY:🏃 男子標槍決賽
+LOCATION:法蘭西體育場
 END:VEVENT
 END:VCALENDAR
