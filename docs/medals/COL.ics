@@ -63,29 +63,6 @@ SUMMARY:🚴 女子公園賽決賽
 LOCATION:協和廣場2號場地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T075000Z-athletics-20
-DTSTAMP:20240801T075000Z
-DTSTART:20240801T075000Z
-DTEND:20240801T093500Z
-DESCRIPTION:田徑 - 女子20公里競走決賽\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
-  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
-  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
-  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
-  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
-  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
-  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇪🇸 Laura
-  GARCIA-CARO\n🇨🇳 LIU Hong\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
-  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
-  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
-  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇪🇨
-  Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇮🇳 PRIYANKA\n🇵🇷 Rachelle de
-  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
-  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
-  Viviane LYRA\n🇨🇳 YANG Jiayu
-SUMMARY:🏃 女子20公里競走決賽
-LOCATION:特羅卡德羅
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T161500Z-artistic-gymnastics-
 DTSTAMP:20240801T161500Z
 DTSTART:20240801T161500Z
@@ -250,18 +227,6 @@ SUMMARY:🤸 男子單槓決賽
 LOCATION:貝爾西體育館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T181500Z-athletics-
-DTSTAMP:20240806T181500Z
-DTSTART:20240806T181500Z
-DTEND:20240806T193500Z
-DESCRIPTION:田徑 - 男子跳遠決賽\n🇨🇴 Arnovis DALMERO\n🇯🇲 Carey McLEOD\n🇭🇷
-  Filip PRAVDICA\n🇬🇧 Jacob FINCHAM-DUKES\n🇮🇹 Mattia FURLANI\n🇬🇷
-  Miltiadis TENTOGLOU\n🇨🇿 Radek JUSKA\n🇩🇪 Simon BATZ\n🇨🇭 Simon
-  EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳 ZHANG Mingkun
-SUMMARY:🏃 男子跳遠決賽
-LOCATION:法蘭西體育場
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T053000Z-athletics-
 DTSTAMP:20240807T053000Z
 DTSTART:20240807T053000Z
@@ -341,18 +306,5 @@ DESCRIPTION:舉重 - 女子71公斤級\n🇧🇷 Amanda da COSTA SCHOTT\n🇪�
   Marie FEGUE\n🇪🇬 Neama SAID\n🇺🇸 Olivia REEVES\n🇵🇭 Vanessa SARNO
 SUMMARY:🏋 女子71公斤級
 LOCATION:南巴黎競技場6號館
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T173000Z-athletics-
-DTSTAMP:20240810T173000Z
-DTSTART:20240810T173000Z
-DTEND:20240810T184800Z
-DESCRIPTION:田徑 - 女子標槍決賽\n🇬🇷 Elina TZENGKO\n🇨🇴 Flor Denis RUIZ
-  HURTADO\n🇿🇦 Jo-Ane van DYK\n🇦🇺 Kathryn MITCHELL\n🇯🇵 KITAGUCHI
-  Haruka\n🇦🇺 Mackenzie LITTLE\n🇵🇱 Maria ANDREJCZYK\n🇳🇴 Marie-Therese
-  OBST\n🇨🇿 Nikola OGRODNIKOVA\n🇭🇷 Sara KOLAK\n🇯🇵 UEDA Momone\n🇪🇸
-  Yulenmis AGUILAR
-SUMMARY:🏃 女子標槍決賽
-LOCATION:法蘭西體育場
 END:VEVENT
 END:VCALENDAR
