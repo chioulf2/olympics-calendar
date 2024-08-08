@@ -33264,12 +33264,12 @@ SUMMARY:🏃 女子100米跨欄復活賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T083500Z-taekwondo-6816
+UID:20240808T083500Z-taekwondo-6816-UZB-HKG
 DTSTAMP:20240808T083500Z
 DTSTART:20240808T083500Z
 DTEND:20240808T084700Z
-DESCRIPTION:跆拳道 - 男子68公斤級16強賽\n🇺🇿 Ulugbek RASHITOV
-SUMMARY:🥋 男子68公斤級16強賽
+DESCRIPTION:跆拳道 - 男子68公斤級16強賽
+SUMMARY:🥋 Ulugbek RASHITOV 🇺🇿 - 🇭🇰 LO Wai Fung
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
@@ -35238,11 +35238,11 @@ DESCRIPTION:跳水 - 男子10米跳臺跳水預賽\n🇨🇴 Alejandro SOLARTE\n
   LARSEN\n🇦🇹 Anton KNOLL\n🇲🇾 Bertrand Rhodict ANAK LISES\n🇺🇸 Brandon
   LOSCHIAVO\n🇨🇳 CAO Yuan\n🇺🇸 Carson TYLER\n🇦🇺 Cassiel ROUSSEAU\n🇺🇿
   Igor MYALIN\n🇰🇵 IM Yong Myong\n🇦🇺 Jaxon BOWSHIRE\n🇲🇽 Kevin BERLIN
-  REYES\n🇰🇷 KIM Yeongtaek\n🇬🇧 Kyle KOTHARI\n🇺🇦 Mark HRYTSENKO\n🇨🇦
-  Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇪🇬 Ramez SOBHY\n🇲🇽 Randal
-  WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert LUKASZEWICZ\n🇨🇦
-  Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo
-  BARTHEL\n🇨🇳 YANG Hao
+  REYES\n🇰🇷 KIM Yeongtaek\n🇬🇧 Kyle KOTHARI\n🇨🇦 Nathan
+  ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇺🇦 Oleksii SEREDA\n🇪🇬 Ramez
+  SOBHY\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert
+  LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
+  Timo BARTHEL\n🇨🇳 YANG Hao
 SUMMARY:🏊 男子10米跳臺跳水預賽
 LOCATION:水上運動中心
 END:VEVENT
