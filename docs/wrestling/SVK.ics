@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/SVK//EN
+X-WR-CALNAME:🇸🇰 斯洛伐克 摔跤 | 巴黎2024
+NAME:🇸🇰 斯洛伐克 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240809T101000Z-wrestling-7418
+DTSTAMP:20240809T101000Z
+DTSTART:20240809T101000Z
+DTEND:20240809T101700Z
+DESCRIPTION:摔跤 - 男子自由式74公斤級1/8決賽\n🇸🇰 Tajmuraz Mairbekovic SALKAZANOV
+SUMMARY:🤼 男子自由式74公斤級1/8決賽
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

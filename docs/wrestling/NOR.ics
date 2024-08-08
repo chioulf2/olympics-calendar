@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/NOR//EN
+X-WR-CALNAME:🇳🇴 挪威 摔跤 | 巴黎2024
+NAME:🇳🇴 挪威 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240809T094200Z-wrestling-6218-NOR-TUN
+DTSTAMP:20240809T094200Z
+DTSTART:20240809T094200Z
+DTEND:20240809T094900Z
+DESCRIPTION:摔跤 - 女子自由式62公斤級1/8決賽
+SUMMARY:🤼 Grace Jacob BULLEN 🇳🇴 - 🇹🇳 Siwar BOUSETA
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

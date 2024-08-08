@@ -147,4 +147,13 @@ DESCRIPTION:摔跤 - 男子自由式57公斤級半決賽
 SUMMARY:🤼 Spencer Richard LEE 🇺🇸 - 🇺🇿 Gulomjon ABDULLAEV
 LOCATION:戰神廣場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092100Z-wrestling-74
+DTSTAMP:20240809T092100Z
+DTSTART:20240809T092100Z
+DTEND:20240809T092800Z
+DESCRIPTION:摔跤 - 男子自由式74公斤級資格賽\n🇺🇿 Razambek Salambekovitch JAMALOV
+SUMMARY:🤼 男子自由式74公斤級資格賽
+LOCATION:戰神廣場
+END:VEVENT
 END:VCALENDAR
