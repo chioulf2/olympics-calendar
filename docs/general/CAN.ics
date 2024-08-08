@@ -6000,9 +6000,17 @@ UID:20240808T091000Z-athletics-4X1001
 DTSTAMP:20240808T091000Z
 DTSTART:20240808T091000Z
 DTEND:20240808T092000Z
-DESCRIPTION:田徑 - 女子4x100米接力第1輪\n🇧🇪 BEL\n🇯🇲 JAM\n🇨🇦 CAN\n🇳🇬
-  尼日利亞\n🇪🇸 ESP\n🇫🇷 FRA\n🇵🇱 POL\n🇨🇮 CIV\n🇺🇸 USA\n🇬🇧 GBR\n🇹🇹
-  TTO\n🇳🇱 NED\n🇮🇹 ITA\n🇨🇭 SUI\n🇩🇪 GER\n🇦🇺 AUS
+DESCRIPTION:田徑 - 女子4x100米接力第1輪\n🇹🇹 Akilah LEWIS\n🇯🇲 Alana REID\n🇬🇧
+  Amy HUNT\n🇨🇦 Audrey LEDUC\n🇬🇧 Bianca WILLIAMS\n🇫🇷 Chloe GALET\n🇬🇧
+  Desiree HENRY\n🇳🇬 Favour OFILI\n🇫🇷 Gemima JOSEPH\n🇫🇷 Helene
+  PARISOT\n🇬🇧 Imani LANSIQUOT\n🇳🇱 Isabel van den BERG\n🇨🇦 Jacqueline
+  MADOGO\n🇪🇸 Jael BESTUE\n🇳🇬 Justina Tiana EYAKPOBEYAN\n🇯🇲 Kemba
+  NELSON\n🇹🇹 Leah BERTRAND\n🇪🇸 Maria Isabel PEREZ\n🇨🇦 Marie-Eloise
+  LECLAIR\n🇳🇱 Marije van HUNENSTIJN\n🇳🇱 Minke BISSCHOPS\n🇫🇷 Orlann
+  OLIERE\n🇪🇸 Paula SEVILLA\n🇳🇬 Rosemary CHUKWUMA\n🇨🇦 Sade
+  McCREATH\n🇹🇹 Sanaa FREDERICK\n🇯🇲 Shashalee FORBES\n🇹🇹 Sole
+  FREDERICK\n🇪🇸 Sonia MOLINA-PRADOS\n🇳🇱 Tasa JIYA\n🇯🇲 Tia
+  CLAYTON\n🇳🇬 Tima GODBLESS
 SUMMARY:🏃 女子4x100米接力第1輪
 LOCATION:法蘭西體育場
 END:VEVENT
@@ -6064,12 +6072,12 @@ SUMMARY:🤽 ITA 🇮🇹 - 🇨🇦 CAN
 LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T123000Z-taekwondo-5714
+UID:20240808T123000Z-taekwondo-5714-CAN-KOR
 DTSTAMP:20240808T123000Z
 DTSTART:20240808T123000Z
 DTEND:20240808T124000Z
-DESCRIPTION:跆拳道 - 女子57公斤級1/4決賽\n🇨🇦 Skylar PARK
-SUMMARY:🥋 女子57公斤級1/4決賽
+DESCRIPTION:跆拳道 - 女子57公斤級1/4決賽
+SUMMARY:🥋 Skylar PARK 🇨🇦 - 🇰🇷 KIM Yujin
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
