@@ -4116,7 +4116,7 @@ UID:20240809T172500Z-wrestling-57
 DTSTAMP:20240809T172500Z
 DTSTART:20240809T172500Z
 DTEND:20240809T173500Z
-DESCRIPTION:摔跤 - 男子自由式57公斤級銅牌賽
+DESCRIPTION:摔跤 - 男子自由式57公斤級銅牌賽\n🇺🇿 Gulomjon ABDULLAEV
 SUMMARY:🤼 男子自由式57公斤級銅牌賽
 LOCATION:戰神廣場
 END:VEVENT
@@ -4143,12 +4143,12 @@ SUMMARY:🏋 女子71公斤級
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T173500Z-wrestling-57
+UID:20240809T173500Z-wrestling-57-JPN-USA
 DTSTAMP:20240809T173500Z
 DTSTART:20240809T173500Z
 DTEND:20240809T174500Z
-DESCRIPTION:摔跤 - 男子自由式57公斤級決賽\n🇯🇵 HIGUCHI Rei
-SUMMARY:🤼 男子自由式57公斤級決賽
+DESCRIPTION:摔跤 - 男子自由式57公斤級決賽
+SUMMARY:🤼 HIGUCHI Rei 🇯🇵 - 🇺🇸 Spencer Richard LEE
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
@@ -4177,7 +4177,7 @@ UID:20240809T174500Z-wrestling-86
 DTSTAMP:20240809T174500Z
 DTSTART:20240809T174500Z
 DTEND:20240809T175500Z
-DESCRIPTION:摔跤 - 男子自由式86公斤級銅牌賽
+DESCRIPTION:摔跤 - 男子自由式86公斤級銅牌賽\n🇺🇸 Aaron Marquel BROOKS
 SUMMARY:🤼 男子自由式86公斤級銅牌賽
 LOCATION:戰神廣場
 END:VEVENT
@@ -4225,7 +4225,7 @@ UID:20240809T180500Z-wrestling-86
 DTSTAMP:20240809T180500Z
 DTSTART:20240809T180500Z
 DTEND:20240809T181500Z
-DESCRIPTION:摔跤 - 男子自由式86公斤級決賽
+DESCRIPTION:摔跤 - 男子自由式86公斤級決賽\n🇧🇬 Magomed Eldarovitch RAMAZANOV
 SUMMARY:🤼 男子自由式86公斤級決賽
 LOCATION:戰神廣場
 END:VEVENT
