@@ -3284,9 +3284,14 @@ UID:20240808T104000Z-canoe-sprint-20014
 DTSTAMP:20240808T104000Z
 DTSTART:20240808T104000Z
 DTEND:20240808T110700Z
-DESCRIPTION:皮劃艇靜水 - 女子200米單人划艇1/4決賽\n🇳🇬 Beauty Akinaere OTUEDO\n🇸🇳
-  Combe SECK\n🇲🇩 Daniela COCIU\n🇫🇷 Eugenie DORANGE\n🇭🇺 Kincso
-  TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Maike JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ
+DESCRIPTION:皮劃艇靜水 - 女子200米單人划艇1/4決賽\n🇭🇺 Agnes Anna KISS\n🇺🇦 Anastasiia
+  RYBACHOK\n🇳🇬 Ayomide Powei BELLO\n🇳🇬 Beauty Akinaere OTUEDO\n🇸🇳
+  Combe SECK\n🇲🇩 Daniela COCIU\n🇫🇷 Eugenie DORANGE\n🇸🇹 Herminia
+  TEIXEIRA SANTANA\n🇨🇱 Karen ROCO\n🇵🇱 Katarzyna SZPERKIEWICZ\n🇭🇺
+  Kincso TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦 Liudmyla LUZAN\n🇩🇪
+  Maike JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya
+  BROVKOVA\n🇺🇿 Nilufar ZOKIROVA\n🇬🇺 Raina TAITINGFONG\n🇻🇳 Thi Huong
+  NGUYEN\n🇨🇺 Yinnoly Francheska LOPEZ LAMADRID
 SUMMARY:🛶 女子200米單人划艇1/4決賽
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
@@ -3321,12 +3326,12 @@ SUMMARY:🤽 GRE 🇬🇷 - 🇭🇺 HUN
 LOCATION:拉德芳斯體育館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T172500Z-wrestling-87
+UID:20240808T172500Z-wrestling-87-DEN-HUN
 DTSTAMP:20240808T172500Z
 DTSTART:20240808T172500Z
 DTEND:20240808T173200Z
-DESCRIPTION:摔跤 - 男子古典式87公斤級銅牌賽\n🇭🇺 David LOSONCZI
-SUMMARY:🤼 男子古典式87公斤級銅牌賽
+DESCRIPTION:摔跤 - 男子古典式87公斤級銅牌賽
+SUMMARY:🤼 Turpal Ali BISULTANOV 🇩🇰 - 🇭🇺 David LOSONCZI
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
