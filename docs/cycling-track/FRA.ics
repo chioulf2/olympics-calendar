@@ -251,4 +251,33 @@ DESCRIPTION:場地自行車 - 女子凱林賽1/4決賽\n🇲🇽 Daniela GAXIOLA
 SUMMARY:🚴 女子凱林賽1/4決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T120000Z-cycling-track-
+DTSTAMP:20240809T120000Z
+DTSTART:20240809T120000Z
+DTEND:20240809T124100Z
+DESCRIPTION:場地自行車 - 女子爭先賽資格賽\n🇨🇳 BAO Shanju\n🇦🇺 Chloe MORAN\n🇲🇽
+  Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪
+  Emma HINZE\n🇳🇬 Ese UKPESERAYE\n🇳🇱 Hetty van de WOUW\n🇧🇪 Julie
+  NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam VECE\n🇧🇪 Nicky DEGRENDELE\n🇵🇱
+  Nikola SIBIAK\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵 OHTA Riyu\n🇮🇹
+  Sara FIORIN\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧 Sophie
+  CAPEWELL\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van der PEET\n🇫🇷
+  Taky Marie Divine KOUAME\n🇨🇳 YUAN Liying\n🇲🇽 Yuli VERDUGO OSUNA
+SUMMARY:🚴 女子爭先賽資格賽
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T160900Z-cycling-track-
+DTSTAMP:20240809T160900Z
+DTSTART:20240809T160900Z
+DTEND:20240809T170200Z
+DESCRIPTION:場地自行車 - 女子麥迪遜賽決賽\n🇩🇰 DEN\n🇯🇵 JPN\n🇧🇪 BEL\n🇨🇦 CAN\n🇫🇷
+  FRA\n🇵🇱 POL\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿
+  新西蘭\n🇨🇭 SUI\n🇩🇪 GER\n🇦🇺 AUS
+SUMMARY:🚴 女子麥迪遜賽決賽
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
 END:VCALENDAR
