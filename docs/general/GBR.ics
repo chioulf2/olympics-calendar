@@ -7778,6 +7778,20 @@ SUMMARY:🏊 女子3米跳板跳水決賽
 LOCATION:水上運動中心
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T154000Z-modern-pentathlon-B-
+DTSTAMP:20240809T154000Z
+DTSTART:20240809T154000Z
+DTEND:20240809T160000Z
+DESCRIPTION:現代五項 - 男子半決賽B - 擊劍獎勵附加回合\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs
+  SZEP\n🇬🇧 Charles BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹
+  Giorgio MALAN\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Kamil
+  KASPERCZAK\n🇨🇳 LI Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos
+  ROJAS\n🇩🇪 Marvin DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr
+  TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 男子半決賽B - 擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173000Z-artistic-swimming-
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
