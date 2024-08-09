@@ -6965,6 +6965,32 @@ SUMMARY:🏊 男子10公里
 LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T070000Z-golf-3
+DTSTAMP:20240809T070000Z
+DTSTART:20240809T070000Z
+DTEND:20240809T160000Z
+DESCRIPTION:高爾夫 - 女子第3回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇹🇼 CHIEN Pei-Yun\n🇮🇳 Diksha DAGAR\n🇵🇭
+  Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther
+  HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇦🇺 Hannah GREEN\n🇹🇼
+  HSU Wei-Ling\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇰🇷 KO Jin Young\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇨🇳 LIN
+  Xiyu Janet\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪
+  Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo
+  URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ
+  MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇯🇵
+  SASO Yuka\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第3回合
+LOCATION:國家高爾夫球場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T075800Z-taekwondo-6716-EGY-ESP
 DTSTAMP:20240809T075800Z
 DTSTART:20240809T075800Z
@@ -6972,6 +6998,17 @@ DTEND:20240809T081000Z
 DESCRIPTION:跆拳道 - 女子67公斤級16強賽
 SUMMARY:🥋 Aya SHEHATA 🇪🇬 - 🇪🇸 Cecilia CASTRO BURGOS
 LOCATION:巴黎大皇宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics--
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:藝術體操 - 團體全能預賽 - 第一部分\n🇨🇳 CHN\n🇧🇷 BRA\n🇮🇱 ISR\n🇪🇸
+  ESP\n🇫🇷 FRA\n🇦🇿 AZE\n🇧🇬 BUL\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇮🇹
+  ITA\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
+SUMMARY:🤸 團體全能預賽 - 第一部分
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T081500Z-sport-climbing--
@@ -7027,6 +7064,17 @@ DESCRIPTION:田徑 - 男子4x400米接力第1輪\n🇧🇷 BRA\n🇯🇵 JPN\n�
   GBR\n🇹🇹 TTO\n🇧🇼 BOT\n🇮🇹 ITA\n🇩🇪 GER\n🇿🇲 ZAM
 SUMMARY:🏃 男子4x400米接力第1輪
 LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics--
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:藝術體操 - 團體全能預賽 - 第二部分\n🇨🇳 CHN\n🇧🇷 BRA\n🇮🇱 ISR\n🇪🇸
+  ESP\n🇫🇷 FRA\n🇦🇿 AZE\n🇧🇬 BUL\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇮🇹
+  ITA\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
+SUMMARY:🤸 團體全能預賽 - 第二部分
+LOCATION:拉夏貝爾門體育館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T092000Z-canoe-sprint-5002
@@ -7194,6 +7242,29 @@ DESCRIPTION:皮劃艇靜水 - 男子1000米單人皮艇半決賽2\n🇭🇺 Adam
   RIO\n🇦🇷 Agustin VERNICE\n🇩🇪 Anton WINKELMANN\n🇿🇦 Hamish
   LOVEMORE\n🇨🇿 Josef DOSTAL\n🇫🇷 Maxime BEAUMONT
 SUMMARY:🛶 男子1000米單人皮艇半決賽2
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T094000Z-canoe-sprint-2001
+DTSTAMP:20240810T094000Z
+DTSTART:20240810T094000Z
+DTEND:20240810T094700Z
+DESCRIPTION:皮劃艇靜水 - 女子200米單人划艇半決賽1\n🇭🇺 Agnes Anna KISS\n🇵🇱 Dorota
+  BOROWSKA\n🇨🇳 LIN Wenjun\n🇺🇦 Liudmyla LUZAN\n🇪🇸 Maria CORBERA\n🇨🇦
+  Sophia JENSEN\n🇨🇺 Yarisleidis CIRILO DUBOYS
+SUMMARY:🛶 女子200米單人划艇半決賽1
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095000Z-canoe-sprint-2002
+DTSTAMP:20240810T095000Z
+DTSTART:20240810T095000Z
+DTEND:20240810T095700Z
+DESCRIPTION:皮劃艇靜水 - 女子200米單人划艇半決賽2\n🇺🇦 Anastasiia RYBACHOK\n🇪🇸 Antia
+  JACOME\n🇨🇱 Karen ROCO\n🇨🇦 Katie VINCENT\n🇭🇺 Kincso TAKACS\n🇨🇱
+  Maria Jose MAILLIARD\n🇺🇸 Nevin HARRISON\n🇧🇷 Valdenice CONCEICAO DO
+  NASCIMENTO
+SUMMARY:🛶 女子200米單人划艇半決賽2
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
 END:VEVENT
 BEGIN:VEVENT

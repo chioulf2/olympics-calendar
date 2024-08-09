@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rhythmic-gymnastics/UZB//EN
+X-WR-CALNAME:🇺🇿 烏茲別克斯坦 藝術體操 | 巴黎2024
+NAME:🇺🇿 烏茲別克斯坦 藝術體操 | 巴黎2024
+BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics--
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:藝術體操 - 團體全能預賽 - 第一部分\n🇨🇳 CHN\n🇧🇷 BRA\n🇮🇱 ISR\n🇪🇸
+  ESP\n🇫🇷 FRA\n🇦🇿 AZE\n🇧🇬 BUL\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇮🇹
+  ITA\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
+SUMMARY:🤸 團體全能預賽 - 第一部分
+LOCATION:拉夏貝爾門體育館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics--
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:藝術體操 - 團體全能預賽 - 第二部分\n🇨🇳 CHN\n🇧🇷 BRA\n🇮🇱 ISR\n🇪🇸
+  ESP\n🇫🇷 FRA\n🇦🇿 AZE\n🇧🇬 BUL\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇮🇹
+  ITA\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
+SUMMARY:🤸 團體全能預賽 - 第二部分
+LOCATION:拉夏貝爾門體育館
+END:VEVENT
+END:VCALENDAR
