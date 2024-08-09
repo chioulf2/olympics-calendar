@@ -1109,7 +1109,7 @@ DESCRIPTION:田徑 - 男子4x400米接力第1輪\n🇮🇹 Alessandro SIBILIO\n�
   OJELI\n🇪🇸 Inaki CANAL\n🇹🇹 Jaden MARCHAN\n🇩🇪 Jean Paul BREDAU\n🇹🇹
   Jereem RICHARDS\n🇧🇪 Jonathan SACOOR\n🇪🇸 Julio ARENAS\n🇵🇱 Kajetan
   DUSZYNSKI\n🇵🇱 Karol ZALEWSKI\n🇯🇵 KAWABATA Kaito\n🇿🇲 Kennedy
-  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Leungo SCOTCH\n🇮🇹 Luca SITO\n🇧🇷
+  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Letsile TEBOGO\n🇮🇹 Luca SITO\n🇧🇷
   Lucas CARVALHO\n🇧🇷 Lucas VILAR\n🇿🇦 Lythe PILLAY\n🇵🇱 Maksymilian
   SZWED\n🇩🇪 Manuel SANDERS\n🇩🇪 Marc KOCH\n🇧🇷 Matheus LIMA\n🇬🇧
   Matthew HUDSON-SMITH\n🇫🇷 Muhammad Abdallah KOUNTA\n🇮🇳 Muhammed Ajmal
@@ -1205,6 +1205,15 @@ DESCRIPTION:舉重 - 女子71公斤級\n🇧🇷 Amanda da COSTA SCHOTT\n🇪�
   Marie FEGUE\n🇪🇬 Neama SAID\n🇺🇸 Olivia REEVES\n🇵🇭 Vanessa SARNO
 SUMMARY:🏋 女子71公斤級
 LOCATION:南巴黎競技場6號館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T094900Z-wrestling-7618-MGL-NGR
+DTSTAMP:20240810T094900Z
+DTSTART:20240810T094900Z
+DTEND:20240810T095600Z
+DESCRIPTION:摔跤 - 女子自由式76公斤級1/8決賽
+SUMMARY:🤼 Davaanasan ENKH AMAR 🇲🇳 - 🇳🇬 Hannah Amuchechi RUEBEN
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

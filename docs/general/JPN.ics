@@ -6678,7 +6678,7 @@ DESCRIPTION:田徑 - 男子4x400米接力第1輪\n🇮🇹 Alessandro SIBILIO\n�
   OJELI\n🇪🇸 Inaki CANAL\n🇹🇹 Jaden MARCHAN\n🇩🇪 Jean Paul BREDAU\n🇹🇹
   Jereem RICHARDS\n🇧🇪 Jonathan SACOOR\n🇪🇸 Julio ARENAS\n🇵🇱 Kajetan
   DUSZYNSKI\n🇵🇱 Karol ZALEWSKI\n🇯🇵 KAWABATA Kaito\n🇿🇲 Kennedy
-  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Leungo SCOTCH\n🇮🇹 Luca SITO\n🇧🇷
+  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Letsile TEBOGO\n🇮🇹 Luca SITO\n🇧🇷
   Lucas CARVALHO\n🇧🇷 Lucas VILAR\n🇿🇦 Lythe PILLAY\n🇵🇱 Maksymilian
   SZWED\n🇩🇪 Manuel SANDERS\n🇩🇪 Marc KOCH\n🇧🇷 Matheus LIMA\n🇬🇧
   Matthew HUDSON-SMITH\n🇫🇷 Muhammad Abdallah KOUNTA\n🇮🇳 Muhammed Ajmal
@@ -6994,6 +6994,24 @@ DESCRIPTION:運動攀巖 - 女子攀石和難度攀巖決賽 - 攀石\n🇺🇸 
   Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
 SUMMARY:🧗 女子攀石和難度攀巖決賽 - 攀石
 LOCATION:勒布爾歇運動攀巖館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T094200Z-wrestling-6518-MDA-JPN
+DTSTAMP:20240810T094200Z
+DTSTART:20240810T094200Z
+DTEND:20240810T094900Z
+DESCRIPTION:摔跤 - 男子自由式65公斤級1/8決賽
+SUMMARY:🤼 Maxim SACULTAN 🇲🇩 - 🇯🇵 KIYOOKA Kotaro
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T100300Z-wrestling-7618-ECU-JPN
+DTSTAMP:20240810T100300Z
+DTSTART:20240810T100300Z
+DTEND:20240810T101000Z
+DESCRIPTION:摔跤 - 女子自由式76公斤級1/8決賽
+SUMMARY:🤼 Genesis Rosangela REASCO VALDEZ 🇪🇨 - 🇯🇵 KAGAMI Yuka
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T103500Z-sport-climbing--

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/DOM//EN
+X-WR-CALNAME:🇩🇴 多明尼加共和國 摔跤 | 巴黎2024
+NAME:🇩🇴 多明尼加共和國 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240810T091400Z-wrestling-9718-AZE-DOM
+DTSTAMP:20240810T091400Z
+DTSTART:20240810T091400Z
+DTEND:20240810T092100Z
+DESCRIPTION:摔跤 - 男子自由式97公斤級1/8決賽
+SUMMARY:🤼 Magomedkhan MAGOMEDOV 🇦🇿 - 🇩🇴 Luis Miguel PEREZ SOSA
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

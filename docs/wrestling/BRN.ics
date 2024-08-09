@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/BRN//EN
+X-WR-CALNAME:🇧🇭 巴林 摔跤 | 巴黎2024
+NAME:🇧🇭 巴林 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240810T100300Z-wrestling-9718-IRI-BRN
+DTSTAMP:20240810T100300Z
+DTSTART:20240810T100300Z
+DTEND:20240810T101000Z
+DESCRIPTION:摔跤 - 男子自由式97公斤級1/8決賽
+SUMMARY:🤼 Amirali AZARPIRA 🇮🇷 - 🇧🇭 Akhmed TAZHUDINOV
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR
