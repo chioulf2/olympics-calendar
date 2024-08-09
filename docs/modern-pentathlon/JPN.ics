@@ -45,6 +45,20 @@ SUMMARY:🤺 女子個人擊劍排名賽
 LOCATION:北巴黎競技場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T150000Z-modern-pentathlon-B-
+DTSTAMP:20240809T150000Z
+DTSTART:20240809T150000Z
+DTEND:20240809T153500Z
+DESCRIPTION:現代五項 - 男子半決賽B - 場地障礙賽\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs
+  SZEP\n🇬🇧 Charles BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹
+  Giorgio MALAN\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Kamil
+  KASPERCZAK\n🇨🇳 LI Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos
+  ROJAS\n🇩🇪 Marvin DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr
+  TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 男子半決賽B - 場地障礙賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T154000Z-modern-pentathlon-B-
 DTSTAMP:20240809T154000Z
 DTSTART:20240809T154000Z
