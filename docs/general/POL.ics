@@ -6322,6 +6322,20 @@ SUMMARY:🚴 女子麥迪遜賽決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T164000Z-modern-pentathlon-B-
+DTSTAMP:20240809T164000Z
+DTSTART:20240809T164000Z
+DTEND:20240809T170000Z
+DESCRIPTION:現代五項 - 男子半決賽B - 激光跑\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs
+  SZEP\n🇬🇧 Charles BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹
+  Giorgio MALAN\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Kamil
+  KASPERCZAK\n🇨🇳 LI Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos
+  ROJAS\n🇩🇪 Marvin DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr
+  TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 男子半決賽B - 激光跑
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173800Z-cycling-track--
 DTSTAMP:20240809T173800Z
 DTSTART:20240809T173800Z
