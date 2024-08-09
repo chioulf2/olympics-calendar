@@ -341,17 +341,17 @@ UID:20240810T172500Z-wrestling-74
 DTSTAMP:20240810T172500Z
 DTSTART:20240810T172500Z
 DTEND:20240810T173500Z
-DESCRIPTION:摔跤 - 男子自由式74公斤級銅牌賽
+DESCRIPTION:摔跤 - 男子自由式74公斤級銅牌賽\n🇹🇯 Viktor RASSADIN
 SUMMARY:🤼 男子自由式74公斤級銅牌賽
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T173500Z-wrestling-74
+UID:20240810T173500Z-wrestling-74-JPN-UZB
 DTSTAMP:20240810T173500Z
 DTSTART:20240810T173500Z
 DTEND:20240810T174500Z
-DESCRIPTION:摔跤 - 男子自由式74公斤級決賽\n🇯🇵 TAKATANI Daichi
-SUMMARY:🤼 男子自由式74公斤級決賽
+DESCRIPTION:摔跤 - 男子自由式74公斤級決賽
+SUMMARY:🤼 TAKATANI Daichi 🇯🇵 - 🇺🇿 Razambek Salambekovitch JAMALOV
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
