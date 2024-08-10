@@ -440,7 +440,7 @@ UID:20240811T103000Z-wrestling-97
 DTSTAMP:20240811T103000Z
 DTSTART:20240811T103000Z
 DTEND:20240811T104000Z
-DESCRIPTION:摔跤 - 男子自由式97公斤級銅牌賽
+DESCRIPTION:摔跤 - 男子自由式97公斤級銅牌賽\n🇦🇿 Magomedkhan MAGOMEDOV
 SUMMARY:🤼 男子自由式97公斤級銅牌賽
 LOCATION:戰神廣場
 END:VEVENT
@@ -449,17 +449,17 @@ UID:20240811T104000Z-wrestling-97
 DTSTAMP:20240811T104000Z
 DTSTART:20240811T104000Z
 DTEND:20240811T105000Z
-DESCRIPTION:摔跤 - 男子自由式97公斤級銅牌賽
+DESCRIPTION:摔跤 - 男子自由式97公斤級銅牌賽\n🇺🇸 Kyle Frederick SNYDER
 SUMMARY:🤼 男子自由式97公斤級銅牌賽
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T105000Z-wrestling-97
+UID:20240811T105000Z-wrestling-97-GEO-BRN
 DTSTAMP:20240811T105000Z
 DTSTART:20240811T105000Z
 DTEND:20240811T110000Z
 DESCRIPTION:摔跤 - 男子自由式97公斤級決賽
-SUMMARY:🤼 男子自由式97公斤級決賽
+SUMMARY:🤼 Givi MATCHARASHVILI 🇬🇪 - 🇧🇭 Akhmed TAZHUDINOV
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
