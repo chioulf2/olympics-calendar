@@ -413,7 +413,7 @@ UID:20240811T100000Z-wrestling-65
 DTSTAMP:20240811T100000Z
 DTSTART:20240811T100000Z
 DTEND:20240811T101000Z
-DESCRIPTION:摔跤 - 男子自由式65公斤級銅牌賽
+DESCRIPTION:摔跤 - 男子自由式65公斤級銅牌賽\n🇲🇳 Tulga TUMUR OCHIR
 SUMMARY:🤼 男子自由式65公斤級銅牌賽
 LOCATION:戰神廣場
 END:VEVENT
@@ -422,17 +422,17 @@ UID:20240811T101000Z-wrestling-65
 DTSTAMP:20240811T101000Z
 DTSTART:20240811T101000Z
 DTEND:20240811T102000Z
-DESCRIPTION:摔跤 - 男子自由式65公斤級銅牌賽
+DESCRIPTION:摔跤 - 男子自由式65公斤級銅牌賽\n🇭🇺 Iszmail MUSZUKAJEV
 SUMMARY:🤼 男子自由式65公斤級銅牌賽
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T102000Z-wrestling-65
+UID:20240811T102000Z-wrestling-65-JPN-IRI
 DTSTAMP:20240811T102000Z
 DTSTART:20240811T102000Z
 DTEND:20240811T103000Z
 DESCRIPTION:摔跤 - 男子自由式65公斤級決賽
-SUMMARY:🤼 男子自由式65公斤級決賽
+SUMMARY:🤼 KIYOOKA Kotaro 🇯🇵 - 🇮🇷 Rahman AMOUZADKHALILI
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
