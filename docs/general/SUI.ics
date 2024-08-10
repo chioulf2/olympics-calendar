@@ -4272,6 +4272,21 @@ SUMMARY:🤺 女子半決賽B - 激光跑
 LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T153000Z-modern-pentathlon-
+DTSTAMP:20240810T153000Z
+DTSTART:20240810T153000Z
+DTEND:20240810T160500Z
+DESCRIPTION:現代五項 - 男子場地障礙賽決賽\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇭🇺 Balazs SZEP\n🇭🇺 Csaba BOHM\n🇲🇽 Emiliano
+  HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇮🇹 Giorgio MALAN\n🇫🇷 Jean-Baptiste
+  MOURCIA\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Lukasz
+  GUTKOWSKI\n🇩🇪 Marvin DOGUE\n🇮🇹 Matteo CICINELLI\n🇪🇬 Mohanad
+  SHABAN\n🇱🇻 Pavels SVECOVS\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇫🇷
+  Valentin PRADES
+SUMMARY:🤺 男子場地障礙賽決賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T161000Z-modern-pentathlon-
 DTSTAMP:20240810T161000Z
 DTSTART:20240810T161000Z
@@ -4324,6 +4339,22 @@ DESCRIPTION:田徑 - 女子馬拉松決賽\n🇵🇱 Aleksandra LISOWSKA\n🇪�
   ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
 SUMMARY:🏃 女子馬拉松決賽
 LOCATION:榮軍院
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T090000Z-cycling-track--14
+DTSTAMP:20240811T090000Z
+DTSTART:20240811T090000Z
+DTEND:20240811T092200Z
+DESCRIPTION:場地自行車 - 女子全能賽捕捉賽 1/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽捕捉賽 1/4
+LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T094000Z-modern-pentathlon-
