@@ -11268,21 +11268,6 @@ SUMMARY:🏊 男子10米跳臺跳水半決賽
 LOCATION:水上運動中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T081000Z-modern-pentathlon-A-
-DTSTAMP:20240810T081000Z
-DTSTART:20240810T081000Z
-DTEND:20240810T083000Z
-DESCRIPTION:現代五項 - 女子半決賽A - 擊劍獎勵附加回合\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
-  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
-  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
-  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
-  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
-  Rebecca LANGREHR\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇷 SEONG Seungmin\n🇰🇿
-  Yelena POTAPENKO
-SUMMARY:🤺 女子半決賽A - 擊劍獎勵附加回合
-LOCATION:凡爾賽宮
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T081000Z-taekwondo-8016-USA-CHN
 DTSTAMP:20240810T081000Z
 DTSTART:20240810T081000Z
@@ -11301,6 +11286,21 @@ DESCRIPTION:運動攀巖 - 女子攀石和難度攀巖決賽 - 攀石\n🇺🇸 
   Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
 SUMMARY:🧗 女子攀石和難度攀巖決賽 - 攀石
 LOCATION:勒布爾歇運動攀巖館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082400Z-modern-pentathlon-A-
+DTSTAMP:20240810T082400Z
+DTSTART:20240810T082400Z
+DTEND:20240810T084400Z
+DESCRIPTION:現代五項 - 女子半決賽A - 擊劍獎勵附加回合\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
+  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
+  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
+  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
+  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
+  Rebecca LANGREHR\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇷 SEONG Seungmin\n🇰🇿
+  Yelena POTAPENKO
+SUMMARY:🤺 女子半決賽A - 擊劍獎勵附加回合
+LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T083500Z-water-polo--USA-NED
@@ -11460,12 +11460,12 @@ SUMMARY:🏃 男子800米決賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T171500Z-wrestling-74
+UID:20240810T171500Z-wrestling-74-SRB-USA
 DTSTAMP:20240810T171500Z
 DTSTART:20240810T171500Z
 DTEND:20240810T172500Z
-DESCRIPTION:摔跤 - 男子自由式74公斤級銅牌賽\n🇺🇸 Kyle Douglas DAKE
-SUMMARY:🤼 男子自由式74公斤級銅牌賽
+DESCRIPTION:摔跤 - 男子自由式74公斤級銅牌賽
+SUMMARY:🤼 Hetik CABOLOV 🇷🇸 - 🇺🇸 Kyle Douglas DAKE
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
@@ -11556,17 +11556,17 @@ DESCRIPTION:田徑 - 女子馬拉松決賽\n🇵🇱 Aleksandra LISOWSKA\n🇪�
   SHANKULE\n🇵🇱 Angelika MACH\n🇨🇴 Angie ORJUELA\n🇳🇱 Anne LUIJTEN\n🇨🇳
   BAI Li\n🇭🇷 Bojana BJELJAC\n🇬🇧 Calli HAUGER-THACKERY\n🇫🇮 Camilla
   RICHARDSSON\n🇳🇿 Camille FRENCH\n🇸🇪 Carolina WIKSTROM\n🇧🇪 Chloe
-  HERBIET\n🇿🇦 Cian OLDKNOW\n🇲🇽 Citlali CRISTIAN MOSCOTE\n🇷🇼
-  Clementine MUKANDANGA\n🇦🇷 Daiana OCAMPO\n🇺🇸 Dakotah LINDWURM\n🇷🇴
-  Delvine Relin MERINGOR\n🇪🇷 Dolshi TESFU\n🇩🇪 Domenika MAYER\n🇺🇸
-  Emily SISSON\n🇪🇸 Esther NAVARRETE\n🇧🇭 Eunice Chebichii CHUMBA\n🇨🇭
-  Fabienne SCHLUMPF\n🇲🇦 Fatima Ezzahra GARDADI\n🇺🇸 Fiona O'KEEFFE\n🇮🇪
-  Fionnuala McCORMACK\n🇦🇷 Florencia BORELLI\n🇦🇺 Genevieve GREGSON\n🇿🇦
-  Gerda STEYN\n🇮🇹 Giovanna EPIS\n🇵🇪 Gladys TEJEDA\n🇧🇪 Hanne
-  VERBRUGGEN\n🇳🇦 Helalia JOHANNES\n🇨🇭 Helen BEKELE\n🇰🇪 Hellen
-  OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦 Irvette van ZYL\n🇹🇿 Jackline
-  SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹 Julia
-  MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
+  HERBIET\n🇿🇦 Cian OLDKNOW\n🇲🇽 Citlali CRISTIAN MOSCOTE\n🇬🇧 Clara
+  EVANS\n🇷🇼 Clementine MUKANDANGA\n🇦🇷 Daiana OCAMPO\n🇺🇸 Dakotah
+  LINDWURM\n🇷🇴 Delvine Relin MERINGOR\n🇪🇷 Dolshi TESFU\n🇩🇪 Domenika
+  MAYER\n🇺🇸 Emily SISSON\n🇪🇸 Esther NAVARRETE\n🇧🇭 Eunice Chebichii
+  CHUMBA\n🇨🇭 Fabienne SCHLUMPF\n🇲🇦 Fatima Ezzahra GARDADI\n🇺🇸 Fiona
+  O'KEEFFE\n🇮🇪 Fionnuala McCORMACK\n🇦🇷 Florencia BORELLI\n🇦🇺
+  Genevieve GREGSON\n🇿🇦 Gerda STEYN\n🇮🇹 Giovanna EPIS\n🇵🇪 Gladys
+  TEJEDA\n🇧🇪 Hanne VERBRUGGEN\n🇳🇦 Helalia JOHANNES\n🇨🇭 Helen
+  BEKELE\n🇰🇪 Hellen OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦 Irvette van ZYL\n🇹🇿
+  Jackline SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹
+  Julia MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
   Kinzang LHAMO\n🇩🇪 Laura HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪
   Luz Mery ROJAS\n🇯🇵 MAEDA Honami\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida
   MAAYOUF\n🇨🇦 Malindi ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ
