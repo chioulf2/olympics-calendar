@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//medals/NEP//EN
-X-WR-CALNAME:🇳🇵 尼泊爾 🏅 | 巴黎2024
-NAME:🇳🇵 尼泊爾 🏅 | 巴黎2024
+PRODID:-//fabrice404//olympics-calendar//athletics/NAM//EN
+X-WR-CALNAME:🇳🇦 納米比亞 田徑 | 巴黎2024
+NAME:🇳🇦 納米比亞 田徑 | 巴黎2024
 BEGIN:VEVENT
 UID:20240811T060000Z-athletics-
 DTSTAMP:20240811T060000Z
