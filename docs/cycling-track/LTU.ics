@@ -125,4 +125,20 @@ DESCRIPTION:場地自行車 - 女子全能賽捕捉賽 1/4\n🇨🇭 Aline SEITZ
 SUMMARY:🚴 女子全能賽捕捉賽 1/4
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
+BEGIN:VEVENT
+UID:20240811T095700Z-cycling-track--24
+DTSTAMP:20240811T095700Z
+DTSTART:20240811T095700Z
+DTEND:20240811T101800Z
+DESCRIPTION:場地自行車 - 女子全能賽衝刺賽 2/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽衝刺賽 2/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
 END:VCALENDAR
