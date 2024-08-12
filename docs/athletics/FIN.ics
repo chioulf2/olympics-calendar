@@ -576,4 +576,98 @@ DESCRIPTION:田徑 - 女子七項全能200米\n🇵🇱 Adrianna SULEK-SCHUBERT\
 SUMMARY:🏃 女子七項全能200米
 LOCATION:法蘭西體育場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080500Z-athletics-
+DTSTAMP:20240809T080500Z
+DTSTART:20240809T080500Z
+DTEND:20240809T084700Z
+DESCRIPTION:田徑 - 女子七項全能跳遠\n🇵🇱 Adrianna SULEK-SCHUBERT\n🇺🇸 Anna
+  HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk VETTER\n🇫🇷 Auriana
+  LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪 Carolin SCHAEFER\n🇺🇸
+  Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade O'DOWDA\n🇬🇧 Katarina
+  JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha ARAUJO\n🇧🇪 Nafissatou
+  THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮 Saga VANNINEN\n🇳🇱 Sofie
+  DOKTER\n🇮🇹 Sveva GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺
+  Xenia KRIZSAN
+SUMMARY:🏃 女子七項全能跳遠
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092300Z-athletics--A
+DTSTAMP:20240809T092300Z
+DTSTART:20240809T092300Z
+DTEND:20240809T100500Z
+DESCRIPTION:田徑 - 女子七項全能標槍 - A組\n🇵🇱 Adrianna SULEK-SCHUBERT\n🇺🇸 Anna
+  HALL\n🇦🇺 Camryn NEWTON-SMITH\n🇬🇧 Jade O'DOWDA\n🇬🇧 Katarina
+  JOHNSON-THOMPSON\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮 Saga
+  VANNINEN\n🇮🇹 Sveva GEREVINI\n🇺🇸 Taliyah BROOKS\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 女子七項全能標槍 - A組
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T100500Z-athletics-100
+DTSTAMP:20240809T100500Z
+DTSTART:20240809T100500Z
+DTEND:20240809T102200Z
+DESCRIPTION:田徑 - 女子100米跨欄半決賽\n🇯🇲 Ackera NUGENT\n🇺🇸 Alaysha
+  JOHNSON\n🇧🇸 Charisma TAYLOR\n🇬🇧 Cindy SEMBER\n🇫🇷 Cyrena
+  SAMBA-MAYELA\n🇯🇲 Danielle WILLIAMS\n🇧🇸 Devynne CHARLTON\n🇨🇭 Ditaji
+  KAMBUNDJI\n🇱🇷 Ebony MORRISON\n🇯🇵 FUKUBE Mako\n🇺🇸 Grace STARK\n🇯🇲
+  Janeek BROWN\n🇵🇷 Jasmine CAMACHO-QUINN\n🇫🇮 Lotta HARALA\n🇳🇱 Maayke
+  TJIN-A-LIM\n🇨🇦 Mariam ABDUL-RASHID\n🇪🇨 Maribel Vanessa CAICEDO\n🇿🇦
+  Marione FOURIE\n🇺🇸 Masai RUSSELL\n🇳🇱 Nadine VISSER\n🇵🇱 Pia
+  SKRZYSZOWSKA\n🇮🇪 Sarah LAVIN\n🇯🇵 TANAKA Yumi\n🇳🇬 Tobi AMUSAN
+SUMMARY:🏃 女子100米跨欄半決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T182500Z-athletics-800
+DTSTAMP:20240809T182500Z
+DTSTART:20240809T182500Z
+DTEND:20240809T184800Z
+DESCRIPTION:田徑 - 女子七項全能800米\n🇵🇱 Adrianna SULEK-SCHUBERT\n🇫🇷 Auriana
+  LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪 Carolin SCHAEFER\n🇺🇸
+  Chari HAWKINS\n🇬🇧 Jade O'DOWDA\n🇮🇪 Kate O'CONNOR\n🇭🇺 Rita
+  NEMES\n🇫🇮 Saga VANNINEN\n🇮🇹 Sveva GEREVINI\n🇦🇺 Tori WEST
+SUMMARY:🏃 女子七項全能800米
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T060000Z-athletics-
+DTSTAMP:20240811T060000Z
+DTSTART:20240811T060000Z
+DTEND:20240811T091500Z
+DESCRIPTION:田徑 - 女子馬拉松決賽\n🇵🇱 Aleksandra LISOWSKA\n🇪🇹 Amane Beriso
+  SHANKULE\n🇵🇱 Angelika MACH\n🇨🇴 Angie ORJUELA\n🇳🇱 Anne LUIJTEN\n🇨🇳
+  BAI Li\n🇭🇷 Bojana BJELJAC\n🇬🇧 Calli HAUGER-THACKERY\n🇫🇮 Camilla
+  RICHARDSSON\n🇳🇿 Camille FRENCH\n🇸🇪 Carolina WIKSTROM\n🇧🇪 Chloe
+  HERBIET\n🇿🇦 Cian OLDKNOW\n🇲🇽 Citlali CRISTIAN MOSCOTE\n🇬🇧 Clara
+  EVANS\n🇷🇼 Clementine MUKANDANGA\n🇦🇷 Daiana OCAMPO\n🇺🇸 Dakotah
+  LINDWURM\n🇷🇴 Delvine Relin MERINGOR\n🇪🇷 Dolshi TESFU\n🇩🇪 Domenika
+  MAYER\n🇺🇸 Emily SISSON\n🇪🇸 Esther NAVARRETE\n🇧🇭 Eunice Chebichii
+  CHUMBA\n🇨🇭 Fabienne SCHLUMPF\n🇲🇦 Fatima Ezzahra GARDADI\n🇺🇸 Fiona
+  O'KEEFFE\n🇮🇪 Fionnuala McCORMACK\n🇦🇷 Florencia BORELLI\n🇦🇺
+  Genevieve GREGSON\n🇿🇦 Gerda STEYN\n🇮🇹 Giovanna EPIS\n🇵🇪 Gladys
+  TEJEDA\n🇧🇪 Hanne VERBRUGGEN\n🇳🇦 Helalia JOHANNES\n🇨🇭 Helen
+  BEKELE\n🇰🇪 Hellen OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦 Irvette van ZYL\n🇹🇿
+  Jackline SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹
+  Julia MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
+  Kinzang LHAMO\n🇩🇪 Laura HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪
+  Luz Mery ROJAS\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida MAAYOUF\n🇨🇦 Malindi
+  ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ FLORES\n🇲🇺 Marie
+  PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV KOSTRO\n🇪🇹 Megertu
+  ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak KEJETA\n🇫🇷 Meline
+  ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline CHELANGAT\n🇪🇸 Meritxell
+  SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete Blandina MAKATISI\n🇲🇳
+  Munkhzaya BAYARTSOGT\n🇰🇪 Peres JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬
+  Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose
+  HARVEY\n🇿🇼 Rutendo Joan NYAHORA\n🇰🇬 Sardana TROFIMOVA\n🇳🇵 Shantoshi
+  SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan HASSAN\n🇪🇨 Silvia Patricia
+  ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹 Sofiia YAREMCHUK\n🇺🇬 Stella
+  CHESANG\n🇵🇹 Susana SANTOS\n🇯🇵 SUZUKI Yuka\n🇨🇿 Tereza HROCHOVA\n🇵🇪
+  Thalia VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst ASSEFA\n🇨🇳 XIA
+  Yuyu\n🇨🇳 ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
+SUMMARY:🏃 女子馬拉松決賽
+LOCATION:榮軍院
+END:VEVENT
 END:VCALENDAR

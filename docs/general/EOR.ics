@@ -741,12 +741,73 @@ SUMMARY:🥋 Farzad MANSOURI 🏳️ - 🇺🇸 CJ NICKOLAS
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T092800Z-wrestling-7418-SRB-EOR
+DTSTAMP:20240809T092800Z
+DTSTART:20240809T092800Z
+DTEND:20240809T093500Z
+DESCRIPTION:摔跤 - 男子自由式74公斤級1/8決賽
+SUMMARY:🤼 Hetik CABOLOV 🇷🇸 - 🏳️ Iman MAHDAVI
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T140000Z-breaking-B-GIRLS--NED-EOR
+DTSTAMP:20240809T140000Z
+DTSTART:20240809T140000Z
+DTEND:20240809T140745Z
+DESCRIPTION:霹靂舞 - B-Girls 預選賽比賽
+SUMMARY:🤸 INDIA 🇳🇱 - 🏳️ TALASH
+LOCATION:協和廣場1號場地
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T060000Z-athletics-
+DTSTAMP:20240810T060000Z
+DTSTART:20240810T060000Z
+DTEND:20240810T084500Z
+DESCRIPTION:田徑 - 男子馬拉松決賽\n🇳🇱 Abdi NAGEEYE\n🇯🇵 AKASAKI Akira\n🇬🇹
+  Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿 Alphonce Felix
+  SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬 Andrew Rotich
+  KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇪🇷 Berhane TESFAY\n🇨🇦
+  Cameron LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
+  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
+  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
+  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
+  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
+  Ryong\n🇫🇷 Hassan CHAHDI\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok
+  TESFAY\n🇨🇱 Hugo CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim
+  HASSAN\n🇿🇼 Isaac MPOFU\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
+  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇯🇵 KOYAMA Naoki\n🇺🇸
+  Leonard KORIR\n🇦🇺 Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru
+  TEFERI\n🇨🇭 Matthias KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath
+  ALKHAWALDEH\n🇲🇦 Mohcin OUTALHA\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
+  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
+  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
+  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
+  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
+  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
+  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
+  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
+  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇪🇸 Yago ROJO\n🇨🇳
+  YANG Shaohui\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan CRIPPA\n🇳🇴 Zerei
+  Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
+SUMMARY:🏃 男子馬拉松決賽
+LOCATION:榮軍院
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T070000Z-taekwondo-80-PNG-EOR
 DTSTAMP:20240810T070000Z
 DTSTART:20240810T070000Z
 DTEND:20240810T070900Z
 DESCRIPTION:跆拳道 - 男子80公斤以上級資格賽
 SUMMARY:🥋 Gibson Kaogo MARA 🇵🇬 - 🏳️ Kasra MEHDIPOURNEJAD
+LOCATION:巴黎大皇宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T083500Z-taekwondo-8016-CIV-EOR
+DTSTAMP:20240810T083500Z
+DTSTART:20240810T083500Z
+DTEND:20240810T084700Z
+DESCRIPTION:跆拳道 - 男子80公斤以上級16強賽
+SUMMARY:🥋 Cheick Sallah CISSE 🇨🇮 - 🏳️ Kasra MEHDIPOURNEJAD
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT

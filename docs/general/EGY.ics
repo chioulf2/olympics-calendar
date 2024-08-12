@@ -2143,6 +2143,54 @@ SUMMARY:⚽ EGY 🇪🇬 - 🇲🇦 MAR
 LOCATION:博茹瓦爾體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T153800Z-cycling-track--24
+DTSTAMP:20240808T153800Z
+DTSTART:20240808T153800Z
+DTEND:20240808T160100Z
+DESCRIPTION:場地自行車 - 男子全能賽衝刺賽 2/4\n🇳🇿 Aaron GATE\n🇵🇱 Alan BANASZEK\n🇪🇸
+  Albert TORRES BARCELO\n🇨🇭 Alex VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩
+  Bernard van AERT\n🇨🇦 Dylan BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan
+  HAYTER\n🇧🇪 Fabio van den BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸
+  Grant KOONTZ\n🇵🇹 Iuri LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van
+  SCHIP\n🇯🇵 KUBOKI Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA
+  SALAS\n🇦🇺 Sam WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬
+  Youssef ABOUELHASSAN
+SUMMARY:🚴 男子全能賽衝刺賽 2/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T162500Z-cycling-track--34
+DTSTAMP:20240808T162500Z
+DTSTART:20240808T162500Z
+DTEND:20240808T164700Z
+DESCRIPTION:場地自行車 - 男子全能賽淘汰賽 3/4\n🇳🇿 Aaron GATE\n🇵🇱 Alan BANASZEK\n🇪🇸
+  Albert TORRES BARCELO\n🇨🇭 Alex VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩
+  Bernard van AERT\n🇨🇦 Dylan BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan
+  HAYTER\n🇧🇪 Fabio van den BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸
+  Grant KOONTZ\n🇵🇹 Iuri LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van
+  SCHIP\n🇯🇵 KUBOKI Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA
+  SALAS\n🇦🇺 Sam WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬
+  Youssef ABOUELHASSAN
+SUMMARY:🚴 男子全能賽淘汰賽 3/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T172700Z-cycling-track--44
+DTSTAMP:20240808T172700Z
+DTSTART:20240808T172700Z
+DTEND:20240808T180400Z
+DESCRIPTION:場地自行車 - 男子全能賽積分賽 4/4\n🇳🇿 Aaron GATE\n🇵🇱 Alan BANASZEK\n🇪🇸
+  Albert TORRES BARCELO\n🇨🇭 Alex VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩
+  Bernard van AERT\n🇨🇦 Dylan BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan
+  HAYTER\n🇧🇪 Fabio van den BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸
+  Grant KOONTZ\n🇵🇹 Iuri LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van
+  SCHIP\n🇯🇵 KUBOKI Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA
+  SALAS\n🇦🇺 Sam WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬
+  Youssef ABOUELHASSAN
+SUMMARY:🚴 男子全能賽積分賽 4/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T075800Z-taekwondo-6716-EGY-ESP
 DTSTAMP:20240809T075800Z
 DTSTART:20240809T075800Z
@@ -2160,13 +2208,53 @@ DESCRIPTION:跳水 - 男子10米跳臺跳水預賽\n🇨🇴 Alejandro SOLARTE\n
   LARSEN\n🇦🇹 Anton KNOLL\n🇲🇾 Bertrand Rhodict ANAK LISES\n🇺🇸 Brandon
   LOSCHIAVO\n🇨🇳 CAO Yuan\n🇺🇸 Carson TYLER\n🇦🇺 Cassiel ROUSSEAU\n🇺🇿
   Igor MYALIN\n🇰🇵 IM Yong Myong\n🇦🇺 Jaxon BOWSHIRE\n🇲🇽 Kevin BERLIN
-  REYES\n🇰🇷 KIM Yeongtaek\n🇬🇧 Kyle KOTHARI\n🇺🇦 Mark HRYTSENKO\n🇨🇦
-  Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇪🇬 Ramez SOBHY\n🇲🇽 Randal
-  WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert LUKASZEWICZ\n🇨🇦
-  Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo
-  BARTHEL\n🇨🇳 YANG Hao
+  REYES\n🇰🇷 KIM Yeongtaek\n🇬🇧 Kyle KOTHARI\n🇨🇦 Nathan
+  ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇺🇦 Oleksii SEREDA\n🇪🇬 Ramez
+  SOBHY\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert
+  LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
+  Timo BARTHEL\n🇨🇳 YANG Hao
 SUMMARY:🏊 男子10米跳臺跳水預賽
 LOCATION:水上運動中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics--
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:藝術體操 - 團體全能預賽 - 第一部分\n🇨🇳 CHN\n🇧🇷 BRA\n🇮🇱 ISR\n🇪🇸
+  ESP\n🇫🇷 FRA\n🇦🇿 AZE\n🇧🇬 BUL\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇮🇹
+  ITA\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
+SUMMARY:🤸 團體全能預賽 - 第一部分
+LOCATION:拉夏貝爾門體育館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics--
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:藝術體操 - 團體全能預賽 - 第二部分\n🇨🇳 CHN\n🇧🇷 BRA\n🇮🇱 ISR\n🇪🇸
+  ESP\n🇫🇷 FRA\n🇦🇿 AZE\n🇧🇬 BUL\n🇪🇬 EGY\n🇺🇦 UKR\n🇺🇿 UZB\n🇮🇹
+  ITA\n🇩🇪 GER\n🇲🇽 MEX\n🇦🇺 AUS
+SUMMARY:🤸 團體全能預賽 - 第二部分
+LOCATION:拉夏貝爾門體育館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T094900Z-wrestling-12518-EGY-AZE
+DTSTAMP:20240809T094900Z
+DTSTART:20240809T094900Z
+DTEND:20240809T095600Z
+DESCRIPTION:摔跤 - 男子自由式125公斤級1/8決賽
+SUMMARY:🤼 Diaaeldin ABDELMOTTALEB 🇪🇬 - 🇦🇿 Giorgi MESHVILDISHVILI
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T095600Z-wrestling-7418-EGY-CHN
+DTSTAMP:20240809T095600Z
+DTSTART:20240809T095600Z
+DTEND:20240809T100300Z
+DESCRIPTION:摔跤 - 男子自由式74公斤級1/8決賽
+SUMMARY:🤼 Amr HUSSEN 🇪🇬 - 🇨🇳 LU Feng
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T101300Z-taekwondo-8016-EGY-DEN
@@ -2175,6 +2263,60 @@ DTSTART:20240809T101300Z
 DTEND:20240809T102500Z
 DESCRIPTION:跆拳道 - 男子80公斤級16強賽
 SUMMARY:🥋 Seif EISSA 🇪🇬 - 🇩🇰 Edi HRNIC
+LOCATION:巴黎大皇宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T110000Z-modern-pentathlon-A-
+DTSTAMP:20240809T110000Z
+DTSTART:20240809T110000Z
+DTEND:20240809T113500Z
+DESCRIPTION:現代五項 - 男子半決賽A - 場地障礙賽\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇪🇨 Andres TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽
+  Duilio CARRILLO\n🇲🇽 Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿
+  Georgiy BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO
+  Shuai\n🇨🇿 Marek GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻
+  Pavels SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin
+  PRADES
+SUMMARY:🤺 男子半決賽A - 場地障礙賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T114000Z-modern-pentathlon-A-
+DTSTAMP:20240809T114000Z
+DTSTART:20240809T114000Z
+DTEND:20240809T120000Z
+DESCRIPTION:現代五項 - 男子半決賽A - 擊劍獎勵附加回合\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇪🇨 Andres TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽
+  Duilio CARRILLO\n🇲🇽 Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿
+  Georgiy BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO
+  Shuai\n🇨🇿 Marek GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻
+  Pavels SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin
+  PRADES
+SUMMARY:🤺 男子半決賽A - 擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T124000Z-modern-pentathlon-A-
+DTSTAMP:20240809T124000Z
+DTSTART:20240809T124000Z
+DTEND:20240809T130000Z
+DESCRIPTION:現代五項 - 男子半決賽A - 激光跑\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇪🇨 Andres TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽
+  Duilio CARRILLO\n🇲🇽 Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿
+  Georgiy BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO
+  Shuai\n🇨🇿 Marek GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻
+  Pavels SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin
+  PRADES
+SUMMARY:🤺 男子半決賽A - 激光跑
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T125300Z-taekwondo-6714-EGY-BEL
+DTSTAMP:20240809T125300Z
+DTSTART:20240809T125300Z
+DTEND:20240809T130600Z
+DESCRIPTION:跆拳道 - 女子67公斤級1/4決賽
+SUMMARY:🥋 Aya SHEHATA 🇪🇬 - 🇧🇪 Sarah CHAARI
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
@@ -2189,6 +2331,48 @@ DESCRIPTION:舉重 - 男子89公斤級\n🇦🇲 Andranik KARAPETYAN\n🇮🇹 A
   Yeison LOPEZ\n🇰🇷 YU Dongju
 SUMMARY:🏋 男子89公斤級
 LOCATION:南巴黎競技場6號館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T150000Z-modern-pentathlon-B-
+DTSTAMP:20240809T150000Z
+DTSTART:20240809T150000Z
+DTEND:20240809T153500Z
+DESCRIPTION:現代五項 - 男子半決賽B - 場地障礙賽\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs
+  SZEP\n🇬🇧 Charles BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹
+  Giorgio MALAN\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Kamil
+  KASPERCZAK\n🇨🇳 LI Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos
+  ROJAS\n🇩🇪 Marvin DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr
+  TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 男子半決賽B - 場地障礙賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T154000Z-modern-pentathlon-B-
+DTSTAMP:20240809T154000Z
+DTSTART:20240809T154000Z
+DTEND:20240809T160000Z
+DESCRIPTION:現代五項 - 男子半決賽B - 擊劍獎勵附加回合\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs
+  SZEP\n🇬🇧 Charles BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹
+  Giorgio MALAN\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Kamil
+  KASPERCZAK\n🇨🇳 LI Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos
+  ROJAS\n🇩🇪 Marvin DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr
+  TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 男子半決賽B - 擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T164000Z-modern-pentathlon-B-
+DTSTAMP:20240809T164000Z
+DTSTART:20240809T164000Z
+DTEND:20240809T170000Z
+DESCRIPTION:現代五項 - 男子半決賽B - 激光跑\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs
+  SZEP\n🇬🇧 Charles BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹
+  Giorgio MALAN\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Kamil
+  KASPERCZAK\n🇨🇳 LI Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos
+  ROJAS\n🇩🇪 Marvin DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr
+  TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 男子半決賽B - 激光跑
+LOCATION:凡爾賽宮
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-artistic-swimming-
@@ -2214,6 +2398,60 @@ SUMMARY:🏋 女子71公斤級
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T073000Z-modern-pentathlon-A-
+DTSTAMP:20240810T073000Z
+DTSTART:20240810T073000Z
+DTEND:20240810T080500Z
+DESCRIPTION:現代五項 - 女子半決賽A - 場地障礙賽\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
+  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
+  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
+  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
+  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
+  Rebecca LANGREHR\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇷 SEONG Seungmin\n🇰🇿
+  Yelena POTAPENKO
+SUMMARY:🤺 女子半決賽A - 場地障礙賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082400Z-modern-pentathlon-A-
+DTSTAMP:20240810T082400Z
+DTSTART:20240810T082400Z
+DTEND:20240810T084400Z
+DESCRIPTION:現代五項 - 女子半決賽A - 擊劍獎勵附加回合\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
+  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
+  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
+  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
+  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
+  Rebecca LANGREHR\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇷 SEONG Seungmin\n🇰🇿
+  Yelena POTAPENKO
+SUMMARY:🤺 女子半決賽A - 擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T092700Z-modern-pentathlon-A-
+DTSTAMP:20240810T092700Z
+DTSTART:20240810T092700Z
+DTEND:20240810T094700Z
+DESCRIPTION:現代五項 - 女子半決賽A - 激光跑\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
+  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
+  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
+  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
+  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
+  Rebecca LANGREHR\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇷 SEONG Seungmin\n🇰🇿
+  Yelena POTAPENKO
+SUMMARY:🤺 女子半決賽A - 激光跑
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095600Z-wrestling-9718-KAZ-EGY
+DTSTAMP:20240810T095600Z
+DTSTART:20240810T095600Z
+DTEND:20240810T100300Z
+DESCRIPTION:摔跤 - 男子自由式97公斤級1/8決賽
+SUMMARY:🤼 Alisher YERGALI 🇰🇿 - 🇪🇬 Mostafa ELDERS
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T140000Z-weightlifting-81
 DTSTAMP:20240810T140000Z
 DTSTART:20240810T140000Z
@@ -2228,13 +2466,58 @@ SUMMARY:🏋 女子81公斤級
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T153000Z-modern-pentathlon-
+DTSTAMP:20240810T153000Z
+DTSTART:20240810T153000Z
+DTEND:20240810T160500Z
+DESCRIPTION:現代五項 - 男子場地障礙賽決賽\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇭🇺 Balazs SZEP\n🇭🇺 Csaba BOHM\n🇲🇽 Emiliano
+  HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇮🇹 Giorgio MALAN\n🇫🇷 Jean-Baptiste
+  MOURCIA\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Lukasz
+  GUTKOWSKI\n🇩🇪 Marvin DOGUE\n🇮🇹 Matteo CICINELLI\n🇪🇬 Mohanad
+  SHABAN\n🇱🇻 Pavels SVECOVS\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇫🇷
+  Valentin PRADES
+SUMMARY:🤺 男子場地障礙賽決賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T161000Z-modern-pentathlon-
+DTSTAMP:20240810T161000Z
+DTSTART:20240810T161000Z
+DTEND:20240810T163000Z
+DESCRIPTION:現代五項 - 男子擊劍獎勵附加回合\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇭🇺 Balazs SZEP\n🇭🇺 Csaba BOHM\n🇲🇽 Emiliano
+  HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇮🇹 Giorgio MALAN\n🇫🇷 Jean-Baptiste
+  MOURCIA\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Lukasz
+  GUTKOWSKI\n🇩🇪 Marvin DOGUE\n🇮🇹 Matteo CICINELLI\n🇪🇬 Mohanad
+  SHABAN\n🇱🇻 Pavels SVECOVS\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇫🇷
+  Valentin PRADES
+SUMMARY:🤺 男子擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T171300Z-modern-pentathlon-
+DTSTAMP:20240810T171300Z
+DTSTART:20240810T171300Z
+DTEND:20240810T173300Z
+DESCRIPTION:現代五項 - 男子激光跑決賽\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇭🇺 Balazs SZEP\n🇭🇺 Csaba BOHM\n🇲🇽 Emiliano
+  HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇮🇹 Giorgio MALAN\n🇫🇷 Jean-Baptiste
+  MOURCIA\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Lukasz
+  GUTKOWSKI\n🇩🇪 Marvin DOGUE\n🇮🇹 Matteo CICINELLI\n🇪🇬 Mohanad
+  SHABAN\n🇱🇻 Pavels SVECOVS\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇫🇷
+  Valentin PRADES
+SUMMARY:🤺 男子激光跑決賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T173000Z-artistic-swimming-
 DTSTAMP:20240810T173000Z
 DTSTART:20240810T173000Z
 DTEND:20240810T192300Z
 DESCRIPTION:花樣游泳 - 雙人自由自選\n🇨🇳 CHN\n🇯🇵 JPN\n🇮🇱 ISR\n🇨🇦 CAN\n🇪🇸
   ESP\n🇬🇷 GRE\n🇫🇷 FRA\n🇺🇸 USA\n🇬🇧 GBR\n🇪🇬 EGY\n🇺🇦 UKR\n🇳🇱
-  NED\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿 新西蘭\n🇲🇽 MEX\n🇦🇺 AUS\n🇰🇷 KOR
+  NED\n🇦🇹 AUT\n🇳🇿 新西蘭\n🇲🇽 MEX\n🇦🇺 AUS\n🇰🇷 KOR
 SUMMARY:🏊 雙人自由自選
 LOCATION:水上運動中心
 END:VEVENT
@@ -2252,6 +2535,36 @@ SUMMARY:🏋 男子102公斤以上級
 LOCATION:南巴黎競技場6號館
 END:VEVENT
 BEGIN:VEVENT
+UID:20240811T090000Z-cycling-track--14
+DTSTAMP:20240811T090000Z
+DTSTART:20240811T090000Z
+DTEND:20240811T092200Z
+DESCRIPTION:場地自行車 - 女子全能賽捕捉賽 1/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽捕捉賽 1/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T090000Z-modern-pentathlon-
+DTSTAMP:20240811T090000Z
+DTSTART:20240811T090000Z
+DTEND:20240811T093500Z
+DESCRIPTION:現代五項 - 女子場地障礙賽決賽\n🇮🇹 Alice SOTERO\n🇨🇭 Anna JURT\n🇩🇪
+  Annika ZILLEKENS\n🇭🇺 Blanka GUZI\n🇮🇹 Elena MICHELI\n🇫🇷 Elodie
+  CLOUVEL\n🇱🇹 Gintare VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇬🇧 Kerenza
+  BRYSON\n🇰🇷 KIM Sunwoo\n🇱🇹 Laura ASADAUSKAITE\n🇪🇸 Laura
+  HEREDIA\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇭🇺 Michelle GULYAS\n🇰🇷 SEONG Seungmin\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 女子場地障礙賽決賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
 UID:20240811T093000Z-weightlifting-81
 DTSTAMP:20240811T093000Z
 DTSTART:20240811T093000Z
@@ -2263,6 +2576,82 @@ DESCRIPTION:舉重 - 女子81公斤以上級\n🇩🇴 Crismery SANTANA PEGUERO\
   Hyejeong\n🇺🇿 Tursunoy JABBOROVA
 SUMMARY:🏋 女子81公斤以上級
 LOCATION:南巴黎競技場6號館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T094000Z-modern-pentathlon-
+DTSTAMP:20240811T094000Z
+DTSTART:20240811T094000Z
+DTEND:20240811T100000Z
+DESCRIPTION:現代五項 - 女子擊劍獎勵附加回合\n🇮🇹 Alice SOTERO\n🇨🇭 Anna JURT\n🇩🇪
+  Annika ZILLEKENS\n🇭🇺 Blanka GUZI\n🇮🇹 Elena MICHELI\n🇫🇷 Elodie
+  CLOUVEL\n🇱🇹 Gintare VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇬🇧 Kerenza
+  BRYSON\n🇰🇷 KIM Sunwoo\n🇱🇹 Laura ASADAUSKAITE\n🇪🇸 Laura
+  HEREDIA\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇭🇺 Michelle GULYAS\n🇰🇷 SEONG Seungmin\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 女子擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T095700Z-cycling-track--24
+DTSTAMP:20240811T095700Z
+DTSTART:20240811T095700Z
+DTEND:20240811T101800Z
+DESCRIPTION:場地自行車 - 女子全能賽衝刺賽 2/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽衝刺賽 2/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T104300Z-modern-pentathlon-
+DTSTAMP:20240811T104300Z
+DTSTART:20240811T104300Z
+DTEND:20240811T110300Z
+DESCRIPTION:現代五項 - 女子激光跑決賽\n🇮🇹 Alice SOTERO\n🇨🇭 Anna JURT\n🇩🇪 Annika
+  ZILLEKENS\n🇭🇺 Blanka GUZI\n🇮🇹 Elena MICHELI\n🇫🇷 Elodie
+  CLOUVEL\n🇱🇹 Gintare VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇬🇧 Kerenza
+  BRYSON\n🇰🇷 KIM Sunwoo\n🇱🇹 Laura ASADAUSKAITE\n🇪🇸 Laura
+  HEREDIA\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇭🇺 Michelle GULYAS\n🇰🇷 SEONG Seungmin\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 女子激光跑決賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T105300Z-cycling-track--34
+DTSTAMP:20240811T105300Z
+DTSTART:20240811T105300Z
+DTEND:20240811T111500Z
+DESCRIPTION:場地自行車 - 女子全能賽淘汰賽 3/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽淘汰賽 3/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T115600Z-cycling-track--44
+DTSTAMP:20240811T115600Z
+DTSTART:20240811T115600Z
+DTEND:20240811T122800Z
+DESCRIPTION:場地自行車 - 女子全能賽積分賽 4/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽積分賽 4/4
+LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

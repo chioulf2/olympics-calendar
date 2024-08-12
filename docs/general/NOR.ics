@@ -2813,6 +2813,16 @@ SUMMARY:🏃 男子800米復活賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T114000Z-canoe-sprint-500A
+DTSTAMP:20240808T114000Z
+DTSTART:20240808T114000Z
+DTEND:20240808T114700Z
+DESCRIPTION:皮劃艇靜水 - 女子500米四人皮艇決賽A\n🇨🇳 CHN\n🇭🇺 HUN\n🇪🇸 ESP\n🇵🇱
+  POL\n🇳🇴 NOR\n🇳🇿 新西蘭\n🇩🇪 GER\n🇦🇺 AUS
+SUMMARY:🛶 女子500米四人皮艇決賽A
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T160000Z-beach-volleyball--GER-NOR
 DTSTAMP:20240808T160000Z
 DTSTART:20240808T160000Z
@@ -2850,6 +2860,104 @@ SUMMARY:🏊 男子10公里
 LOCATION:亞歷山大三世橋
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T070000Z-golf-3
+DTSTAMP:20240809T070000Z
+DTSTART:20240809T070000Z
+DTEND:20240809T160000Z
+DESCRIPTION:高爾夫 - 女子第3回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇹🇼 CHIEN Pei-Yun\n🇮🇳 Diksha DAGAR\n🇵🇭
+  Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther
+  HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇦🇺 Hannah GREEN\n🇹🇼
+  HSU Wei-Ling\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇰🇷 KO Jin Young\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇨🇳 LIN
+  Xiyu Janet\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪
+  Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo
+  URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ
+  MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇯🇵
+  SASO Yuka\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第3回合
+LOCATION:國家高爾夫球場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T084000Z-athletics-4X4001
+DTSTAMP:20240809T084000Z
+DTSTART:20240809T084000Z
+DTEND:20240809T085600Z
+DESCRIPTION:田徑 - 女子4x400米接力第1輪\n🇺🇸 Aaliyah BUTLER\n🇨🇦 Aiyanna
+  STIVERNE\n🇵🇱 Aleksandra FORMELLA\n🇫🇷 Alexe DEAU\n🇩🇪 Alica
+  SCHMIDT\n🇮🇹 Alice MANGIONE\n🇵🇱 Alicja WRONA-KUTRZEPA\n🇳🇴 Amalie
+  IUEL\n🇫🇷 Amandine BROSSIER\n🇵🇱 Anastazja KUS\n🇯🇲 Andrenette
+  KNIGHT\n🇮🇹 Anna POLINARI\n🇨🇭 Annina FAHR\n🇯🇲 Ashley WILLIAMS\n🇳🇴
+  Astri ERTZGAARD\n🇪🇸 Berta SEGURA\n🇪🇸 Blanca HERVAS\n🇧🇪 Camille
+  LAUS\n🇪🇸 Carmen AVILES\n🇯🇲 Charokee YOUNG\n🇨🇺 Daily COOPER
+  GASPAR\n🇩🇪 Eileen DEMES\n🇳🇴 Elisabeth SLETTUM\n🇪🇸 Eva
+  SANTIDRIAN\n🇳🇱 Eveline SAALBERG\n🇮🇹 Giancarla TREVISAN\n🇨🇭 Giulia
+  SENN\n🇬🇧 Hannah KELLY\n🇧🇪 Hanne CLAES\n🇧🇪 Helena PONETTE\n🇮🇹
+  Ilaria Elvira ACCAME\n🇧🇪 Imke VERVAET\n🇬🇧 Jodie WILLIAMS\n🇳🇴
+  Josefine Tomine ERIKSEN\n🇨🇭 Julia NIEDERBERGER\n🇵🇱 Justyna
+  SWIETY-ERSETIC\n🇮🇳 Jyothika Sri DANDI\n🇺🇸 Kaylyn BROWN\n🇮🇪 Kelly
+  McGRORY\n🇨🇦 Kyra CONSTANTINE\n🇨🇦 Lauren GALE\n🇳🇱 Lieke KLAVER\n🇬🇧
+  Lina NIELSEN\n🇳🇱 Lisanne de WITTE\n🇨🇺 Melissa PADRON\n🇩🇪 Mona
+  MAYER\n🇳🇱 Myrte van der SCHOOT\n🇮🇪 Phil HEALY\n🇮🇳 Poovamma Raju
+  MACHETTIRA\n🇺🇸 Quanera HAYES\n🇨🇺 Roxana GOMEZ\n🇨🇺 Sahily DIAGO
+  MESA\n🇺🇸 Shamier LITTLE\n🇫🇷 Shana GREBO\n🇮🇪 Sharlene MAWDSLEY\n🇩🇪
+  Skadi SCHIER\n🇮🇪 Sophie BECKER\n🇫🇷 Sounkamba SYLLA\n🇯🇲 Stephenie
+  Ann McPHERSON\n🇮🇳 Subha VENKATESAN\n🇮🇳 Vithya RAMRAJ\n🇨🇭 Yasmin
+  GIGER\n🇬🇧 Yemi Mary JOHN\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 女子4x400米接力第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T093000Z-athletics-800
+DTSTAMP:20240809T093000Z
+DTSTART:20240809T093000Z
+DTEND:20240809T095200Z
+DESCRIPTION:田徑 - 男子800米半決賽\n🇸🇪 Andreas KRAMER\n🇬🇧 Ben PATTISON\n🇺🇸
+  Brandon MILLER\n🇺🇸 Bryce HOPPEL\n🇮🇹 Catalin TECUCEANU\n🇩🇿 Djamel
+  SEDJATI\n🇿🇦 Edmund du PLESSIS\n🇧🇪 Eliott CRESTAN\n🇬🇧 Elliot
+  GILES\n🇰🇪 Emmanuel WANYONYI\n🇫🇷 Gabriel TUAL\n🇺🇸 Hobbs
+  KESSLER\n🇲🇽 Jesus Tonatiu LOPEZ\n🇧🇼 Kethobogile HAINGURA\n🇨🇦 Marco
+  AROP\n🇮🇪 Mark ENGLISH\n🇬🇧 Max BURGIN\n🇩🇿 Mohamed Ali GOUANED\n🇪🇸
+  Mohamed ATTAOUI\n🇦🇺 Peyton CRAIG\n🇮🇹 Simone BARONTINI\n🇳🇴 Tobias
+  GRONSTAD\n🇧🇼 Tshepiso MASALELA\n🇰🇪 Wyclife KINYAMAL
+SUMMARY:🏃 男子800米半決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T094200Z-wrestling-6218-NOR-TUN
+DTSTAMP:20240809T094200Z
+DTSTART:20240809T094200Z
+DTEND:20240809T094900Z
+DESCRIPTION:摔跤 - 女子自由式62公斤級1/8決賽
+SUMMARY:🤼 Grace Jacob BULLEN 🇳🇴 - 🇹🇳 Siwar BOUSETA
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T102400Z-wrestling-6214-NOR-GER
+DTSTAMP:20240809T102400Z
+DTSTART:20240809T102400Z
+DTEND:20240809T103100Z
+DESCRIPTION:摔跤 - 女子自由式62公斤級1/4決賽
+SUMMARY:🤼 Grace Jacob BULLEN 🇳🇴 - 🇩🇪 Luisa Helga Gerda NIEMESCH
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T170500Z-wrestling-62-NOR-JPN
+DTSTAMP:20240809T170500Z
+DTSTART:20240809T170500Z
+DTEND:20240809T171500Z
+DESCRIPTION:摔跤 - 女子自由式62公斤級半決賽
+SUMMARY:🤼 Grace Jacob BULLEN 🇳🇴 - 🇯🇵 MOTOKI Sakura
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T180000Z-athletics-400
 DTSTAMP:20240809T180000Z
 DTSTART:20240809T180000Z
@@ -2872,12 +2980,90 @@ SUMMARY:🏃 男子400米跨欄決賽
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T060000Z-athletics-
+DTSTAMP:20240810T060000Z
+DTSTART:20240810T060000Z
+DTEND:20240810T084500Z
+DESCRIPTION:田徑 - 男子馬拉松決賽\n🇳🇱 Abdi NAGEEYE\n🇯🇵 AKASAKI Akira\n🇬🇹
+  Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿 Alphonce Felix
+  SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬 Andrew Rotich
+  KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇪🇷 Berhane TESFAY\n🇨🇦
+  Cameron LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
+  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
+  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
+  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
+  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
+  Ryong\n🇫🇷 Hassan CHAHDI\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok
+  TESFAY\n🇨🇱 Hugo CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim
+  HASSAN\n🇿🇼 Isaac MPOFU\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
+  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇯🇵 KOYAMA Naoki\n🇺🇸
+  Leonard KORIR\n🇦🇺 Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru
+  TEFERI\n🇨🇭 Matthias KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath
+  ALKHAWALDEH\n🇲🇦 Mohcin OUTALHA\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
+  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
+  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
+  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
+  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
+  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
+  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
+  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
+  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇪🇸 Yago ROJO\n🇨🇳
+  YANG Shaohui\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan CRIPPA\n🇳🇴 Zerei
+  Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
+SUMMARY:🏃 男子馬拉松決賽
+LOCATION:榮軍院
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T070000Z-golf-4
+DTSTAMP:20240810T070000Z
+DTSTART:20240810T070000Z
+DTEND:20240810T160000Z
+DESCRIPTION:高爾夫 - 女子第4回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇹🇼 CHIEN Pei-Yun\n🇮🇳 Diksha DAGAR\n🇵🇭
+  Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther
+  HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇦🇺 Hannah GREEN\n🇹🇼
+  HSU Wei-Ling\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇰🇷 KO Jin Young\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇨🇳 LIN
+  Xiyu Janet\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪
+  Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo
+  URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ
+  MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇯🇵
+  SASO Yuka\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第4回合
+LOCATION:國家高爾夫球場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T094800Z-taekwondo-8016-SLO-NOR
 DTSTAMP:20240810T094800Z
 DTSTART:20240810T094800Z
 DTEND:20240810T100000Z
 DESCRIPTION:跆拳道 - 男子80公斤以上級16強賽
 SUMMARY:🥋 Patrik DIVKOVIC 🇸🇮 - 🇳🇴 Richard Andre ORDEMANN
+LOCATION:巴黎大皇宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T130000Z-handball--NOR-FRA
+DTSTAMP:20240810T130000Z
+DTSTART:20240810T130000Z
+DTEND:20240810T150000Z
+DESCRIPTION:手球 - 女子金牌賽
+SUMMARY:🤾 NOR 🇳🇴 - 🇫🇷 FRA
+LOCATION:皮埃爾·莫魯瓦體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T135800Z-taekwondo-8014-NOR-CRO
+DTSTAMP:20240810T135800Z
+DTSTART:20240810T135800Z
+DTEND:20240810T141100Z
+DESCRIPTION:跆拳道 - 男子80公斤以上級1/4決賽
+SUMMARY:🥋 Richard Andre ORDEMANN 🇳🇴 - 🇭🇷 Ivan SAPINA
 LOCATION:巴黎大皇宮
 END:VEVENT
 BEGIN:VEVENT
@@ -2921,6 +3107,88 @@ DESCRIPTION:田徑 - 男子5000米決賽\n🇪🇹 Addisu YIHUNE\n🇪🇹 Binia
   McSWEYN\n🇪🇸 Thierry NDIKUMWENAYO\n🇨🇦 Thomas FAFARD\n🇫🇷 Yann SCHRUB
 SUMMARY:🏃 男子5000米決賽
 LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T182500Z-wrestling-62-CAN-NOR
+DTSTAMP:20240810T182500Z
+DTSTART:20240810T182500Z
+DTEND:20240810T183500Z
+DESCRIPTION:摔跤 - 女子自由式62公斤級銅牌賽
+SUMMARY:🤼 Ana Paula GODINEZ GONZALEZ 🇨🇦 - 🇳🇴 Grace Jacob BULLEN
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T190000Z-beach-volleyball--QAT-NOR
+DTSTAMP:20240810T190000Z
+DTSTART:20240810T190000Z
+DTEND:20240810T195000Z
+DESCRIPTION:沙灘排球 - 男子銅牌賽
+SUMMARY:🏐 CHERIF/AHMED 🇶🇦 - 🇳🇴 MOL/SORUM
+LOCATION:埃菲爾鐵塔體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T090000Z-cycling-track--14
+DTSTAMP:20240811T090000Z
+DTSTART:20240811T090000Z
+DTEND:20240811T092200Z
+DESCRIPTION:場地自行車 - 女子全能賽捕捉賽 1/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽捕捉賽 1/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T095700Z-cycling-track--24
+DTSTAMP:20240811T095700Z
+DTSTART:20240811T095700Z
+DTEND:20240811T101800Z
+DESCRIPTION:場地自行車 - 女子全能賽衝刺賽 2/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽衝刺賽 2/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T105300Z-cycling-track--34
+DTSTAMP:20240811T105300Z
+DTSTART:20240811T105300Z
+DTEND:20240811T111500Z
+DESCRIPTION:場地自行車 - 女子全能賽淘汰賽 3/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽淘汰賽 3/4
+LOCATION:聖康丁伊夫林自行車館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T115600Z-cycling-track--44
+DTSTAMP:20240811T115600Z
+DTSTART:20240811T115600Z
+DTEND:20240811T122800Z
+DESCRIPTION:場地自行車 - 女子全能賽積分賽 4/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 女子全能賽積分賽 4/4
+LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

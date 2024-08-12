@@ -85,4 +85,26 @@ DESCRIPTION:運動攀巖 - 男子攀石和難度攀巖決賽 - 難度攀巖\n�
 SUMMARY:🧗 男子攀石和難度攀巖決賽 - 難度攀巖
 LOCATION:勒布爾歇運動攀巖館
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T081500Z-sport-climbing--
+DTSTAMP:20240810T081500Z
+DTSTART:20240810T081500Z
+DTEND:20240810T095200Z
+DESCRIPTION:運動攀巖 - 女子攀石和難度攀巖決賽 - 攀石\n🇺🇸 Brooke RABOUTOU\n🇬🇧 Erin
+  McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵 MORI Ai\n🇦🇺
+  Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
+SUMMARY:🧗 女子攀石和難度攀巖決賽 - 攀石
+LOCATION:勒布爾歇運動攀巖館
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T103500Z-sport-climbing--
+DTSTAMP:20240810T103500Z
+DTSTART:20240810T103500Z
+DTEND:20240810T112000Z
+DESCRIPTION:運動攀巖 - 女子攀石和難度攀巖決賽 - 難度攀巖\n🇺🇸 Brooke RABOUTOU\n🇬🇧 Erin
+  McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵 MORI Ai\n🇦🇺
+  Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
+SUMMARY:🧗 女子攀石和難度攀巖決賽 - 難度攀巖
+LOCATION:勒布爾歇運動攀巖館
+END:VEVENT
 END:VCALENDAR

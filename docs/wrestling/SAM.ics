@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//wrestling/SAM//EN
+X-WR-CALNAME:🇼🇸 薩摩亞 摔跤 | 巴黎2024
+NAME:🇼🇸 薩摩亞 摔跤 | 巴黎2024
+BEGIN:VEVENT
+UID:20240810T100300Z-wrestling-6518-ALB-SAM
+DTSTAMP:20240810T100300Z
+DTSTART:20240810T100300Z
+DTEND:20240810T101000Z
+DESCRIPTION:摔跤 - 男子自由式65公斤級1/8決賽
+SUMMARY:🤼 Islam DUDAEV 🇦🇱 - 🇼🇸 Gaku AKAZAWA
+LOCATION:戰神廣場
+END:VEVENT
+END:VCALENDAR

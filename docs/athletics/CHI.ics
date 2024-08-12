@@ -129,17 +129,50 @@ DTSTAMP:20240808T082500Z
 DTSTART:20240808T082500Z
 DTEND:20240808T092100Z
 DESCRIPTION:田徑 - 女子鉛球資格賽\n🇳🇱 Alida van DAALEN\n🇩🇪 Alina KENZEL\n🇧🇷
-  Ana Caroline SILVA\n🇿🇦 Ashley ERASMUS\n🇸🇪 Axelina JOHANSSON\n🇺🇸
-  Chase JACKSON\n🇯🇲 Danniel THOMAS-DODD\n🇲🇩 Dimitriana BEZEDE\n🇵🇹
-  Eliana BANDEIRA\n🇹🇷 Emel DERELI\n🇮🇸 Erna Soley GUNNARSDOTTIR\n🇸🇪
-  Fanny ROOS\n🇨🇳 GONG Lijiao\n🇨🇱 Ivana Xennia GALLARDO\n🇺🇸 Jaida
-  ROSS\n🇵🇹 Jessica INCHUDE\n🇳🇱 Jessica SCHILDER\n🇳🇱 Jorinde van
-  KLINKEN\n🇩🇪 Katharina MAISCH\n🇵🇱 Klaudia KARDASZ\n🇧🇷 Livia
-  AVANCINI\n🇯🇲 Lloydricia CAMERON\n🇳🇿 Maddison-Lee WESCHE\n🇪🇸 Maria
-  Belen TOIMIL\n🇿🇦 Mine de KLERK\n🇨🇱 Natalia DUCO\n🇹🇹 Portious
-  WARREN\n🇺🇸 Raven SAUNDERS\n🇨🇦 Sarah MITTON\n🇨🇳 SONG Jiayuan\n🇨🇳
-  SUN Yue\n🇩🇪 Yemisi OGUNLEYE
+  Ana Caroline SILVA\n🇸🇪 Axelina JOHANSSON\n🇺🇸 Chase JACKSON\n🇯🇲
+  Danniel THOMAS-DODD\n🇲🇩 Dimitriana BEZEDE\n🇵🇹 Eliana BANDEIRA\n🇹🇷
+  Emel DERELI\n🇮🇸 Erna Soley GUNNARSDOTTIR\n🇸🇪 Fanny ROOS\n🇨🇳 GONG
+  Lijiao\n🇨🇱 Ivana Xennia GALLARDO\n🇺🇸 Jaida ROSS\n🇵🇹 Jessica
+  INCHUDE\n🇳🇱 Jessica SCHILDER\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Katharina
+  MAISCH\n🇵🇱 Klaudia KARDASZ\n🇧🇷 Livia AVANCINI\n🇯🇲 Lloydricia
+  CAMERON\n🇳🇿 Maddison-Lee WESCHE\n🇪🇸 Maria Belen TOIMIL\n🇿🇦 Mine de
+  KLERK\n🇨🇱 Natalia DUCO\n🇹🇹 Portious WARREN\n🇺🇸 Raven SAUNDERS\n🇨🇦
+  Sarah MITTON\n🇨🇳 SONG Jiayuan\n🇨🇳 SUN Yue\n🇩🇪 Yemisi OGUNLEYE
 SUMMARY:🏃 女子鉛球資格賽
 LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T060000Z-athletics-
+DTSTAMP:20240810T060000Z
+DTSTART:20240810T060000Z
+DTEND:20240810T084500Z
+DESCRIPTION:田徑 - 男子馬拉松決賽\n🇳🇱 Abdi NAGEEYE\n🇯🇵 AKASAKI Akira\n🇬🇹
+  Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿 Alphonce Felix
+  SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬 Andrew Rotich
+  KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇪🇷 Berhane TESFAY\n🇨🇦
+  Cameron LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
+  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
+  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
+  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
+  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
+  Ryong\n🇫🇷 Hassan CHAHDI\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok
+  TESFAY\n🇨🇱 Hugo CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim
+  HASSAN\n🇿🇼 Isaac MPOFU\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
+  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇯🇵 KOYAMA Naoki\n🇺🇸
+  Leonard KORIR\n🇦🇺 Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru
+  TEFERI\n🇨🇭 Matthias KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath
+  ALKHAWALDEH\n🇲🇦 Mohcin OUTALHA\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
+  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
+  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
+  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
+  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
+  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
+  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
+  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
+  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇪🇸 Yago ROJO\n🇨🇳
+  YANG Shaohui\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan CRIPPA\n🇳🇴 Zerei
+  Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
+SUMMARY:🏃 男子馬拉松決賽
+LOCATION:榮軍院
 END:VEVENT
 END:VCALENDAR

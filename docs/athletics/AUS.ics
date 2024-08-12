@@ -928,11 +928,11 @@ DESCRIPTION:田徑 - 馬拉松競走混合接力\n🇺🇦 BANZERUK/OLYANOVSKA\n
   COWLEY R/MONTAG J\n🇹🇷 DEMIR M/TEKDAL A\n🇨🇦 DUNFEE E/LUNDMAN O\n🇨🇳
   HE X/QIEYANG S\n🇨🇴 HERRERA/MOJICA\n🇨🇿 HLAVAC V/MARTINKOVA E\n🇯🇵
   KAWANO M/OKADA K\n🇩🇪 LINKE C/FEIGE S\n🇪🇸 LOPEZ M/MONTESINOS C\n🇪🇸
-  MARTIN A/PEREZ M\n🇲🇽 ORTIZ R/GONZALEZ A\n🇮🇳 PANWAR
-  Suraj/PRIYANKA\n🇪🇨 PINTADO B/MOREJON G\n🇫🇷 QUINION A/BERETTA C\n🇵🇪
-  RODRIGUEZ/GARCIA LEON\n🇨🇴 ROMERO M/ARENAS L\n🇮🇹 STANO M/PALMISANO
-  A\n🇯🇵 TAKAHASHI K/YANAI A\n🇦🇺 TINGAY D/HENDERSON R\n🇭🇺 VENYERCSAN
-  B/RECSEI R\n🇨🇳 ZHANG Jun/YANG Jiayu
+  MARTIN A/PEREZ M\n🇲🇽 PALMA/GONZALEZ\n🇮🇳 PANWAR Suraj/PRIYANKA\n🇪🇨
+  PINTADO B/MOREJON G\n🇫🇷 QUINION A/BERETTA C\n🇵🇪 RODRIGUEZ/GARCIA
+  LEON\n🇨🇴 ROMERO M/ARENAS L\n🇮🇹 STANO M/PALMISANO A\n🇯🇵 TAKAHASHI
+  K/YANAI A\n🇦🇺 TINGAY D/HENDERSON R\n🇭🇺 VENYERCSAN B/RECSEI R\n🇨🇳
+  ZHANG Jun/YANG Jiayu
 SUMMARY:🏃 馬拉松競走混合接力
 LOCATION:特羅卡德羅
 END:VEVENT
@@ -1166,9 +1166,27 @@ UID:20240808T091000Z-athletics-4X1001
 DTSTAMP:20240808T091000Z
 DTSTART:20240808T091000Z
 DTEND:20240808T092000Z
-DESCRIPTION:田徑 - 女子4x100米接力第1輪\n🇧🇪 BEL\n🇯🇲 JAM\n🇨🇦 CAN\n🇳🇬
-  尼日利亞\n🇪🇸 ESP\n🇫🇷 FRA\n🇵🇱 POL\n🇨🇮 CIV\n🇺🇸 USA\n🇬🇧 GBR\n🇹🇹
-  TTO\n🇳🇱 NED\n🇮🇹 ITA\n🇨🇭 SUI\n🇩🇪 GER\n🇦🇺 AUS
+DESCRIPTION:田徑 - 女子4x100米接力第1輪\n🇹🇹 Akilah LEWIS\n🇯🇲 Alana REID\n🇬🇧
+  Amy HUNT\n🇮🇹 Arianna de MASI\n🇨🇦 Audrey LEDUC\n🇬🇧 Bianca
+  WILLIAMS\n🇦🇺 Bree MASTERS\n🇫🇷 Chloe GALET\n🇮🇹 Dalia KADDARI\n🇧🇪
+  Delphine NKANSA\n🇬🇧 Desiree HENRY\n🇧🇪 Elise MEHUYS\n🇦🇺 Ella
+  CONNOLLY\n🇵🇱 Ewa SWOBODA\n🇳🇬 Favour OFILI\n🇺🇸 Gabrielle
+  THOMAS\n🇫🇷 Gemima JOSEPH\n🇩🇪 Gina LUECKENKEMPER\n🇫🇷 Helene
+  PARISOT\n🇬🇧 Imani LANSIQUOT\n🇮🇹 Irene SIRAGUSA\n🇳🇱 Isabel van den
+  BERG\n🇨🇦 Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇨🇮 Jessika GBAI\n🇳🇬
+  Justina Tiana EYAKPOBEYAN\n🇯🇲 Kemba NELSON\n🇦🇺 Kristie EDWARDS\n🇵🇱
+  Krystsina TSIMANOUSKAYA\n🇹🇹 Leah BERTRAND\n🇨🇭 Leonie POINTET\n🇩🇪
+  Lisa MAYER\n🇨🇮 Maboundou KONE\n🇵🇱 Magdalena NIEMCZYK\n🇵🇱 Magdalena
+  STEFANOWICZ\n🇪🇸 Maria Isabel PEREZ\n🇨🇦 Marie-Eloise LECLAIR\n🇨🇮
+  Marie-Josee TA LOU-SMITH\n🇳🇱 Marije van HUNENSTIJN\n🇺🇸 Melissa
+  JEFFERSON\n🇳🇱 Minke BISSCHOPS\n🇨🇭 Mujinga KAMBUNDJI\n🇨🇮 Murielle
+  AHOURE-DEMPS\n🇫🇷 Orlann OLIERE\n🇪🇸 Paula SEVILLA\n🇧🇪 Rani
+  ROSIUS\n🇧🇪 Rani VINCKE\n🇩🇪 Rebekka HAASE\n🇳🇬 Rosemary
+  CHUKWUMA\n🇨🇦 Sade McCREATH\n🇨🇭 Salome KORA\n🇹🇹 Sanaa
+  FREDERICK\n🇨🇭 Sarah ATCHO-JAQUIER\n🇺🇸 Sha'carri RICHARDSON\n🇯🇲
+  Shashalee FORBES\n🇹🇹 Sole FREDERICK\n🇪🇸 Sonia MOLINA-PRADOS\n🇩🇪
+  Sophia JUNK\n🇳🇱 Tasa JIYA\n🇯🇲 Tia CLAYTON\n🇳🇬 Tima GODBLESS\n🇦🇺
+  Torrie LEWIS\n🇺🇸 Twanisha TERRY\n🇮🇹 Zaynab DOSSO
 SUMMARY:🏃 女子4x100米接力第1輪
 LOCATION:法蘭西體育場
 END:VEVENT
@@ -1177,9 +1195,27 @@ UID:20240808T093500Z-athletics-4X1001
 DTSTAMP:20240808T093500Z
 DTSTART:20240808T093500Z
 DTEND:20240808T094500Z
-DESCRIPTION:田徑 - 男子4x100米接力第1輪\n🇨🇳 CHN\n🇧🇷 BRA\n🇯🇵 JPN\n🇯🇲
-  JAM\n🇨🇦 CAN\n🇬🇭 GHA\n🇳🇬 尼日利亞\n🇱🇷 LBR\n🇫🇷 FRA\n🇿🇦 RSA\n🇺🇸
-  USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇩🇪 GER\n🇦🇺 AUS
+DESCRIPTION:田徑 - 男子4x100米接力第1輪\n🇨🇦 Aaron BROWN\n🇬🇭 Abdul-Rasheed
+  SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇳🇬 Alaba Olukunle
+  AKINTOLA\n🇨🇦 Andre De GRASSE\n🇿🇦 Bayanda WALAZA\n🇬🇭 Benjamin
+  AZAMATI\n🇿🇦 Bradley NKOANA\n🇨🇦 Brendon RODNEY\n🇦🇺 Calab LAW\n🇨🇳
+  CHEN Jiapeng\n🇺🇸 Christian COLEMAN\n🇺🇸 Courtney LINDSEY\n🇨🇳 DENG
+  Zhijian\n🇳🇱 Elvis AFRIFA\n🇱🇷 Emmanuel MATADI\n🇧🇷 Erik CARDOSO\n🇮🇹
+  Eseosa Fostine DESALU\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷 Felipe
+  BARDI\n🇮🇹 Filippo TORTU\n🇺🇸 Fred KERLEY\n🇧🇷 Gabriel dos
+  SANTOS\n🇬🇭 Ibrahim FUSEINI\n🇱🇷 Jabez REEVES\n🇦🇺 Jacob DESPARD\n🇫🇷
+  Jeff ERIUS\n🇯🇲 Jehlani GORDON\n🇯🇲 Jelani WALKER\n🇬🇧 Jeremiah
+  AZU\n🇨🇦 Jerome BLAKE\n🇱🇷 John SHERMAN\n🇱🇷 Joseph FAHNBULLEH\n🇬🇭
+  Joseph Paul AMOAH\n🇦🇺 Joshua AZZOPARDI\n🇳🇬 Kayinsola AJAYI\n🇩🇪
+  Kevin KRANZ\n🇯🇵 KIRYU Yoshihide\n🇯🇲 Kishane THOMPSON\n🇺🇸 Kyree
+  KING\n🇦🇺 Lachlan KENNEDY\n🇮🇹 Lamont Marcell JACOBS\n🇬🇧 Louie
+  HINCHLIFFE\n🇩🇪 Lucas ANSAH-PEPRAH\n🇮🇹 Matteo MELLUZZO\n🇫🇷 Meba
+  Mickael ZEZE\n🇬🇧 Nethaneel MITCHELL-BLAKE\n🇳🇱 Nsikak EKPO\n🇳🇱
+  Onyema ADIGIDA\n🇩🇪 Owen ANSAH\n🇫🇷 Pablo MATEO\n🇧🇷 Renan
+  CORREA\n🇬🇧 Richard KILTY\n🇫🇷 Ryan ZEZE\n🇯🇵 SANI BROWN Abdul
+  Hakim\n🇿🇦 Shaun MASWANGANYI\n🇳🇱 Taymir BURNET\n🇯🇵 UEYAMA Koki\n🇳🇬
+  Usheoritse ITSEKIRI\n🇨🇳 XIE Zhenye\n🇨🇳 YAN Haibin\n🇯🇵 YANAGITA
+  Hiroki\n🇩🇪 Yannick WOLF
 SUMMARY:🏃 男子4x100米接力第1輪
 LOCATION:法蘭西體育場
 END:VEVENT
@@ -1253,6 +1289,62 @@ SUMMARY:🏃 女子七項全能200米
 LOCATION:法蘭西體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T080500Z-athletics-
+DTSTAMP:20240809T080500Z
+DTSTART:20240809T080500Z
+DTEND:20240809T084700Z
+DESCRIPTION:田徑 - 女子七項全能跳遠\n🇵🇱 Adrianna SULEK-SCHUBERT\n🇺🇸 Anna
+  HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk VETTER\n🇫🇷 Auriana
+  LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪 Carolin SCHAEFER\n🇺🇸
+  Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade O'DOWDA\n🇬🇧 Katarina
+  JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha ARAUJO\n🇧🇪 Nafissatou
+  THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮 Saga VANNINEN\n🇳🇱 Sofie
+  DOKTER\n🇮🇹 Sveva GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺
+  Xenia KRIZSAN
+SUMMARY:🏃 女子七項全能跳遠
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092300Z-athletics--A
+DTSTAMP:20240809T092300Z
+DTSTART:20240809T092300Z
+DTEND:20240809T100500Z
+DESCRIPTION:田徑 - 女子七項全能標槍 - A組\n🇵🇱 Adrianna SULEK-SCHUBERT\n🇺🇸 Anna
+  HALL\n🇦🇺 Camryn NEWTON-SMITH\n🇬🇧 Jade O'DOWDA\n🇬🇧 Katarina
+  JOHNSON-THOMPSON\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮 Saga
+  VANNINEN\n🇮🇹 Sveva GEREVINI\n🇺🇸 Taliyah BROOKS\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 女子七項全能標槍 - A組
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T093000Z-athletics-800
+DTSTAMP:20240809T093000Z
+DTSTART:20240809T093000Z
+DTEND:20240809T095200Z
+DESCRIPTION:田徑 - 男子800米半決賽\n🇸🇪 Andreas KRAMER\n🇬🇧 Ben PATTISON\n🇺🇸
+  Brandon MILLER\n🇺🇸 Bryce HOPPEL\n🇮🇹 Catalin TECUCEANU\n🇩🇿 Djamel
+  SEDJATI\n🇿🇦 Edmund du PLESSIS\n🇧🇪 Eliott CRESTAN\n🇬🇧 Elliot
+  GILES\n🇰🇪 Emmanuel WANYONYI\n🇫🇷 Gabriel TUAL\n🇺🇸 Hobbs
+  KESSLER\n🇲🇽 Jesus Tonatiu LOPEZ\n🇧🇼 Kethobogile HAINGURA\n🇨🇦 Marco
+  AROP\n🇮🇪 Mark ENGLISH\n🇬🇧 Max BURGIN\n🇩🇿 Mohamed Ali GOUANED\n🇪🇸
+  Mohamed ATTAOUI\n🇦🇺 Peyton CRAIG\n🇮🇹 Simone BARONTINI\n🇳🇴 Tobias
+  GRONSTAD\n🇧🇼 Tshepiso MASALELA\n🇰🇪 Wyclife KINYAMAL
+SUMMARY:🏃 男子800米半決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103200Z-athletics--B
+DTSTAMP:20240809T103200Z
+DTSTART:20240809T103200Z
+DTEND:20240809T111400Z
+DESCRIPTION:田徑 - 女子七項全能標槍 - B組\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk VETTER\n🇫🇷
+  Auriana LAZRAQ-KHLASS\n🇩🇪 Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱
+  Emma OOSTERWEGEL\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha ARAUJO\n🇧🇪 Nafissatou
+  THIAM\n🇳🇱 Sofie DOKTER\n🇦🇺 Tori WEST
+SUMMARY:🏃 女子七項全能標槍 - B組
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T181300Z-athletics-
 DTSTAMP:20240809T181300Z
 DTSTART:20240809T181300Z
@@ -1264,6 +1356,69 @@ DESCRIPTION:田徑 - 男子三級跳遠決賽\n🇧🇷 Almir dos SANTOS\n🇮�
   TRIKI\n🇨🇳 ZHU Yaming
 SUMMARY:🏃 男子三級跳遠決賽
 LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T182500Z-athletics-800
+DTSTAMP:20240809T182500Z
+DTSTART:20240809T182500Z
+DTEND:20240809T184800Z
+DESCRIPTION:田徑 - 女子七項全能800米\n🇵🇱 Adrianna SULEK-SCHUBERT\n🇫🇷 Auriana
+  LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪 Carolin SCHAEFER\n🇺🇸
+  Chari HAWKINS\n🇬🇧 Jade O'DOWDA\n🇮🇪 Kate O'CONNOR\n🇭🇺 Rita
+  NEMES\n🇫🇮 Saga VANNINEN\n🇮🇹 Sveva GEREVINI\n🇦🇺 Tori WEST
+SUMMARY:🏃 女子七項全能800米
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T185700Z-athletics-10000
+DTSTAMP:20240809T185700Z
+DTSTART:20240809T185700Z
+DTEND:20240809T193100Z
+DESCRIPTION:田徑 - 女子10000米決賽\n🇫🇷 Alessia ZARBO\n🇺🇬 Annet Chemengich
+  CHELANGAT\n🇰🇪 Beatrice CHEBET\n🇰🇿 Daisy JEPKEMEI\n🇳🇱 Diane van
+  ES\n🇬🇧 Eilish McCOLGAN\n🇪🇹 Fotyen TESFAY\n🇧🇮 Francine
+  NIYOMUKUNZI\n🇯🇵 GOSHIMA Rino\n🇪🇹 Gudaf TSEGAY\n🇺🇸 Karissa
+  SCHWEIZER\n🇸🇮 Klara LUKAN\n🇯🇵 KOKAI Haruka\n🇦🇺 Lauren RYAN\n🇰🇪
+  Lilian Kasait RENGERUK\n🇰🇪 Margaret Chelimo KIPKEMBOI\n🇬🇧 Megan
+  KEITH\n🇮🇹 Nadia BATTOCLETTI\n🇺🇸 Parker VALBY\n🇪🇷 Rahel DANIEL\n🇺🇬
+  Sarah CHELANGAT\n🇳🇱 Sifan HASSAN\n🇯🇵 TAKASHIMA Yuka\n🇪🇹 Tsigie
+  GEBRESELAMA\n🇺🇸 Weini KELATI FREZGHI
+SUMMARY:🏃 女子10000米決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T060000Z-athletics-
+DTSTAMP:20240810T060000Z
+DTSTART:20240810T060000Z
+DTEND:20240810T084500Z
+DESCRIPTION:田徑 - 男子馬拉松決賽\n🇳🇱 Abdi NAGEEYE\n🇯🇵 AKASAKI Akira\n🇬🇹
+  Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿 Alphonce Felix
+  SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬 Andrew Rotich
+  KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇪🇷 Berhane TESFAY\n🇨🇦
+  Cameron LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
+  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
+  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
+  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
+  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
+  Ryong\n🇫🇷 Hassan CHAHDI\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok
+  TESFAY\n🇨🇱 Hugo CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim
+  HASSAN\n🇿🇼 Isaac MPOFU\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
+  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇯🇵 KOYAMA Naoki\n🇺🇸
+  Leonard KORIR\n🇦🇺 Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru
+  TEFERI\n🇨🇭 Matthias KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath
+  ALKHAWALDEH\n🇲🇦 Mohcin OUTALHA\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
+  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
+  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
+  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
+  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
+  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
+  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
+  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
+  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇪🇸 Yago ROJO\n🇨🇳
+  YANG Shaohui\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan CRIPPA\n🇳🇴 Zerei
+  Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
+SUMMARY:🏃 男子馬拉松決賽
+LOCATION:榮軍院
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-athletics-
@@ -1292,5 +1447,56 @@ DESCRIPTION:田徑 - 男子5000米決賽\n🇪🇹 Addisu YIHUNE\n🇪🇹 Binia
   McSWEYN\n🇪🇸 Thierry NDIKUMWENAYO\n🇨🇦 Thomas FAFARD\n🇫🇷 Yann SCHRUB
 SUMMARY:🏃 男子5000米決賽
 LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T181500Z-athletics-1500
+DTSTAMP:20240810T181500Z
+DTSTART:20240810T181500Z
+DTEND:20240810T181900Z
+DESCRIPTION:田徑 - 女子1500米決賽\n🇫🇷 Agathe GUILLEMOT\n🇪🇸 Agueda
+  MARQUES\n🇪🇹 Diribe WELTEJI\n🇺🇸 Elle ST. PIERRE\n🇰🇪 Faith
+  KIPYEGON\n🇬🇧 Georgia BELL\n🇪🇹 Gudaf TSEGAY\n🇦🇺 Jessica HULL\n🇵🇱
+  Klaudia KAZIMIERSKA\n🇬🇧 Laura MUIR\n🇺🇸 Nikki HILTZ\n🇰🇪 Susan Lokayo
+  EJORE
+SUMMARY:🏃 女子1500米決賽
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T060000Z-athletics-
+DTSTAMP:20240811T060000Z
+DTSTART:20240811T060000Z
+DTEND:20240811T091500Z
+DESCRIPTION:田徑 - 女子馬拉松決賽\n🇵🇱 Aleksandra LISOWSKA\n🇪🇹 Amane Beriso
+  SHANKULE\n🇵🇱 Angelika MACH\n🇨🇴 Angie ORJUELA\n🇳🇱 Anne LUIJTEN\n🇨🇳
+  BAI Li\n🇭🇷 Bojana BJELJAC\n🇬🇧 Calli HAUGER-THACKERY\n🇫🇮 Camilla
+  RICHARDSSON\n🇳🇿 Camille FRENCH\n🇸🇪 Carolina WIKSTROM\n🇧🇪 Chloe
+  HERBIET\n🇿🇦 Cian OLDKNOW\n🇲🇽 Citlali CRISTIAN MOSCOTE\n🇬🇧 Clara
+  EVANS\n🇷🇼 Clementine MUKANDANGA\n🇦🇷 Daiana OCAMPO\n🇺🇸 Dakotah
+  LINDWURM\n🇷🇴 Delvine Relin MERINGOR\n🇪🇷 Dolshi TESFU\n🇩🇪 Domenika
+  MAYER\n🇺🇸 Emily SISSON\n🇪🇸 Esther NAVARRETE\n🇧🇭 Eunice Chebichii
+  CHUMBA\n🇨🇭 Fabienne SCHLUMPF\n🇲🇦 Fatima Ezzahra GARDADI\n🇺🇸 Fiona
+  O'KEEFFE\n🇮🇪 Fionnuala McCORMACK\n🇦🇷 Florencia BORELLI\n🇦🇺
+  Genevieve GREGSON\n🇿🇦 Gerda STEYN\n🇮🇹 Giovanna EPIS\n🇵🇪 Gladys
+  TEJEDA\n🇧🇪 Hanne VERBRUGGEN\n🇳🇦 Helalia JOHANNES\n🇨🇭 Helen
+  BEKELE\n🇰🇪 Hellen OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦 Irvette van ZYL\n🇹🇿
+  Jackline SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹
+  Julia MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
+  Kinzang LHAMO\n🇩🇪 Laura HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪
+  Luz Mery ROJAS\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida MAAYOUF\n🇨🇦 Malindi
+  ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ FLORES\n🇲🇺 Marie
+  PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV KOSTRO\n🇪🇹 Megertu
+  ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak KEJETA\n🇫🇷 Meline
+  ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline CHELANGAT\n🇪🇸 Meritxell
+  SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete Blandina MAKATISI\n🇲🇳
+  Munkhzaya BAYARTSOGT\n🇰🇪 Peres JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬
+  Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose
+  HARVEY\n🇿🇼 Rutendo Joan NYAHORA\n🇰🇬 Sardana TROFIMOVA\n🇳🇵 Shantoshi
+  SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan HASSAN\n🇪🇨 Silvia Patricia
+  ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹 Sofiia YAREMCHUK\n🇺🇬 Stella
+  CHESANG\n🇵🇹 Susana SANTOS\n🇯🇵 SUZUKI Yuka\n🇨🇿 Tereza HROCHOVA\n🇵🇪
+  Thalia VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst ASSEFA\n🇨🇳 XIA
+  Yuyu\n🇨🇳 ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
+SUMMARY:🏃 女子馬拉松決賽
+LOCATION:榮軍院
 END:VEVENT
 END:VCALENDAR

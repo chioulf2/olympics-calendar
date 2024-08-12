@@ -423,7 +423,14 @@ UID:20240808T153800Z-cycling-track--24
 DTSTAMP:20240808T153800Z
 DTSTART:20240808T153800Z
 DTEND:20240808T160100Z
-DESCRIPTION:場地自行車 - 男子全能賽衝刺賽 2/4
+DESCRIPTION:場地自行車 - 男子全能賽衝刺賽 2/4\n🇳🇿 Aaron GATE\n🇵🇱 Alan BANASZEK\n🇪🇸
+  Albert TORRES BARCELO\n🇨🇭 Alex VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩
+  Bernard van AERT\n🇨🇦 Dylan BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan
+  HAYTER\n🇧🇪 Fabio van den BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸
+  Grant KOONTZ\n🇵🇹 Iuri LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van
+  SCHIP\n🇯🇵 KUBOKI Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA
+  SALAS\n🇦🇺 Sam WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬
+  Youssef ABOUELHASSAN
 SUMMARY:🚴 男子全能賽衝刺賽 2/4
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -441,7 +448,11 @@ UID:20240808T161500Z-cycling-track-
 DTSTAMP:20240808T161500Z
 DTSTART:20240808T161500Z
 DTEND:20240808T162500Z
-DESCRIPTION:場地自行車 - 女子凱林賽半決賽
+DESCRIPTION:場地自行車 - 女子凱林賽半決賽\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse
+  ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma HINZE\n🇳🇱 Hetty van de
+  WOUW\n🇬🇧 Katy MARCHANT\n🇩🇪 Lea FRIEDRICH\n🇫🇷 Mathilde GROS\n🇧🇪
+  Nicky DEGRENDELE\n🇯🇵 OHTA Riyu\n🇳🇿 Rebecca PETCH\n🇳🇱 Steffie van
+  der PEET
 SUMMARY:🚴 女子凱林賽半決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -450,7 +461,14 @@ UID:20240808T162500Z-cycling-track--34
 DTSTAMP:20240808T162500Z
 DTSTART:20240808T162500Z
 DTEND:20240808T164700Z
-DESCRIPTION:場地自行車 - 男子全能賽淘汰賽 3/4
+DESCRIPTION:場地自行車 - 男子全能賽淘汰賽 3/4\n🇳🇿 Aaron GATE\n🇵🇱 Alan BANASZEK\n🇪🇸
+  Albert TORRES BARCELO\n🇨🇭 Alex VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩
+  Bernard van AERT\n🇨🇦 Dylan BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan
+  HAYTER\n🇧🇪 Fabio van den BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸
+  Grant KOONTZ\n🇵🇹 Iuri LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van
+  SCHIP\n🇯🇵 KUBOKI Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA
+  SALAS\n🇦🇺 Sam WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬
+  Youssef ABOUELHASSAN
 SUMMARY:🚴 男子全能賽淘汰賽 3/4
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -468,7 +486,9 @@ UID:20240808T170100Z-cycling-track-7-12
 DTSTAMP:20240808T170100Z
 DTSTART:20240808T170100Z
 DTEND:20240808T171100Z
-DESCRIPTION:場地自行車 - 女子凱林賽7-12名排名賽
+DESCRIPTION:場地自行車 - 女子凱林賽7-12名排名賽\n🇩🇪 Lea FRIEDRICH\n🇫🇷 Mathilde
+  GROS\n🇧🇪 Nicky DEGRENDELE\n🇯🇵 OHTA Riyu\n🇳🇿 Rebecca PETCH\n🇳🇱
+  Steffie van der PEET
 SUMMARY:🚴 女子凱林賽7-12名排名賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -477,7 +497,9 @@ UID:20240808T171100Z-cycling-track-
 DTSTAMP:20240808T171100Z
 DTSTART:20240808T171100Z
 DTEND:20240808T171800Z
-DESCRIPTION:場地自行車 - 女子凱林賽金牌賽
+DESCRIPTION:場地自行車 - 女子凱林賽金牌賽\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse
+  ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma HINZE\n🇳🇱 Hetty van de
+  WOUW\n🇬🇧 Katy MARCHANT
 SUMMARY:🚴 女子凱林賽金牌賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -495,7 +517,14 @@ UID:20240808T172700Z-cycling-track--44
 DTSTAMP:20240808T172700Z
 DTSTART:20240808T172700Z
 DTEND:20240808T180400Z
-DESCRIPTION:場地自行車 - 男子全能賽積分賽 4/4
+DESCRIPTION:場地自行車 - 男子全能賽積分賽 4/4\n🇳🇿 Aaron GATE\n🇵🇱 Alan BANASZEK\n🇪🇸
+  Albert TORRES BARCELO\n🇨🇭 Alex VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩
+  Bernard van AERT\n🇨🇦 Dylan BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan
+  HAYTER\n🇧🇪 Fabio van den BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸
+  Grant KOONTZ\n🇵🇹 Iuri LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van
+  SCHIP\n🇯🇵 KUBOKI Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA
+  SALAS\n🇦🇺 Sam WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬
+  Youssef ABOUELHASSAN
 SUMMARY:🚴 男子全能賽積分賽 4/4
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -504,7 +533,7 @@ UID:20240808T180400Z-cycling-track-5-8
 DTSTAMP:20240808T180400Z
 DTSTART:20240808T180400Z
 DTEND:20240808T180900Z
-DESCRIPTION:場地自行車 - 男子爭先賽5-8名排名賽
+DESCRIPTION:場地自行車 - 男子爭先賽5-8名排名賽\n🇯🇵 JPN\n🇵🇱 POL\n🇬🇧 GBR
 SUMMARY:🚴 男子爭先賽5-8名排名賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -513,7 +542,16 @@ UID:20240809T120000Z-cycling-track-
 DTSTAMP:20240809T120000Z
 DTSTART:20240809T120000Z
 DTEND:20240809T124100Z
-DESCRIPTION:場地自行車 - 女子爭先賽資格賽
+DESCRIPTION:場地自行車 - 女子爭先賽資格賽\n🇨🇳 BAO Shanju\n🇦🇺 Chloe MORAN\n🇲🇽
+  Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪
+  Emma HINZE\n🇳🇬 Ese UKPESERAYE\n🇳🇱 Hetty van de WOUW\n🇧🇪 Julie
+  NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam VECE\n🇧🇪 Nicky DEGRENDELE\n🇵🇱
+  Nikola SIBIAK\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵 OHTA Riyu\n🇮🇹
+  Sara FIORIN\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧 Sophie
+  CAPEWELL\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van der PEET\n🇫🇷
+  Taky Marie Divine KOUAME\n🇨🇳 YUAN Liying\n🇲🇽 Yuli VERDUGO OSUNA
 SUMMARY:🚴 女子爭先賽資格賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -531,7 +569,15 @@ UID:20240809T124800Z-cycling-track-132
 DTSTAMP:20240809T124800Z
 DTSTART:20240809T124800Z
 DTEND:20240809T132900Z
-DESCRIPTION:場地自行車 - 女子爭先賽1/32決賽
+DESCRIPTION:場地自行車 - 女子爭先賽1/32決賽\n🇨🇳 BAO Shanju\n🇲🇽 Daniela GAXIOLA
+  GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma HINZE\n🇳🇱
+  Hetty van de WOUW\n🇧🇪 Julie NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺
+  Kristina CLONAN\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena
+  KARWACKA\n🇨🇴 Martha BAYONA PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam
+  VECE\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵 OHTA Riyu\n🇯🇵 SATO
+  Mina\n🇳🇿 Shaane FULTON\n🇬🇧 Sophie CAPEWELL\n🇨🇴 Stefany CUADRADO
+  FLOREZ\n🇳🇱 Steffie van der PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇲🇽
+  Yuli VERDUGO OSUNA
 SUMMARY:🚴 女子爭先賽1/32決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -549,7 +595,11 @@ UID:20240809T133800Z-cycling-track-132
 DTSTAMP:20240809T133800Z
 DTSTART:20240809T133800Z
 DTEND:20240809T135200Z
-DESCRIPTION:場地自行車 - 女子爭先賽1/32決賽復活賽
+DESCRIPTION:場地自行車 - 女子爭先賽1/32決賽復活賽\n🇨🇳 BAO Shanju\n🇲🇽 Daniela GAXIOLA
+  GONZALEZ\n🇧🇪 Julie NICOLAES\n🇨🇦 Lauriane GENEST\n🇵🇱 Marlena
+  KARWACKA\n🇮🇹 Miriam VECE\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵 OHTA
+  Riyu\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van der PEET\n🇫🇷 Taky
+  Marie Divine KOUAME\n🇲🇽 Yuli VERDUGO OSUNA
 SUMMARY:🚴 女子爭先賽1/32決賽復活賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -557,18 +607,18 @@ BEGIN:VEVENT
 UID:20240809T135200Z-cycling-track--
 DTSTAMP:20240809T135200Z
 DTSTART:20240809T135200Z
-DTEND:20240809T140000Z
+DTEND:20240809T135200Z
 DESCRIPTION:場地自行車 - 男子爭先賽半決賽 - 決勝輪
 SUMMARY:🚴 男子爭先賽半決賽 - 決勝輪
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T160000Z-cycling-track--1
+UID:20240809T160000Z-cycling-track--1-NED-AUS
 DTSTAMP:20240809T160000Z
 DTSTART:20240809T160000Z
 DTEND:20240809T160900Z
 DESCRIPTION:場地自行車 - 男子爭先賽決賽 - 第1輪
-SUMMARY:🚴 男子爭先賽決賽 - 第1輪
+SUMMARY:🚴 Harrie LAVREYSEN 🇳🇱 - 🇦🇺 Matthew RICHARDSON
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
@@ -576,17 +626,19 @@ UID:20240809T160900Z-cycling-track-
 DTSTAMP:20240809T160900Z
 DTSTART:20240809T160900Z
 DTEND:20240809T170200Z
-DESCRIPTION:場地自行車 - 女子麥迪遜賽決賽
+DESCRIPTION:場地自行車 - 女子麥迪遜賽決賽\n🇩🇰 DEN\n🇯🇵 JPN\n🇧🇪 BEL\n🇨🇦 CAN\n🇫🇷
+  FRA\n🇵🇱 POL\n🇺🇸 USA\n🇬🇧 GBR\n🇳🇱 NED\n🇮🇹 ITA\n🇮🇪 IRL\n🇳🇿
+  新西蘭\n🇨🇭 SUI\n🇩🇪 GER\n🇦🇺 AUS
 SUMMARY:🚴 女子麥迪遜賽決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T170200Z-cycling-track--2
+UID:20240809T170200Z-cycling-track--2-GBR-NED
 DTSTAMP:20240809T170200Z
 DTSTART:20240809T170200Z
 DTEND:20240809T171000Z
 DESCRIPTION:場地自行車 - 男子爭先賽決賽 - 第2輪
-SUMMARY:🚴 男子爭先賽決賽 - 第2輪
+SUMMARY:🚴 Jack CARLIN 🇬🇧 - 🇳🇱 Jeffrey HOOGLAND
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
@@ -594,7 +646,12 @@ UID:20240809T171000Z-cycling-track-116
 DTSTAMP:20240809T171000Z
 DTSTART:20240809T171000Z
 DTEND:20240809T173800Z
-DESCRIPTION:場地自行車 - 女子爭先賽1/16決賽
+DESCRIPTION:場地自行車 - 女子爭先賽1/16決賽\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿
+  Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma HINZE\n🇳🇱 Hetty van de
+  WOUW\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇩🇪 Lea FRIEDRICH\n🇨🇴 Martha BAYONA PINEDA\n🇫🇷 Mathilde
+  GROS\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧 Sophie CAPEWELL\n🇳🇱
+  Steffie van der PEET\n🇫🇷 Taky Marie Divine KOUAME
 SUMMARY:🚴 女子爭先賽1/16決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -603,7 +660,8 @@ UID:20240809T173800Z-cycling-track--
 DTSTAMP:20240809T173800Z
 DTSTART:20240809T173800Z
 DTEND:20240809T174600Z
-DESCRIPTION:場地自行車 - 男子爭先賽決賽 - 決勝輪
+DESCRIPTION:場地自行車 - 男子爭先賽決賽 - 決勝輪\n🇬🇧 Hamish TURNBULL\n🇵🇱 Mateusz
+  RUDYK\n🇯🇵 OBARA Yuta\n🇯🇵 OTA Kaiya
 SUMMARY:🚴 男子爭先賽決賽 - 決勝輪
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -612,7 +670,10 @@ UID:20240809T175800Z-cycling-track-116
 DTSTAMP:20240809T175800Z
 DTSTART:20240809T175800Z
 DTEND:20240809T181500Z
-DESCRIPTION:場地自行車 - 女子爭先賽1/16決賽復活賽
+DESCRIPTION:場地自行車 - 女子爭先賽1/16決賽復活賽\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇨🇦
+  Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane GENEST\n🇨🇴 Martha
+  BAYONA PINEDA\n🇳🇿 Shaane FULTON\n🇳🇱 Steffie van der PEET\n🇫🇷 Taky
+  Marie Divine KOUAME
 SUMMARY:🚴 女子爭先賽1/16決賽復活賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -621,7 +682,11 @@ UID:20240810T150000Z-cycling-track-18
 DTSTAMP:20240810T150000Z
 DTSTART:20240810T150000Z
 DTEND:20240810T151900Z
-DESCRIPTION:場地自行車 - 女子爭先賽1/8決賽
+DESCRIPTION:場地自行車 - 女子爭先賽1/8決賽\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma
+  FINUCANE\n🇩🇪 Emma HINZE\n🇳🇱 Hetty van de WOUW\n🇨🇦 Kelsey
+  MITCHELL\n🇦🇺 Kristina CLONAN\n🇩🇪 Lea FRIEDRICH\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧
+  Sophie CAPEWELL
 SUMMARY:🚴 女子爭先賽1/8決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -630,7 +695,17 @@ UID:20240810T151900Z-cycling-track-1
 DTSTAMP:20240810T151900Z
 DTSTART:20240810T151900Z
 DTEND:20240810T155000Z
-DESCRIPTION:場地自行車 - 男子凱林賽第1輪
+DESCRIPTION:場地自行車 - 男子凱林賽第1輪\n🇰🇿 Andrey CHUGAY\n🇨🇴 Cristian David
+  ORTEGA FONTALVO\n🇬🇧 Hamish TURNBULL\n🇳🇱 Harrie LAVREYSEN\n🇬🇧 Jack
+  CARLIN\n🇹🇭 Jai ANGSUTHASAWIT\n🇸🇷 Jair TJON EN FA\n🇨🇦 James
+  HEDGCOCK\n🇿🇦 Jean SPIES\n🇳🇱 Jeffrey HOOGLAND\n🇨🇴 Kevin Santiago
+  QUINTERO CHAVARRO\n🇹🇹 Kwesi BROWNE\n🇨🇳 LIU Qi\n🇩🇪 Luca
+  SPIEGEL\n🇵🇱 Mateusz RUDYK\n🇦🇺 Matthew GLAETZER\n🇦🇺 Matthew
+  RICHARDSON\n🇩🇪 Maximilian DOERNBACH\n🇮🇱 Mikhail YAKOVLEV\n🇲🇾 Mohd
+  Azizulhasni AWANG\n🇲🇾 Muhammad Shah Firdaus SAHROM\n🇯🇵 NAKANO
+  Shinji\n🇹🇹 Nicholas PAUL\n🇨🇦 Nick WAMMES\n🇯🇵 OTA Kaiya\n🇫🇷 Rayan
+  HELAL\n🇳🇿 Sam DAKIN\n🇫🇷 Sebastien VIGIER\n🇱🇹 Vasilijus LENDEL\n🇨🇳
+  ZHOU Yu
 SUMMARY:🚴 男子凱林賽第1輪
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -639,7 +714,9 @@ UID:20240810T155000Z-cycling-track-18
 DTSTAMP:20240810T155000Z
 DTSTART:20240810T155000Z
 DTEND:20240810T155900Z
-DESCRIPTION:場地自行車 - 女子爭先賽1/8決賽復活賽
+DESCRIPTION:場地自行車 - 女子爭先賽1/8決賽復活賽\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina
+  CLONAN\n🇨🇴 Martha BAYONA PINEDA\n🇫🇷 Mathilde GROS\n🇯🇵 SATO
+  Mina\n🇳🇿 Shaane FULTON
 SUMMARY:🚴 女子爭先賽1/8決賽復活賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -648,7 +725,9 @@ UID:20240810T155900Z-cycling-track-
 DTSTAMP:20240810T155900Z
 DTSTART:20240810T155900Z
 DTEND:20240810T170700Z
-DESCRIPTION:場地自行車 - 男子麥迪遜賽決賽
+DESCRIPTION:場地自行車 - 男子麥迪遜賽決賽\n🇩🇰 DEN\n🇯🇵 JPN\n🇧🇪 BEL\n🇨🇦 CAN\n🇪🇸
+  ESP\n🇫🇷 FRA\n🇬🇧 GBR\n🇨🇿 CZE\n🇳🇱 NED\n🇦🇹 AUT\n🇮🇹 ITA\n🇳🇿
+  新西蘭\n🇵🇹 POR\n🇩🇪 GER\n🇦🇺 AUS
 SUMMARY:🚴 男子麥迪遜賽決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -666,7 +745,12 @@ UID:20240810T172100Z-cycling-track-
 DTSTAMP:20240810T172100Z
 DTSTART:20240810T172100Z
 DTEND:20240810T174900Z
-DESCRIPTION:場地自行車 - 男子凱林賽復活賽
+DESCRIPTION:場地自行車 - 男子凱林賽復活賽\n🇰🇿 Andrey CHUGAY\n🇨🇴 Cristian David
+  ORTEGA FONTALVO\n🇬🇧 Hamish TURNBULL\n🇹🇭 Jai ANGSUTHASAWIT\n🇸🇷 Jair
+  TJON EN FA\n🇨🇦 James HEDGCOCK\n🇿🇦 Jean SPIES\n🇹🇹 Kwesi BROWNE\n🇨🇳
+  LIU Qi\n🇩🇪 Luca SPIEGEL\n🇩🇪 Maximilian DOERNBACH\n🇲🇾 Muhammad Shah
+  Firdaus SAHROM\n🇨🇦 Nick WAMMES\n🇯🇵 OTA Kaiya\n🇫🇷 Rayan HELAL\n🇳🇿
+  Sam DAKIN\n🇫🇷 Sebastien VIGIER\n🇱🇹 Vasilijus LENDEL\n🇨🇳 ZHOU Yu
 SUMMARY:🚴 男子凱林賽復活賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -683,7 +767,7 @@ BEGIN:VEVENT
 UID:20240810T181400Z-cycling-track-14-
 DTSTAMP:20240810T181400Z
 DTSTART:20240810T181400Z
-DTEND:20240810T182000Z
+DTEND:20240810T181400Z
 DESCRIPTION:場地自行車 - 女子爭先賽1/4決賽 - 決勝輪
 SUMMARY:🚴 女子爭先賽1/4決賽 - 決勝輪
 LOCATION:聖康丁伊夫林自行車館
@@ -693,7 +777,14 @@ UID:20240811T090000Z-cycling-track--14
 DTSTAMP:20240811T090000Z
 DTSTART:20240811T090000Z
 DTEND:20240811T092200Z
-DESCRIPTION:場地自行車 - 女子全能賽捕捉賽 1/4
+DESCRIPTION:場地自行車 - 女子全能賽捕捉賽 1/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
 SUMMARY:🚴 女子全能賽捕捉賽 1/4
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -711,7 +802,13 @@ UID:20240811T092900Z-cycling-track-14
 DTSTAMP:20240811T092900Z
 DTSTART:20240811T092900Z
 DTEND:20240811T095000Z
-DESCRIPTION:場地自行車 - 男子凱林賽1/4決賽
+DESCRIPTION:場地自行車 - 男子凱林賽1/4決賽\n🇨🇴 Cristian David ORTEGA FONTALVO\n🇬🇧
+  Hamish TURNBULL\n🇳🇱 Harrie LAVREYSEN\n🇬🇧 Jack CARLIN\n🇨🇦 James
+  HEDGCOCK\n🇳🇱 Jeffrey HOOGLAND\n🇨🇴 Kevin Santiago QUINTERO
+  CHAVARRO\n🇩🇪 Luca SPIEGEL\n🇵🇱 Mateusz RUDYK\n🇦🇺 Matthew
+  GLAETZER\n🇦🇺 Matthew RICHARDSON\n🇮🇱 Mikhail YAKOVLEV\n🇲🇾 Muhammad
+  Shah Firdaus SAHROM\n🇯🇵 NAKANO Shinji\n🇹🇹 Nicholas PAUL\n🇨🇦 Nick
+  WAMMES\n🇯🇵 OTA Kaiya\n🇳🇿 Sam DAKIN
 SUMMARY:🚴 男子凱林賽1/4決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -729,7 +826,14 @@ UID:20240811T095700Z-cycling-track--24
 DTSTAMP:20240811T095700Z
 DTSTART:20240811T095700Z
 DTEND:20240811T101800Z
-DESCRIPTION:場地自行車 - 女子全能賽衝刺賽 2/4
+DESCRIPTION:場地自行車 - 女子全能賽衝刺賽 2/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
 SUMMARY:🚴 女子全能賽衝刺賽 2/4
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -747,7 +851,7 @@ UID:20240811T102500Z-cycling-track-5-8
 DTSTAMP:20240811T102500Z
 DTSTART:20240811T102500Z
 DTEND:20240811T102900Z
-DESCRIPTION:場地自行車 - 女子爭先賽5-8名排名賽
+DESCRIPTION:場地自行車 - 女子爭先賽5-8名排名賽\n🇨🇦 CAN\n🇬🇧 GBR\n🇨🇴 COL\n🇩🇪 GER
 SUMMARY:🚴 女子爭先賽5-8名排名賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -756,17 +860,21 @@ UID:20240811T102900Z-cycling-track-
 DTSTAMP:20240811T102900Z
 DTSTART:20240811T102900Z
 DTEND:20240811T104500Z
-DESCRIPTION:場地自行車 - 男子凱林賽半決賽
+DESCRIPTION:場地自行車 - 男子凱林賽半決賽\n🇨🇴 Cristian David ORTEGA FONTALVO\n🇬🇧
+  Hamish TURNBULL\n🇳🇱 Harrie LAVREYSEN\n🇬🇧 Jack CARLIN\n🇩🇪 Luca
+  SPIEGEL\n🇵🇱 Mateusz RUDYK\n🇦🇺 Matthew GLAETZER\n🇦🇺 Matthew
+  RICHARDSON\n🇲🇾 Muhammad Shah Firdaus SAHROM\n🇯🇵 NAKANO Shinji\n🇯🇵
+  OTA Kaiya\n🇳🇿 Sam DAKIN
 SUMMARY:🚴 男子凱林賽半決賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T104500Z-cycling-track--1
+UID:20240811T104500Z-cycling-track--1-NZL-GER
 DTSTAMP:20240811T104500Z
 DTSTART:20240811T104500Z
 DTEND:20240811T105300Z
 DESCRIPTION:場地自行車 - 女子爭先賽決賽 - 第1輪
-SUMMARY:🚴 女子爭先賽決賽 - 第1輪
+SUMMARY:🚴 Ellesse ANDREWS 🇳🇿 - 🇩🇪 Lea FRIEDRICH
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
@@ -774,17 +882,24 @@ UID:20240811T105300Z-cycling-track--34
 DTSTAMP:20240811T105300Z
 DTSTART:20240811T105300Z
 DTEND:20240811T111500Z
-DESCRIPTION:場地自行車 - 女子全能賽淘汰賽 3/4
+DESCRIPTION:場地自行車 - 女子全能賽淘汰賽 3/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
 SUMMARY:🚴 女子全能賽淘汰賽 3/4
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
-UID:20240811T111500Z-cycling-track--2
+UID:20240811T111500Z-cycling-track--2-GBR-NED
 DTSTAMP:20240811T111500Z
 DTSTART:20240811T111500Z
 DTEND:20240811T112300Z
 DESCRIPTION:場地自行車 - 女子爭先賽決賽 - 第2輪
-SUMMARY:🚴 女子爭先賽決賽 - 第2輪
+SUMMARY:🚴 Emma FINUCANE 🇬🇧 - 🇳🇱 Hetty van de WOUW
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
 BEGIN:VEVENT
@@ -792,7 +907,9 @@ UID:20240811T112300Z-cycling-track-7-12
 DTSTAMP:20240811T112300Z
 DTSTART:20240811T112300Z
 DTEND:20240811T113200Z
-DESCRIPTION:場地自行車 - 男子凱林賽7-12名排名賽
+DESCRIPTION:場地自行車 - 男子凱林賽7-12名排名賽\n🇨🇴 Cristian David ORTEGA
+  FONTALVO\n🇬🇧 Hamish TURNBULL\n🇩🇪 Luca SPIEGEL\n🇵🇱 Mateusz
+  RUDYK\n🇳🇿 Sam DAKIN
 SUMMARY:🚴 男子凱林賽7-12名排名賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -801,7 +918,9 @@ UID:20240811T113200Z-cycling-track-
 DTSTAMP:20240811T113200Z
 DTSTART:20240811T113200Z
 DTEND:20240811T114400Z
-DESCRIPTION:場地自行車 - 男子凱林賽金牌賽
+DESCRIPTION:場地自行車 - 男子凱林賽金牌賽\n🇳🇱 Harrie LAVREYSEN\n🇬🇧 Jack CARLIN\n🇦🇺
+  Matthew GLAETZER\n🇦🇺 Matthew RICHARDSON\n🇲🇾 Muhammad Shah Firdaus
+  SAHROM\n🇯🇵 NAKANO Shinji
 SUMMARY:🚴 男子凱林賽金牌賽
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -809,8 +928,9 @@ BEGIN:VEVENT
 UID:20240811T114400Z-cycling-track--
 DTSTAMP:20240811T114400Z
 DTSTART:20240811T114400Z
-DTEND:20240811T114800Z
-DESCRIPTION:場地自行車 - 女子爭先賽決賽 - 決勝輪
+DTEND:20240811T114400Z
+DESCRIPTION:場地自行車 - 女子爭先賽決賽 - 決勝輪\n🇩🇪 Emma HINZE\n🇨🇦 Kelsey
+  MITCHELL\n🇨🇴 Martha BAYONA PINEDA\n🇬🇧 Sophie CAPEWELL
 SUMMARY:🚴 女子爭先賽決賽 - 決勝輪
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT
@@ -819,7 +939,14 @@ UID:20240811T115600Z-cycling-track--44
 DTSTAMP:20240811T115600Z
 DTSTART:20240811T115600Z
 DTEND:20240811T122800Z
-DESCRIPTION:場地自行車 - 女子全能賽積分賽 4/4
+DESCRIPTION:場地自行車 - 女子全能賽積分賽 4/4\n🇨🇭 Aline SEITZ\n🇳🇿 Ally
+  WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita STENBERG\n🇵🇱 Daria
+  PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia
+  BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA Yumi\n🇮🇪 Lara
+  GILLESPIE\n🇭🇰 LEE Sze Wing\n🇮🇹 Letizia PATERNOSTER\n🇨🇳 LIU
+  Jiali\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱 Maike van der
+  DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija BALEISYTE\n🇫🇷
+  Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
 SUMMARY:🚴 女子全能賽積分賽 4/4
 LOCATION:聖康丁伊夫林自行車館
 END:VEVENT

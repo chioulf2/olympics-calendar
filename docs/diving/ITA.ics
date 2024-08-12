@@ -142,12 +142,40 @@ DESCRIPTION:跳水 - 男子10米跳臺跳水預賽\n🇨🇴 Alejandro SOLARTE\n
   LARSEN\n🇦🇹 Anton KNOLL\n🇲🇾 Bertrand Rhodict ANAK LISES\n🇺🇸 Brandon
   LOSCHIAVO\n🇨🇳 CAO Yuan\n🇺🇸 Carson TYLER\n🇦🇺 Cassiel ROUSSEAU\n🇺🇿
   Igor MYALIN\n🇰🇵 IM Yong Myong\n🇦🇺 Jaxon BOWSHIRE\n🇲🇽 Kevin BERLIN
-  REYES\n🇰🇷 KIM Yeongtaek\n🇬🇧 Kyle KOTHARI\n🇺🇦 Mark HRYTSENKO\n🇨🇦
-  Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇪🇬 Ramez SOBHY\n🇲🇽 Randal
+  REYES\n🇰🇷 KIM Yeongtaek\n🇬🇧 Kyle KOTHARI\n🇨🇦 Nathan
+  ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇺🇦 Oleksii SEREDA\n🇪🇬 Ramez
+  SOBHY\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert
+  LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
+  Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 男子10米跳臺跳水預賽
+LOCATION:水上運動中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-diving-3
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T140600Z
+DESCRIPTION:跳水 - 女子3米跳板跳水決賽\n🇲🇽 Alejandra ESTUDILLO TORRES\n🇨🇳 CHANG
+  Yani\n🇨🇳 CHEN Yiwen\n🇮🇹 Chiara PELLACANI\n🇸🇪 Emilia NILSSON
+  GARIP\n🇬🇧 Grace REID\n🇿🇦 Julia VINCENT\n🇦🇺 Maddison KEENEY\n🇲🇾
+  Nur Dhabitah SABRI\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇬🇧
+  Yasmin HARPER
+SUMMARY:🏊 女子3米跳板跳水決賽
+LOCATION:水上運動中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T080000Z-diving-10
+DTSTAMP:20240810T080000Z
+DTSTART:20240810T080000Z
+DTEND:20240810T095400Z
+DESCRIPTION:跳水 - 男子10米跳臺跳水半決賽\n🇮🇹 Andreas Sargent LARSEN\n🇺🇸 Brandon
+  LOSCHIAVO\n🇨🇳 CAO Yuan\n🇦🇺 Cassiel ROUSSEAU\n🇦🇺 Jaxon
+  BOWSHIRE\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle KOTHARI\n🇨🇦 Nathan
+  ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇺🇦 Oleksii SEREDA\n🇲🇽 Randal
   WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert LUKASZEWICZ\n🇨🇦
   Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo
   BARTHEL\n🇨🇳 YANG Hao
-SUMMARY:🏊 男子10米跳臺跳水預賽
+SUMMARY:🏊 男子10米跳臺跳水半決賽
 LOCATION:水上運動中心
 END:VEVENT
 END:VCALENDAR

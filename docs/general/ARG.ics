@@ -2871,6 +2871,48 @@ SUMMARY:🏑 ARG 🇦🇷 - 🇧🇪 BEL
 LOCATION:伊芙莊園體育場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T150000Z-modern-pentathlon-B-
+DTSTAMP:20240809T150000Z
+DTSTART:20240809T150000Z
+DTEND:20240809T153500Z
+DESCRIPTION:現代五項 - 男子半決賽B - 場地障礙賽\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs
+  SZEP\n🇬🇧 Charles BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹
+  Giorgio MALAN\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Kamil
+  KASPERCZAK\n🇨🇳 LI Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos
+  ROJAS\n🇩🇪 Marvin DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr
+  TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 男子半決賽B - 場地障礙賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T154000Z-modern-pentathlon-B-
+DTSTAMP:20240809T154000Z
+DTSTART:20240809T154000Z
+DTEND:20240809T160000Z
+DESCRIPTION:現代五項 - 男子半決賽B - 擊劍獎勵附加回合\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs
+  SZEP\n🇬🇧 Charles BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹
+  Giorgio MALAN\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Kamil
+  KASPERCZAK\n🇨🇳 LI Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos
+  ROJAS\n🇩🇪 Marvin DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr
+  TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 男子半決賽B - 擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T164000Z-modern-pentathlon-B-
+DTSTAMP:20240809T164000Z
+DTSTART:20240809T164000Z
+DTEND:20240809T170000Z
+DESCRIPTION:現代五項 - 男子半決賽B - 激光跑\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs
+  SZEP\n🇬🇧 Charles BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹
+  Giorgio MALAN\n🇬🇧 Joseph CHOONG\n🇰🇷 JUN Woongtae\n🇵🇱 Kamil
+  KASPERCZAK\n🇨🇳 LI Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos
+  ROJAS\n🇩🇪 Marvin DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr
+  TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 男子半決賽B - 激光跑
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T085000Z-canoe-sprint-5003
 DTSTAMP:20240810T085000Z
 DTSTART:20240810T085000Z
@@ -2891,6 +2933,66 @@ DESCRIPTION:皮劃艇靜水 - 男子1000米單人皮艇半決賽2\n🇭🇺 Adam
   LOVEMORE\n🇨🇿 Josef DOSTAL\n🇫🇷 Maxime BEAUMONT
 SUMMARY:🛶 男子1000米單人皮艇半決賽2
 LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T104000Z-canoe-sprint-500C
+DTSTAMP:20240810T104000Z
+DTSTART:20240810T104000Z
+DTEND:20240810T104700Z
+DESCRIPTION:皮劃艇靜水 - 女子500米單人皮艇決賽C\n🇲🇽 Beatriz BRIONES FRAGOZA\n🇦🇷
+  Brenda ROJAS\n🇵🇱 Dominika PUTTO\n🇸🇬 Jiexian Stephenie CHEN\n🇫🇷
+  Manon HOSTENS\n🇺🇦 Mariya POVKH\n🇨🇦 Riley MELANSON\n🇳🇱 Selma KONIJN
+SUMMARY:🛶 女子500米單人皮艇決賽C
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T112000Z-canoe-sprint-1000A
+DTSTAMP:20240810T112000Z
+DTSTART:20240810T112000Z
+DTEND:20240810T112700Z
+DESCRIPTION:皮劃艇靜水 - 男子1000米單人皮艇決賽A\n🇭🇺 Adam VARGA\n🇦🇷 Agustin
+  VERNICE\n🇭🇺 Balint KOPASZ\n🇵🇹 Fernando PIMENTA\n🇩🇪 Jakob
+  THORDSEN\n🇨🇿 Josef DOSTAL\n🇸🇪 Martin NATHELL
+SUMMARY:🛶 男子1000米單人皮艇決賽A
+LOCATION:馬恩河畔韋爾水上體育場 - 靜水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T060000Z-athletics-
+DTSTAMP:20240811T060000Z
+DTSTART:20240811T060000Z
+DTEND:20240811T091500Z
+DESCRIPTION:田徑 - 女子馬拉松決賽\n🇵🇱 Aleksandra LISOWSKA\n🇪🇹 Amane Beriso
+  SHANKULE\n🇵🇱 Angelika MACH\n🇨🇴 Angie ORJUELA\n🇳🇱 Anne LUIJTEN\n🇨🇳
+  BAI Li\n🇭🇷 Bojana BJELJAC\n🇬🇧 Calli HAUGER-THACKERY\n🇫🇮 Camilla
+  RICHARDSSON\n🇳🇿 Camille FRENCH\n🇸🇪 Carolina WIKSTROM\n🇧🇪 Chloe
+  HERBIET\n🇿🇦 Cian OLDKNOW\n🇲🇽 Citlali CRISTIAN MOSCOTE\n🇬🇧 Clara
+  EVANS\n🇷🇼 Clementine MUKANDANGA\n🇦🇷 Daiana OCAMPO\n🇺🇸 Dakotah
+  LINDWURM\n🇷🇴 Delvine Relin MERINGOR\n🇪🇷 Dolshi TESFU\n🇩🇪 Domenika
+  MAYER\n🇺🇸 Emily SISSON\n🇪🇸 Esther NAVARRETE\n🇧🇭 Eunice Chebichii
+  CHUMBA\n🇨🇭 Fabienne SCHLUMPF\n🇲🇦 Fatima Ezzahra GARDADI\n🇺🇸 Fiona
+  O'KEEFFE\n🇮🇪 Fionnuala McCORMACK\n🇦🇷 Florencia BORELLI\n🇦🇺
+  Genevieve GREGSON\n🇿🇦 Gerda STEYN\n🇮🇹 Giovanna EPIS\n🇵🇪 Gladys
+  TEJEDA\n🇧🇪 Hanne VERBRUGGEN\n🇳🇦 Helalia JOHANNES\n🇨🇭 Helen
+  BEKELE\n🇰🇪 Hellen OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦 Irvette van ZYL\n🇹🇿
+  Jackline SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹
+  Julia MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
+  Kinzang LHAMO\n🇩🇪 Laura HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪
+  Luz Mery ROJAS\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida MAAYOUF\n🇨🇦 Malindi
+  ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ FLORES\n🇲🇺 Marie
+  PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV KOSTRO\n🇪🇹 Megertu
+  ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak KEJETA\n🇫🇷 Meline
+  ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline CHELANGAT\n🇪🇸 Meritxell
+  SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete Blandina MAKATISI\n🇲🇳
+  Munkhzaya BAYARTSOGT\n🇰🇪 Peres JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬
+  Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose
+  HARVEY\n🇿🇼 Rutendo Joan NYAHORA\n🇰🇬 Sardana TROFIMOVA\n🇳🇵 Shantoshi
+  SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan HASSAN\n🇪🇨 Silvia Patricia
+  ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹 Sofiia YAREMCHUK\n🇺🇬 Stella
+  CHESANG\n🇵🇹 Susana SANTOS\n🇯🇵 SUZUKI Yuka\n🇨🇿 Tereza HROCHOVA\n🇵🇪
+  Thalia VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst ASSEFA\n🇨🇳 XIA
+  Yuyu\n🇨🇳 ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
+SUMMARY:🏃 女子馬拉松決賽
+LOCATION:榮軍院
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

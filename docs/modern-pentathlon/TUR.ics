@@ -44,4 +44,133 @@ DESCRIPTION:現代五項 - 女子個人擊劍排名賽\n🇮🇹 Alice SOTERO\n�
 SUMMARY:🤺 女子個人擊劍排名賽
 LOCATION:北巴黎競技場
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T110000Z-modern-pentathlon-A-
+DTSTAMP:20240809T110000Z
+DTSTART:20240809T110000Z
+DTEND:20240809T113500Z
+DESCRIPTION:現代五項 - 男子半決賽A - 場地障礙賽\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇪🇨 Andres TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽
+  Duilio CARRILLO\n🇲🇽 Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿
+  Georgiy BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO
+  Shuai\n🇨🇿 Marek GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻
+  Pavels SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin
+  PRADES
+SUMMARY:🤺 男子半決賽A - 場地障礙賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T114000Z-modern-pentathlon-A-
+DTSTAMP:20240809T114000Z
+DTSTART:20240809T114000Z
+DTEND:20240809T120000Z
+DESCRIPTION:現代五項 - 男子半決賽A - 擊劍獎勵附加回合\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇪🇨 Andres TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽
+  Duilio CARRILLO\n🇲🇽 Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿
+  Georgiy BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO
+  Shuai\n🇨🇿 Marek GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻
+  Pavels SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin
+  PRADES
+SUMMARY:🤺 男子半決賽A - 擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T124000Z-modern-pentathlon-A-
+DTSTAMP:20240809T124000Z
+DTSTART:20240809T124000Z
+DTEND:20240809T130000Z
+DESCRIPTION:現代五項 - 男子半決賽A - 激光跑\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre
+  DALLENBACH\n🇪🇨 Andres TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽
+  Duilio CARRILLO\n🇲🇽 Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿
+  Georgiy BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO
+  Shuai\n🇨🇿 Marek GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻
+  Pavels SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin
+  PRADES
+SUMMARY:🤺 男子半決賽A - 激光跑
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T113000Z-modern-pentathlon-B-
+DTSTAMP:20240810T113000Z
+DTSTART:20240810T113000Z
+DTEND:20240810T120500Z
+DESCRIPTION:現代五項 - 女子半決賽B - 場地障礙賽\n🇺🇿 Alise FAKHRUTDINOVA\n🇨🇭 Anna
+  JURT\n🇵🇱 Anna MALISZEWSKA\n🇭🇺 Blanka GUZI\n🇫🇷 Elodie CLOUVEL\n🇱🇹
+  Gintare VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇰🇷 KIM Sunwoo\n🇪🇸 Laura
+  HEREDIA\n🇲🇽 Mariana ARCEO\n🇭🇺 Michelle GULYAS\n🇵🇱 Natalia
+  DOMINIAK\n🇪🇨 Sol NARANJO\n🇬🇹 Sophia HERNANDEZ\n🇯🇵 UCHIDA
+  Misaki\n🇺🇦 Valeriia PERMYKINA\n🇨🇿 Veronika NOVOTNA\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 女子半決賽B - 場地障礙賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T121000Z-modern-pentathlon-B-
+DTSTAMP:20240810T121000Z
+DTSTART:20240810T121000Z
+DTEND:20240810T123000Z
+DESCRIPTION:現代五項 - 女子半決賽B - 擊劍獎勵附加回合\n🇺🇿 Alise FAKHRUTDINOVA\n🇨🇭 Anna
+  JURT\n🇵🇱 Anna MALISZEWSKA\n🇭🇺 Blanka GUZI\n🇫🇷 Elodie CLOUVEL\n🇱🇹
+  Gintare VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇰🇷 KIM Sunwoo\n🇪🇸 Laura
+  HEREDIA\n🇲🇽 Mariana ARCEO\n🇭🇺 Michelle GULYAS\n🇵🇱 Natalia
+  DOMINIAK\n🇪🇨 Sol NARANJO\n🇬🇹 Sophia HERNANDEZ\n🇯🇵 UCHIDA
+  Misaki\n🇺🇦 Valeriia PERMYKINA\n🇨🇿 Veronika NOVOTNA\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 女子半決賽B - 擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T131300Z-modern-pentathlon-B-
+DTSTAMP:20240810T131300Z
+DTSTART:20240810T131300Z
+DTEND:20240810T133300Z
+DESCRIPTION:現代五項 - 女子半決賽B - 激光跑\n🇺🇿 Alise FAKHRUTDINOVA\n🇨🇭 Anna
+  JURT\n🇵🇱 Anna MALISZEWSKA\n🇭🇺 Blanka GUZI\n🇫🇷 Elodie CLOUVEL\n🇱🇹
+  Gintare VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇰🇷 KIM Sunwoo\n🇪🇸 Laura
+  HEREDIA\n🇲🇽 Mariana ARCEO\n🇭🇺 Michelle GULYAS\n🇵🇱 Natalia
+  DOMINIAK\n🇪🇨 Sol NARANJO\n🇬🇹 Sophia HERNANDEZ\n🇯🇵 UCHIDA
+  Misaki\n🇺🇦 Valeriia PERMYKINA\n🇨🇿 Veronika NOVOTNA\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 女子半決賽B - 激光跑
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T090000Z-modern-pentathlon-
+DTSTAMP:20240811T090000Z
+DTSTART:20240811T090000Z
+DTEND:20240811T093500Z
+DESCRIPTION:現代五項 - 女子場地障礙賽決賽\n🇮🇹 Alice SOTERO\n🇨🇭 Anna JURT\n🇩🇪
+  Annika ZILLEKENS\n🇭🇺 Blanka GUZI\n🇮🇹 Elena MICHELI\n🇫🇷 Elodie
+  CLOUVEL\n🇱🇹 Gintare VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇬🇧 Kerenza
+  BRYSON\n🇰🇷 KIM Sunwoo\n🇱🇹 Laura ASADAUSKAITE\n🇪🇸 Laura
+  HEREDIA\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇭🇺 Michelle GULYAS\n🇰🇷 SEONG Seungmin\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 女子場地障礙賽決賽
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T094000Z-modern-pentathlon-
+DTSTAMP:20240811T094000Z
+DTSTART:20240811T094000Z
+DTEND:20240811T100000Z
+DESCRIPTION:現代五項 - 女子擊劍獎勵附加回合\n🇮🇹 Alice SOTERO\n🇨🇭 Anna JURT\n🇩🇪
+  Annika ZILLEKENS\n🇭🇺 Blanka GUZI\n🇮🇹 Elena MICHELI\n🇫🇷 Elodie
+  CLOUVEL\n🇱🇹 Gintare VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇬🇧 Kerenza
+  BRYSON\n🇰🇷 KIM Sunwoo\n🇱🇹 Laura ASADAUSKAITE\n🇪🇸 Laura
+  HEREDIA\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇭🇺 Michelle GULYAS\n🇰🇷 SEONG Seungmin\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 女子擊劍獎勵附加回合
+LOCATION:凡爾賽宮
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T104300Z-modern-pentathlon-
+DTSTAMP:20240811T104300Z
+DTSTART:20240811T104300Z
+DTEND:20240811T110300Z
+DESCRIPTION:現代五項 - 女子激光跑決賽\n🇮🇹 Alice SOTERO\n🇨🇭 Anna JURT\n🇩🇪 Annika
+  ZILLEKENS\n🇭🇺 Blanka GUZI\n🇮🇹 Elena MICHELI\n🇫🇷 Elodie
+  CLOUVEL\n🇱🇹 Gintare VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇬🇧 Kerenza
+  BRYSON\n🇰🇷 KIM Sunwoo\n🇱🇹 Laura ASADAUSKAITE\n🇪🇸 Laura
+  HEREDIA\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇭🇺 Michelle GULYAS\n🇰🇷 SEONG Seungmin\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 女子激光跑決賽
+LOCATION:凡爾賽宮
+END:VEVENT
 END:VCALENDAR

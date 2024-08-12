@@ -2109,11 +2109,11 @@ DESCRIPTION:田徑 - 馬拉松競走混合接力\n🇺🇦 BANZERUK/OLYANOVSKA\n
   COWLEY R/MONTAG J\n🇹🇷 DEMIR M/TEKDAL A\n🇨🇦 DUNFEE E/LUNDMAN O\n🇨🇳
   HE X/QIEYANG S\n🇨🇴 HERRERA/MOJICA\n🇨🇿 HLAVAC V/MARTINKOVA E\n🇯🇵
   KAWANO M/OKADA K\n🇩🇪 LINKE C/FEIGE S\n🇪🇸 LOPEZ M/MONTESINOS C\n🇪🇸
-  MARTIN A/PEREZ M\n🇲🇽 ORTIZ R/GONZALEZ A\n🇮🇳 PANWAR
-  Suraj/PRIYANKA\n🇪🇨 PINTADO B/MOREJON G\n🇫🇷 QUINION A/BERETTA C\n🇵🇪
-  RODRIGUEZ/GARCIA LEON\n🇨🇴 ROMERO M/ARENAS L\n🇮🇹 STANO M/PALMISANO
-  A\n🇯🇵 TAKAHASHI K/YANAI A\n🇦🇺 TINGAY D/HENDERSON R\n🇭🇺 VENYERCSAN
-  B/RECSEI R\n🇨🇳 ZHANG Jun/YANG Jiayu
+  MARTIN A/PEREZ M\n🇲🇽 PALMA/GONZALEZ\n🇮🇳 PANWAR Suraj/PRIYANKA\n🇪🇨
+  PINTADO B/MOREJON G\n🇫🇷 QUINION A/BERETTA C\n🇵🇪 RODRIGUEZ/GARCIA
+  LEON\n🇨🇴 ROMERO M/ARENAS L\n🇮🇹 STANO M/PALMISANO A\n🇯🇵 TAKAHASHI
+  K/YANAI A\n🇦🇺 TINGAY D/HENDERSON R\n🇭🇺 VENYERCSAN B/RECSEI R\n🇨🇳
+  ZHANG Jun/YANG Jiayu
 SUMMARY:🏃 馬拉松競走混合接力
 LOCATION:特羅卡德羅
 END:VEVENT
@@ -2321,6 +2321,15 @@ SUMMARY:🤼 Helen Louise MAROULIS 🇺🇸 - 🇮🇳 Anshu ANSHU
 LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T101700Z-wrestling-5714-IND-ALB
+DTSTAMP:20240808T101700Z
+DTSTART:20240808T101700Z
+DTEND:20240808T102400Z
+DESCRIPTION:摔跤 - 男子自由式57公斤級1/4決賽
+SUMMARY:🤼 Aman AMAN 🇮🇳 - 🇦🇱 Zelimkhan ABAKAROV
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T120000Z-hockey--IND-ESP
 DTSTAMP:20240808T120000Z
 DTSTART:20240808T120000Z
@@ -2328,6 +2337,15 @@ DTEND:20240808T134500Z
 DESCRIPTION:曲棍球 - 男子銅牌賽
 SUMMARY:🏑 IND 🇮🇳 - 🇪🇸 ESP
 LOCATION:伊芙莊園體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T161500Z-wrestling-57-JPN-IND
+DTSTAMP:20240808T161500Z
+DTSTART:20240808T161500Z
+DTEND:20240808T162200Z
+DESCRIPTION:摔跤 - 男子自由式57公斤級半決賽
+SUMMARY:🤼 HIGUCHI Rei 🇯🇵 - 🇮🇳 Aman AMAN
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T182500Z-athletics-
@@ -2340,6 +2358,143 @@ DESCRIPTION:田徑 - 男子標槍決賽\n🇬🇩 Anderson PETERS\n🇲🇩 Andr
   SILVA\n🇮🇳 Neeraj CHOPRA\n🇫🇮 Oliver HELANDER\n🇫🇮 Toni KERANEN
 SUMMARY:🏃 男子標槍決賽
 LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T070000Z-golf-3
+DTSTAMP:20240809T070000Z
+DTSTART:20240809T070000Z
+DTEND:20240809T160000Z
+DESCRIPTION:高爾夫 - 女子第3回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇹🇼 CHIEN Pei-Yun\n🇮🇳 Diksha DAGAR\n🇵🇭
+  Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther
+  HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇦🇺 Hannah GREEN\n🇹🇼
+  HSU Wei-Ling\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇰🇷 KO Jin Young\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇨🇳 LIN
+  Xiyu Janet\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪
+  Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo
+  URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ
+  MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇯🇵
+  SASO Yuka\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第3回合
+LOCATION:國家高爾夫球場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T084000Z-athletics-4X4001
+DTSTAMP:20240809T084000Z
+DTSTART:20240809T084000Z
+DTEND:20240809T085600Z
+DESCRIPTION:田徑 - 女子4x400米接力第1輪\n🇺🇸 Aaliyah BUTLER\n🇨🇦 Aiyanna
+  STIVERNE\n🇵🇱 Aleksandra FORMELLA\n🇫🇷 Alexe DEAU\n🇩🇪 Alica
+  SCHMIDT\n🇮🇹 Alice MANGIONE\n🇵🇱 Alicja WRONA-KUTRZEPA\n🇳🇴 Amalie
+  IUEL\n🇫🇷 Amandine BROSSIER\n🇵🇱 Anastazja KUS\n🇯🇲 Andrenette
+  KNIGHT\n🇮🇹 Anna POLINARI\n🇨🇭 Annina FAHR\n🇯🇲 Ashley WILLIAMS\n🇳🇴
+  Astri ERTZGAARD\n🇪🇸 Berta SEGURA\n🇪🇸 Blanca HERVAS\n🇧🇪 Camille
+  LAUS\n🇪🇸 Carmen AVILES\n🇯🇲 Charokee YOUNG\n🇨🇺 Daily COOPER
+  GASPAR\n🇩🇪 Eileen DEMES\n🇳🇴 Elisabeth SLETTUM\n🇪🇸 Eva
+  SANTIDRIAN\n🇳🇱 Eveline SAALBERG\n🇮🇹 Giancarla TREVISAN\n🇨🇭 Giulia
+  SENN\n🇬🇧 Hannah KELLY\n🇧🇪 Hanne CLAES\n🇧🇪 Helena PONETTE\n🇮🇹
+  Ilaria Elvira ACCAME\n🇧🇪 Imke VERVAET\n🇬🇧 Jodie WILLIAMS\n🇳🇴
+  Josefine Tomine ERIKSEN\n🇨🇭 Julia NIEDERBERGER\n🇵🇱 Justyna
+  SWIETY-ERSETIC\n🇮🇳 Jyothika Sri DANDI\n🇺🇸 Kaylyn BROWN\n🇮🇪 Kelly
+  McGRORY\n🇨🇦 Kyra CONSTANTINE\n🇨🇦 Lauren GALE\n🇳🇱 Lieke KLAVER\n🇬🇧
+  Lina NIELSEN\n🇳🇱 Lisanne de WITTE\n🇨🇺 Melissa PADRON\n🇩🇪 Mona
+  MAYER\n🇳🇱 Myrte van der SCHOOT\n🇮🇪 Phil HEALY\n🇮🇳 Poovamma Raju
+  MACHETTIRA\n🇺🇸 Quanera HAYES\n🇨🇺 Roxana GOMEZ\n🇨🇺 Sahily DIAGO
+  MESA\n🇺🇸 Shamier LITTLE\n🇫🇷 Shana GREBO\n🇮🇪 Sharlene MAWDSLEY\n🇩🇪
+  Skadi SCHIER\n🇮🇪 Sophie BECKER\n🇫🇷 Sounkamba SYLLA\n🇯🇲 Stephenie
+  Ann McPHERSON\n🇮🇳 Subha VENKATESAN\n🇮🇳 Vithya RAMRAJ\n🇨🇭 Yasmin
+  GIGER\n🇬🇧 Yemi Mary JOHN\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 女子4x400米接力第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T090500Z-athletics-4X4001
+DTSTAMP:20240809T090500Z
+DTSTART:20240809T090500Z
+DTEND:20240809T092100Z
+DESCRIPTION:田徑 - 男子4x400米接力第1輪\n🇮🇹 Alessandro SIBILIO\n🇮🇳 Amoj
+  JACOB\n🇧🇼 Anthony PESELA\n🇿🇦 Antonie Matthys NORTJE\n🇧🇼 Bayapo
+  NDORI\n🇺🇸 Bryce DEADMON\n🇧🇼 Busang Collen KEBINATSHIPI\n🇿🇲 Chanda
+  MULENGA\n🇬🇧 Charles DOBSON\n🇳🇬 Chidi OKEZIE\n🇺🇸 Christopher
+  BAILEY\n🇵🇱 Daniel SOLTYSIAK\n🇪🇸 David GARCIA\n🇧🇷 Douglas HERNANDES
+  MENDES\n🇳🇬 Dubem AMENE\n🇧🇪 Dylan BORLEE\n🇮🇹 Edoardo SCOTTI\n🇩🇪
+  Emil AGYEKUM\n🇳🇬 Ezekiel NATHANIEL\n🇫🇷 Fabrisio SAIDY\n🇧🇪 Florent
+  MABILLE\n🇿🇦 Gardeo ISAACS\n🇫🇷 Gilles BIRON\n🇳🇬 Ifeanyi Emmanuel
+  OJELI\n🇪🇸 Inaki CANAL\n🇹🇹 Jaden MARCHAN\n🇩🇪 Jean Paul BREDAU\n🇹🇹
+  Jereem RICHARDS\n🇧🇪 Jonathan SACOOR\n🇪🇸 Julio ARENAS\n🇵🇱 Kajetan
+  DUSZYNSKI\n🇵🇱 Karol ZALEWSKI\n🇯🇵 KAWABATA Kaito\n🇿🇲 Kennedy
+  LUCHEMBE\n🇧🇪 Kevin BORLEE\n🇧🇼 Letsile TEBOGO\n🇮🇹 Luca SITO\n🇧🇷
+  Lucas CARVALHO\n🇧🇷 Lucas VILAR\n🇿🇦 Lythe PILLAY\n🇵🇱 Maksymilian
+  SZWED\n🇩🇪 Manuel SANDERS\n🇩🇪 Marc KOCH\n🇧🇷 Matheus LIMA\n🇬🇧
+  Matthew HUDSON-SMITH\n🇫🇷 Muhammad Abdallah KOUNTA\n🇮🇳 Muhammed Ajmal
+  VARIYATHODI\n🇮🇳 Muhammed Anas YAHIYA\n🇿🇲 Muzala SAMUKONGA\n🇯🇵
+  NAKAJIMA Yuki Joseph\n🇪🇸 Oscar HUSILLOS\n🇿🇲 Patrick Kakozi
+  NYAMBE\n🇺🇸 Quincy WILSON\n🇮🇳 Rajesh RAMESH\n🇹🇹 Renny QUOW\n🇬🇧
+  Samuel REARDON\n🇯🇵 SATO Fuga\n🇯🇵 SATO Kentaro\n🇹🇹 Shakeem Mc
+  KAY\n🇫🇷 Teo ANDANT\n🇬🇧 Toby HARRIES\n🇺🇸 Vernon NORWOOD\n🇮🇹
+  Vladimir ACETI\n🇿🇦 Zakithi NENE
+SUMMARY:🏃 男子4x400米接力第1輪
+LOCATION:法蘭西體育場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T171500Z-wrestling-57-PUR-IND
+DTSTAMP:20240809T171500Z
+DTSTART:20240809T171500Z
+DTEND:20240809T172500Z
+DESCRIPTION:摔跤 - 男子自由式57公斤級銅牌賽
+SUMMARY:🤼 Darian Toi CRUZ 🇵🇷 - 🇮🇳 Aman AMAN
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T070000Z-golf-4
+DTSTAMP:20240810T070000Z
+DTSTART:20240810T070000Z
+DTEND:20240810T160000Z
+DESCRIPTION:高爾夫 - 女子第4回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇹🇼 CHIEN Pei-Yun\n🇮🇳 Diksha DAGAR\n🇵🇭
+  Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther
+  HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇦🇺 Hannah GREEN\n🇹🇼
+  HSU Wei-Ling\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇰🇷 KO Jin Young\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇨🇳 LIN
+  Xiyu Janet\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪
+  Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo
+  URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ
+  MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇯🇵
+  SASO Yuka\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第4回合
+LOCATION:國家高爾夫球場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T092100Z-wrestling-7618-IND-HUN
+DTSTAMP:20240810T092100Z
+DTSTART:20240810T092100Z
+DTEND:20240810T092800Z
+DESCRIPTION:摔跤 - 女子自由式76公斤級1/8決賽
+SUMMARY:🤼 Reetika REETIKA 🇮🇳 - 🇭🇺 Bernadett NAGY
+LOCATION:戰神廣場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T101000Z-wrestling-7614-KGZ-IND
+DTSTAMP:20240810T101000Z
+DTSTART:20240810T101000Z
+DTEND:20240810T101700Z
+DESCRIPTION:摔跤 - 女子自由式76公斤級1/4決賽
+SUMMARY:🤼 Aiperi MEDET KYZY 🇰🇬 - 🇮🇳 Reetika REETIKA
+LOCATION:戰神廣場
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
